@@ -1,0 +1,369 @@
+{
+  "id": 1159325661,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2010-06-03",
+    "date:cessation_upper":"2010-06-03",
+    "date:inception_lower":"2010-06-03",
+    "date:inception_upper":"2010-06-03",
+    "edtf:cessation":"2010-06-03T07:11:02",
+    "edtf:inception":"2010-06-03T07:11:02",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.945549,35.21768,-80.945549,35.21768",
+    "geom:latitude":35.21768,
+    "geom:longitude":-80.945549,
+    "iso:country":"US",
+    "media:created":1275574262,
+    "media:fingerprint":"e5e7f7d67b534d19881a3fdaa34d10c85f15b478",
+    "media:medium":"image",
+    "media:mimetype":"image/jpeg",
+    "media:properties":{
+        "medium":"image",
+        "mimetype":"image/jpeg",
+        "photo_id":"4665849009",
+        "photo_info":{
+            "comments":{
+                "_content":"0"
+            },
+            "dates":{
+                "lastupdate":"1283730425",
+                "posted":"1275574339",
+                "taken":"2010-06-03 07:11:02",
+                "takengranularity":"0",
+                "takenunknown":0
+            },
+            "dateuploaded":"1275574339",
+            "description":{
+                "_content":"Walking to my plane to fly to Palm Springs via Chicago."
+            },
+            "editability":{
+                "canaddmeta":0,
+                "cancomment":0
+            },
+            "farm":5,
+            "geoperms":{
+                "iscontact":0,
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            },
+            "id":"4665849009",
+            "isfavorite":0,
+            "license":"3",
+            "location":{
+                "accuracy":"15",
+                "context":"0",
+                "country":{
+                    "_content":"United States",
+                    "place_id":"nz.gsghTUb4c2WAecA",
+                    "woeid":"23424977"
+                },
+                "county":{
+                    "_content":"Mecklenburg",
+                    "place_id":"zPe6QZxQUL90TOfCKQ",
+                    "woeid":"12589433"
+                },
+                "latitude":"35.217680",
+                "locality":{
+                    "_content":"Douglas International Airport",
+                    "place_id":"aqnHmXJQUL82Ay8qWg",
+                    "woeid":"12519519"
+                },
+                "longitude":"-80.945549",
+                "place_id":"aqnHmXJQUL82Ay8qWg",
+                "region":{
+                    "_content":"North Carolina",
+                    "place_id":"3Xw_xEBTUb5puUMm",
+                    "woeid":"2347592"
+                },
+                "woeid":"12519519"
+            },
+            "media":"photo",
+            "notes":{
+                "note":[
+                    {
+                        "_content":"kid with Mohawk",
+                        "author":"63618710@N00",
+                        "authorispro":1,
+                        "authorname":"Mr. Jincks",
+                        "authorrealname":"",
+                        "h":"50",
+                        "id":"72157624080292137",
+                        "w":"50",
+                        "x":"164",
+                        "y":"252"
+                    },
+                    {
+                        "_content":"kid with Mohawk",
+                        "author":"63618710@N00",
+                        "authorispro":1,
+                        "authorname":"Mr. Jincks",
+                        "authorrealname":"",
+                        "h":"39",
+                        "id":"72157624080293433",
+                        "w":"43",
+                        "x":"245",
+                        "y":"181"
+                    }
+                ]
+            },
+            "originalformat":"jpg",
+            "originalsecret":"95acd969a3",
+            "owner":{
+                "iconfarm":3,
+                "iconserver":"2856",
+                "location":"Winston-Salem, NC, USA",
+                "nsid":"63618710@N00",
+                "path_alias":"mrjincks",
+                "realname":"",
+                "username":"Mr. Jincks"
+            },
+            "people":{
+                "haspeople":0
+            },
+            "publiceditability":{
+                "canaddmeta":0,
+                "cancomment":1
+            },
+            "rotation":0,
+            "safety_level":"0",
+            "secret":"6d54f57388",
+            "server":"4023",
+            "tags":{
+                "tag":[
+                    {
+                        "_content":"cameraphone",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-17",
+                        "machine_tag":0,
+                        "raw":"cameraphone"
+                    },
+                    {
+                        "_content":"charlottenc",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-46898",
+                        "machine_tag":0,
+                        "raw":"Charlotte, NC"
+                    },
+                    {
+                        "_content":"americanairlines",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-35383",
+                        "machine_tag":0,
+                        "raw":"American Airlines"
+                    },
+                    {
+                        "_content":"jetplane",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-88049",
+                        "machine_tag":0,
+                        "raw":"jet plane"
+                    },
+                    {
+                        "_content":"airplane",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-1649",
+                        "machine_tag":0,
+                        "raw":"airplane"
+                    },
+                    {
+                        "_content":"regionaljet",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-501031",
+                        "machine_tag":0,
+                        "raw":"regional jet"
+                    },
+                    {
+                        "_content":"usarmy",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-122397",
+                        "machine_tag":0,
+                        "raw":"U.S. Army"
+                    },
+                    {
+                        "_content":"charlottedouglasinternationalairport",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-1949332",
+                        "machine_tag":0,
+                        "raw":"Charlotte Douglas International Airport"
+                    },
+                    {
+                        "_content":"kids",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-1179",
+                        "machine_tag":0,
+                        "raw":"kids"
+                    },
+                    {
+                        "_content":"children",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-1611",
+                        "machine_tag":0,
+                        "raw":"children"
+                    },
+                    {
+                        "_content":"mohawk",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-17824",
+                        "machine_tag":0,
+                        "raw":"mohawk"
+                    },
+                    {
+                        "_content":"americaneagle",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-28386",
+                        "machine_tag":0,
+                        "raw":"American Eagle"
+                    },
+                    {
+                        "_content":"aviation",
+                        "author":"63618710@N00",
+                        "authorname":"Mr. Jincks",
+                        "id":"5917392-4665849009-5867",
+                        "machine_tag":0,
+                        "raw":"aviation"
+                    }
+                ]
+            },
+            "title":{
+                "_content":"Phone Pics #106"
+            },
+            "urls":{
+                "url":[
+                    {
+                        "_content":"https://www.flickr.com/photos/mrjincks/4665849009/",
+                        "type":"photopage"
+                    }
+                ]
+            },
+            "usage":{
+                "canblog":0,
+                "candownload":1,
+                "canprint":0,
+                "canshare":1
+            },
+            "views":"525",
+            "visibility":{
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            }
+        },
+        "sizes":{
+            "b":{
+                "extension":"jpg",
+                "height":768,
+                "mimetype":"image/jpeg",
+                "secret":"VGrAXQTWUFai05LNLPLK3xUQ8SWjyUwbqTvXBrTeDDsOvzJXsD9S",
+                "width":1024
+            },
+            "c":{
+                "extension":"jpg",
+                "height":600,
+                "mimetype":"image/jpeg",
+                "secret":"VGrAXQTWUFai05LNLPLK3xUQ8SWjyUwbqTvXBrTeDDsOvzJXsD9S",
+                "width":800
+            },
+            "n":{
+                "extension":"jpg",
+                "height":240,
+                "mimetype":"image/jpeg",
+                "secret":"VGrAXQTWUFai05LNLPLK3xUQ8SWjyUwbqTvXBrTeDDsOvzJXsD9S",
+                "width":320
+            },
+            "o":{
+                "extension":"jpg",
+                "height":1200,
+                "mimetype":"image/jpeg",
+                "secret":"UdI906zWb6DtjJRAUGD3SVvUx4xOFkJRsL9xrrK2nJSdkUSiRNRN",
+                "width":1600
+            },
+            "sq":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"VGrAXQTWUFai05LNLPLK3xUQ8SWjyUwbqTvXBrTeDDsOvzJXsD9S",
+                "width":320
+            },
+            "z":{
+                "extension":"jpg",
+                "height":480,
+                "mimetype":"image/jpeg",
+                "secret":"VGrAXQTWUFai05LNLPLK3xUQ8SWjyUwbqTvXBrTeDDsOvzJXsD9S",
+                "width":640
+            }
+        }
+    },
+    "media:source":"flickr",
+    "media:status_id":1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"image",
+    "wof:belongsto":[
+        102528659,
+        85814609,
+        102191575,
+        85633793,
+        85981333,
+        102080981,
+        85688773,
+        85805887
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1527006261,
+    "wof:depicts":[
+        102528659
+    ],
+    "wof:geomhash":"3168b45336cbfc9b42a15cd7b7747b2a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528659,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "media_id":1159325661,
+            "neighbourhood_id":85814609,
+            "region_id":85688773
+        },
+        {
+            "campus_id":102528659,
+            "country_id":85633793,
+            "county_id":102080981,
+            "media_id":1159325661,
+            "neighbourhood_id":85805887,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":1159325661,
+    "wof:lastmodified":1545868666,
+    "wof:name":"Phone Pics #106",
+    "wof:parent_id":102528659,
+    "wof:placetype":"media",
+    "wof:repo":"sfomuseum-data-media-flickr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.945549,
+    35.21768,
+    -80.945549,
+    35.21768
+],
+  "geometry": {"coordinates":[-80.945549,35.21768],"type":"Point"}
+}

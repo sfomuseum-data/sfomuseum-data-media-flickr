@@ -1,0 +1,352 @@
+{
+  "id": 1159325907,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2008-05-11",
+    "date:cessation_upper":"2008-05-11",
+    "date:inception_lower":"2008-05-11",
+    "date:inception_upper":"2008-05-11",
+    "edtf:cessation":"2008-05-11T19:18:25",
+    "edtf:inception":"2008-05-11T19:18:25",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.95587,35.225314,-80.95587,35.225314",
+    "geom:latitude":35.225314,
+    "geom:longitude":-80.95587,
+    "iso:country":"US",
+    "media:created":1210558705,
+    "media:fingerprint":"e73aca2cbee08f08d2de7ea7994b6978c2c0661d",
+    "media:medium":"image",
+    "media:mimetype":"image/jpeg",
+    "media:properties":{
+        "medium":"image",
+        "mimetype":"image/jpeg",
+        "photo_id":"2493105584",
+        "photo_info":{
+            "comments":{
+                "_content":"0"
+            },
+            "dates":{
+                "lastupdate":"1363143156",
+                "posted":"1210792833",
+                "taken":"2008-05-11 19:18:25",
+                "takengranularity":"0",
+                "takenunknown":0
+            },
+            "dateuploaded":"1210792833",
+            "description":{
+                "_content":"American Connection Embraer EMB-135KL (ERJ-140LR) landing on 18R at CLT (Charlotte, NC)"
+            },
+            "editability":{
+                "canaddmeta":0,
+                "cancomment":0
+            },
+            "farm":4,
+            "geoperms":{
+                "iscontact":0,
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            },
+            "id":"2493105584",
+            "isfavorite":0,
+            "license":"5",
+            "location":{
+                "accuracy":"15",
+                "context":"0",
+                "country":{
+                    "_content":"United States",
+                    "place_id":"nz.gsghTUb4c2WAecA",
+                    "woeid":"23424977"
+                },
+                "county":{
+                    "_content":"Mecklenburg",
+                    "place_id":"zPe6QZxQUL90TOfCKQ",
+                    "woeid":"12589433"
+                },
+                "latitude":"35.225314",
+                "locality":{
+                    "_content":"Douglas International Airport",
+                    "place_id":"aqnHmXJQUL82Ay8qWg",
+                    "woeid":"12519519"
+                },
+                "longitude":"-80.955870",
+                "place_id":"aqnHmXJQUL82Ay8qWg",
+                "region":{
+                    "_content":"North Carolina",
+                    "place_id":"3Xw_xEBTUb5puUMm",
+                    "woeid":"2347592"
+                },
+                "woeid":"12519519"
+            },
+            "media":"photo",
+            "notes":{
+                "note":[]
+            },
+            "originalformat":"jpg",
+            "originalsecret":"3217878d4d",
+            "owner":{
+                "iconfarm":3,
+                "iconserver":"2858",
+                "location":"Raleigh, NC, USA",
+                "nsid":"81464596@N00",
+                "path_alias":"bz3rk",
+                "realname":"",
+                "username":"James Willamor"
+            },
+            "people":{
+                "haspeople":0
+            },
+            "publiceditability":{
+                "canaddmeta":0,
+                "cancomment":1
+            },
+            "rotation":0,
+            "safety_level":"0",
+            "secret":"1f20a46c0d",
+            "server":"3093",
+            "tags":{
+                "tag":[
+                    {
+                        "_content":"n377sk",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-23769749",
+                        "machine_tag":0,
+                        "raw":"N377SK"
+                    },
+                    {
+                        "_content":"americanairlines",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-35383",
+                        "machine_tag":0,
+                        "raw":"American Airlines"
+                    },
+                    {
+                        "_content":"embraer",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-154841",
+                        "machine_tag":0,
+                        "raw":"Embraer"
+                    },
+                    {
+                        "_content":"emb135kl",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-1663511",
+                        "machine_tag":0,
+                        "raw":"EMB-135KL"
+                    },
+                    {
+                        "_content":"erj140lr",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-7334816",
+                        "machine_tag":0,
+                        "raw":"ERJ-140LR"
+                    },
+                    {
+                        "_content":"airplane",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-1649",
+                        "machine_tag":0,
+                        "raw":"airplane"
+                    },
+                    {
+                        "_content":"aircraft",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-5854",
+                        "machine_tag":0,
+                        "raw":"aircraft"
+                    },
+                    {
+                        "_content":"planespotting",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-307257",
+                        "machine_tag":0,
+                        "raw":"plane spotting"
+                    },
+                    {
+                        "_content":"clt",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-830168",
+                        "machine_tag":0,
+                        "raw":"clt"
+                    },
+                    {
+                        "_content":"charlottedouglas",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-3090233",
+                        "machine_tag":0,
+                        "raw":"charlotte-douglas"
+                    },
+                    {
+                        "_content":"airport",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-2695",
+                        "machine_tag":0,
+                        "raw":"airport"
+                    },
+                    {
+                        "_content":"airline",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-15019",
+                        "machine_tag":0,
+                        "raw":"airline"
+                    },
+                    {
+                        "_content":"plane",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-1369",
+                        "machine_tag":0,
+                        "raw":"plane"
+                    },
+                    {
+                        "_content":"commercialjet",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-2493105584-773088",
+                        "machine_tag":0,
+                        "raw":"commercial jet"
+                    }
+                ]
+            },
+            "title":{
+                "_content":"CLT 5-11-08 N377SK"
+            },
+            "urls":{
+                "url":[
+                    {
+                        "_content":"https://www.flickr.com/photos/bz3rk/2493105584/",
+                        "type":"photopage"
+                    }
+                ]
+            },
+            "usage":{
+                "canblog":0,
+                "candownload":1,
+                "canprint":0,
+                "canshare":1
+            },
+            "views":"808",
+            "visibility":{
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            }
+        },
+        "sizes":{
+            "b":{
+                "extension":"jpg",
+                "height":762,
+                "mimetype":"image/jpeg",
+                "secret":"IbX1gAD4j6sdZQQq6JZMq5JOWpnLf934drIxllqlWYCQ6EyjcOZV",
+                "width":1024
+            },
+            "c":{
+                "extension":"jpg",
+                "height":596,
+                "mimetype":"image/jpeg",
+                "secret":"IbX1gAD4j6sdZQQq6JZMq5JOWpnLf934drIxllqlWYCQ6EyjcOZV",
+                "width":800
+            },
+            "n":{
+                "extension":"jpg",
+                "height":238,
+                "mimetype":"image/jpeg",
+                "secret":"IbX1gAD4j6sdZQQq6JZMq5JOWpnLf934drIxllqlWYCQ6EyjcOZV",
+                "width":320
+            },
+            "o":{
+                "extension":"jpg",
+                "height":596,
+                "mimetype":"image/jpeg",
+                "secret":"upAQkSVvbF9zMpF4mvMwpUOYBDEp3kuIQ0JmZo0ZjmCNukBlvxU0",
+                "width":800
+            },
+            "sq":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"IbX1gAD4j6sdZQQq6JZMq5JOWpnLf934drIxllqlWYCQ6EyjcOZV",
+                "width":320
+            },
+            "z":{
+                "extension":"jpg",
+                "height":476,
+                "mimetype":"image/jpeg",
+                "secret":"IbX1gAD4j6sdZQQq6JZMq5JOWpnLf934drIxllqlWYCQ6EyjcOZV",
+                "width":640
+            }
+        }
+    },
+    "media:source":"flickr",
+    "media:status_id":1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"image",
+    "wof:belongsto":[
+        102528659,
+        85814609,
+        102191575,
+        85633793,
+        85981333,
+        102080981,
+        85688773,
+        85805887
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1527006350,
+    "wof:depicts":[
+        102528659
+    ],
+    "wof:geomhash":"6f2c54df7d6208c53f2003c43f96f22f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528659,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "media_id":1159325907,
+            "neighbourhood_id":85814609,
+            "region_id":85688773
+        },
+        {
+            "campus_id":102528659,
+            "country_id":85633793,
+            "county_id":102080981,
+            "media_id":1159325907,
+            "neighbourhood_id":85805887,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":1159325907,
+    "wof:lastmodified":1545868696,
+    "wof:name":"CLT 5-11-08 N377SK",
+    "wof:parent_id":102528659,
+    "wof:placetype":"media",
+    "wof:repo":"sfomuseum-data-media-flickr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.95587,
+    35.225314,
+    -80.95587,
+    35.225314
+],
+  "geometry": {"coordinates":[-80.95587,35.225314],"type":"Point"}
+}

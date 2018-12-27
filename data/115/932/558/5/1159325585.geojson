@@ -1,0 +1,328 @@
+{
+  "id": 1159325585,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2014-12-20",
+    "date:cessation_upper":"2014-12-20",
+    "date:inception_lower":"2014-12-20",
+    "date:inception_upper":"2014-12-20",
+    "edtf:cessation":"2014-12-20T12:10:44",
+    "edtf:inception":"2014-12-20T12:10:44",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.948609,35.216397,-80.948609,35.216397",
+    "geom:latitude":35.216397,
+    "geom:longitude":-80.948609,
+    "iso:country":"US",
+    "media:created":1419106244,
+    "media:fingerprint":"e56706d971a87f9b37fdeaf0828fc52cb68246ee",
+    "media:medium":"image",
+    "media:mimetype":"image/jpeg",
+    "media:properties":{
+        "medium":"image",
+        "mimetype":"image/jpeg",
+        "photo_id":"16039740946",
+        "photo_info":{
+            "comments":{
+                "_content":"0"
+            },
+            "dates":{
+                "lastupdate":"1421170752",
+                "posted":"1419105346",
+                "taken":"2014-12-20 12:10:44",
+                "takengranularity":"0",
+                "takenunknown":"0"
+            },
+            "dateuploaded":"1419105346",
+            "description":{
+                "_content":"<a href=\"http://thoughtcatalog.com/stacey-becker/2015/01/10-reasons-not-to-hate-a-screaming-baby-or-their-parents-on-an-airplane/\" rel=\"nofollow\">thoughtcatalog.com/stacey-becker/2015/01/10-reasons-not-t...</a>"
+            },
+            "editability":{
+                "canaddmeta":0,
+                "cancomment":0
+            },
+            "farm":8,
+            "geoperms":{
+                "iscontact":0,
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            },
+            "id":"16039740946",
+            "isfavorite":0,
+            "license":"2",
+            "location":{
+                "accuracy":"16",
+                "context":"0",
+                "country":{
+                    "_content":"United States",
+                    "place_id":"nz.gsghTUb4c2WAecA",
+                    "woeid":"23424977"
+                },
+                "county":{
+                    "_content":"Mecklenburg",
+                    "place_id":"zPe6QZxQUL90TOfCKQ",
+                    "woeid":"12589433"
+                },
+                "latitude":"35.216397",
+                "locality":{
+                    "_content":"Douglas International Airport",
+                    "place_id":"aqnHmXJQUL82Ay8qWg",
+                    "woeid":"12519519"
+                },
+                "longitude":"-80.948609",
+                "place_id":"aqnHmXJQUL82Ay8qWg",
+                "region":{
+                    "_content":"North Carolina",
+                    "place_id":"3Xw_xEBTUb5puUMm",
+                    "woeid":"2347592"
+                },
+                "woeid":"12519519"
+            },
+            "media":"photo",
+            "notes":{
+                "note":[]
+            },
+            "originalformat":"jpg",
+            "originalsecret":"2014f6fa37",
+            "owner":{
+                "iconfarm":9,
+                "iconserver":"8402",
+                "location":"Kentucky, USA",
+                "nsid":"79907828@N00",
+                "path_alias":"coyotecreek",
+                "realname":"Kevin Schraer",
+                "username":"K e v i n"
+            },
+            "people":{
+                "haspeople":0
+            },
+            "publiceditability":{
+                "canaddmeta":0,
+                "cancomment":1
+            },
+            "rotation":0,
+            "safety_level":"0",
+            "secret":"56f4683cef",
+            "server":"7496",
+            "tags":{
+                "tag":[
+                    {
+                        "_content":"northcarolina",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-8419",
+                        "machine_tag":0,
+                        "raw":"North Carolina"
+                    },
+                    {
+                        "_content":"charlotte",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-4733",
+                        "machine_tag":0,
+                        "raw":"Charlotte"
+                    },
+                    {
+                        "_content":"airport",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-2695",
+                        "machine_tag":0,
+                        "raw":"airport"
+                    },
+                    {
+                        "_content":"airplanes",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-6603",
+                        "machine_tag":0,
+                        "raw":"airplanes"
+                    },
+                    {
+                        "_content":"planes",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-16333",
+                        "machine_tag":0,
+                        "raw":"planes"
+                    },
+                    {
+                        "_content":"windowseat",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-115511",
+                        "machine_tag":0,
+                        "raw":"window seat"
+                    },
+                    {
+                        "_content":"hipstamatic",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-49588106",
+                        "machine_tag":0,
+                        "raw":"Hipstamatic"
+                    },
+                    {
+                        "_content":"oggl",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-92012072",
+                        "machine_tag":0,
+                        "raw":"Oggl"
+                    },
+                    {
+                        "_content":"wonderlens",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-17774978",
+                        "machine_tag":0,
+                        "raw":"Wonder Lens"
+                    },
+                    {
+                        "_content":"troosevelt26film",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-221096048",
+                        "machine_tag":0,
+                        "raw":"T. Roosevelt 26 Film"
+                    },
+                    {
+                        "_content":"nc",
+                        "author":"79907828@N00",
+                        "authorname":"K e v i n",
+                        "id":"2571590-16039740946-2533",
+                        "machine_tag":0,
+                        "raw":"NC"
+                    }
+                ]
+            },
+            "title":{
+                "_content":""
+            },
+            "urls":{
+                "url":[
+                    {
+                        "_content":"https://www.flickr.com/photos/coyotecreek/16039740946/",
+                        "type":"photopage"
+                    }
+                ]
+            },
+            "usage":{
+                "canblog":0,
+                "candownload":1,
+                "canprint":0,
+                "canshare":1
+            },
+            "views":"877",
+            "visibility":{
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            }
+        },
+        "sizes":{
+            "b":{
+                "extension":"jpg",
+                "height":768,
+                "mimetype":"image/jpeg",
+                "secret":"o9lYEUfrQBZDpZ6lo4Ncg3KLxZVFtnLmVwniHlBDa1wH9sr0sM6c",
+                "width":768
+            },
+            "c":{
+                "extension":"jpg",
+                "height":600,
+                "mimetype":"image/jpeg",
+                "secret":"o9lYEUfrQBZDpZ6lo4Ncg3KLxZVFtnLmVwniHlBDa1wH9sr0sM6c",
+                "width":600
+            },
+            "n":{
+                "extension":"jpg",
+                "height":240,
+                "mimetype":"image/jpeg",
+                "secret":"o9lYEUfrQBZDpZ6lo4Ncg3KLxZVFtnLmVwniHlBDa1wH9sr0sM6c",
+                "width":240
+            },
+            "o":{
+                "extension":"jpg",
+                "height":640,
+                "mimetype":"image/jpeg",
+                "secret":"h0QDjMuKhMOLWOPPNYsIQX1n3yP0T2GMexnCd7ASitp6mUvwfAo9",
+                "width":640
+            },
+            "sq":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"o9lYEUfrQBZDpZ6lo4Ncg3KLxZVFtnLmVwniHlBDa1wH9sr0sM6c",
+                "width":320
+            },
+            "z":{
+                "extension":"jpg",
+                "height":480,
+                "mimetype":"image/jpeg",
+                "secret":"o9lYEUfrQBZDpZ6lo4Ncg3KLxZVFtnLmVwniHlBDa1wH9sr0sM6c",
+                "width":480
+            }
+        }
+    },
+    "media:source":"flickr",
+    "media:status_id":1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"image",
+    "wof:belongsto":[
+        102528659,
+        85814609,
+        102191575,
+        85633793,
+        85981333,
+        102080981,
+        85688773,
+        85805887
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1527006232,
+    "wof:depicts":[
+        102528659
+    ],
+    "wof:geomhash":"0b04d7e18fe595580366aef784b8d985",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528659,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "media_id":1159325585,
+            "neighbourhood_id":85814609,
+            "region_id":85688773
+        },
+        {
+            "campus_id":102528659,
+            "country_id":85633793,
+            "county_id":102080981,
+            "media_id":1159325585,
+            "neighbourhood_id":85805887,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":1159325585,
+    "wof:lastmodified":1545868658,
+    "wof:name":"",
+    "wof:parent_id":102528659,
+    "wof:placetype":"media",
+    "wof:repo":"sfomuseum-data-media-flickr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.948609,
+    35.216397,
+    -80.948609,
+    35.216397
+],
+  "geometry": {"coordinates":[-80.948609,35.216397],"type":"Point"}
+}

@@ -1,0 +1,507 @@
+{
+  "id": 1159331743,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2016-04-04",
+    "date:cessation_upper":"2016-04-04",
+    "date:inception_lower":"2016-04-04",
+    "date:inception_upper":"2016-04-04",
+    "edtf:cessation":"2016-04-04T03:51:36",
+    "edtf:inception":"2016-04-04T03:51:36",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-118.397598,33.944236,-118.397598,33.944236",
+    "geom:latitude":33.944236,
+    "geom:longitude":-118.397598,
+    "iso:country":"US",
+    "media:created":1459767096,
+    "media:fingerprint":"42dd22d7e388fff4fa25f1649ad9862d9bbf66b9",
+    "media:medium":"image",
+    "media:mimetype":"image/jpeg",
+    "media:properties":{
+        "medium":"image",
+        "mimetype":"image/jpeg",
+        "photo_id":"26128447652",
+        "photo_info":{
+            "comments":{
+                "_content":"0"
+            },
+            "dates":{
+                "lastupdate":"1460893484",
+                "posted":"1459727496",
+                "taken":"2016-04-04 03:51:36",
+                "takengranularity":0,
+                "takenunknown":"1"
+            },
+            "dateuploaded":"1459727496",
+            "description":{
+                "_content":"April 2016"
+            },
+            "editability":{
+                "canaddmeta":0,
+                "cancomment":0
+            },
+            "farm":2,
+            "geoperms":{
+                "iscontact":0,
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            },
+            "id":"26128447652",
+            "isfavorite":0,
+            "license":"4",
+            "location":{
+                "accuracy":"16",
+                "context":"0",
+                "country":{
+                    "_content":"United States",
+                    "place_id":"nz.gsghTUb4c2WAecA",
+                    "woeid":"23424977"
+                },
+                "county":{
+                    "_content":"Los Angeles",
+                    "place_id":".D8LiGdQUL_LN4aBcw",
+                    "woeid":"12587688"
+                },
+                "latitude":"33.944236",
+                "locality":{
+                    "_content":"Los Angeles International Airport",
+                    "place_id":"zLKyBQNYU7zG6elzAA",
+                    "woeid":"91670859"
+                },
+                "longitude":"-118.397598",
+                "place_id":"zLKyBQNYU7zG6elzAA",
+                "region":{
+                    "_content":"California",
+                    "place_id":"NsbUWfBTUb4mbyVu",
+                    "woeid":"2347563"
+                },
+                "woeid":"91670859"
+            },
+            "media":"photo",
+            "notes":{
+                "note":[]
+            },
+            "originalformat":"jpg",
+            "originalsecret":"d0974224c4",
+            "owner":{
+                "iconfarm":9,
+                "iconserver":"8213",
+                "location":"Abu Dhabi, United Arab Emirates",
+                "nsid":"69031678@N00",
+                "path_alias":"togawanderings",
+                "realname":"Thomas Galvez",
+                "username":"ToGa Wanderings"
+            },
+            "people":{
+                "haspeople":0
+            },
+            "publiceditability":{
+                "canaddmeta":0,
+                "cancomment":1
+            },
+            "rotation":0,
+            "safety_level":"0",
+            "secret":"ec4f0d2ee7",
+            "server":"1637",
+            "tags":{
+                "tag":[
+                    {
+                        "_content":"powerful",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-41603",
+                        "machine_tag":0,
+                        "raw":"powerful"
+                    },
+                    {
+                        "_content":"engines",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-14873",
+                        "machine_tag":0,
+                        "raw":"engines"
+                    },
+                    {
+                        "_content":"wings",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-2759",
+                        "machine_tag":0,
+                        "raw":"wings"
+                    },
+                    {
+                        "_content":"losangeles",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-2424",
+                        "machine_tag":0,
+                        "raw":"Los Angeles"
+                    },
+                    {
+                        "_content":"lax",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-25249",
+                        "machine_tag":0,
+                        "raw":"LAX"
+                    },
+                    {
+                        "_content":"flight",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-7097",
+                        "machine_tag":0,
+                        "raw":"flight"
+                    },
+                    {
+                        "_content":"flying",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-2317",
+                        "machine_tag":0,
+                        "raw":"flying"
+                    },
+                    {
+                        "_content":"machine",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-7761",
+                        "machine_tag":0,
+                        "raw":"machine"
+                    },
+                    {
+                        "_content":"bottom",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-6627",
+                        "machine_tag":0,
+                        "raw":"bottom"
+                    },
+                    {
+                        "_content":"white",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-395",
+                        "machine_tag":0,
+                        "raw":"white"
+                    },
+                    {
+                        "_content":"lookingup",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-11036",
+                        "machine_tag":0,
+                        "raw":"looking up"
+                    },
+                    {
+                        "_content":"sky",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-282",
+                        "machine_tag":0,
+                        "raw":"Sky"
+                    },
+                    {
+                        "_content":"blue",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-141",
+                        "machine_tag":0,
+                        "raw":"blue"
+                    },
+                    {
+                        "_content":"california",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-50",
+                        "machine_tag":0,
+                        "raw":"California"
+                    },
+                    {
+                        "_content":"tourism",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-678",
+                        "machine_tag":0,
+                        "raw":"tourism"
+                    },
+                    {
+                        "_content":"aviation",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-5867",
+                        "machine_tag":0,
+                        "raw":"aviation"
+                    },
+                    {
+                        "_content":"landing",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-11499",
+                        "machine_tag":0,
+                        "raw":"landing"
+                    },
+                    {
+                        "_content":"above",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-64",
+                        "machine_tag":0,
+                        "raw":"above"
+                    },
+                    {
+                        "_content":"approach",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-31631",
+                        "machine_tag":0,
+                        "raw":"approach"
+                    },
+                    {
+                        "_content":"airfrance",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-91707",
+                        "machine_tag":0,
+                        "raw":"Air France"
+                    },
+                    {
+                        "_content":"massive",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-14593",
+                        "machine_tag":0,
+                        "raw":"massive"
+                    },
+                    {
+                        "_content":"large",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-7549",
+                        "machine_tag":0,
+                        "raw":"large"
+                    },
+                    {
+                        "_content":"a380",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-16435",
+                        "machine_tag":0,
+                        "raw":"A380"
+                    },
+                    {
+                        "_content":"jet",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-7212",
+                        "machine_tag":0,
+                        "raw":"jet"
+                    },
+                    {
+                        "_content":"underbelly",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-71284",
+                        "machine_tag":0,
+                        "raw":"underbelly"
+                    },
+                    {
+                        "_content":"gear",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-8447",
+                        "machine_tag":0,
+                        "raw":"gear"
+                    },
+                    {
+                        "_content":"airplane",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-1649",
+                        "machine_tag":0,
+                        "raw":"airplane"
+                    },
+                    {
+                        "_content":"instagramapp",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-60504812",
+                        "machine_tag":0,
+                        "raw":"instagram app"
+                    },
+                    {
+                        "_content":"square",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-1628",
+                        "machine_tag":0,
+                        "raw":"square"
+                    },
+                    {
+                        "_content":"squareformat",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-14976",
+                        "machine_tag":0,
+                        "raw":"square format"
+                    },
+                    {
+                        "_content":"iphoneography",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-34115330",
+                        "machine_tag":0,
+                        "raw":"iphoneography"
+                    },
+                    {
+                        "_content":"aircraft",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-5854",
+                        "machine_tag":0,
+                        "raw":"aircraft"
+                    },
+                    {
+                        "_content":"vehicle",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-18611",
+                        "machine_tag":0,
+                        "raw":"vehicle"
+                    },
+                    {
+                        "_content":"outdoor",
+                        "author":"69031678@N00",
+                        "authorname":"ToGa Wanderings",
+                        "id":"1046602-26128447652-4890",
+                        "machine_tag":0,
+                        "raw":"outdoor"
+                    }
+                ]
+            },
+            "title":{
+                "_content":"Watching an Air France A380 land at LAX."
+            },
+            "urls":{
+                "url":[
+                    {
+                        "_content":"https://www.flickr.com/photos/togawanderings/26128447652/",
+                        "type":"photopage"
+                    }
+                ]
+            },
+            "usage":{
+                "canblog":0,
+                "candownload":1,
+                "canprint":0,
+                "canshare":1
+            },
+            "views":"511",
+            "visibility":{
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            }
+        },
+        "sizes":{
+            "b":{
+                "extension":"jpg",
+                "height":768,
+                "mimetype":"image/jpeg",
+                "secret":"jOkctHwZgTbREMOenhiJSlZ4VvtNw8Pv1sZaJFJtJdK2Mn8NmvgX",
+                "width":768
+            },
+            "c":{
+                "extension":"jpg",
+                "height":600,
+                "mimetype":"image/jpeg",
+                "secret":"jOkctHwZgTbREMOenhiJSlZ4VvtNw8Pv1sZaJFJtJdK2Mn8NmvgX",
+                "width":600
+            },
+            "n":{
+                "extension":"jpg",
+                "height":240,
+                "mimetype":"image/jpeg",
+                "secret":"jOkctHwZgTbREMOenhiJSlZ4VvtNw8Pv1sZaJFJtJdK2Mn8NmvgX",
+                "width":240
+            },
+            "o":{
+                "extension":"jpg",
+                "height":1080,
+                "mimetype":"image/jpeg",
+                "secret":"ti7OeeffNe96ITScutGxSPuVRaIvrWceC1fvh5VdZ7j4eoTpe8n4",
+                "width":1080
+            },
+            "sq":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"jOkctHwZgTbREMOenhiJSlZ4VvtNw8Pv1sZaJFJtJdK2Mn8NmvgX",
+                "width":320
+            },
+            "z":{
+                "extension":"jpg",
+                "height":480,
+                "mimetype":"image/jpeg",
+                "secret":"jOkctHwZgTbREMOenhiJSlZ4VvtNw8Pv1sZaJFJtJdK2Mn8NmvgX",
+                "width":480
+            }
+        }
+    },
+    "media:source":"flickr",
+    "media:status_id":1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"image",
+    "wof:belongsto":[
+        102533795,
+        85856747,
+        102191575,
+        1108692797,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1527018496,
+    "wof:depicts":[
+        102533795,
+        1159289437,
+        1159293829
+    ],
+    "wof:geomhash":"95217cc9961e772c18fc7ba2d2eb6eb8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102533795,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "media_id":1159331743,
+            "neighbourhood_id":85856747,
+            "region_id":85688637
+        }
+    ],
+    "wof:id":1159331743,
+    "wof:lastmodified":1545868726,
+    "wof:name":"Watching an Air France A380 land at LAX.",
+    "wof:parent_id":102533795,
+    "wof:placetype":"media",
+    "wof:repo":"sfomuseum-data-media-flickr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -118.397598,
+    33.944236,
+    -118.397598,
+    33.944236
+],
+  "geometry": {"coordinates":[-118.397598,33.944236],"type":"Point"}
+}

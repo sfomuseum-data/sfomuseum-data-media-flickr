@@ -1,0 +1,432 @@
+{
+  "id": 1159327217,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower":"2006-12-13",
+    "date:cessation_upper":"2006-12-13",
+    "date:inception_lower":"2006-12-13",
+    "date:inception_upper":"2006-12-13",
+    "edtf:cessation":"2006-12-13T16:21:25",
+    "edtf:inception":"2006-12-13T16:21:25",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-80.955719,35.231545,-80.955719,35.231545",
+    "geom:latitude":35.231545,
+    "geom:longitude":-80.955719,
+    "iso:country":"US",
+    "media:created":1166055685,
+    "media:fingerprint":"55a8a67132f86ba90a60bac5fef52789900a8b80",
+    "media:medium":"image",
+    "media:mimetype":"image/jpeg",
+    "media:properties":{
+        "medium":"image",
+        "mimetype":"image/jpeg",
+        "photo_id":"3113499658",
+        "photo_info":{
+            "comments":{
+                "_content":"0"
+            },
+            "dates":{
+                "lastupdate":"1385343409",
+                "posted":"1229437708",
+                "taken":"2006-12-13 16:21:25",
+                "takengranularity":"0",
+                "takenunknown":0
+            },
+            "dateuploaded":"1229437708",
+            "description":{
+                "_content":"Navy Raytheon T-6A Texan II landing on 18R at Charlotte-Douglas International (CLT)"
+            },
+            "editability":{
+                "canaddmeta":0,
+                "cancomment":0
+            },
+            "farm":4,
+            "geoperms":{
+                "iscontact":0,
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            },
+            "id":"3113499658",
+            "isfavorite":0,
+            "license":"5",
+            "location":{
+                "accuracy":"15",
+                "context":"0",
+                "country":{
+                    "_content":"United States",
+                    "place_id":"nz.gsghTUb4c2WAecA",
+                    "woeid":"23424977"
+                },
+                "county":{
+                    "_content":"Mecklenburg",
+                    "place_id":"zPe6QZxQUL90TOfCKQ",
+                    "woeid":"12589433"
+                },
+                "latitude":"35.231545",
+                "locality":{
+                    "_content":"Douglas International Airport",
+                    "place_id":"aqnHmXJQUL82Ay8qWg",
+                    "woeid":"12519519"
+                },
+                "longitude":"-80.955719",
+                "place_id":"aqnHmXJQUL82Ay8qWg",
+                "region":{
+                    "_content":"North Carolina",
+                    "place_id":"3Xw_xEBTUb5puUMm",
+                    "woeid":"2347592"
+                },
+                "woeid":"12519519"
+            },
+            "media":"photo",
+            "notes":{
+                "note":[]
+            },
+            "originalformat":"jpg",
+            "originalsecret":"34756c6af5",
+            "owner":{
+                "iconfarm":3,
+                "iconserver":"2858",
+                "location":"Raleigh, NC, USA",
+                "nsid":"81464596@N00",
+                "path_alias":"bz3rk",
+                "realname":"",
+                "username":"James Willamor"
+            },
+            "people":{
+                "haspeople":0
+            },
+            "publiceditability":{
+                "canaddmeta":0,
+                "cancomment":1
+            },
+            "rotation":0,
+            "safety_level":"0",
+            "secret":"2ba500838b",
+            "server":"3018",
+            "tags":{
+                "tag":[
+                    {
+                        "_content":"charlotte",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-4733",
+                        "machine_tag":0,
+                        "raw":"Charlotte"
+                    },
+                    {
+                        "_content":"douglas",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-31653",
+                        "machine_tag":0,
+                        "raw":"Douglas"
+                    },
+                    {
+                        "_content":"clt",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-830168",
+                        "machine_tag":0,
+                        "raw":"CLT"
+                    },
+                    {
+                        "_content":"kclt",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-5827088",
+                        "machine_tag":0,
+                        "raw":"KCLT"
+                    },
+                    {
+                        "_content":"airport",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-2695",
+                        "machine_tag":0,
+                        "raw":"airport"
+                    },
+                    {
+                        "_content":"aircraft",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-5854",
+                        "machine_tag":0,
+                        "raw":"aircraft"
+                    },
+                    {
+                        "_content":"airplane",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-1649",
+                        "machine_tag":0,
+                        "raw":"airplane"
+                    },
+                    {
+                        "_content":"airliner",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-73548",
+                        "machine_tag":0,
+                        "raw":"airliner"
+                    },
+                    {
+                        "_content":"plane",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-1369",
+                        "machine_tag":0,
+                        "raw":"plane"
+                    },
+                    {
+                        "_content":"spotting",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-66038",
+                        "machine_tag":0,
+                        "raw":"spotting"
+                    },
+                    {
+                        "_content":"runway",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-44219",
+                        "machine_tag":0,
+                        "raw":"runway"
+                    },
+                    {
+                        "_content":"landing",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-11499",
+                        "machine_tag":0,
+                        "raw":"landing"
+                    },
+                    {
+                        "_content":"flying",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-2317",
+                        "machine_tag":0,
+                        "raw":"flying"
+                    },
+                    {
+                        "_content":"aviation",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-5867",
+                        "machine_tag":0,
+                        "raw":"aviation"
+                    },
+                    {
+                        "_content":"navy",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-7137",
+                        "machine_tag":0,
+                        "raw":"navy"
+                    },
+                    {
+                        "_content":"trainer",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-60962",
+                        "machine_tag":0,
+                        "raw":"trainer"
+                    },
+                    {
+                        "_content":"raytheon",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-34232",
+                        "machine_tag":0,
+                        "raw":"Raytheon"
+                    },
+                    {
+                        "_content":"t6a",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-376123",
+                        "machine_tag":0,
+                        "raw":"T-6A"
+                    },
+                    {
+                        "_content":"texan",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-83831",
+                        "machine_tag":0,
+                        "raw":"Texan"
+                    },
+                    {
+                        "_content":"ii",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-13730",
+                        "machine_tag":0,
+                        "raw":"II"
+                    },
+                    {
+                        "_content":"165972",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-33044115",
+                        "machine_tag":0,
+                        "raw":"165972"
+                    },
+                    {
+                        "_content":"prop",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-62691",
+                        "machine_tag":0,
+                        "raw":"prop"
+                    },
+                    {
+                        "_content":"taw6",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-33044139",
+                        "machine_tag":0,
+                        "raw":"taw-6"
+                    },
+                    {
+                        "_content":"propeller",
+                        "author":"81464596@N00",
+                        "authorname":"James Willamor",
+                        "id":"1890337-3113499658-39744",
+                        "machine_tag":0,
+                        "raw":"propeller"
+                    }
+                ]
+            },
+            "title":{
+                "_content":"CLT 12-13-08 Navy T-6A Texan II (165972)"
+            },
+            "urls":{
+                "url":[
+                    {
+                        "_content":"https://www.flickr.com/photos/bz3rk/3113499658/",
+                        "type":"photopage"
+                    }
+                ]
+            },
+            "usage":{
+                "canblog":0,
+                "candownload":1,
+                "canprint":0,
+                "canshare":1
+            },
+            "views":"947",
+            "visibility":{
+                "isfamily":0,
+                "isfriend":0,
+                "ispublic":1
+            }
+        },
+        "sizes":{
+            "b":{
+                "extension":"jpg",
+                "height":768,
+                "mimetype":"image/jpeg",
+                "secret":"EXkzwDPNE3io4s1hBDWstFKEnjfJdewTo2br6c30GpCyvMA2elVk",
+                "width":1009
+            },
+            "c":{
+                "extension":"jpg",
+                "height":600,
+                "mimetype":"image/jpeg",
+                "secret":"EXkzwDPNE3io4s1hBDWstFKEnjfJdewTo2br6c30GpCyvMA2elVk",
+                "width":788
+            },
+            "n":{
+                "extension":"jpg",
+                "height":240,
+                "mimetype":"image/jpeg",
+                "secret":"EXkzwDPNE3io4s1hBDWstFKEnjfJdewTo2br6c30GpCyvMA2elVk",
+                "width":315
+            },
+            "o":{
+                "extension":"jpg",
+                "height":779,
+                "mimetype":"image/jpeg",
+                "secret":"lUr4m7pa0H5bxoHXNLndW96uNMXOOz64t3wpmtN8i0aQSl6nZ0j5",
+                "width":1024
+            },
+            "sq":{
+                "extension":"jpg",
+                "height":320,
+                "mimetype":"image/jpeg",
+                "secret":"EXkzwDPNE3io4s1hBDWstFKEnjfJdewTo2br6c30GpCyvMA2elVk",
+                "width":320
+            },
+            "z":{
+                "extension":"jpg",
+                "height":480,
+                "mimetype":"image/jpeg",
+                "secret":"EXkzwDPNE3io4s1hBDWstFKEnjfJdewTo2br6c30GpCyvMA2elVk",
+                "width":630
+            }
+        }
+    },
+    "media:source":"flickr",
+    "media:status_id":1,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "sfomuseum:placetype":"image",
+    "wof:belongsto":[
+        102528659,
+        85814609,
+        102191575,
+        85633793,
+        85981333,
+        102080981,
+        85688773,
+        85805887
+    ],
+    "wof:breaches":[],
+    "wof:country":"US",
+    "wof:created":1527006830,
+    "wof:depicts":[
+        102528659
+    ],
+    "wof:geomhash":"a5bddc52b0b3920a26ffa9b6e69e502b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102528659,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080981,
+            "locality_id":85981333,
+            "media_id":1159327217,
+            "neighbourhood_id":85814609,
+            "region_id":85688773
+        },
+        {
+            "campus_id":102528659,
+            "country_id":85633793,
+            "county_id":102080981,
+            "media_id":1159327217,
+            "neighbourhood_id":85805887,
+            "region_id":85688773
+        }
+    ],
+    "wof:id":1159327217,
+    "wof:lastmodified":1545868674,
+    "wof:name":"CLT 12-13-08 Navy T-6A Texan II (165972)",
+    "wof:parent_id":102528659,
+    "wof:placetype":"media",
+    "wof:repo":"sfomuseum-data-media-flickr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -80.955719,
+    35.231545,
+    -80.955719,
+    35.231545
+],
+  "geometry": {"coordinates":[-80.955719,35.231545],"type":"Point"}
+}
