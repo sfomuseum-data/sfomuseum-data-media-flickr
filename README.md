@@ -4,7 +4,7 @@ A selection of Creative Commons licensed photos taken by Flickr users related to
 
 ## Background
 
-Details to follow but for background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/) blog post.
+Details to follow but for background we recommend reading the [Who's On First at SFO Museum](https://millsfield.sfomuseum.org/blog/2018/08/28/whosonfirst/) and [Surface Areas – Photos and Depictions on the Mills Field Website](https://millsfield.sfomuseum.org/blog/2019/01/02/surface/) blog posts.
 
 ## License
 
@@ -13,4 +13,5 @@ This data is published under the [Community Data License Agreement – Permissiv
 ## See also
 
 * https://millsfield.sfomuseum.org/
+* https://millsfield.sfomuseum.org/images/flickr/
 * http://flickr.com/creativecommons
