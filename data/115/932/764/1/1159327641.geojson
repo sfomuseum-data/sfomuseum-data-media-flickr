@@ -2,240 +2,243 @@
   "id": 1159327641,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2010-07-17",
-    "date:cessation_upper":"2010-07-17",
-    "date:inception_lower":"2010-07-17",
-    "date:inception_upper":"2010-07-17",
-    "edtf:cessation":"2010-07-17T11:59:07",
-    "edtf:inception":"2010-07-17T11:59:07",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.215054,39.906016,-84.215054,39.906016",
-    "geom:latitude":39.906016,
-    "geom:longitude":-84.215054,
-    "iso:country":"US",
-    "media:created":1279393147,
-    "media:fingerprint":"892a336bbcffcbb97fcd85411cfcedcb09bdf41c",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"4808299490",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1313873150",
-                "posted":"1279532328",
-                "taken":"2010-07-17 11:59:07",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1279532328",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"4808299490",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Montgomery",
-                    "place_id":"6bZemIVQUL8LSYoWJg",
-                    "woeid":"12589583"
-                },
-                "latitude":"39.906016",
-                "locality":{
-                    "_content":"James M Cox Dayton International Airport",
-                    "place_id":"BSnRH65QUL8Ww2N8Jw",
-                    "woeid":"12520347"
-                },
-                "longitude":"-84.215054",
-                "place_id":"BSnRH65QUL8Ww2N8Jw",
-                "region":{
-                    "_content":"Ohio",
-                    "place_id":"UUU.pnpTUb7KHEfH",
-                    "woeid":"2347594"
-                },
-                "woeid":"12520347"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"ee918affb1",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5447",
-                "location":"Lima,OH, USA",
-                "nsid":"28004076@N04",
-                "path_alias":null,
-                "realname":"Brian Timmermeister",
-                "username":"cadillacjr2002"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"8ec87156b3",
-            "server":"4094",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"daytonairshow",
-                        "author":"28004076@N04",
-                        "authorname":"cadillacjr2002",
-                        "id":"27971937-4808299490-2800730",
-                        "machine_tag":0,
-                        "raw":"Dayton Air Show"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"P1110749"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/28004076@N04/4808299490/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"43",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2010-07-17",
+    "date:cessation_upper": "2010-07-17",
+    "date:inception_lower": "2010-07-17",
+    "date:inception_upper": "2010-07-17",
+    "edtf:cessation": "2010-07-17T11:59:07",
+    "edtf:inception": "2010-07-17T11:59:07",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.215054,39.906016,-84.215054,39.906016",
+    "geom:latitude": 39.906016,
+    "geom:longitude": -84.215054,
+    "iso:country": "US",
+    "media:created": 1279393147,
+    "media:fingerprint": "892a336bbcffcbb97fcd85411cfcedcb09bdf41c",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "4808299490",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2592,
-                "mimetype":"image/jpeg",
-                "secret":"sxK1dvrbjR8fXbsofYhj2s8DbMtu4IUZuJbrQFOoNEux8APkZChb",
-                "width":3456
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
-                "width":640
+        "dates": {
+          "lastupdate": "1313873150",
+          "posted": "1279532328",
+          "taken": "2010-07-17 11:59:07",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1279532328",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "4808299490",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Montgomery",
+            "place_id": "6bZemIVQUL8LSYoWJg",
+            "woeid": "12589583"
+          },
+          "latitude": "39.906016",
+          "locality": {
+            "_content": "James M Cox Dayton International Airport",
+            "place_id": "BSnRH65QUL8Ww2N8Jw",
+            "woeid": "12520347"
+          },
+          "longitude": "-84.215054",
+          "place_id": "BSnRH65QUL8Ww2N8Jw",
+          "region": {
+            "_content": "Ohio",
+            "place_id": "UUU.pnpTUb7KHEfH",
+            "woeid": "2347594"
+          },
+          "woeid": "12520347"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "ee918affb1",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5447",
+          "location": "Lima,OH, USA",
+          "nsid": "28004076@N04",
+          "path_alias": null,
+          "realname": "Brian Timmermeister",
+          "username": "cadillacjr2002"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "8ec87156b3",
+        "server": "4094",
+        "tags": {
+          "tag": [
+            {
+              "_content": "daytonairshow",
+              "author": "28004076@N04",
+              "authorname": "cadillacjr2002",
+              "id": "27971937-4808299490-2800730",
+              "machine_tag": 0,
+              "raw": "Dayton Air Show"
             }
+          ]
+        },
+        "title": {
+          "_content": "P1110749"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/28004076@N04/4808299490/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "43",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2592,
+          "mimetype": "image/jpeg",
+          "secret": "sxK1dvrbjR8fXbsofYhj2s8DbMtu4IUZuJbrQFOoNEux8APkZChb",
+          "width": 3456
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "wQSFgxg7lzGZTxZWm5NcnKNT25opdAkmUHgKfalUsn02rm4kCOTR",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534301,
-        85833935,
-        102191575,
-        404526925,
-        85633793,
-        101712189,
-        102083667,
-        85688485
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534301,
+      85833935,
+      102191575,
+      404526925,
+      85633793,
+      101712189,
+      102083667,
+      85688485
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007060,
-    "wof:depicts":[
-        102534301
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007060,
+    "wof:depicts": [
+      102534301
     ],
-    "wof:geomhash":"2f416a5653f338c448842cd51e7aa2d5",
-    "wof:hierarchy":[
-        {
-            "campus_id":102534301,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083667,
-            "localadmin_id":404526925,
-            "locality_id":101712189,
-            "media_id":1159327641,
-            "neighbourhood_id":85833935,
-            "region_id":85688485
-        }
+    "wof:geomhash": "2f416a5653f338c448842cd51e7aa2d5",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102534301,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083667,
+        "image_id": 1159327641,
+        "localadmin_id": 404526925,
+        "locality_id": 101712189,
+        "media_id": 1159327641,
+        "neighbourhood_id": 85833935,
+        "region_id": 85688485
+      }
     ],
-    "wof:id":1159327641,
-    "wof:lastmodified":1545868697,
-    "wof:name":"P1110749",
-    "wof:parent_id":102534301,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327641,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "P1110749",
+    "wof:parent_id": 102534301,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.215054,
     39.906016,
     -84.215054,
     39.906016
-],
-  "geometry": {"coordinates":[-84.21505399999999,39.906016],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.215054,39.906016],"type":"Point"}
 }

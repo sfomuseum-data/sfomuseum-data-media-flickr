@@ -2,300 +2,303 @@
   "id": 1159332845,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-14",
-    "date:cessation_upper":"2015-04-14",
-    "date:inception_lower":"2015-04-14",
-    "date:inception_upper":"2015-04-14",
-    "edtf:cessation":"2015-04-14T13:01:28",
-    "edtf:inception":"2015-04-14T13:01:28",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.396738,33.953572,-118.396738,33.953572",
-    "geom:latitude":33.953572,
-    "geom:longitude":-118.396738,
-    "iso:country":"US",
-    "media:created":1429041688,
-    "media:fingerprint":"779e6b18ea8ed724f26ab4737b4c53e7601b8297",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"17615644554",
-        "photo_info":{
-            "comments":{
-                "_content":"4"
-            },
-            "dates":{
-                "lastupdate":"1491263331",
-                "posted":"1432920868",
-                "taken":"2015-04-14 13:01:28",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1432920868",
-            "description":{
-                "_content":"MSN 69\nA380-841\nLUFTHANSA\nLAX AIRPORT"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"17615644554",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.953572",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.396738",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"d9225fdaf8",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8279",
-                "location":"PARIS, FRANCE",
-                "nsid":"16103393@N05",
-                "path_alias":"airlines470",
-                "realname":"ERIC  SALARD",
-                "username":"airlines470"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"641d6b469b",
-            "server":"7747",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"daimg",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-17615644554-1391316",
-                        "machine_tag":0,
-                        "raw":"D-AIMG"
-                    },
-                    {
-                        "_content":"a380",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-17615644554-16435",
-                        "machine_tag":0,
-                        "raw":"A380"
-                    },
-                    {
-                        "_content":"msn",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-17615644554-24030",
-                        "machine_tag":0,
-                        "raw":"MSN"
-                    },
-                    {
-                        "_content":"69",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-17615644554-28001",
-                        "machine_tag":0,
-                        "raw":"69"
-                    },
-                    {
-                        "_content":"lufthansa",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-17615644554-45276",
-                        "machine_tag":0,
-                        "raw":"LUFTHANSA"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-17615644554-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-17615644554-2695",
-                        "machine_tag":0,
-                        "raw":"AIRPORT"
-                    },
-                    {
-                        "_content":"a380841",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-17615644554-7400108",
-                        "machine_tag":0,
-                        "raw":"A380-841"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"D-AIMG   LAX"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/airlines470/17615644554/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1736",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-04-14",
+    "date:cessation_upper": "2015-04-14",
+    "date:inception_lower": "2015-04-14",
+    "date:inception_upper": "2015-04-14",
+    "edtf:cessation": "2015-04-14T13:01:28",
+    "edtf:inception": "2015-04-14T13:01:28",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.396738,33.953572,-118.396738,33.953572",
+    "geom:latitude": 33.953572,
+    "geom:longitude": -118.396738,
+    "iso:country": "US",
+    "media:created": 1429041688,
+    "media:fingerprint": "779e6b18ea8ed724f26ab4737b4c53e7601b8297",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "17615644554",
+      "photo_info": {
+        "comments": {
+          "_content": "4"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":683,
-                "mimetype":"image/jpeg",
-                "secret":"d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
-                "width":1024
+        "dates": {
+          "lastupdate": "1491263331",
+          "posted": "1432920868",
+          "taken": "2015-04-14 13:01:28",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1432920868",
+        "description": {
+          "_content": "MSN 69\nA380-841\nLUFTHANSA\nLAX AIRPORT"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "17615644554",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.953572",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.396738",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "d9225fdaf8",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8279",
+          "location": "PARIS, FRANCE",
+          "nsid": "16103393@N05",
+          "path_alias": "airlines470",
+          "realname": "ERIC  SALARD",
+          "username": "airlines470"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "641d6b469b",
+        "server": "7747",
+        "tags": {
+          "tag": [
+            {
+              "_content": "daimg",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-17615644554-1391316",
+              "machine_tag": 0,
+              "raw": "D-AIMG"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
-                "width":800
+            {
+              "_content": "a380",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-17615644554-16435",
+              "machine_tag": 0,
+              "raw": "A380"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
-                "width":320
+            {
+              "_content": "msn",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-17615644554-24030",
+              "machine_tag": 0,
+              "raw": "MSN"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2467,
-                "mimetype":"image/jpeg",
-                "secret":"yShe8NRwyf7owAC7mWPMbbF1WXWMNFfh0GXrboqr6rfTmYmU46Ee",
-                "width":3698
+            {
+              "_content": "69",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-17615644554-28001",
+              "machine_tag": 0,
+              "raw": "69"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
-                "width":320
+            {
+              "_content": "lufthansa",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-17615644554-45276",
+              "machine_tag": 0,
+              "raw": "LUFTHANSA"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
-                "width":640
+            {
+              "_content": "lax",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-17615644554-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "airport",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-17615644554-2695",
+              "machine_tag": 0,
+              "raw": "AIRPORT"
+            },
+            {
+              "_content": "a380841",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-17615644554-7400108",
+              "machine_tag": 0,
+              "raw": "A380-841"
             }
+          ]
+        },
+        "title": {
+          "_content": "D-AIMG   LAX"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/airlines470/17615644554/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1736",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 683,
+          "mimetype": "image/jpeg",
+          "secret": "d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2467,
+          "mimetype": "image/jpeg",
+          "secret": "yShe8NRwyf7owAC7mWPMbbF1WXWMNFfh0GXrboqr6rfTmYmU46Ee",
+          "width": 3698
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "d9HYNHVaKvE1kCI6XAkxrzl3zH8suJoc4BLaHU8WQFttHbFi5IvC",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018854,
-    "wof:depicts":[
-        102533795,
-        1159286015,
-        1159288215,
-        1159289437,
-        1159293829
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018854,
+    "wof:depicts": [
+      102533795,
+      1159286015,
+      1159288215,
+      1159289437,
+      1159293829
     ],
-    "wof:geomhash":"b71ca96ab8adc849dc4fcfc60f443081",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159332845,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "b71ca96ab8adc849dc4fcfc60f443081",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159332845,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159332845,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159332845,
-    "wof:lastmodified":1545868730,
-    "wof:name":"D-AIMG   LAX",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159332845,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "D-AIMG   LAX",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.396738,
     33.953572,
     -118.396738,
     33.953572
-],
+  ],
   "geometry": {"coordinates":[-118.396738,33.953572],"type":"Point"}
 }

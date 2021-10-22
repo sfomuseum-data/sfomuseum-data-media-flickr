@@ -2,336 +2,339 @@
   "id": 1159331291,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-01-13",
-    "date:cessation_upper":"2018-01-13",
-    "date:inception_lower":"2018-01-13",
-    "date:inception_upper":"2018-01-13",
-    "edtf:cessation":"2018-01-13T14:15:19",
-    "edtf:inception":"2018-01-13T14:15:19",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.392145,33.947263,-118.392145,33.947263",
-    "geom:latitude":33.947263,
-    "geom:longitude":-118.392145,
-    "iso:country":"US",
-    "media:created":1515881719,
-    "media:fingerprint":"c1ef7b47b00f62fbaa2250eb0a8964c2a3d9618b",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#a5694f",
-                        "name":"Sepia",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a75f47",
-                "name":"#a75f47",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#17806d",
-                        "name":"Tropical Rain Forest",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#0f683a",
-                "name":"#0f683a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#6699cc",
-                        "name":"Blue Gray",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#778899",
-                        "name":"lightslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#6b88ae",
-                "name":"#6b88ae",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#979aaa",
-                        "name":"Manatee",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a9a9a9",
-                        "name":"darkgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#90a0b8",
-                "name":"#90a0b8",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4d3523",
-                "name":"#4d3523",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"40197247002",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1522829223",
-                "posted":"1518469324",
-                "taken":"2018-01-13 14:15:19",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1518469324",
-            "description":{
-                "_content":"Eva Air B777-300 B-16716 - LAX 20180113"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"40197247002",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.947263",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.392145",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"c424f09b57",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7513",
-                "location":"Otelfingen, Switzerland",
-                "nsid":"102981093@N04",
-                "path_alias":"brunogeiger",
-                "realname":"Bruno Geiger Airplane Pictures and Collection",
-                "username":"BrunoGeiger"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"d4d4b6bb36",
-            "server":"4754",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Eva Air_B773_B-16716__LAX_20180113_Approach_sun_MG_3638_Colormailer_Flickr"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/brunogeiger/40197247002/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"570",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1666,
-                "mimetype":"image/jpeg",
-                "secret":"OFJhrlCAN5tWw7KQSX8cNbLmHikeW4mjaeo19vb1yPW3iPQCaEzr",
-                "width":2500
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
-                "width":640
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018360,
-    "wof:depicts":[
-        102533795,
-        1159288125,
-        1159289979,
-        1159289993,
-        1159293593
-    ],
-    "wof:geomhash":"1335402f06ee549ef0d69e50727249ba",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2018-01-13",
+    "date:cessation_upper": "2018-01-13",
+    "date:inception_lower": "2018-01-13",
+    "date:inception_upper": "2018-01-13",
+    "edtf:cessation": "2018-01-13T14:15:19",
+    "edtf:inception": "2018-01-13T14:15:19",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.392145,33.947263,-118.392145,33.947263",
+    "geom:latitude": 33.947263,
+    "geom:longitude": -118.392145,
+    "iso:country": "US",
+    "media:created": 1515881719,
+    "media:fingerprint": "c1ef7b47b00f62fbaa2250eb0a8964c2a3d9618b",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159331291,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#a5694f",
+              "name": "Sepia",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a75f47",
+          "name": "#a75f47",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#17806d",
+              "name": "Tropical Rain Forest",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#0f683a",
+          "name": "#0f683a",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#6699cc",
+              "name": "Blue Gray",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#778899",
+              "name": "lightslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#6b88ae",
+          "name": "#6b88ae",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#979aaa",
+              "name": "Manatee",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#a9a9a9",
+              "name": "darkgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#90a0b8",
+          "name": "#90a0b8",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4d3523",
+          "name": "#4d3523",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "40197247002",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
+        },
+        "dates": {
+          "lastupdate": "1522829223",
+          "posted": "1518469324",
+          "taken": "2018-01-13 14:15:19",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1518469324",
+        "description": {
+          "_content": "Eva Air B777-300 B-16716 - LAX 20180113"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "40197247002",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.947263",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.392145",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "c424f09b57",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7513",
+          "location": "Otelfingen, Switzerland",
+          "nsid": "102981093@N04",
+          "path_alias": "brunogeiger",
+          "realname": "Bruno Geiger Airplane Pictures and Collection",
+          "username": "BrunoGeiger"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "d4d4b6bb36",
+        "server": "4754",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Eva Air_B773_B-16716__LAX_20180113_Approach_sun_MG_3638_Colormailer_Flickr"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/brunogeiger/40197247002/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "570",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1666,
+          "mimetype": "image/jpeg",
+          "secret": "OFJhrlCAN5tWw7KQSX8cNbLmHikeW4mjaeo19vb1yPW3iPQCaEzr",
+          "width": 2500
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "W7cwYPFPulTnf8m1OU0Mr39MNqFczktUUJfmtV2WXsB3ElAYh0i0",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159331291,
-    "wof:lastmodified":1545868728,
-    "wof:name":"Eva Air_B773_B-16716__LAX_20180113_Approach_sun_MG_3638_Colormailer_Flickr",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018360,
+    "wof:depicts": [
+      102533795,
+      1159288125,
+      1159289979,
+      1159289993,
+      1159293593
+    ],
+    "wof:geomhash": "1335402f06ee549ef0d69e50727249ba",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159331291,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159331291,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159331291,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Eva Air_B773_B-16716__LAX_20180113_Approach_sun_MG_3638_Colormailer_Flickr",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.392145,
     33.947263,
     -118.392145,
     33.947263
-],
+  ],
   "geometry": {"coordinates":[-118.392145,33.947263],"type":"Point"}
 }

@@ -2,239 +2,242 @@
   "id": 1159323631,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-05-30",
-    "date:cessation_upper":"2009-05-30",
-    "date:inception_lower":"2009-05-30",
-    "date:inception_upper":"2009-05-30",
-    "edtf:cessation":"2009-05-30T14:58:14",
-    "edtf:inception":"2009-05-30T14:58:14",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.9815,42.208333,-75.9815,42.208333",
-    "geom:latitude":42.208333,
-    "geom:longitude":-75.9815,
-    "iso:country":"US",
-    "media:created":1243720694,
-    "media:fingerprint":"9bf73d4e53a483409f60b05bc783651aa4659dce",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3579448498",
-        "photo_info":{
-            "comments":{
-                "_content":"3"
-            },
-            "dates":{
-                "lastupdate":"1243891121",
-                "posted":"1243710382",
-                "taken":"2009-05-30 14:58:14",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1243710382",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3579448498",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Broome",
-                    "place_id":"nuDD0iFQUL9Hds31aw",
-                    "woeid":"12589315"
-                },
-                "latitude":"42.208333",
-                "locality":{
-                    "_content":"Greater Binghamton Edwin A Link Field Airport",
-                    "place_id":"jTvYx1BQUL_RrlrjhQ",
-                    "woeid":"12519598"
-                },
-                "longitude":"-75.981500",
-                "place_id":"jTvYx1BQUL_RrlrjhQ",
-                "region":{
-                    "_content":"New York",
-                    "place_id":"ODHTuIhTUb75gdBu",
-                    "woeid":"2347591"
-                },
-                "woeid":"12519598"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"22bb9c7cba",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5464",
-                "location":"Albany, New York, USA",
-                "nsid":"62621566@N00",
-                "path_alias":"mava",
-                "realname":"Marco Varisco",
-                "username":"mava"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"1b5e6f97ab",
-            "server":"3646",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"iphone",
-                        "author":"62621566@N00",
-                        "authorname":"mava",
-                        "id":"449201-3579448498-176591",
-                        "machine_tag":0,
-                        "raw":"iPhone"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"BGM to..."
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/mava/3579448498/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"153",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-05-30",
+    "date:cessation_upper": "2009-05-30",
+    "date:inception_lower": "2009-05-30",
+    "date:inception_upper": "2009-05-30",
+    "edtf:cessation": "2009-05-30T14:58:14",
+    "edtf:inception": "2009-05-30T14:58:14",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.981500,42.208333,-75.981500,42.208333",
+    "geom:latitude": 42.208333,
+    "geom:longitude": -75.9815,
+    "iso:country": "US",
+    "media:created": 1243720694,
+    "media:fingerprint": "9bf73d4e53a483409f60b05bc783651aa4659dce",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3579448498",
+      "photo_info": {
+        "comments": {
+          "_content": "3"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1200,
-                "mimetype":"image/jpeg",
-                "secret":"g3Y8kbqCGnMqqVbN0fNoObufUpD3oS6CsGqpGbJqF8Pkc9eoyust",
-                "width":1600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
-                "width":640
+        "dates": {
+          "lastupdate": "1243891121",
+          "posted": "1243710382",
+          "taken": "2009-05-30 14:58:14",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1243710382",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3579448498",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Broome",
+            "place_id": "nuDD0iFQUL9Hds31aw",
+            "woeid": "12589315"
+          },
+          "latitude": "42.208333",
+          "locality": {
+            "_content": "Greater Binghamton Edwin A Link Field Airport",
+            "place_id": "jTvYx1BQUL_RrlrjhQ",
+            "woeid": "12519598"
+          },
+          "longitude": "-75.981500",
+          "place_id": "jTvYx1BQUL_RrlrjhQ",
+          "region": {
+            "_content": "New York",
+            "place_id": "ODHTuIhTUb75gdBu",
+            "woeid": "2347591"
+          },
+          "woeid": "12519598"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "22bb9c7cba",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5464",
+          "location": "Albany, New York, USA",
+          "nsid": "62621566@N00",
+          "path_alias": "mava",
+          "realname": "Marco Varisco",
+          "username": "mava"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "1b5e6f97ab",
+        "server": "3646",
+        "tags": {
+          "tag": [
+            {
+              "_content": "iphone",
+              "author": "62621566@N00",
+              "authorname": "mava",
+              "id": "449201-3579448498-176591",
+              "machine_tag": 0,
+              "raw": "iPhone"
             }
+          ]
+        },
+        "title": {
+          "_content": "BGM to..."
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/mava/3579448498/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "153",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1200,
+          "mimetype": "image/jpeg",
+          "secret": "g3Y8kbqCGnMqqVbN0fNoObufUpD3oS6CsGqpGbJqF8Pkc9eoyust",
+          "width": 1600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "cd9PMHh0SsP6YjDsmOe6heDYdIIdrjYjE2Hp0QZHdeuq9SHFVcte",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528741,
-        420528103,
-        102191575,
-        404521629,
-        85633793,
-        102081755,
-        85688543
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528741,
+      420528103,
+      102191575,
+      404521629,
+      85633793,
+      102081755,
+      85688543
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526688522,
-    "wof:depicts":[
-        102528741
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526688522,
+    "wof:depicts": [
+      102528741
     ],
-    "wof:geomhash":"f8721bc849a0c8df8a110b61f0d77d1c",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528741,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081755,
-            "localadmin_id":404521629,
-            "locality_id":-1,
-            "media_id":1159323631,
-            "neighbourhood_id":420528103,
-            "region_id":85688543
-        }
+    "wof:geomhash": "f8721bc849a0c8df8a110b61f0d77d1c",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528741,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081755,
+        "image_id": 1159323631,
+        "localadmin_id": 404521629,
+        "locality_id": -1,
+        "media_id": 1159323631,
+        "neighbourhood_id": 420528103,
+        "region_id": 85688543
+      }
     ],
-    "wof:id":1159323631,
-    "wof:lastmodified":1545868677,
-    "wof:name":"BGM to...",
-    "wof:parent_id":102528741,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323631,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "BGM to...",
+    "wof:parent_id": 102528741,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.9815,
     42.208333,
     -75.9815,
     42.208333
-],
+  ],
   "geometry": {"coordinates":[-75.9815,42.208333],"type":"Point"}
 }

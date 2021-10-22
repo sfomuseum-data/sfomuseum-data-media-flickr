@@ -2,270 +2,273 @@
   "id": 1159326467,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-12-31",
-    "date:cessation_upper":"2015-12-31",
-    "date:inception_lower":"2015-12-31",
-    "date:inception_upper":"2015-12-31",
-    "edtf:cessation":"2015-12-31T13:37:44",
-    "edtf:inception":"2015-12-31T13:37:44",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.296453,47.518725,-122.296453,47.518725",
-    "geom:latitude":47.518725,
-    "geom:longitude":-122.296453,
-    "iso:country":"US",
-    "media:created":1451597864,
-    "media:fingerprint":"315d1c40e571ed6d253d286ef54399ec9ea297ab",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"26398712125",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1460509370",
-                "posted":"1460509367",
-                "taken":"2015-12-31 13:37:44",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1460509367",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":2,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"26398712125",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"King",
-                    "place_id":"e4JdbCFQUL8iSf0rtg",
-                    "woeid":"12590456"
-                },
-                "latitude":"47.518725",
-                "locality":{
-                    "_content":"King County International Airport-Boeing Field",
-                    "place_id":"3ojMGppQUL9TpjoCCA",
-                    "woeid":"12518877"
-                },
-                "longitude":"-122.296453",
-                "place_id":"3ojMGppQUL9TpjoCCA",
-                "region":{
-                    "_content":"Washington",
-                    "place_id":"jyADg3RTUb65Hnbj",
-                    "woeid":"2347606"
-                },
-                "woeid":"12518877"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"ab35f52a2d",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"159",
-                "location":"San Jose, USA",
-                "nsid":"37025592@N00",
-                "path_alias":"schaffner",
-                "realname":"Jim Maurer",
-                "username":"Schaffner"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"e65ebf5178",
-            "server":"1452",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"washington",
-                        "author":"37025592@N00",
-                        "authorname":"Schaffner",
-                        "id":"3144448-26398712125-2407",
-                        "machine_tag":0,
-                        "raw":"Washington"
-                    },
-                    {
-                        "_content":"museumofflight",
-                        "author":"37025592@N00",
-                        "authorname":"Schaffner",
-                        "id":"3144448-26398712125-15509",
-                        "machine_tag":0,
-                        "raw":"Museum of Flight"
-                    },
-                    {
-                        "_content":"seattle",
-                        "author":"37025592@N00",
-                        "authorname":"Schaffner",
-                        "id":"3144448-26398712125-69",
-                        "machine_tag":0,
-                        "raw":"Seattle"
-                    },
-                    {
-                        "_content":"unitedstates",
-                        "author":"37025592@N00",
-                        "authorname":"Schaffner",
-                        "id":"3144448-26398712125-4074",
-                        "machine_tag":0,
-                        "raw":"United States"
-                    },
-                    {
-                        "_content":"us",
-                        "author":"37025592@N00",
-                        "authorname":"Schaffner",
-                        "id":"3144448-26398712125-2296",
-                        "machine_tag":0,
-                        "raw":"US"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"20151231_1775.jpg"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/schaffner/26398712125/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"39",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-12-31",
+    "date:cessation_upper": "2015-12-31",
+    "date:inception_lower": "2015-12-31",
+    "date:inception_upper": "2015-12-31",
+    "edtf:cessation": "2015-12-31T13:37:44",
+    "edtf:inception": "2015-12-31T13:37:44",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.296453,47.518725,-122.296453,47.518725",
+    "geom:latitude": 47.518725,
+    "geom:longitude": -122.296453,
+    "iso:country": "US",
+    "media:created": 1451597864,
+    "media:fingerprint": "315d1c40e571ed6d253d286ef54399ec9ea297ab",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "26398712125",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":681,
-                "mimetype":"image/jpeg",
-                "secret":"PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
-                "width":1024
+        "dates": {
+          "lastupdate": "1460509370",
+          "posted": "1460509367",
+          "taken": "2015-12-31 13:37:44",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1460509367",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 2,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "26398712125",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "King",
+            "place_id": "e4JdbCFQUL8iSf0rtg",
+            "woeid": "12590456"
+          },
+          "latitude": "47.518725",
+          "locality": {
+            "_content": "King County International Airport-Boeing Field",
+            "place_id": "3ojMGppQUL9TpjoCCA",
+            "woeid": "12518877"
+          },
+          "longitude": "-122.296453",
+          "place_id": "3ojMGppQUL9TpjoCCA",
+          "region": {
+            "_content": "Washington",
+            "place_id": "jyADg3RTUb65Hnbj",
+            "woeid": "2347606"
+          },
+          "woeid": "12518877"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "ab35f52a2d",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "159",
+          "location": "San Jose, USA",
+          "nsid": "37025592@N00",
+          "path_alias": "schaffner",
+          "realname": "Jim Maurer",
+          "username": "Schaffner"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "e65ebf5178",
+        "server": "1452",
+        "tags": {
+          "tag": [
+            {
+              "_content": "washington",
+              "author": "37025592@N00",
+              "authorname": "Schaffner",
+              "id": "3144448-26398712125-2407",
+              "machine_tag": 0,
+              "raw": "Washington"
             },
-            "c":{
-                "extension":"jpg",
-                "height":532,
-                "mimetype":"image/jpeg",
-                "secret":"PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
-                "width":800
+            {
+              "_content": "museumofflight",
+              "author": "37025592@N00",
+              "authorname": "Schaffner",
+              "id": "3144448-26398712125-15509",
+              "machine_tag": 0,
+              "raw": "Museum of Flight"
             },
-            "n":{
-                "extension":"jpg",
-                "height":212,
-                "mimetype":"image/jpeg",
-                "secret":"PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
-                "width":319
+            {
+              "_content": "seattle",
+              "author": "37025592@N00",
+              "authorname": "Schaffner",
+              "id": "3144448-26398712125-69",
+              "machine_tag": 0,
+              "raw": "Seattle"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3280,
-                "mimetype":"image/jpeg",
-                "secret":"qb87aSSYrS2Mh6sHu9d6I3kJg780p2FBRfpd1MhO5VN1tS380XAr",
-                "width":4928
+            {
+              "_content": "unitedstates",
+              "author": "37025592@N00",
+              "authorname": "Schaffner",
+              "id": "3144448-26398712125-4074",
+              "machine_tag": 0,
+              "raw": "United States"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":425,
-                "mimetype":"image/jpeg",
-                "secret":"PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
-                "width":639
+            {
+              "_content": "us",
+              "author": "37025592@N00",
+              "authorname": "Schaffner",
+              "id": "3144448-26398712125-2296",
+              "machine_tag": 0,
+              "raw": "US"
             }
+          ]
+        },
+        "title": {
+          "_content": "20151231_1775.jpg"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/schaffner/26398712125/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "39",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 681,
+          "mimetype": "image/jpeg",
+          "secret": "PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 532,
+          "mimetype": "image/jpeg",
+          "secret": "PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 212,
+          "mimetype": "image/jpeg",
+          "secret": "PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
+          "width": 319
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3280,
+          "mimetype": "image/jpeg",
+          "secret": "qb87aSSYrS2Mh6sHu9d6I3kJg780p2FBRfpd1MhO5VN1tS380XAr",
+          "width": 4928
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 425,
+          "mimetype": "image/jpeg",
+          "secret": "PNYqcaWgzf6IhlNP9z8Phpq3Vd6OdUJuZ6HASY9mwkRLeeQad9Q0",
+          "width": 639
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527671,
-        85821315,
-        102191575,
-        85633793,
-        101730401,
-        102086191,
-        85688623
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527671,
+      85821315,
+      102191575,
+      85633793,
+      101730401,
+      102086191,
+      85688623
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006529,
-    "wof:depicts":[
-        102527671
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006529,
+    "wof:depicts": [
+      102527671
     ],
-    "wof:geomhash":"adfdd8d26e9ec03c72d0b46e341ed4c4",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527671,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "media_id":1159326467,
-            "neighbourhood_id":85821315,
-            "region_id":85688623
-        }
+    "wof:geomhash": "adfdd8d26e9ec03c72d0b46e341ed4c4",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527671,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "image_id": 1159326467,
+        "locality_id": 101730401,
+        "media_id": 1159326467,
+        "neighbourhood_id": 85821315,
+        "region_id": 85688623
+      }
     ],
-    "wof:id":1159326467,
-    "wof:lastmodified":1545868652,
-    "wof:name":"20151231_1775.jpg",
-    "wof:parent_id":102527671,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326467,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "20151231_1775.jpg",
+    "wof:parent_id": 102527671,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.296453,
     47.518725,
     -122.296453,
     47.518725
-],
+  ],
   "geometry": {"coordinates":[-122.296453,47.518725],"type":"Point"}
 }

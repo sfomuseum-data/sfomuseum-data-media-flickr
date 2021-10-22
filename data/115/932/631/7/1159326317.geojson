@@ -2,287 +2,290 @@
   "id": 1159326317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2008-04-24",
-    "date:cessation_upper":"2008-04-24",
-    "date:inception_lower":"2008-04-24",
-    "date:inception_upper":"2008-04-24",
-    "edtf:cessation":"2008-04-24T13:36:16",
-    "edtf:inception":"2008-04-24T13:36:16",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.427,40.659423,-75.427,40.659423",
-    "geom:latitude":40.659423,
-    "geom:longitude":-75.427,
-    "iso:country":"US",
-    "media:created":1209069376,
-    "media:fingerprint":"c137065a0492c7d52c038b07765145f5cf779e79",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"2730647288",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1308787191",
-                "posted":"1217815779",
-                "taken":"2008-04-24 13:36:16",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1217815779",
-            "description":{
-                "_content":"Touch-and-go's, ABE (Allentown, PA) - April 24th, 2008"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"2730647288",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Northampton",
-                    "place_id":"u4fHzFZQUL.XfU_jlA",
-                    "woeid":"12589775"
-                },
-                "latitude":"40.659423",
-                "locality":{
-                    "_content":"Lehigh Valley International Airport",
-                    "place_id":"7DNGVytQUL8QSNNPrg",
-                    "woeid":"12518581"
-                },
-                "longitude":"-75.427000",
-                "place_id":"7DNGVytQUL8QSNNPrg",
-                "region":{
-                    "_content":"Pennsylvania",
-                    "place_id":"fGSdmohTUb6YMlQa",
-                    "woeid":"2347597"
-                },
-                "woeid":"12518581"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"fcffc235a3",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2859",
-                "location":"",
-                "nsid":"85726777@N00",
-                "path_alias":"andrewc75",
-                "realname":"Andrew E. Cohen",
-                "username":"AndrewC75"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"a2f93329f2",
-            "server":"3235",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"aircraft",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730647288-5854",
-                        "machine_tag":0,
-                        "raw":"aircraft"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730647288-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730647288-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730647288-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"abe",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730647288-28382",
-                        "machine_tag":0,
-                        "raw":"ABE"
-                    },
-                    {
-                        "_content":"piper",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730647288-25291",
-                        "machine_tag":0,
-                        "raw":"Piper"
-                    },
-                    {
-                        "_content":"pa28",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730647288-374936",
-                        "machine_tag":0,
-                        "raw":"PA28"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"N4677R - Piper PA28"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/andrewc75/2730647288/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"146",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2008-04-24",
+    "date:cessation_upper": "2008-04-24",
+    "date:inception_lower": "2008-04-24",
+    "date:inception_upper": "2008-04-24",
+    "edtf:cessation": "2008-04-24T13:36:16",
+    "edtf:inception": "2008-04-24T13:36:16",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.427000,40.659423,-75.427000,40.659423",
+    "geom:latitude": 40.659423,
+    "geom:longitude": -75.427,
+    "iso:country": "US",
+    "media:created": 1209069376,
+    "media:fingerprint": "c137065a0492c7d52c038b07765145f5cf779e79",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "2730647288",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
-                "width":1024
+        "dates": {
+          "lastupdate": "1308787191",
+          "posted": "1217815779",
+          "taken": "2008-04-24 13:36:16",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1217815779",
+        "description": {
+          "_content": "Touch-and-go's, ABE (Allentown, PA) - April 24th, 2008"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "2730647288",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Northampton",
+            "place_id": "u4fHzFZQUL.XfU_jlA",
+            "woeid": "12589775"
+          },
+          "latitude": "40.659423",
+          "locality": {
+            "_content": "Lehigh Valley International Airport",
+            "place_id": "7DNGVytQUL8QSNNPrg",
+            "woeid": "12518581"
+          },
+          "longitude": "-75.427000",
+          "place_id": "7DNGVytQUL8QSNNPrg",
+          "region": {
+            "_content": "Pennsylvania",
+            "place_id": "fGSdmohTUb6YMlQa",
+            "woeid": "2347597"
+          },
+          "woeid": "12518581"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "fcffc235a3",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2859",
+          "location": "",
+          "nsid": "85726777@N00",
+          "path_alias": "andrewc75",
+          "realname": "Andrew E. Cohen",
+          "username": "AndrewC75"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "a2f93329f2",
+        "server": "3235",
+        "tags": {
+          "tag": [
+            {
+              "_content": "aircraft",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730647288-5854",
+              "machine_tag": 0,
+              "raw": "aircraft"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
-                "width":800
+            {
+              "_content": "airplane",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730647288-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
-                "width":320
+            {
+              "_content": "airport",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730647288-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"nK196cAzqVLonxzJyLd0ePMknVGCLZCzLfJ7uAdec5hKtsNsCJHz",
-                "width":1023
+            {
+              "_content": "aviation",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730647288-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
-                "width":320
+            {
+              "_content": "abe",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730647288-28382",
+              "machine_tag": 0,
+              "raw": "ABE"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
-                "width":640
+            {
+              "_content": "piper",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730647288-25291",
+              "machine_tag": 0,
+              "raw": "Piper"
+            },
+            {
+              "_content": "pa28",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730647288-374936",
+              "machine_tag": 0,
+              "raw": "PA28"
             }
+          ]
+        },
+        "title": {
+          "_content": "N4677R - Piper PA28"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/andrewc75/2730647288/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "146",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "nK196cAzqVLonxzJyLd0ePMknVGCLZCzLfJ7uAdec5hKtsNsCJHz",
+          "width": 1023
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "PsNZsEmbNheS9xy0XZWFqy6bUXrVd8C4uepbqz7YqKwOroY10XmF",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102529131,
-        85838547,
-        102191575,
-        404485953,
-        85633793,
-        102081327,
-        85688481
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102529131,
+      85838547,
+      102191575,
+      404485953,
+      85633793,
+      102081327,
+      85688481
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006480,
-    "wof:depicts":[
-        102529131
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006480,
+    "wof:depicts": [
+      102529131
     ],
-    "wof:geomhash":"7ec44d310ed53e411e3017a3c76ea9cd",
-    "wof:hierarchy":[
-        {
-            "campus_id":102529131,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081327,
-            "localadmin_id":404485953,
-            "locality_id":-1,
-            "media_id":1159326317,
-            "neighbourhood_id":85838547,
-            "region_id":85688481
-        }
+    "wof:geomhash": "7ec44d310ed53e411e3017a3c76ea9cd",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529131,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081327,
+        "image_id": 1159326317,
+        "localadmin_id": 404485953,
+        "locality_id": -1,
+        "media_id": 1159326317,
+        "neighbourhood_id": 85838547,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159326317,
-    "wof:lastmodified":1545868675,
-    "wof:name":"N4677R - Piper PA28",
-    "wof:parent_id":102529131,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326317,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "N4677R - Piper PA28",
+    "wof:parent_id": 102529131,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.427,
     40.659423,
     -75.427,
     40.659423
-],
-  "geometry": {"coordinates":[-75.42700000000001,40.659423],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-75.427,40.659423],"type":"Point"}
 }

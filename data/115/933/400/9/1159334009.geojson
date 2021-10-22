@@ -2,272 +2,275 @@
   "id": 1159334009,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-04-28",
-    "date:cessation_upper":"2017-04-28",
-    "date:inception_lower":"2017-04-28",
-    "date:inception_upper":"2017-04-28",
-    "edtf:cessation":"2017-04-28T19:42:18",
-    "edtf:inception":"2017-04-28T19:42:18",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.397598,33.944236,-118.397598,33.944236",
-    "geom:latitude":33.944236,
-    "geom:longitude":-118.397598,
-    "iso:country":"US",
-    "media:created":1493433738,
-    "media:fingerprint":"1e26722febe2f459a3b277118ce83599594087f3",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"33489699654",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1493433740",
-                "posted":"1493433738",
-                "taken":"2017-04-28 19:42:18",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1493433738",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":3,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"33489699654",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.944236",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.397598",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"4e634e3f5d",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"195",
-                "location":"Los Angeles, CA",
-                "nsid":"76731208@N00",
-                "path_alias":"brush",
-                "realname":"Jason Brush",
-                "username":"jasonbrush"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"1ea3ec60e6",
-            "server":"2876",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"76731208@N00",
-                        "authorname":"jasonbrush",
-                        "id":"425410-33489699654-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"76731208@N00",
-                        "authorname":"jasonbrush",
-                        "id":"425410-33489699654-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"76731208@N00",
-                        "authorname":"jasonbrush",
-                        "id":"425410-33489699654-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"76731208@N00",
-                        "authorname":"jasonbrush",
-                        "id":"425410-33489699654-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"76731208@N00",
-                        "authorname":"jasonbrush",
-                        "id":"425410-33489699654-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"upload"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/brush/33489699654/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"46",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-04-28",
+    "date:cessation_upper": "2017-04-28",
+    "date:inception_lower": "2017-04-28",
+    "date:inception_upper": "2017-04-28",
+    "edtf:cessation": "2017-04-28T19:42:18",
+    "edtf:inception": "2017-04-28T19:42:18",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.397598,33.944236,-118.397598,33.944236",
+    "geom:latitude": 33.944236,
+    "geom:longitude": -118.397598,
+    "iso:country": "US",
+    "media:created": 1493433738,
+    "media:fingerprint": "1e26722febe2f459a3b277118ce83599594087f3",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "33489699654",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":767,
-                "mimetype":"image/jpeg",
-                "secret":"fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
-                "width":1024
+        "dates": {
+          "lastupdate": "1493433740",
+          "posted": "1493433738",
+          "taken": "2017-04-28 19:42:18",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1493433738",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 3,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "33489699654",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.944236",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.397598",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "4e634e3f5d",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "195",
+          "location": "Los Angeles, CA",
+          "nsid": "76731208@N00",
+          "path_alias": "brush",
+          "realname": "Jason Brush",
+          "username": "jasonbrush"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "1ea3ec60e6",
+        "server": "2876",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "76731208@N00",
+              "authorname": "jasonbrush",
+              "id": "425410-33489699654-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "c":{
-                "extension":"jpg",
-                "height":599,
-                "mimetype":"image/jpeg",
-                "secret":"fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
-                "width":800
+            {
+              "_content": "square",
+              "author": "76731208@N00",
+              "authorname": "jasonbrush",
+              "id": "425410-33489699654-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "n":{
-                "extension":"jpg",
-                "height":239,
-                "mimetype":"image/jpeg",
-                "secret":"fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
-                "width":320
+            {
+              "_content": "squareformat",
+              "author": "76731208@N00",
+              "authorname": "jasonbrush",
+              "id": "425410-33489699654-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "o":{
-                "extension":"jpg",
-                "height":809,
-                "mimetype":"image/jpeg",
-                "secret":"0D5uEhfRe7fkWguDMrlD51CjhckkP1C3FBZZ6v3BE07s4PqX8oJt",
-                "width":1080
+            {
+              "_content": "iphoneography",
+              "author": "76731208@N00",
+              "authorname": "jasonbrush",
+              "id": "425410-33489699654-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":479,
-                "mimetype":"image/jpeg",
-                "secret":"fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
-                "width":640
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "76731208@N00",
+              "authorname": "jasonbrush",
+              "id": "425410-33489699654-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             }
+          ]
+        },
+        "title": {
+          "_content": "upload"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/brush/33489699654/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "46",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 767,
+          "mimetype": "image/jpeg",
+          "secret": "fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 599,
+          "mimetype": "image/jpeg",
+          "secret": "fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 239,
+          "mimetype": "image/jpeg",
+          "secret": "fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 809,
+          "mimetype": "image/jpeg",
+          "secret": "0D5uEhfRe7fkWguDMrlD51CjhckkP1C3FBZZ6v3BE07s4PqX8oJt",
+          "width": 1080
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 479,
+          "mimetype": "image/jpeg",
+          "secret": "fxleOCqqyzlEPj9psvlnWhgRcZLfjq9sSHiud8dE0YTJmxp0Ju70",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527021408,
-    "wof:depicts":[
-        102533795
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527021408,
+    "wof:depicts": [
+      102533795
     ],
-    "wof:geomhash":"95217cc9961e772c18fc7ba2d2eb6eb8",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159334009,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "95217cc9961e772c18fc7ba2d2eb6eb8",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159334009,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159334009,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159334009,
-    "wof:lastmodified":1545868714,
-    "wof:name":"upload",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159334009,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "upload",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.397598,
     33.944236,
     -118.397598,
     33.944236
-],
+  ],
   "geometry": {"coordinates":[-118.397598,33.944236],"type":"Point"}
 }

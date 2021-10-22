@@ -2,447 +2,451 @@
   "id": 1159325827,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2007-03-29",
-    "date:cessation_upper":"2007-03-29",
-    "date:inception_lower":"2007-03-29",
-    "date:inception_upper":"2007-03-29",
-    "edtf:cessation":"2007-03-29T16:03:11",
-    "edtf:inception":"2007-03-29T16:03:11",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.95587,35.225314,-80.95587,35.225314",
-    "geom:latitude":35.225314,
-    "geom:longitude":-80.95587,
-    "iso:country":"US",
-    "media:created":1175209391,
-    "media:fingerprint":"c46b24c127fb31db9636f0f5fc66d2d0ab7563cf",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3403796974",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1363143269",
-                "posted":"1238561876",
-                "taken":"2007-03-29 16:03:11",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1238561876",
-            "description":{
-                "_content":"Visit <a href=\"http://CLTblog.com\" rel=\"nofollow\">CLTblog.com</a>"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3403796974",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.225314",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.955870",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"ac2f9004b4",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2858",
-                "location":"Raleigh, NC, USA",
-                "nsid":"81464596@N00",
-                "path_alias":"bz3rk",
-                "realname":"",
-                "username":"James Willamor"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"2a600378de",
-            "server":"3075",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"charlotte",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"clt",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-830168",
-                        "machine_tag":0,
-                        "raw":"CLT"
-                    },
-                    {
-                        "_content":"nc",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-2533",
-                        "machine_tag":0,
-                        "raw":"NC"
-                    },
-                    {
-                        "_content":"qc",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-52734",
-                        "machine_tag":0,
-                        "raw":"QC"
-                    },
-                    {
-                        "_content":"skyline",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-1147",
-                        "machine_tag":0,
-                        "raw":"skyline"
-                    },
-                    {
-                        "_content":"skyscraper",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-1306",
-                        "machine_tag":0,
-                        "raw":"skyscraper"
-                    },
-                    {
-                        "_content":"queen",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-10901",
-                        "machine_tag":0,
-                        "raw":"queen"
-                    },
-                    {
-                        "_content":"city",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-103",
-                        "machine_tag":0,
-                        "raw":"city"
-                    },
-                    {
-                        "_content":"central",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-7026",
-                        "machine_tag":0,
-                        "raw":"central"
-                    },
-                    {
-                        "_content":"center",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-9092",
-                        "machine_tag":0,
-                        "raw":"center"
-                    },
-                    {
-                        "_content":"uptown",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-12343",
-                        "machine_tag":0,
-                        "raw":"uptown"
-                    },
-                    {
-                        "_content":"downtown",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-3318",
-                        "machine_tag":0,
-                        "raw":"downtown"
-                    },
-                    {
-                        "_content":"cbd",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-22200",
-                        "machine_tag":0,
-                        "raw":"CBD"
-                    },
-                    {
-                        "_content":"urban",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-291",
-                        "machine_tag":0,
-                        "raw":"urban"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"overlook",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-34633",
-                        "machine_tag":0,
-                        "raw":"overlook"
-                    },
-                    {
-                        "_content":"kclt",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-5827088",
-                        "machine_tag":0,
-                        "raw":"kclt"
-                    },
-                    {
-                        "_content":"douglas",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-31653",
-                        "machine_tag":0,
-                        "raw":"Douglas"
-                    },
-                    {
-                        "_content":"charlottedouglas",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-3090233",
-                        "machine_tag":0,
-                        "raw":"'Charlotte-Douglas"
-                    },
-                    {
-                        "_content":"international",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-12495",
-                        "machine_tag":0,
-                        "raw":"international"
-                    },
-                    {
-                        "_content":"landing",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-11499",
-                        "machine_tag":0,
-                        "raw":"landing"
-                    },
-                    {
-                        "_content":"plane",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-1369",
-                        "machine_tag":0,
-                        "raw":"plane"
-                    },
-                    {
-                        "_content":"airplne",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-1226603",
-                        "machine_tag":0,
-                        "raw":"airplne"
-                    },
-                    {
-                        "_content":"jet",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-7212",
-                        "machine_tag":0,
-                        "raw":"jet"
-                    },
-                    {
-                        "_content":"airliner",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-73548",
-                        "machine_tag":0,
-                        "raw":"airliner"
-                    },
-                    {
-                        "_content":"jetliner",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3403796974-214309",
-                        "machine_tag":0,
-                        "raw":"jetliner"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Charlotte"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/bz3rk/3403796974/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1111",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2007-03-29",
+    "date:cessation_upper": "2007-03-29",
+    "date:inception_lower": "2007-03-29",
+    "date:inception_upper": "2007-03-29",
+    "edtf:cessation": "2007-03-29T16:03:11",
+    "edtf:inception": "2007-03-29T16:03:11",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.955870,35.225314,-80.955870,35.225314",
+    "geom:latitude": 35.225314,
+    "geom:longitude": -80.95587,
+    "iso:country": "US",
+    "media:created": 1175209391,
+    "media:fingerprint": "c46b24c127fb31db9636f0f5fc66d2d0ab7563cf",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3403796974",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":738,
-                "mimetype":"image/jpeg",
-                "secret":"O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
-                "width":1024
+        "dates": {
+          "lastupdate": "1363143269",
+          "posted": "1238561876",
+          "taken": "2007-03-29 16:03:11",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1238561876",
+        "description": {
+          "_content": "Visit \u003ca href=\"http://CLTblog.com\" rel=\"nofollow\"\u003eCLTblog.com\u003c/a\u003e"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3403796974",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.225314",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.955870",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "ac2f9004b4",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2858",
+          "location": "Raleigh, NC, USA",
+          "nsid": "81464596@N00",
+          "path_alias": "bz3rk",
+          "realname": "",
+          "username": "James Willamor"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "2a600378de",
+        "server": "3075",
+        "tags": {
+          "tag": [
+            {
+              "_content": "charlotte",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
             },
-            "c":{
-                "extension":"jpg",
-                "height":576,
-                "mimetype":"image/jpeg",
-                "secret":"O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
-                "width":800
+            {
+              "_content": "clt",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-830168",
+              "machine_tag": 0,
+              "raw": "CLT"
             },
-            "n":{
-                "extension":"jpg",
-                "height":230,
-                "mimetype":"image/jpeg",
-                "secret":"O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
-                "width":320
+            {
+              "_content": "nc",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-2533",
+              "machine_tag": 0,
+              "raw": "NC"
             },
-            "o":{
-                "extension":"jpg",
-                "height":738,
-                "mimetype":"image/jpeg",
-                "secret":"3aCWeY3j3XnFt2imtfM5FGAtKA3uGEOijEy6MgoruKKorpzm7a2K",
-                "width":1024
+            {
+              "_content": "qc",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-52734",
+              "machine_tag": 0,
+              "raw": "QC"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
-                "width":320
+            {
+              "_content": "skyline",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-1147",
+              "machine_tag": 0,
+              "raw": "skyline"
             },
-            "z":{
-                "extension":"jpg",
-                "height":461,
-                "mimetype":"image/jpeg",
-                "secret":"O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
-                "width":640
+            {
+              "_content": "skyscraper",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-1306",
+              "machine_tag": 0,
+              "raw": "skyscraper"
+            },
+            {
+              "_content": "queen",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-10901",
+              "machine_tag": 0,
+              "raw": "queen"
+            },
+            {
+              "_content": "city",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-103",
+              "machine_tag": 0,
+              "raw": "city"
+            },
+            {
+              "_content": "central",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-7026",
+              "machine_tag": 0,
+              "raw": "central"
+            },
+            {
+              "_content": "center",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-9092",
+              "machine_tag": 0,
+              "raw": "center"
+            },
+            {
+              "_content": "uptown",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-12343",
+              "machine_tag": 0,
+              "raw": "uptown"
+            },
+            {
+              "_content": "downtown",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-3318",
+              "machine_tag": 0,
+              "raw": "downtown"
+            },
+            {
+              "_content": "cbd",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-22200",
+              "machine_tag": 0,
+              "raw": "CBD"
+            },
+            {
+              "_content": "urban",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-291",
+              "machine_tag": 0,
+              "raw": "urban"
+            },
+            {
+              "_content": "airport",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-2695",
+              "machine_tag": 0,
+              "raw": "airport"
+            },
+            {
+              "_content": "overlook",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-34633",
+              "machine_tag": 0,
+              "raw": "overlook"
+            },
+            {
+              "_content": "kclt",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-5827088",
+              "machine_tag": 0,
+              "raw": "kclt"
+            },
+            {
+              "_content": "douglas",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-31653",
+              "machine_tag": 0,
+              "raw": "Douglas"
+            },
+            {
+              "_content": "charlottedouglas",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-3090233",
+              "machine_tag": 0,
+              "raw": "'Charlotte-Douglas"
+            },
+            {
+              "_content": "international",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-12495",
+              "machine_tag": 0,
+              "raw": "international"
+            },
+            {
+              "_content": "landing",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-11499",
+              "machine_tag": 0,
+              "raw": "landing"
+            },
+            {
+              "_content": "plane",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-1369",
+              "machine_tag": 0,
+              "raw": "plane"
+            },
+            {
+              "_content": "airplne",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-1226603",
+              "machine_tag": 0,
+              "raw": "airplne"
+            },
+            {
+              "_content": "jet",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-7212",
+              "machine_tag": 0,
+              "raw": "jet"
+            },
+            {
+              "_content": "airliner",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-73548",
+              "machine_tag": 0,
+              "raw": "airliner"
+            },
+            {
+              "_content": "jetliner",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3403796974-214309",
+              "machine_tag": 0,
+              "raw": "jetliner"
             }
+          ]
+        },
+        "title": {
+          "_content": "Charlotte"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/bz3rk/3403796974/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1111",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 738,
+          "mimetype": "image/jpeg",
+          "secret": "O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 576,
+          "mimetype": "image/jpeg",
+          "secret": "O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 230,
+          "mimetype": "image/jpeg",
+          "secret": "O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 738,
+          "mimetype": "image/jpeg",
+          "secret": "3aCWeY3j3XnFt2imtfM5FGAtKA3uGEOijEy6MgoruKKorpzm7a2K",
+          "width": 1024
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 461,
+          "mimetype": "image/jpeg",
+          "secret": "O9TvLiT0iaryCrqZDZRT3ZSXhhK0vsBz3zRYMLGRJifjz7Tz8h3j",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006319,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006319,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"6f2c54df7d6208c53f2003c43f96f22f",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159325827,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159325827,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "6f2c54df7d6208c53f2003c43f96f22f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325827,
+        "locality_id": 85981333,
+        "media_id": 1159325827,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325827,
+        "media_id": 1159325827,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159325827,
-    "wof:lastmodified":1545868681,
-    "wof:name":"Charlotte",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325827,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Charlotte",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.95587,
     35.225314,
     -80.95587,
     35.225314
-],
+  ],
   "geometry": {"coordinates":[-80.95587,35.225314],"type":"Point"}
 }

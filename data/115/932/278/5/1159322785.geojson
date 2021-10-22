@@ -2,274 +2,278 @@
   "id": 1159322785,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-10-06",
-    "date:cessation_upper":"2017-10-06",
-    "date:inception_lower":"2017-10-06",
-    "date:inception_upper":"2017-10-06",
-    "edtf:cessation":"2017-10-06T00:45:07",
-    "edtf:inception":"2017-10-06T00:45:07",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382974,37.622389,-122.382974,37.622389",
-    "geom:latitude":37.622389,
-    "geom:longitude":-122.382974,
-    "iso:country":"US",
-    "media:created":1507275907,
-    "media:fingerprint":"a036784bd272ca7829eb67f62c83d81ea38f67a1",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"37682738606",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1516718467",
-                "posted":"1508151327",
-                "taken":"2017-10-06 00:45:07",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1508151327",
-            "description":{
-                "_content":"San Francisco - International (SFO / KSFO)\nCalifornia, USA  10.2017"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"37682738606",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.622389",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.382974",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"1518aaaba7",
-            "owner":{
-                "iconfarm":5,
-                "iconserver":"4583",
-                "location":"Bern, Schweiz ",
-                "nsid":"136038106@N05",
-                "path_alias":"kambui",
-                "realname":"M.Oertle",
-                "username":"Kambui"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"f394e3fcfd",
-            "server":"4486",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"unitedairlines",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37682738606-109273",
-                        "machine_tag":0,
-                        "raw":"United Airlines"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37682738606-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"737824",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37682738606-3255271",
-                        "machine_tag":0,
-                        "raw":"737-824"
-                    },
-                    {
-                        "_content":"n77258",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37682738606-6959471",
-                        "machine_tag":0,
-                        "raw":"N77258"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"United Airlines Boeing 737-824 N77258"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/kambui/37682738606/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"314",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-10-06",
+    "date:cessation_upper": "2017-10-06",
+    "date:inception_lower": "2017-10-06",
+    "date:inception_upper": "2017-10-06",
+    "edtf:cessation": "2017-10-06T00:45:07",
+    "edtf:inception": "2017-10-06T00:45:07",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382974,37.622389,-122.382974,37.622389",
+    "geom:latitude": 37.622389,
+    "geom:longitude": -122.382974,
+    "iso:country": "US",
+    "media:created": 1507275907,
+    "media:fingerprint": "a036784bd272ca7829eb67f62c83d81ea38f67a1",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "37682738606",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
-                "width":1024
+        "dates": {
+          "lastupdate": "1516718467",
+          "posted": "1508151327",
+          "taken": "2017-10-06 00:45:07",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1508151327",
+        "description": {
+          "_content": "San Francisco - International (SFO / KSFO)\nCalifornia, USA  10.2017"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "37682738606",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.622389",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.382974",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "1518aaaba7",
+        "owner": {
+          "iconfarm": 5,
+          "iconserver": "4583",
+          "location": "Bern, Schweiz ",
+          "nsid": "136038106@N05",
+          "path_alias": "kambui",
+          "realname": "M.Oertle",
+          "username": "Kambui"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "f394e3fcfd",
+        "server": "4486",
+        "tags": {
+          "tag": [
+            {
+              "_content": "unitedairlines",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37682738606-109273",
+              "machine_tag": 0,
+              "raw": "United Airlines"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
-                "width":800
+            {
+              "_content": "boeing",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37682738606-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
-                "width":320
+            {
+              "_content": "737824",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37682738606-3255271",
+              "machine_tag": 0,
+              "raw": "737-824"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1066,
-                "mimetype":"image/jpeg",
-                "secret":"d9e1lhAqFvn4pEpIeRFtolrReRG9KH6BS79CseqRKCUKQw49WapI",
-                "width":1600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
-                "width":640
+            {
+              "_content": "n77258",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37682738606-6959471",
+              "machine_tag": 0,
+              "raw": "N77258"
             }
+          ]
+        },
+        "title": {
+          "_content": "United Airlines Boeing 737-824 N77258"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/kambui/37682738606/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "314",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1066,
+          "mimetype": "image/jpeg",
+          "secret": "d9e1lhAqFvn4pEpIeRFtolrReRG9KH6BS79CseqRKCUKQw49WapI",
+          "width": 1600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "g7rnb8QPNPpRc3bKHo4dUPcYXYe6AMVhg61BXUkelnJsIx9Cd1X2",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678687,
-    "wof:depicts":[
-        102527513,
-        1159285413,
-        1159289819,
-        1159293593
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678687,
+    "wof:depicts": [
+      102527513,
+      1159285413,
+      1159289819,
+      1159293593
     ],
-    "wof:geomhash":"ea66f4541a4684fadc9f096d21be7ebd",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322785,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322785,
-            "region_id":85688637
-        }
+    "wof:geomhash": "ea66f4541a4684fadc9f096d21be7ebd",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322785,
+        "locality_id": 85922583,
+        "media_id": 1159322785,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322785,
+        "media_id": 1159322785,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322785,
-    "wof:lastmodified":1545868688,
-    "wof:name":"United Airlines Boeing 737-824 N77258",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322785,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "United Airlines Boeing 737-824 N77258",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.382974,
     37.622389,
     -122.382974,
     37.622389
-],
+  ],
   "geometry": {"coordinates":[-122.382974,37.622389],"type":"Point"}
 }

@@ -2,458 +2,461 @@
   "id": 1159330619,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-06-21",
-    "date:cessation_upper":"2016-06-21",
-    "date:inception_lower":"2016-06-21",
-    "date:inception_upper":"2016-06-21",
-    "edtf:cessation":"2016-06-21T16:02:24",
-    "edtf:inception":"2016-06-21T16:02:24",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.396911,33.953114,-118.396911,33.953114",
-    "geom:latitude":33.953114,
-    "geom:longitude":-118.396911,
-    "iso:country":"US",
-    "media:created":1466550144,
-    "media:fingerprint":"77541020ce65468b0af511e73f41604467126b37",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"27888072456",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1466976226",
-                "posted":"1466976158",
-                "taken":"2016-06-21 16:02:24",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1466976158",
-            "description":{
-                "_content":"I have long wanted to do some plane watching at LAX at the In-N-Out Burger at 9149 S Sepulveda Blvd. (Los Angeles, CA 90045).  It might be one of the most famous plane watching locations, especially given the great planes that land at LAX.  Always nice to hang out with other plane watchers.  Very friendly folks there.  I had some time to watch the planes, including the A380s on Tuesday June 21, 2016 after I arrived in Los Angeles for a conference at UCLA. This is British Airways' A380-800 with tail number G-XLEG  landing around 1pm at LAX.  It was flight number BA283."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"27888072456",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.953114",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.396911",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"8481e43fb2",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7167",
-                "location":"Saline, Mich., USA",
-                "nsid":"7702423@N04",
-                "path_alias":"cseeman",
-                "realname":"Corey Seeman",
-                "username":"cseeman"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"13ced6cfcd",
-            "server":"7189",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"lax",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"losangeles",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-2424",
-                        "machine_tag":0,
-                        "raw":"Los Angeles"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"losangelesinternationalairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-481719",
-                        "machine_tag":0,
-                        "raw":"Los Angeles International Airport"
-                    },
-                    {
-                        "_content":"losangelesworldairports",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-9802975",
-                        "machine_tag":0,
-                        "raw":"Los Angeles World Airports"
-                    },
-                    {
-                        "_content":"airports",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-28698",
-                        "machine_tag":0,
-                        "raw":"Airports"
-                    },
-                    {
-                        "_content":"airplanes",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-6603",
-                        "machine_tag":0,
-                        "raw":"Airplanes"
-                    },
-                    {
-                        "_content":"passengeraircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-1602103",
-                        "machine_tag":0,
-                        "raw":"Passenger Aircraft"
-                    },
-                    {
-                        "_content":"aircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-5854",
-                        "machine_tag":0,
-                        "raw":"Aircraft"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-32533",
-                        "machine_tag":0,
-                        "raw":"Airlines"
-                    },
-                    {
-                        "_content":"jets",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-6343",
-                        "machine_tag":0,
-                        "raw":"Jets"
-                    },
-                    {
-                        "_content":"lax06212016",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-297809795",
-                        "machine_tag":0,
-                        "raw":"LAX06212016"
-                    },
-                    {
-                        "_content":"innoutburger",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-57739",
-                        "machine_tag":0,
-                        "raw":"In-N-Out Burger"
-                    },
-                    {
-                        "_content":"innoutburgerlax",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-20513896",
-                        "machine_tag":0,
-                        "raw":"In-N-Out Burger LAX"
-                    },
-                    {
-                        "_content":"aircraftinthesky",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-7943707",
-                        "machine_tag":0,
-                        "raw":"Aircraft in the Sky"
-                    },
-                    {
-                        "_content":"landing",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-11499",
-                        "machine_tag":0,
-                        "raw":"Landing"
-                    },
-                    {
-                        "_content":"landingatlax",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-45528918",
-                        "machine_tag":0,
-                        "raw":"Landing at LAX"
-                    },
-                    {
-                        "_content":"airbus",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-16434",
-                        "machine_tag":0,
-                        "raw":"Airbus"
-                    },
-                    {
-                        "_content":"jumbojet",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-63724",
-                        "machine_tag":0,
-                        "raw":"Jumbo Jet"
-                    },
-                    {
-                        "_content":"a380",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-16435",
-                        "machine_tag":0,
-                        "raw":"A380"
-                    },
-                    {
-                        "_content":"a380800",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-4811079",
-                        "machine_tag":0,
-                        "raw":"A380-800"
-                    },
-                    {
-                        "_content":"airbus380800",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-42307241",
-                        "machine_tag":0,
-                        "raw":"Airbus 380-800"
-                    },
-                    {
-                        "_content":"airbus380",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-443341",
-                        "machine_tag":0,
-                        "raw":"Airbus 380"
-                    },
-                    {
-                        "_content":"380",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-152023",
-                        "machine_tag":0,
-                        "raw":"380"
-                    },
-                    {
-                        "_content":"britishairways",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-41522",
-                        "machine_tag":0,
-                        "raw":"British Airways"
-                    },
-                    {
-                        "_content":"britishairwaysa380",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-121579833",
-                        "machine_tag":0,
-                        "raw":"British Airways A380"
-                    },
-                    {
-                        "_content":"gxleg",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-215062866",
-                        "machine_tag":0,
-                        "raw":"G-XLEG"
-                    },
-                    {
-                        "_content":"a380gxleg",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27888072456-294850451",
-                        "machine_tag":0,
-                        "raw":"A380 G-XLEG"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"British Airways A380-800 Landing - Plane Watching at In-N-Out Burger near LAX (Los Angeles International Airport) - Tuesday June 21, 2016"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/cseeman/27888072456/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"131",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-06-21",
+    "date:cessation_upper": "2016-06-21",
+    "date:inception_lower": "2016-06-21",
+    "date:inception_upper": "2016-06-21",
+    "edtf:cessation": "2016-06-21T16:02:24",
+    "edtf:inception": "2016-06-21T16:02:24",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.396911,33.953114,-118.396911,33.953114",
+    "geom:latitude": 33.953114,
+    "geom:longitude": -118.396911,
+    "iso:country": "US",
+    "media:created": 1466550144,
+    "media:fingerprint": "77541020ce65468b0af511e73f41604467126b37",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "27888072456",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
-                "width":1024
+        "dates": {
+          "lastupdate": "1466976226",
+          "posted": "1466976158",
+          "taken": "2016-06-21 16:02:24",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1466976158",
+        "description": {
+          "_content": "I have long wanted to do some plane watching at LAX at the In-N-Out Burger at 9149 S Sepulveda Blvd. (Los Angeles, CA 90045).  It might be one of the most famous plane watching locations, especially given the great planes that land at LAX.  Always nice to hang out with other plane watchers.  Very friendly folks there.  I had some time to watch the planes, including the A380s on Tuesday June 21, 2016 after I arrived in Los Angeles for a conference at UCLA. This is British Airways' A380-800 with tail number G-XLEG  landing around 1pm at LAX.  It was flight number BA283."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "27888072456",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.953114",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.396911",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "8481e43fb2",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7167",
+          "location": "Saline, Mich., USA",
+          "nsid": "7702423@N04",
+          "path_alias": "cseeman",
+          "realname": "Corey Seeman",
+          "username": "cseeman"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "13ced6cfcd",
+        "server": "7189",
+        "tags": {
+          "tag": [
+            {
+              "_content": "lax",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
-                "width":800
+            {
+              "_content": "losangeles",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-2424",
+              "machine_tag": 0,
+              "raw": "Los Angeles"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
-                "width":320
+            {
+              "_content": "california",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-50",
+              "machine_tag": 0,
+              "raw": "California"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3648,
-                "mimetype":"image/jpeg",
-                "secret":"dkn1IBvI8hVTJJ0iM8vKDnkvnweVFv6oJ7lQDUg0CfM24zwFMGXy",
-                "width":5472
+            {
+              "_content": "losangelesinternationalairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-481719",
+              "machine_tag": 0,
+              "raw": "Los Angeles International Airport"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
-                "width":320
+            {
+              "_content": "losangelesworldairports",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-9802975",
+              "machine_tag": 0,
+              "raw": "Los Angeles World Airports"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
-                "width":640
+            {
+              "_content": "airports",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-28698",
+              "machine_tag": 0,
+              "raw": "Airports"
+            },
+            {
+              "_content": "airplanes",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-6603",
+              "machine_tag": 0,
+              "raw": "Airplanes"
+            },
+            {
+              "_content": "passengeraircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-1602103",
+              "machine_tag": 0,
+              "raw": "Passenger Aircraft"
+            },
+            {
+              "_content": "aircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-5854",
+              "machine_tag": 0,
+              "raw": "Aircraft"
+            },
+            {
+              "_content": "airlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-32533",
+              "machine_tag": 0,
+              "raw": "Airlines"
+            },
+            {
+              "_content": "jets",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-6343",
+              "machine_tag": 0,
+              "raw": "Jets"
+            },
+            {
+              "_content": "lax06212016",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-297809795",
+              "machine_tag": 0,
+              "raw": "LAX06212016"
+            },
+            {
+              "_content": "innoutburger",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-57739",
+              "machine_tag": 0,
+              "raw": "In-N-Out Burger"
+            },
+            {
+              "_content": "innoutburgerlax",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-20513896",
+              "machine_tag": 0,
+              "raw": "In-N-Out Burger LAX"
+            },
+            {
+              "_content": "aircraftinthesky",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-7943707",
+              "machine_tag": 0,
+              "raw": "Aircraft in the Sky"
+            },
+            {
+              "_content": "landing",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-11499",
+              "machine_tag": 0,
+              "raw": "Landing"
+            },
+            {
+              "_content": "landingatlax",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-45528918",
+              "machine_tag": 0,
+              "raw": "Landing at LAX"
+            },
+            {
+              "_content": "airbus",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-16434",
+              "machine_tag": 0,
+              "raw": "Airbus"
+            },
+            {
+              "_content": "jumbojet",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-63724",
+              "machine_tag": 0,
+              "raw": "Jumbo Jet"
+            },
+            {
+              "_content": "a380",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-16435",
+              "machine_tag": 0,
+              "raw": "A380"
+            },
+            {
+              "_content": "a380800",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-4811079",
+              "machine_tag": 0,
+              "raw": "A380-800"
+            },
+            {
+              "_content": "airbus380800",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-42307241",
+              "machine_tag": 0,
+              "raw": "Airbus 380-800"
+            },
+            {
+              "_content": "airbus380",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-443341",
+              "machine_tag": 0,
+              "raw": "Airbus 380"
+            },
+            {
+              "_content": "380",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-152023",
+              "machine_tag": 0,
+              "raw": "380"
+            },
+            {
+              "_content": "britishairways",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-41522",
+              "machine_tag": 0,
+              "raw": "British Airways"
+            },
+            {
+              "_content": "britishairwaysa380",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-121579833",
+              "machine_tag": 0,
+              "raw": "British Airways A380"
+            },
+            {
+              "_content": "gxleg",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-215062866",
+              "machine_tag": 0,
+              "raw": "G-XLEG"
+            },
+            {
+              "_content": "a380gxleg",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27888072456-294850451",
+              "machine_tag": 0,
+              "raw": "A380 G-XLEG"
             }
+          ]
+        },
+        "title": {
+          "_content": "British Airways A380-800 Landing - Plane Watching at In-N-Out Burger near LAX (Los Angeles International Airport) - Tuesday June 21, 2016"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/cseeman/27888072456/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "131",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3648,
+          "mimetype": "image/jpeg",
+          "secret": "dkn1IBvI8hVTJJ0iM8vKDnkvnweVFv6oJ7lQDUg0CfM24zwFMGXy",
+          "width": 5472
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "LUxfL8IxbUWs6zgNIBqpxBzsG0TMSqrUtLzzt8oFZWLAOtombH2V",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527017418,
-    "wof:depicts":[
-        102533795,
-        1159284021,
-        1159289437
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527017418,
+    "wof:depicts": [
+      102533795,
+      1159284021,
+      1159289437
     ],
-    "wof:geomhash":"619963318030dd519f78f522414221bb",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159330619,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "619963318030dd519f78f522414221bb",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159330619,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159330619,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159330619,
-    "wof:lastmodified":1545868722,
-    "wof:name":"British Airways A380-800 Landing - Plane Watching at In-N-Out Burger near LAX (Los Angeles International Airport) - Tuesday June 21, 2016",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159330619,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "British Airways A380-800 Landing - Plane Watching at In-N-Out Burger near LAX (Los Angeles International Airport) - Tuesday June 21, 2016",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.396911,
     33.953114,
     -118.396911,
     33.953114
-],
+  ],
   "geometry": {"coordinates":[-118.396911,33.953114],"type":"Point"}
 }

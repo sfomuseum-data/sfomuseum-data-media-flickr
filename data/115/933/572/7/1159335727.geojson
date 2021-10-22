@@ -2,304 +2,308 @@
   "id": 1159335727,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-12-12",
-    "date:cessation_upper":"2011-12-12",
-    "date:inception_lower":"2011-12-12",
-    "date:inception_upper":"2011-12-12",
-    "edtf:cessation":"2011-12-12T15:16:01",
-    "edtf:inception":"2011-12-12T15:16:01",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.926304,37.366624,-121.926304,37.366624",
-    "geom:latitude":37.366624,
-    "geom:longitude":-121.926304,
-    "iso:country":"US",
-    "media:created":1323731761,
-    "media:fingerprint":"7fb497141ee0ff045e68de8bcd2d0254d43c8793",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"6501346237",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
+    "date:cessation_lower": "2011-12-12",
+    "date:cessation_upper": "2011-12-12",
+    "date:inception_lower": "2011-12-12",
+    "date:inception_upper": "2011-12-12",
+    "edtf:cessation": "2011-12-12T15:16:01",
+    "edtf:inception": "2011-12-12T15:16:01",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.926304,37.366624,-121.926304,37.366624",
+    "geom:latitude": 37.366624,
+    "geom:longitude": -121.926304,
+    "iso:country": "US",
+    "media:created": 1323731761,
+    "media:fingerprint": "7fb497141ee0ff045e68de8bcd2d0254d43c8793",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "6501346237",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1323724567",
+          "posted": "1323724561",
+          "taken": "2011-12-12 15:16:01",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1323724561",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "6501346237",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Santa Clara",
+            "place_id": "b3n8i7RQUL_rtDiYCQ",
+            "woeid": "12587712"
+          },
+          "latitude": "37.366624",
+          "locality": {
+            "_content": "Norman Y Mineta San Jose International Airport",
+            "place_id": "u2FFS25QUL9w2dKkeg",
+            "woeid": "12521722"
+          },
+          "longitude": "-121.926304",
+          "place_id": "u2FFS25QUL9w2dKkeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521722"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "7450d608b9",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5451",
+          "location": "Eugene, Oregon, USA",
+          "nsid": "32515924@N03",
+          "path_alias": "btx91",
+          "realname": "Matthew Roberts",
+          "username": "Rural Urbanophile"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "6271a13a74",
+        "server": "7148",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "32515924@N03",
+              "authorname": "Rural Urbanophile",
+              "id": "32492870-6501346237-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "dates":{
-                "lastupdate":"1323724567",
-                "posted":"1323724561",
-                "taken":"2011-12-12 15:16:01",
-                "takengranularity":"0",
-                "takenunknown":0
+            {
+              "_content": "square",
+              "author": "32515924@N03",
+              "authorname": "Rural Urbanophile",
+              "id": "32492870-6501346237-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "dateuploaded":"1323724561",
-            "description":{
-                "_content":""
+            {
+              "_content": "squareformat",
+              "author": "32515924@N03",
+              "authorname": "Rural Urbanophile",
+              "id": "32492870-6501346237-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
+            {
+              "_content": "iphoneography",
+              "author": "32515924@N03",
+              "authorname": "Rural Urbanophile",
+              "id": "32492870-6501346237-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "32515924@N03",
+              "authorname": "Rural Urbanophile",
+              "id": "32492870-6501346237-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             },
-            "id":"6501346237",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Santa Clara",
-                    "place_id":"b3n8i7RQUL_rtDiYCQ",
-                    "woeid":"12587712"
-                },
-                "latitude":"37.366624",
-                "locality":{
-                    "_content":"Norman Y Mineta San Jose International Airport",
-                    "place_id":"u2FFS25QUL9w2dKkeg",
-                    "woeid":"12521722"
-                },
-                "longitude":"-121.926304",
-                "place_id":"u2FFS25QUL9w2dKkeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521722"
+            {
+              "_content": "lomofi",
+              "author": "32515924@N03",
+              "authorname": "Rural Urbanophile",
+              "id": "32492870-6501346237-2334434",
+              "machine_tag": 0,
+              "raw": "Lomo-fi"
             },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"7450d608b9",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5451",
-                "location":"Eugene, Oregon, USA",
-                "nsid":"32515924@N03",
-                "path_alias":"btx91",
-                "realname":"Matthew Roberts",
-                "username":"Rural Urbanophile"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"6271a13a74",
-            "server":"7148",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"32515924@N03",
-                        "authorname":"Rural Urbanophile",
-                        "id":"32492870-6501346237-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"32515924@N03",
-                        "authorname":"Rural Urbanophile",
-                        "id":"32492870-6501346237-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"32515924@N03",
-                        "authorname":"Rural Urbanophile",
-                        "id":"32492870-6501346237-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"32515924@N03",
-                        "authorname":"Rural Urbanophile",
-                        "id":"32492870-6501346237-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"32515924@N03",
-                        "authorname":"Rural Urbanophile",
-                        "id":"32492870-6501346237-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    },
-                    {
-                        "_content":"lomofi",
-                        "author":"32515924@N03",
-                        "authorname":"Rural Urbanophile",
-                        "id":"32492870-6501346237-2334434",
-                        "machine_tag":0,
-                        "raw":"Lomo-fi"
-                    },
-                    {
-                        "_content":"foursquare:venue=43ba62b4f964a520e72c1fe3",
-                        "author":"32515924@N03",
-                        "authorname":"Rural Urbanophile",
-                        "id":"32492870-6501346237-66534264",
-                        "machine_tag":1,
-                        "raw":"foursquare:venue=43ba62b4f964a520e72c1fe3"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"A cool little airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/btx91/6501346237/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"23",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
+            {
+              "_content": "foursquare:venue=43ba62b4f964a520e72c1fe3",
+              "author": "32515924@N03",
+              "authorname": "Rural Urbanophile",
+              "id": "32492870-6501346237-66534264",
+              "machine_tag": 1,
+              "raw": "foursquare:venue=43ba62b4f964a520e72c1fe3"
             }
+          ]
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
-                "width":768
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
-                "width":600
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
-                "width":240
-            },
-            "o":{
-                "extension":"jpg",
-                "height":612,
-                "mimetype":"image/jpeg",
-                "secret":"iXEKHGg9wfJBkDqgfXKDVa2R07QlS7jXCPXuw2TwNJjA9yErAMoB",
-                "width":612
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
-                "width":480
+        "title": {
+          "_content": "A cool little airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/btx91/6501346237/",
+              "type": "photopage"
             }
+          ]
         },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102527529
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527529,
-        85869525,
-        102191575,
-        85633793,
-        85922341,
-        102081673,
-        85688637,
-        1108779019,
-        1108782553,
-        85922347
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527027365,
-    "wof:depicts":[
-        102527529,
-        1159335727
-    ],
-    "wof:geomhash":"b95a0d3da5eac29ab72b9299a8b95f54",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922341,
-            "media_id":1159335727,
-            "neighbourhood_id":85869525,
-            "region_id":85688637
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
         },
-        {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782553,
-            "media_id":1159335727,
-            "neighbourhood_id":1108779019,
-            "region_id":85688637
+        "views": "23",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 612,
+          "mimetype": "image/jpeg",
+          "secret": "iXEKHGg9wfJBkDqgfXKDVa2R07QlS7jXCPXuw2TwNJjA9yErAMoB",
+          "width": 612
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "hBJ6DYcNjM2UQ2WidFETg5VP2YxB2tuocmUe98FlWrzIsgfeJiZA",
+          "width": 480
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102527529
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527529,
+      85869525,
+      102191575,
+      85633793,
+      85922341,
+      102081673,
+      85688637,
+      1108779019,
+      1108782553,
+      85922347
     ],
-    "wof:id":1159335727,
-    "wof:lastmodified":1545868724,
-    "wof:name":"A cool little airport",
-    "wof:parent_id":102527529,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527027365,
+    "wof:depicts": [
+      102527529,
+      1159335727
+    ],
+    "wof:geomhash": "b95a0d3da5eac29ab72b9299a8b95f54",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "image_id": 1159335727,
+        "locality_id": 85922341,
+        "media_id": 1159335727,
+        "neighbourhood_id": 85869525,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "image_id": 1159335727,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782553,
+        "media_id": 1159335727,
+        "neighbourhood_id": 1108779019,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159335727,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "A cool little airport",
+    "wof:parent_id": 102527529,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.926304,
     37.366624,
     -121.926304,
     37.366624
-],
+  ],
   "geometry": {"coordinates":[-121.926304,37.366624],"type":"Point"}
 }

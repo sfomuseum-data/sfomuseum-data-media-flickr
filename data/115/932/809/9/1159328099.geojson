@@ -2,271 +2,275 @@
   "id": 1159328099,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-03-17",
-    "date:cessation_upper":"2013-03-17",
-    "date:inception_lower":"2013-03-17",
-    "date:inception_upper":"2013-03-17",
-    "edtf:cessation":"2013-03-17T21:46:33",
-    "edtf:inception":"2013-03-17T21:46:33",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.943585,35.220154,-80.943585,35.220154",
-    "geom:latitude":35.220154,
-    "geom:longitude":-80.943585,
-    "iso:country":"US",
-    "media:created":1363581993,
-    "media:fingerprint":"115b07f84c59f2da63e03d9cc8d9b05dfa0115ba",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8567519708",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1416447498",
-                "posted":"1363571402",
-                "taken":"2013-03-17 21:46:33",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1363571402",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8567519708",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220154",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.943585",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"50884e831c",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"16",
-                "location":"",
-                "nsid":"22602880@N00",
-                "path_alias":"raffik",
-                "realname":"",
-                "username":"raffik"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"75cd12ebd4",
-            "server":"8508",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"charlottedouglasinternationalairportclt",
-                        "author":"22602880@N00",
-                        "authorname":"raffik",
-                        "id":"629158-8567519708-50508754",
-                        "machine_tag":0,
-                        "raw":"Charlotte Douglas International Airport (CLT)"
-                    },
-                    {
-                        "_content":"mammothfilter",
-                        "author":"22602880@N00",
-                        "authorname":"raffik",
-                        "id":"629158-8567519708-101497757",
-                        "machine_tag":0,
-                        "raw":"Mammoth filter"
-                    },
-                    {
-                        "_content":"flickriosapp:filter=mammoth",
-                        "author":"22602880@N00",
-                        "authorname":"raffik",
-                        "id":"629158-8567519708-100973154",
-                        "machine_tag":1,
-                        "raw":"flickriosapp:filter=Mammoth"
-                    },
-                    {
-                        "_content":"uploaded:by=flickrmobile",
-                        "author":"22602880@N00",
-                        "authorname":"raffik",
-                        "id":"629158-8567519708-97692397",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=flickr_mobile"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"another US airways flight. the fun keeps coming."
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/raffik/8567519708/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"159",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-03-17",
+    "date:cessation_upper": "2013-03-17",
+    "date:inception_lower": "2013-03-17",
+    "date:inception_upper": "2013-03-17",
+    "edtf:cessation": "2013-03-17T21:46:33",
+    "edtf:inception": "2013-03-17T21:46:33",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.943585,35.220154,-80.943585,35.220154",
+    "geom:latitude": 35.220154,
+    "geom:longitude": -80.943585,
+    "iso:country": "US",
+    "media:created": 1363581993,
+    "media:fingerprint": "115b07f84c59f2da63e03d9cc8d9b05dfa0115ba",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8567519708",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
-                "width":767
+        "dates": {
+          "lastupdate": "1416447498",
+          "posted": "1363571402",
+          "taken": "2013-03-17 21:46:33",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1363571402",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8567519708",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220154",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.943585",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "50884e831c",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "16",
+          "location": "",
+          "nsid": "22602880@N00",
+          "path_alias": "raffik",
+          "realname": "",
+          "username": "raffik"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "75cd12ebd4",
+        "server": "8508",
+        "tags": {
+          "tag": [
+            {
+              "_content": "charlottedouglasinternationalairportclt",
+              "author": "22602880@N00",
+              "authorname": "raffik",
+              "id": "629158-8567519708-50508754",
+              "machine_tag": 0,
+              "raw": "Charlotte Douglas International Airport (CLT)"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
-                "width":599
+            {
+              "_content": "mammothfilter",
+              "author": "22602880@N00",
+              "authorname": "raffik",
+              "id": "629158-8567519708-101497757",
+              "machine_tag": 0,
+              "raw": "Mammoth filter"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
-                "width":239
+            {
+              "_content": "flickriosapp:filter=mammoth",
+              "author": "22602880@N00",
+              "authorname": "raffik",
+              "id": "629158-8567519708-100973154",
+              "machine_tag": 1,
+              "raw": "flickriosapp:filter=Mammoth"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2449,
-                "mimetype":"image/jpeg",
-                "secret":"xB7WmEnAIJ5dpqTYSC2WcT7Tdk72WkFTzz6yi5nh08ccS97nMXFl",
-                "width":2448
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
-                "width":479
+            {
+              "_content": "uploaded:by=flickrmobile",
+              "author": "22602880@N00",
+              "authorname": "raffik",
+              "id": "629158-8567519708-97692397",
+              "machine_tag": 1,
+              "raw": "uploaded:by=flickr_mobile"
             }
+          ]
+        },
+        "title": {
+          "_content": "another US airways flight. the fun keeps coming."
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/raffik/8567519708/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "159",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
+          "width": 767
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
+          "width": 599
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
+          "width": 239
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2449,
+          "mimetype": "image/jpeg",
+          "secret": "xB7WmEnAIJ5dpqTYSC2WcT7Tdk72WkFTzz6yi5nh08ccS97nMXFl",
+          "width": 2448
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "FxnL333iT1WGmoxCWf5sA1rkjU2UKyS5yc9YW0DMA2NmV2vCsuIO",
+          "width": 479
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007373,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007373,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"aa5bdb76d52cf1bfd5df3ebb63bd9454",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328099,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328099,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "aa5bdb76d52cf1bfd5df3ebb63bd9454",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328099,
+        "locality_id": 85981333,
+        "media_id": 1159328099,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328099,
+        "media_id": 1159328099,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328099,
-    "wof:lastmodified":1545868657,
-    "wof:name":"another US airways flight. the fun keeps coming.",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328099,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "another US airways flight. the fun keeps coming.",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.943585,
     35.220154,
     -80.943585,
     35.220154
-],
+  ],
   "geometry": {"coordinates":[-80.943585,35.220154],"type":"Point"}
 }

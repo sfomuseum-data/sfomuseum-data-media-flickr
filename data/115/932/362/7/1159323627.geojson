@@ -2,295 +2,298 @@
   "id": 1159323627,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-07-16",
-    "date:cessation_upper":"2009-07-16",
-    "date:inception_lower":"2009-07-16",
-    "date:inception_upper":"2009-07-16",
-    "edtf:cessation":"2009-07-16T13:52:26",
-    "edtf:inception":"2009-07-16T13:52:26",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.979295,42.210273,-75.979295,42.210273",
-    "geom:latitude":42.210273,
-    "geom:longitude":-75.979295,
-    "iso:country":"US",
-    "media:created":1247777546,
-    "media:fingerprint":"8d20c74ab5ad9f8526daa7532ff892ccf64da0a2",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3727822074",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1280830773",
-                "posted":"1247777546",
-                "taken":"2009-07-16 13:52:26",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1247777546",
-            "description":{
-                "_content":"Fat Albert JATO takeoff at the Greater Binghamton Airshow.  This is one of the last JATO takeoff's by the Blue Angels."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3727822074",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Broome",
-                    "place_id":"nuDD0iFQUL9Hds31aw",
-                    "woeid":"12589315"
-                },
-                "latitude":"42.210273",
-                "locality":{
-                    "_content":"Greater Binghamton Edwin A Link Field Airport",
-                    "place_id":"jTvYx1BQUL_RrlrjhQ",
-                    "woeid":"12519598"
-                },
-                "longitude":"-75.979295",
-                "place_id":"jTvYx1BQUL_RrlrjhQ",
-                "region":{
-                    "_content":"New York",
-                    "place_id":"ODHTuIhTUb75gdBu",
-                    "woeid":"2347591"
-                },
-                "woeid":"12519598"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"ca613a2c29",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3441",
-                "location":"Clifton Park, NY, USA",
-                "nsid":"30270696@N08",
-                "path_alias":null,
-                "realname":"Scott LaBrake",
-                "username":"scott.labrake"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"4bf41f0443",
-            "server":"3460",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"blue",
-                        "author":"30270696@N08",
-                        "authorname":"scott.labrake",
-                        "id":"30177883-3727822074-141",
-                        "machine_tag":0,
-                        "raw":"Blue"
-                    },
-                    {
-                        "_content":"angels",
-                        "author":"30270696@N08",
-                        "authorname":"scott.labrake",
-                        "id":"30177883-3727822074-13693",
-                        "machine_tag":0,
-                        "raw":"Angels"
-                    },
-                    {
-                        "_content":"fat",
-                        "author":"30270696@N08",
-                        "authorname":"scott.labrake",
-                        "id":"30177883-3727822074-5881",
-                        "machine_tag":0,
-                        "raw":"Fat"
-                    },
-                    {
-                        "_content":"albert",
-                        "author":"30270696@N08",
-                        "authorname":"scott.labrake",
-                        "id":"30177883-3727822074-6121",
-                        "machine_tag":0,
-                        "raw":"Albert"
-                    },
-                    {
-                        "_content":"binghamton",
-                        "author":"30270696@N08",
-                        "authorname":"scott.labrake",
-                        "id":"30177883-3727822074-91144",
-                        "machine_tag":0,
-                        "raw":"Binghamton"
-                    },
-                    {
-                        "_content":"airshow",
-                        "author":"30270696@N08",
-                        "authorname":"scott.labrake",
-                        "id":"30177883-3727822074-11686",
-                        "machine_tag":0,
-                        "raw":"Airshow"
-                    },
-                    {
-                        "_content":"c130",
-                        "author":"30270696@N08",
-                        "authorname":"scott.labrake",
-                        "id":"30177883-3727822074-92004",
-                        "machine_tag":0,
-                        "raw":"C-130"
-                    },
-                    {
-                        "_content":"jato",
-                        "author":"30270696@N08",
-                        "authorname":"scott.labrake",
-                        "id":"30177883-3727822074-665936",
-                        "machine_tag":0,
-                        "raw":"JATO"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Fat Albert JATO Take-off"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/30270696@N08/3727822074/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"395",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-07-16",
+    "date:cessation_upper": "2009-07-16",
+    "date:inception_lower": "2009-07-16",
+    "date:inception_upper": "2009-07-16",
+    "edtf:cessation": "2009-07-16T13:52:26",
+    "edtf:inception": "2009-07-16T13:52:26",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.979295,42.210273,-75.979295,42.210273",
+    "geom:latitude": 42.210273,
+    "geom:longitude": -75.979295,
+    "iso:country": "US",
+    "media:created": 1247777546,
+    "media:fingerprint": "8d20c74ab5ad9f8526daa7532ff892ccf64da0a2",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3727822074",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":464,
-                "mimetype":"image/jpeg",
-                "secret":"rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
-                "width":1023
+        "dates": {
+          "lastupdate": "1280830773",
+          "posted": "1247777546",
+          "taken": "2009-07-16 13:52:26",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1247777546",
+        "description": {
+          "_content": "Fat Albert JATO takeoff at the Greater Binghamton Airshow.  This is one of the last JATO takeoff's by the Blue Angels."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3727822074",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Broome",
+            "place_id": "nuDD0iFQUL9Hds31aw",
+            "woeid": "12589315"
+          },
+          "latitude": "42.210273",
+          "locality": {
+            "_content": "Greater Binghamton Edwin A Link Field Airport",
+            "place_id": "jTvYx1BQUL_RrlrjhQ",
+            "woeid": "12519598"
+          },
+          "longitude": "-75.979295",
+          "place_id": "jTvYx1BQUL_RrlrjhQ",
+          "region": {
+            "_content": "New York",
+            "place_id": "ODHTuIhTUb75gdBu",
+            "woeid": "2347591"
+          },
+          "woeid": "12519598"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "ca613a2c29",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3441",
+          "location": "Clifton Park, NY, USA",
+          "nsid": "30270696@N08",
+          "path_alias": null,
+          "realname": "Scott LaBrake",
+          "username": "scott.labrake"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "4bf41f0443",
+        "server": "3460",
+        "tags": {
+          "tag": [
+            {
+              "_content": "blue",
+              "author": "30270696@N08",
+              "authorname": "scott.labrake",
+              "id": "30177883-3727822074-141",
+              "machine_tag": 0,
+              "raw": "Blue"
             },
-            "c":{
-                "extension":"jpg",
-                "height":362,
-                "mimetype":"image/jpeg",
-                "secret":"rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
-                "width":800
+            {
+              "_content": "angels",
+              "author": "30270696@N08",
+              "authorname": "scott.labrake",
+              "id": "30177883-3727822074-13693",
+              "machine_tag": 0,
+              "raw": "Angels"
             },
-            "n":{
-                "extension":"jpg",
-                "height":145,
-                "mimetype":"image/jpeg",
-                "secret":"rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
-                "width":320
+            {
+              "_content": "fat",
+              "author": "30270696@N08",
+              "authorname": "scott.labrake",
+              "id": "30177883-3727822074-5881",
+              "machine_tag": 0,
+              "raw": "Fat"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1696,
-                "mimetype":"image/jpeg",
-                "secret":"rZr7kJOa46WZ968X0nxl4LBIQuLzeV6YPB27gR8caTYAVTviXDXB",
-                "width":3739
+            {
+              "_content": "albert",
+              "author": "30270696@N08",
+              "authorname": "scott.labrake",
+              "id": "30177883-3727822074-6121",
+              "machine_tag": 0,
+              "raw": "Albert"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
-                "width":320
+            {
+              "_content": "binghamton",
+              "author": "30270696@N08",
+              "authorname": "scott.labrake",
+              "id": "30177883-3727822074-91144",
+              "machine_tag": 0,
+              "raw": "Binghamton"
             },
-            "z":{
-                "extension":"jpg",
-                "height":290,
-                "mimetype":"image/jpeg",
-                "secret":"rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
-                "width":640
+            {
+              "_content": "airshow",
+              "author": "30270696@N08",
+              "authorname": "scott.labrake",
+              "id": "30177883-3727822074-11686",
+              "machine_tag": 0,
+              "raw": "Airshow"
+            },
+            {
+              "_content": "c130",
+              "author": "30270696@N08",
+              "authorname": "scott.labrake",
+              "id": "30177883-3727822074-92004",
+              "machine_tag": 0,
+              "raw": "C-130"
+            },
+            {
+              "_content": "jato",
+              "author": "30270696@N08",
+              "authorname": "scott.labrake",
+              "id": "30177883-3727822074-665936",
+              "machine_tag": 0,
+              "raw": "JATO"
             }
+          ]
+        },
+        "title": {
+          "_content": "Fat Albert JATO Take-off"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/30270696@N08/3727822074/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "395",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 464,
+          "mimetype": "image/jpeg",
+          "secret": "rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 362,
+          "mimetype": "image/jpeg",
+          "secret": "rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 145,
+          "mimetype": "image/jpeg",
+          "secret": "rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1696,
+          "mimetype": "image/jpeg",
+          "secret": "rZr7kJOa46WZ968X0nxl4LBIQuLzeV6YPB27gR8caTYAVTviXDXB",
+          "width": 3739
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 290,
+          "mimetype": "image/jpeg",
+          "secret": "rYCAlcNFqFYNL2tMEcI1JgCPmLSrBiITwWENQQSp9FMHax1p9QFx",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528741,
-        420528103,
-        102191575,
-        404521629,
-        85633793,
-        102081755,
-        85688543
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528741,
+      420528103,
+      102191575,
+      404521629,
+      85633793,
+      102081755,
+      85688543
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526688521,
-    "wof:depicts":[
-        102528741
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526688521,
+    "wof:depicts": [
+      102528741
     ],
-    "wof:geomhash":"b060361d6e4af977e284bcfcfd0c343b",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528741,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081755,
-            "localadmin_id":404521629,
-            "locality_id":-1,
-            "media_id":1159323627,
-            "neighbourhood_id":420528103,
-            "region_id":85688543
-        }
+    "wof:geomhash": "b060361d6e4af977e284bcfcfd0c343b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528741,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081755,
+        "image_id": 1159323627,
+        "localadmin_id": 404521629,
+        "locality_id": -1,
+        "media_id": 1159323627,
+        "neighbourhood_id": 420528103,
+        "region_id": 85688543
+      }
     ],
-    "wof:id":1159323627,
-    "wof:lastmodified":1545868658,
-    "wof:name":"Fat Albert JATO Take-off",
-    "wof:parent_id":102528741,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323627,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Fat Albert JATO Take-off",
+    "wof:parent_id": 102528741,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.979295,
     42.210273,
     -75.979295,
     42.210273
-],
-  "geometry": {"coordinates":[-75.97929499999999,42.210273],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-75.979295,42.210273],"type":"Point"}
 }

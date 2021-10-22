@@ -2,466 +2,469 @@
   "id": 1159332135,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-11-08",
-    "date:cessation_upper":"2015-11-08",
-    "date:inception_lower":"2015-11-08",
-    "date:inception_upper":"2015-11-08",
-    "edtf:cessation":"2015-11-08T08:55:53",
-    "edtf:inception":"2015-11-08T08:55:53",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.391175,33.944197,-118.391175,33.944197",
-    "geom:latitude":33.944197,
-    "geom:longitude":-118.391175,
-    "iso:country":"US",
-    "media:created":1447001753,
-    "media:fingerprint":"f740f70675aa70c675df799747b314ad282057d2",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#ee204d",
-                        "name":"Red",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#dc143c",
-                        "name":"crimson",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#db0c2a",
-                "name":"#db0c2a",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cfa368",
-                "name":"#cfa368",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a5694f",
-                        "name":"Sepia",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd853f",
-                        "name":"peru",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a07851",
-                "name":"#a07851",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a2add0",
-                        "name":"Wild Blue Yonder",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a9a9a9",
-                        "name":"darkgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#9cb8c0",
-                "name":"#9cb8c0",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#39362c",
-                "name":"#39362c",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"22543629309",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1476419772",
-                "posted":"1447220432",
-                "taken":"2015-11-08 08:55:53",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1447220432",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"22543629309",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.944197",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.391175",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"1c3d905293",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7378",
-                "location":"Goleta, USA",
-                "nsid":"23089307@N02",
-                "path_alias":"n28307",
-                "realname":"Glenn Beltz",
-                "username":"beltz6"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"301365d739",
-            "server":"629",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"losangeles",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-2424",
-                        "machine_tag":0,
-                        "raw":"Los Angeles"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"klax",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-1327757",
-                        "machine_tag":0,
-                        "raw":"KLAX"
-                    },
-                    {
-                        "_content":"lax2015",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-245935971",
-                        "machine_tag":0,
-                        "raw":"LAX2015"
-                    },
-                    {
-                        "_content":"laxspotters",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-264881703",
-                        "machine_tag":0,
-                        "raw":"LAXSpotters"
-                    },
-                    {
-                        "_content":"avgeek",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-2425700",
-                        "machine_tag":0,
-                        "raw":"avgeek"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"losangelesinternationalairport",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-481719",
-                        "machine_tag":0,
-                        "raw":"Los Angeles International Airport"
-                    },
-                    {
-                        "_content":"koreanair",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-445063",
-                        "machine_tag":0,
-                        "raw":"Korean Air"
-                    },
-                    {
-                        "_content":"airbus",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-16434",
-                        "machine_tag":0,
-                        "raw":"Airbus"
-                    },
-                    {
-                        "_content":"a380",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-16435",
-                        "machine_tag":0,
-                        "raw":"A380"
-                    },
-                    {
-                        "_content":"airbusa380",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-413147",
-                        "machine_tag":0,
-                        "raw":"Airbus A380"
-                    },
-                    {
-                        "_content":"hl7613",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22543629309-67090450",
-                        "machine_tag":0,
-                        "raw":"HL7613"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Korean A380 Lands at LAX"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/n28307/22543629309/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"291",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":683,
-                "mimetype":"image/jpeg",
-                "secret":"AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":534,
-                "mimetype":"image/jpeg",
-                "secret":"AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":534,
-                "mimetype":"image/jpeg",
-                "secret":"AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2640,
-                "mimetype":"image/jpeg",
-                "secret":"r0CfSgkNJ666YPQMfleNdZEPv1PjoJYVeqRkVV9S0JIEfnFfX9TF",
-                "width":3954
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":427,
-                "mimetype":"image/jpeg",
-                "secret":"AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
-                "width":640
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018617,
-    "wof:depicts":[
-        102533795,
-        1159284625,
-        1159287567,
-        1159289435,
-        1159289437,
-        1159293829
-    ],
-    "wof:geomhash":"f6e988f19eb9a2f331ded61965342788",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2015-11-08",
+    "date:cessation_upper": "2015-11-08",
+    "date:inception_lower": "2015-11-08",
+    "date:inception_upper": "2015-11-08",
+    "edtf:cessation": "2015-11-08T08:55:53",
+    "edtf:inception": "2015-11-08T08:55:53",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.391175,33.944197,-118.391175,33.944197",
+    "geom:latitude": 33.944197,
+    "geom:longitude": -118.391175,
+    "iso:country": "US",
+    "media:created": 1447001753,
+    "media:fingerprint": "f740f70675aa70c675df799747b314ad282057d2",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159332135,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#ee204d",
+              "name": "Red",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#dc143c",
+              "name": "crimson",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#db0c2a",
+          "name": "#db0c2a",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cfa368",
+          "name": "#cfa368",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#a5694f",
+              "name": "Sepia",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#cd853f",
+              "name": "peru",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a07851",
+          "name": "#a07851",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#a2add0",
+              "name": "Wild Blue Yonder",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#a9a9a9",
+              "name": "darkgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#9cb8c0",
+          "name": "#9cb8c0",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#39362c",
+          "name": "#39362c",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "22543629309",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1476419772",
+          "posted": "1447220432",
+          "taken": "2015-11-08 08:55:53",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1447220432",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "22543629309",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.944197",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.391175",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "1c3d905293",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7378",
+          "location": "Goleta, USA",
+          "nsid": "23089307@N02",
+          "path_alias": "n28307",
+          "realname": "Glenn Beltz",
+          "username": "beltz6"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "301365d739",
+        "server": "629",
+        "tags": {
+          "tag": [
+            {
+              "_content": "losangeles",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-2424",
+              "machine_tag": 0,
+              "raw": "Los Angeles"
+            },
+            {
+              "_content": "california",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-50",
+              "machine_tag": 0,
+              "raw": "California"
+            },
+            {
+              "_content": "lax",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "klax",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-1327757",
+              "machine_tag": 0,
+              "raw": "KLAX"
+            },
+            {
+              "_content": "lax2015",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-245935971",
+              "machine_tag": 0,
+              "raw": "LAX2015"
+            },
+            {
+              "_content": "laxspotters",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-264881703",
+              "machine_tag": 0,
+              "raw": "LAXSpotters"
+            },
+            {
+              "_content": "avgeek",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-2425700",
+              "machine_tag": 0,
+              "raw": "avgeek"
+            },
+            {
+              "_content": "airplane",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
+            },
+            {
+              "_content": "aviation",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
+            },
+            {
+              "_content": "airport",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-2695",
+              "machine_tag": 0,
+              "raw": "airport"
+            },
+            {
+              "_content": "losangelesinternationalairport",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-481719",
+              "machine_tag": 0,
+              "raw": "Los Angeles International Airport"
+            },
+            {
+              "_content": "koreanair",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-445063",
+              "machine_tag": 0,
+              "raw": "Korean Air"
+            },
+            {
+              "_content": "airbus",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-16434",
+              "machine_tag": 0,
+              "raw": "Airbus"
+            },
+            {
+              "_content": "a380",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-16435",
+              "machine_tag": 0,
+              "raw": "A380"
+            },
+            {
+              "_content": "airbusa380",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-413147",
+              "machine_tag": 0,
+              "raw": "Airbus A380"
+            },
+            {
+              "_content": "hl7613",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22543629309-67090450",
+              "machine_tag": 0,
+              "raw": "HL7613"
+            }
+          ]
+        },
+        "title": {
+          "_content": "Korean A380 Lands at LAX"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/n28307/22543629309/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "291",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 683,
+          "mimetype": "image/jpeg",
+          "secret": "AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 534,
+          "mimetype": "image/jpeg",
+          "secret": "AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 534,
+          "mimetype": "image/jpeg",
+          "secret": "AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2640,
+          "mimetype": "image/jpeg",
+          "secret": "r0CfSgkNJ666YPQMfleNdZEPv1PjoJYVeqRkVV9S0JIEfnFfX9TF",
+          "width": 3954
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 427,
+          "mimetype": "image/jpeg",
+          "secret": "AyQuIymEZm7zsvKYsap6GpjzZ6CdOMi24dGhazPC5JeX9hT5Y2CH",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159332135,
-    "wof:lastmodified":1545868730,
-    "wof:name":"Korean A380 Lands at LAX",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018617,
+    "wof:depicts": [
+      102533795,
+      1159284625,
+      1159287567,
+      1159289435,
+      1159289437,
+      1159293829
+    ],
+    "wof:geomhash": "f6e988f19eb9a2f331ded61965342788",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159332135,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159332135,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159332135,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Korean A380 Lands at LAX",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.391175,
     33.944197,
     -118.391175,
     33.944197
-],
+  ],
   "geometry": {"coordinates":[-118.391175,33.944197],"type":"Point"}
 }

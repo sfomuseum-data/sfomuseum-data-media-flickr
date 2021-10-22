@@ -2,276 +2,279 @@
   "id": 1159326651,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2010-02-21",
-    "date:cessation_upper":"2010-02-21",
-    "date:inception_lower":"2010-02-21",
-    "date:inception_upper":"2010-02-21",
-    "edtf:cessation":"2010-02-21T20:44:04",
-    "edtf:inception":"2010-02-21T20:44:04",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.513509,47.615461,-117.513509,47.615461",
-    "geom:latitude":47.615461,
-    "geom:longitude":-117.513509,
-    "iso:country":"US",
-    "media:created":1266813844,
-    "media:fingerprint":"da8740c2f9672bc5778762d6953942e84814a2b2",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"4378190914",
-        "photo_info":{
-            "comments":{
-                "_content":"9"
-            },
-            "dates":{
-                "lastupdate":"1270006024",
-                "posted":"1266813850",
-                "taken":"2010-02-21 20:44:04",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1266813850",
-            "description":{
-                "_content":"iPhone + My buddie Jeff's Nikon D90"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"4378190914",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Spokane",
-                    "place_id":"npHJiiFQUL.XnqovhQ",
-                    "woeid":"12590471"
-                },
-                "latitude":"47.615461",
-                "locality":{
-                    "_content":"Spokane International Airport",
-                    "place_id":"BhtUu6xQUL_aFYbADA",
-                    "woeid":"12521938"
-                },
-                "longitude":"-117.513509",
-                "place_id":"BhtUu6xQUL_aFYbADA",
-                "region":{
-                    "_content":"Washington",
-                    "place_id":"jyADg3RTUb65Hnbj",
-                    "woeid":"2347606"
-                },
-                "woeid":"12521938"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"a22b176ba8",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2154",
-                "location":"Spokane, USA",
-                "nsid":"21995882@N03",
-                "path_alias":"brendanbiele",
-                "realname":"Brendan Biele",
-                "username":"Brendan Biele"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"378a2d5a10",
-            "server":"4056",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"iphone",
-                        "author":"21995882@N03",
-                        "authorname":"Brendan Biele",
-                        "id":"21972828-4378190914-176591",
-                        "machine_tag":0,
-                        "raw":"iPhone"
-                    },
-                    {
-                        "_content":"spokane",
-                        "author":"21995882@N03",
-                        "authorname":"Brendan Biele",
-                        "id":"21972828-4378190914-3313",
-                        "machine_tag":0,
-                        "raw":"Spokane"
-                    },
-                    {
-                        "_content":"spokaneairport",
-                        "author":"21995882@N03",
-                        "authorname":"Brendan Biele",
-                        "id":"21972828-4378190914-2753397",
-                        "machine_tag":0,
-                        "raw":"Spokane Airport"
-                    },
-                    {
-                        "_content":"airporttower",
-                        "author":"21995882@N03",
-                        "authorname":"Brendan Biele",
-                        "id":"21972828-4378190914-318665",
-                        "machine_tag":0,
-                        "raw":"airport tower"
-                    },
-                    {
-                        "_content":"shotofad90",
-                        "author":"21995882@N03",
-                        "authorname":"Brendan Biele",
-                        "id":"21972828-4378190914-52589150",
-                        "machine_tag":0,
-                        "raw":"shot of a D90"
-                    },
-                    {
-                        "_content":"sunset",
-                        "author":"21995882@N03",
-                        "authorname":"Brendan Biele",
-                        "id":"21972828-4378190914-223",
-                        "machine_tag":0,
-                        "raw":"sunset"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"iPhone + Nikon D90"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/brendanbiele/4378190914/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"258",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2010-02-21",
+    "date:cessation_upper": "2010-02-21",
+    "date:inception_lower": "2010-02-21",
+    "date:inception_upper": "2010-02-21",
+    "edtf:cessation": "2010-02-21T20:44:04",
+    "edtf:inception": "2010-02-21T20:44:04",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.513509,47.615461,-117.513509,47.615461",
+    "geom:latitude": 47.615461,
+    "geom:longitude": -117.513509,
+    "iso:country": "US",
+    "media:created": 1266813844,
+    "media:fingerprint": "da8740c2f9672bc5778762d6953942e84814a2b2",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "4378190914",
+      "photo_info": {
+        "comments": {
+          "_content": "9"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
-                "width":1024
+        "dates": {
+          "lastupdate": "1270006024",
+          "posted": "1266813850",
+          "taken": "2010-02-21 20:44:04",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1266813850",
+        "description": {
+          "_content": "iPhone + My buddie Jeff's Nikon D90"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "4378190914",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Spokane",
+            "place_id": "npHJiiFQUL.XnqovhQ",
+            "woeid": "12590471"
+          },
+          "latitude": "47.615461",
+          "locality": {
+            "_content": "Spokane International Airport",
+            "place_id": "BhtUu6xQUL_aFYbADA",
+            "woeid": "12521938"
+          },
+          "longitude": "-117.513509",
+          "place_id": "BhtUu6xQUL_aFYbADA",
+          "region": {
+            "_content": "Washington",
+            "place_id": "jyADg3RTUb65Hnbj",
+            "woeid": "2347606"
+          },
+          "woeid": "12521938"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "a22b176ba8",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2154",
+          "location": "Spokane, USA",
+          "nsid": "21995882@N03",
+          "path_alias": "brendanbiele",
+          "realname": "Brendan Biele",
+          "username": "Brendan Biele"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "378a2d5a10",
+        "server": "4056",
+        "tags": {
+          "tag": [
+            {
+              "_content": "iphone",
+              "author": "21995882@N03",
+              "authorname": "Brendan Biele",
+              "id": "21972828-4378190914-176591",
+              "machine_tag": 0,
+              "raw": "iPhone"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
-                "width":800
+            {
+              "_content": "spokane",
+              "author": "21995882@N03",
+              "authorname": "Brendan Biele",
+              "id": "21972828-4378190914-3313",
+              "machine_tag": 0,
+              "raw": "Spokane"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
-                "width":320
+            {
+              "_content": "spokaneairport",
+              "author": "21995882@N03",
+              "authorname": "Brendan Biele",
+              "id": "21972828-4378190914-2753397",
+              "machine_tag": 0,
+              "raw": "Spokane Airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1200,
-                "mimetype":"image/jpeg",
-                "secret":"tfzHok28eZj6zPEDWaIgjFZXSdPOCEbzErdUS94C17utM6avPtG5",
-                "width":1600
+            {
+              "_content": "airporttower",
+              "author": "21995882@N03",
+              "authorname": "Brendan Biele",
+              "id": "21972828-4378190914-318665",
+              "machine_tag": 0,
+              "raw": "airport tower"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
-                "width":320
+            {
+              "_content": "shotofad90",
+              "author": "21995882@N03",
+              "authorname": "Brendan Biele",
+              "id": "21972828-4378190914-52589150",
+              "machine_tag": 0,
+              "raw": "shot of a D90"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
-                "width":640
+            {
+              "_content": "sunset",
+              "author": "21995882@N03",
+              "authorname": "Brendan Biele",
+              "id": "21972828-4378190914-223",
+              "machine_tag": 0,
+              "raw": "sunset"
             }
+          ]
+        },
+        "title": {
+          "_content": "iPhone + Nikon D90"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/brendanbiele/4378190914/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "258",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1200,
+          "mimetype": "image/jpeg",
+          "secret": "tfzHok28eZj6zPEDWaIgjFZXSdPOCEbzErdUS94C17utM6avPtG5",
+          "width": 1600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "fkTAhdCgp4jIxBiQyhQ76F4Lg020e0e3HLvaS3g1LSBIpIgLe0yj",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533331,
-        85688623,
-        102191575,
-        85633793,
-        101730021,
-        102087555
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533331,
+      85688623,
+      102191575,
+      85633793,
+      101730021,
+      102087555
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006644,
-    "wof:depicts":[
-        102533331
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006644,
+    "wof:depicts": [
+      102533331
     ],
-    "wof:geomhash":"b336cb5615910ba977bef5a366b765a0",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533331,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087555,
-            "locality_id":101730021,
-            "media_id":1159326651,
-            "region_id":85688623
-        }
+    "wof:geomhash": "b336cb5615910ba977bef5a366b765a0",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533331,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087555,
+        "image_id": 1159326651,
+        "locality_id": 101730021,
+        "media_id": 1159326651,
+        "region_id": 85688623
+      }
     ],
-    "wof:id":1159326651,
-    "wof:lastmodified":1545868700,
-    "wof:name":"iPhone + Nikon D90",
-    "wof:parent_id":102533331,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326651,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "iPhone + Nikon D90",
+    "wof:parent_id": 102533331,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.513509,
     47.615461,
     -117.513509,
     47.615461
-],
+  ],
   "geometry": {"coordinates":[-117.513509,47.615461],"type":"Point"}
 }

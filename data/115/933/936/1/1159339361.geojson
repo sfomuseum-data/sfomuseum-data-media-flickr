@@ -2,348 +2,351 @@
   "id": 1159339361,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-10-12",
-    "date:cessation_upper":"2012-10-12",
-    "date:inception_lower":"2012-10-12",
-    "date:inception_upper":"2012-10-12",
-    "edtf:cessation":"2012-10-12T21:17:29",
-    "edtf:inception":"2012-10-12T21:17:29",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.777763,40.64587,-73.777763,40.64587",
-    "geom:latitude":40.64587,
-    "geom:longitude":-73.777763,
-    "iso:country":"US",
-    "media:created":1350101849,
-    "media:fingerprint":"cf50c29113bc1872532f25de4933fe4e37250557",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8101664833",
-        "photo_info":{
-            "comments":{
-                "_content":"11"
-            },
-            "dates":{
-                "lastupdate":"1444948660",
-                "posted":"1350615356",
-                "taken":"2012-10-12 21:17:29",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1350615356",
-            "description":{
-                "_content":"<b><a href=\"http://en.wikipedia.org/wiki/TWA_Flight_Center\" rel=\"nofollow\">TWA Filght Center, JFK Airport, NYC NY</a></b>"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8101664833",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Queens",
-                    "place_id":"6gNCBQJQUL9_wSrP2Q",
-                    "woeid":"12589352"
-                },
-                "latitude":"40.645870",
-                "locality":{
-                    "_content":"John F Kennedy International Airport",
-                    "place_id":"nD9KAURQUL9pSurxUw",
-                    "woeid":"12520380"
-                },
-                "longitude":"-73.777763",
-                "place_id":"nD9KAURQUL9pSurxUw",
-                "region":{
-                    "_content":"New York",
-                    "place_id":"ODHTuIhTUb75gdBu",
-                    "woeid":"2347591"
-                },
-                "woeid":"12520380"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"2558df481b",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7381",
-                "location":"Nyc, ny, USA",
-                "nsid":"95047457@N00",
-                "path_alias":"kdellaquila",
-                "realname":"Kenneth Dellaquila",
-                "username":"k_dellaquila"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"b702c5f43b",
-            "server":"8186",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"ohny",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-94534",
-                        "machine_tag":0,
-                        "raw":"OHNY"
-                    },
-                    {
-                        "_content":"openhousenewyork",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-95653",
-                        "machine_tag":0,
-                        "raw":"Open House New York"
-                    },
-                    {
-                        "_content":"twaflightcenter",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-15892088",
-                        "machine_tag":0,
-                        "raw":"TWA Flight Center"
-                    },
-                    {
-                        "_content":"terminal5",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-94699",
-                        "machine_tag":0,
-                        "raw":"Terminal 5"
-                    },
-                    {
-                        "_content":"jfk",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-10978",
-                        "machine_tag":0,
-                        "raw":"JFK"
-                    },
-                    {
-                        "_content":"eerosaarinen",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-70898",
-                        "machine_tag":0,
-                        "raw":"Eero Saarinen"
-                    },
-                    {
-                        "_content":"jamaica",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-14549",
-                        "machine_tag":0,
-                        "raw":"Jamaica"
-                    },
-                    {
-                        "_content":"queens",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-12093",
-                        "machine_tag":0,
-                        "raw":"Queens"
-                    },
-                    {
-                        "_content":"nyc",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-106",
-                        "machine_tag":0,
-                        "raw":"NYC"
-                    },
-                    {
-                        "_content":"newyork",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-440",
-                        "machine_tag":0,
-                        "raw":"New York"
-                    },
-                    {
-                        "_content":"fujineopanacros100",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-2188904",
-                        "machine_tag":0,
-                        "raw":"Fuji Neopan Acros 100"
-                    },
-                    {
-                        "_content":"hc110",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-8593",
-                        "machine_tag":0,
-                        "raw":"HC-110"
-                    },
-                    {
-                        "_content":"mamiya",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-654",
-                        "machine_tag":0,
-                        "raw":"Mamiya"
-                    },
-                    {
-                        "_content":"7ii",
-                        "author":"95047457@N00",
-                        "authorname":"k_dellaquila",
-                        "id":"1413205-8101664833-2004309",
-                        "machine_tag":0,
-                        "raw":"7ii"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"20121010_031"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/kdellaquila/8101664833/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"6326",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-10-12",
+    "date:cessation_upper": "2012-10-12",
+    "date:inception_lower": "2012-10-12",
+    "date:inception_upper": "2012-10-12",
+    "edtf:cessation": "2012-10-12T21:17:29",
+    "edtf:inception": "2012-10-12T21:17:29",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.777763,40.645870,-73.777763,40.645870",
+    "geom:latitude": 40.64587,
+    "geom:longitude": -73.777763,
+    "iso:country": "US",
+    "media:created": 1350101849,
+    "media:fingerprint": "cf50c29113bc1872532f25de4933fe4e37250557",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8101664833",
+      "photo_info": {
+        "comments": {
+          "_content": "11"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
-                "width":658
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
-                "width":514
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
-                "width":205
-            },
-            "o":{
-                "extension":"jpg",
-                "height":8081,
-                "mimetype":"image/jpeg",
-                "secret":"VW6SQLvXGn5jAFZs99bcPErqi2fNtWKHYZehdNVL1Hh6hI54A9qZ",
-                "width":6926
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
-                "width":411
-            }
+        "dates": {
+          "lastupdate": "1444948660",
+          "posted": "1350615356",
+          "taken": "2012-10-12 21:17:29",
+          "takengranularity": "0",
+          "takenunknown": 0
         },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102534365
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534365,
-        907131691,
-        102191575,
-        85633793,
-        85977539,
-        421205767,
-        102082377,
-        85688543
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527104650,
-    "wof:depicts":[
-        102534365,
-        1159339361
-    ],
-    "wof:geomhash":"dd94845b90e84e57aa84b70b356962d8",
-    "wof:hierarchy":[
-        {
-            "borough_id":421205767,
-            "campus_id":102534365,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
-            "media_id":1159339361,
-            "neighbourhood_id":907131691,
-            "region_id":85688543
+        "dateuploaded": "1350615356",
+        "description": {
+          "_content": "\u003cb\u003e\u003ca href=\"http://en.wikipedia.org/wiki/TWA_Flight_Center\" rel=\"nofollow\"\u003eTWA Filght Center, JFK Airport, NYC NY\u003c/a\u003e\u003c/b\u003e"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8101664833",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Queens",
+            "place_id": "6gNCBQJQUL9_wSrP2Q",
+            "woeid": "12589352"
+          },
+          "latitude": "40.645870",
+          "locality": {
+            "_content": "John F Kennedy International Airport",
+            "place_id": "nD9KAURQUL9pSurxUw",
+            "woeid": "12520380"
+          },
+          "longitude": "-73.777763",
+          "place_id": "nD9KAURQUL9pSurxUw",
+          "region": {
+            "_content": "New York",
+            "place_id": "ODHTuIhTUb75gdBu",
+            "woeid": "2347591"
+          },
+          "woeid": "12520380"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "2558df481b",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7381",
+          "location": "Nyc, ny, USA",
+          "nsid": "95047457@N00",
+          "path_alias": "kdellaquila",
+          "realname": "Kenneth Dellaquila",
+          "username": "k_dellaquila"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "b702c5f43b",
+        "server": "8186",
+        "tags": {
+          "tag": [
+            {
+              "_content": "ohny",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-94534",
+              "machine_tag": 0,
+              "raw": "OHNY"
+            },
+            {
+              "_content": "openhousenewyork",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-95653",
+              "machine_tag": 0,
+              "raw": "Open House New York"
+            },
+            {
+              "_content": "twaflightcenter",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-15892088",
+              "machine_tag": 0,
+              "raw": "TWA Flight Center"
+            },
+            {
+              "_content": "terminal5",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-94699",
+              "machine_tag": 0,
+              "raw": "Terminal 5"
+            },
+            {
+              "_content": "jfk",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-10978",
+              "machine_tag": 0,
+              "raw": "JFK"
+            },
+            {
+              "_content": "eerosaarinen",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-70898",
+              "machine_tag": 0,
+              "raw": "Eero Saarinen"
+            },
+            {
+              "_content": "jamaica",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-14549",
+              "machine_tag": 0,
+              "raw": "Jamaica"
+            },
+            {
+              "_content": "queens",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-12093",
+              "machine_tag": 0,
+              "raw": "Queens"
+            },
+            {
+              "_content": "nyc",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-106",
+              "machine_tag": 0,
+              "raw": "NYC"
+            },
+            {
+              "_content": "newyork",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-440",
+              "machine_tag": 0,
+              "raw": "New York"
+            },
+            {
+              "_content": "fujineopanacros100",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-2188904",
+              "machine_tag": 0,
+              "raw": "Fuji Neopan Acros 100"
+            },
+            {
+              "_content": "hc110",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-8593",
+              "machine_tag": 0,
+              "raw": "HC-110"
+            },
+            {
+              "_content": "mamiya",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-654",
+              "machine_tag": 0,
+              "raw": "Mamiya"
+            },
+            {
+              "_content": "7ii",
+              "author": "95047457@N00",
+              "authorname": "k_dellaquila",
+              "id": "1413205-8101664833-2004309",
+              "machine_tag": 0,
+              "raw": "7ii"
+            }
+          ]
+        },
+        "title": {
+          "_content": "20121010_031"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/kdellaquila/8101664833/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "6326",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
+          "width": 658
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
+          "width": 514
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
+          "width": 205
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 8081,
+          "mimetype": "image/jpeg",
+          "secret": "VW6SQLvXGn5jAFZs99bcPErqi2fNtWKHYZehdNVL1Hh6hI54A9qZ",
+          "width": 6926
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "euhx9zIEzfEZL1bAHiImAg33wLWcfvsiOFaxvu1BXW3ypXscsK8x",
+          "width": 411
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102534365
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534365,
+      907131691,
+      102191575,
+      85633793,
+      85977539,
+      421205767,
+      102082377,
+      85688543
     ],
-    "wof:id":1159339361,
-    "wof:lastmodified":1545868713,
-    "wof:name":"20121010_031",
-    "wof:parent_id":102534365,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527104650,
+    "wof:depicts": [
+      102534365,
+      1159339361
+    ],
+    "wof:geomhash": "dd94845b90e84e57aa84b70b356962d8",
+    "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "image_id": 1159339361,
+        "locality_id": 85977539,
+        "media_id": 1159339361,
+        "neighbourhood_id": 907131691,
+        "region_id": 85688543
+      }
+    ],
+    "wof:id": 1159339361,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "20121010_031",
+    "wof:parent_id": 102534365,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.777763,
     40.64587,
     -73.777763,
     40.64587
-],
-  "geometry": {"coordinates":[-73.77776299999999,40.64587],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-73.777763,40.64587],"type":"Point"}
 }

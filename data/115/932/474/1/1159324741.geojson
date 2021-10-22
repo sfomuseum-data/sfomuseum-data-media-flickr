@@ -2,270 +2,273 @@
   "id": 1159324741,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-15",
-    "date:cessation_upper":"2015-04-15",
-    "date:inception_lower":"2015-04-15",
-    "date:inception_upper":"2015-04-15",
-    "edtf:cessation":"2015-04-15T14:02:33",
-    "edtf:inception":"2015-04-15T14:02:33",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-90.076511,32.309854,-90.076511,32.309854",
-    "geom:latitude":32.309854,
-    "geom:longitude":-90.076511,
-    "iso:country":"US",
-    "media:created":1429131753,
-    "media:fingerprint":"a45c4ebeb490783df34b09cf8e8356523c308bb0",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"16973159169",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1429120958",
-                "posted":"1429120953",
-                "taken":"2015-04-15 14:02:33",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1429120953",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"16973159169",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Hinds",
-                    "place_id":"v.KZvRdQUL9o1X4oKw",
-                    "woeid":"12588908"
-                },
-                "latitude":"32.309854",
-                "locality":{
-                    "_content":"Jackson International Airport",
-                    "place_id":"6oIvepFQUL.EDzXr0Q",
-                    "woeid":"12520336"
-                },
-                "longitude":"-90.076511",
-                "place_id":"6oIvepFQUL.EDzXr0Q",
-                "region":{
-                    "_content":"Mississippi",
-                    "place_id":"6RIpGGpTUb6yHzA6",
-                    "woeid":"2347583"
-                },
-                "woeid":"12520336"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"d14a45474c",
-            "owner":{
-                "iconfarm":2,
-                "iconserver":"1551",
-                "location":"Brooklyn, NY, United States",
-                "nsid":"37276964@N00",
-                "path_alias":"theretrogigolo",
-                "realname":"",
-                "username":"Cult Gigolo"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"686a718f02",
-            "server":"8689",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"37276964@N00",
-                        "authorname":"Cult Gigolo",
-                        "id":"2003082-16973159169-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"37276964@N00",
-                        "authorname":"Cult Gigolo",
-                        "id":"2003082-16973159169-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"37276964@N00",
-                        "authorname":"Cult Gigolo",
-                        "id":"2003082-16973159169-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"37276964@N00",
-                        "authorname":"Cult Gigolo",
-                        "id":"2003082-16973159169-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"37276964@N00",
-                        "authorname":"Cult Gigolo",
-                        "id":"2003082-16973159169-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"I am coming for you #SanFrancisco"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/theretrogigolo/16973159169/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"311",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-04-15",
+    "date:cessation_upper": "2015-04-15",
+    "date:inception_lower": "2015-04-15",
+    "date:inception_upper": "2015-04-15",
+    "edtf:cessation": "2015-04-15T14:02:33",
+    "edtf:inception": "2015-04-15T14:02:33",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-90.076511,32.309854,-90.076511,32.309854",
+    "geom:latitude": 32.309854,
+    "geom:longitude": -90.076511,
+    "iso:country": "US",
+    "media:created": 1429131753,
+    "media:fingerprint": "a45c4ebeb490783df34b09cf8e8356523c308bb0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "16973159169",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
-                "width":768
+        "dates": {
+          "lastupdate": "1429120958",
+          "posted": "1429120953",
+          "taken": "2015-04-15 14:02:33",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1429120953",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "16973159169",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Hinds",
+            "place_id": "v.KZvRdQUL9o1X4oKw",
+            "woeid": "12588908"
+          },
+          "latitude": "32.309854",
+          "locality": {
+            "_content": "Jackson International Airport",
+            "place_id": "6oIvepFQUL.EDzXr0Q",
+            "woeid": "12520336"
+          },
+          "longitude": "-90.076511",
+          "place_id": "6oIvepFQUL.EDzXr0Q",
+          "region": {
+            "_content": "Mississippi",
+            "place_id": "6RIpGGpTUb6yHzA6",
+            "woeid": "2347583"
+          },
+          "woeid": "12520336"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "d14a45474c",
+        "owner": {
+          "iconfarm": 2,
+          "iconserver": "1551",
+          "location": "Brooklyn, NY, United States",
+          "nsid": "37276964@N00",
+          "path_alias": "theretrogigolo",
+          "realname": "",
+          "username": "Cult Gigolo"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "686a718f02",
+        "server": "8689",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "37276964@N00",
+              "authorname": "Cult Gigolo",
+              "id": "2003082-16973159169-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
-                "width":600
+            {
+              "_content": "square",
+              "author": "37276964@N00",
+              "authorname": "Cult Gigolo",
+              "id": "2003082-16973159169-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
-                "width":240
+            {
+              "_content": "squareformat",
+              "author": "37276964@N00",
+              "authorname": "Cult Gigolo",
+              "id": "2003082-16973159169-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "o":{
-                "extension":"jpg",
-                "height":640,
-                "mimetype":"image/jpeg",
-                "secret":"MScgBm8870Ld0yEC84uy97fTii28QuM08R2nWwtq9hff6yjn9m6Y",
-                "width":640
+            {
+              "_content": "iphoneography",
+              "author": "37276964@N00",
+              "authorname": "Cult Gigolo",
+              "id": "2003082-16973159169-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
-                "width":480
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "37276964@N00",
+              "authorname": "Cult Gigolo",
+              "id": "2003082-16973159169-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             }
+          ]
+        },
+        "title": {
+          "_content": "I am coming for you #SanFrancisco"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/theretrogigolo/16973159169/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "311",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 640,
+          "mimetype": "image/jpeg",
+          "secret": "MScgBm8870Ld0yEC84uy97fTii28QuM08R2nWwtq9hff6yjn9m6Y",
+          "width": 640
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "8slY5UAiOVP6DNbu87qU61kXEozomJvzDasw602PmfrNKv2mXvgA",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534355,
-        420525281,
-        102191575,
-        85633793,
-        85969693,
-        102081407,
-        85688579
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534355,
+      420525281,
+      102191575,
+      85633793,
+      85969693,
+      102081407,
+      85688579
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005944,
-    "wof:depicts":[
-        102534355
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005944,
+    "wof:depicts": [
+      102534355
     ],
-    "wof:geomhash":"1043c787d9f64e5ac0f55a1f6d53862a",
-    "wof:hierarchy":[
-        {
-            "campus_id":102534355,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081407,
-            "locality_id":85969693,
-            "media_id":1159324741,
-            "neighbourhood_id":420525281,
-            "region_id":85688579
-        }
+    "wof:geomhash": "1043c787d9f64e5ac0f55a1f6d53862a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102534355,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081407,
+        "image_id": 1159324741,
+        "locality_id": 85969693,
+        "media_id": 1159324741,
+        "neighbourhood_id": 420525281,
+        "region_id": 85688579
+      }
     ],
-    "wof:id":1159324741,
-    "wof:lastmodified":1545868707,
-    "wof:name":"I am coming for you #SanFrancisco",
-    "wof:parent_id":102534355,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324741,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "I am coming for you #SanFrancisco",
+    "wof:parent_id": 102534355,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -90.076511,
     32.309854,
     -90.076511,
     32.309854
-],
+  ],
   "geometry": {"coordinates":[-90.076511,32.309854],"type":"Point"}
 }

@@ -2,238 +2,242 @@
   "id": 1159325489,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-09-02",
-    "date:cessation_upper":"2017-09-02",
-    "date:inception_lower":"2017-09-02",
-    "date:inception_upper":"2017-09-02",
-    "edtf:cessation":"2017-09-02T19:35:36",
-    "edtf:inception":"2017-09-02T19:35:36",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.943864,35.221133,-80.943864,35.221133",
-    "geom:latitude":35.221133,
-    "geom:longitude":-80.943864,
-    "iso:country":"US",
-    "media:created":1504406136,
-    "media:fingerprint":"6b7f11d8bdd4b0fac04a7e17d806d20d6eeb7eba",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"36175631444",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1504796011",
-                "posted":"1504483365",
-                "taken":"2017-09-02 19:35:36",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1504483365",
-            "description":{
-                "_content":"Wrangling bags and Gidget at the airport in Charlotte NC after returning from St Thomas."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"36175631444",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.221133",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.943864",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"02084b0ee1",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5622",
-                "location":"Leicester, NC, USA",
-                "nsid":"17209637@N00",
-                "path_alias":"rick",
-                "realname":"",
-                "username":"*Rick*"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"f6f60f38fd",
-            "server":"4416",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":""
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/rick/36175631444/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"3560",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-09-02",
+    "date:cessation_upper": "2017-09-02",
+    "date:inception_lower": "2017-09-02",
+    "date:inception_upper": "2017-09-02",
+    "edtf:cessation": "2017-09-02T19:35:36",
+    "edtf:inception": "2017-09-02T19:35:36",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.943864,35.221133,-80.943864,35.221133",
+    "geom:latitude": 35.221133,
+    "geom:longitude": -80.943864,
+    "iso:country": "US",
+    "media:created": 1504406136,
+    "media:fingerprint": "6b7f11d8bdd4b0fac04a7e17d806d20d6eeb7eba",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "36175631444",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2448,
-                "mimetype":"image/jpeg",
-                "secret":"6VdWcyADM7c1OpIDiqMmBZbFf13yFc9J9rGu08AXU2Y9IGhWxe2g",
-                "width":3264
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
-                "width":640
+        "dates": {
+          "lastupdate": "1504796011",
+          "posted": "1504483365",
+          "taken": "2017-09-02 19:35:36",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1504483365",
+        "description": {
+          "_content": "Wrangling bags and Gidget at the airport in Charlotte NC after returning from St Thomas."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "36175631444",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.221133",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.943864",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "02084b0ee1",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5622",
+          "location": "Leicester, NC, USA",
+          "nsid": "17209637@N00",
+          "path_alias": "rick",
+          "realname": "",
+          "username": "*Rick*"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "f6f60f38fd",
+        "server": "4416",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": ""
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/rick/36175631444/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "3560",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2448,
+          "mimetype": "image/jpeg",
+          "secret": "6VdWcyADM7c1OpIDiqMmBZbFf13yFc9J9rGu08AXU2Y9IGhWxe2g",
+          "width": 3264
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "tWel8D2GLAdcwEItRq4MZvqJ07MSviZ94Axwl5jDprfYviikhnkj",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006207,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006207,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"bc299cd9988750cd311c6e6bcd173a4d",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159325489,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159325489,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "bc299cd9988750cd311c6e6bcd173a4d",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325489,
+        "locality_id": 85981333,
+        "media_id": 1159325489,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325489,
+        "media_id": 1159325489,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159325489,
-    "wof:lastmodified":1545868668,
-    "wof:name":"",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325489,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.943864,
     35.221133,
     -80.943864,
     35.221133
-],
+  ],
   "geometry": {"coordinates":[-80.943864,35.221133],"type":"Point"}
 }

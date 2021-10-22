@@ -2,366 +2,369 @@
   "id": 1159326823,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-08-10",
-    "date:cessation_upper":"2012-08-10",
-    "date:inception_lower":"2012-08-10",
-    "date:inception_upper":"2012-08-10",
-    "edtf:cessation":"2012-08-10T18:16:17",
-    "edtf:inception":"2012-08-10T18:16:17",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.641461,39.045186,-84.641461,39.045186",
-    "geom:latitude":39.045186,
-    "geom:longitude":-84.641461,
-    "iso:country":"US",
-    "media:created":1344647777,
-    "media:fingerprint":"3758862a5b12b5234a54001574a77b5521ecd4bf",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"7788391630",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1345041970",
-                "posted":"1345039927",
-                "taken":"2012-08-10 18:16:17",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1345039927",
-            "description":{
-                "_content":"Pictures of the Cincinnati/Northern Kentucky International Airport in Hebron, Kentucky taken during my recent visit to the Cincinnati area.  These were primarily taken from the Airplane Viewing Area, just to the east of the airport.  The parking lot is off Donaldson Highway (rout 236) and is really nice to view the planes coming in and out of this Delta Airlines hub."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"7788391630",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.045186",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.641461",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"1000c99d4c",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7167",
-                "location":"Saline, Mich., USA",
-                "nsid":"7702423@N04",
-                "path_alias":"cseeman",
-                "realname":"Corey Seeman",
-                "username":"cseeman"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"fd2181f1a5",
-            "server":"8296",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"cincinnatinorthernkentuckyinternationalairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-1549571",
-                        "machine_tag":0,
-                        "raw":"Cincinnati/Northern Kentucky International Airport"
-                    },
-                    {
-                        "_content":"ohio",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-226",
-                        "machine_tag":0,
-                        "raw":"Ohio"
-                    },
-                    {
-                        "_content":"kentucky",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-5423",
-                        "machine_tag":0,
-                        "raw":"Kentucky"
-                    },
-                    {
-                        "_content":"hebron",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-78152",
-                        "machine_tag":0,
-                        "raw":"Hebron"
-                    },
-                    {
-                        "_content":"cincinnati",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-5630",
-                        "machine_tag":0,
-                        "raw":"Cincinnati"
-                    },
-                    {
-                        "_content":"covington",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-168608",
-                        "machine_tag":0,
-                        "raw":"Covington"
-                    },
-                    {
-                        "_content":"cvg",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-118891",
-                        "machine_tag":0,
-                        "raw":"CVG"
-                    },
-                    {
-                        "_content":"airports",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-28698",
-                        "machine_tag":0,
-                        "raw":"Airports"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-32533",
-                        "machine_tag":0,
-                        "raw":"Airlines"
-                    },
-                    {
-                        "_content":"deltaairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-601971",
-                        "machine_tag":0,
-                        "raw":"Delta Airlines"
-                    },
-                    {
-                        "_content":"airplanes",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-6603",
-                        "machine_tag":0,
-                        "raw":"Airplanes"
-                    },
-                    {
-                        "_content":"travelers",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-58465",
-                        "machine_tag":0,
-                        "raw":"Travelers"
-                    },
-                    {
-                        "_content":"runways",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-1017534",
-                        "machine_tag":0,
-                        "raw":"Runways"
-                    },
-                    {
-                        "_content":"clouds",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-1223",
-                        "machine_tag":0,
-                        "raw":"Clouds"
-                    },
-                    {
-                        "_content":"cvg082012",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-95167788",
-                        "machine_tag":0,
-                        "raw":"CVG082012"
-                    },
-                    {
-                        "_content":"airplaneviewingareacvg",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-95167790",
-                        "machine_tag":0,
-                        "raw":"Airplane Viewing Area CVG"
-                    },
-                    {
-                        "_content":"viewingarea",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-1308650",
-                        "machine_tag":0,
-                        "raw":"Viewing Area"
-                    },
-                    {
-                        "_content":"cincinnatiairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7788391630-1646087",
-                        "machine_tag":0,
-                        "raw":"Cincinnati Airport"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Cincinnati/Northern Kentucky International Airport (Hebron, Kentucky)"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/cseeman/7788391630/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"445",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-08-10",
+    "date:cessation_upper": "2012-08-10",
+    "date:inception_lower": "2012-08-10",
+    "date:inception_upper": "2012-08-10",
+    "edtf:cessation": "2012-08-10T18:16:17",
+    "edtf:inception": "2012-08-10T18:16:17",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.641461,39.045186,-84.641461,39.045186",
+    "geom:latitude": 39.045186,
+    "geom:longitude": -84.641461,
+    "iso:country": "US",
+    "media:created": 1344647777,
+    "media:fingerprint": "3758862a5b12b5234a54001574a77b5521ecd4bf",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "7788391630",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
-                "width":1024
+        "dates": {
+          "lastupdate": "1345041970",
+          "posted": "1345039927",
+          "taken": "2012-08-10 18:16:17",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1345039927",
+        "description": {
+          "_content": "Pictures of the Cincinnati/Northern Kentucky International Airport in Hebron, Kentucky taken during my recent visit to the Cincinnati area.  These were primarily taken from the Airplane Viewing Area, just to the east of the airport.  The parking lot is off Donaldson Highway (rout 236) and is really nice to view the planes coming in and out of this Delta Airlines hub."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "7788391630",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.045186",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.641461",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "1000c99d4c",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7167",
+          "location": "Saline, Mich., USA",
+          "nsid": "7702423@N04",
+          "path_alias": "cseeman",
+          "realname": "Corey Seeman",
+          "username": "cseeman"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "fd2181f1a5",
+        "server": "8296",
+        "tags": {
+          "tag": [
+            {
+              "_content": "cincinnatinorthernkentuckyinternationalairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-1549571",
+              "machine_tag": 0,
+              "raw": "Cincinnati/Northern Kentucky International Airport"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
-                "width":800
+            {
+              "_content": "ohio",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-226",
+              "machine_tag": 0,
+              "raw": "Ohio"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
-                "width":320
+            {
+              "_content": "kentucky",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-5423",
+              "machine_tag": 0,
+              "raw": "Kentucky"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2432,
-                "mimetype":"image/jpeg",
-                "secret":"CA6ZCWibBtpkBYArxC7ORxMOHbM5CbLP29ZWOsNZ2Qak8gakUo21",
-                "width":3648
+            {
+              "_content": "hebron",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-78152",
+              "machine_tag": 0,
+              "raw": "Hebron"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
-                "width":320
+            {
+              "_content": "cincinnati",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-5630",
+              "machine_tag": 0,
+              "raw": "Cincinnati"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
-                "width":640
+            {
+              "_content": "covington",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-168608",
+              "machine_tag": 0,
+              "raw": "Covington"
+            },
+            {
+              "_content": "cvg",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-118891",
+              "machine_tag": 0,
+              "raw": "CVG"
+            },
+            {
+              "_content": "airports",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-28698",
+              "machine_tag": 0,
+              "raw": "Airports"
+            },
+            {
+              "_content": "airlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-32533",
+              "machine_tag": 0,
+              "raw": "Airlines"
+            },
+            {
+              "_content": "deltaairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-601971",
+              "machine_tag": 0,
+              "raw": "Delta Airlines"
+            },
+            {
+              "_content": "airplanes",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-6603",
+              "machine_tag": 0,
+              "raw": "Airplanes"
+            },
+            {
+              "_content": "travelers",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-58465",
+              "machine_tag": 0,
+              "raw": "Travelers"
+            },
+            {
+              "_content": "runways",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-1017534",
+              "machine_tag": 0,
+              "raw": "Runways"
+            },
+            {
+              "_content": "clouds",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-1223",
+              "machine_tag": 0,
+              "raw": "Clouds"
+            },
+            {
+              "_content": "cvg082012",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-95167788",
+              "machine_tag": 0,
+              "raw": "CVG082012"
+            },
+            {
+              "_content": "airplaneviewingareacvg",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-95167790",
+              "machine_tag": 0,
+              "raw": "Airplane Viewing Area CVG"
+            },
+            {
+              "_content": "viewingarea",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-1308650",
+              "machine_tag": 0,
+              "raw": "Viewing Area"
+            },
+            {
+              "_content": "cincinnatiairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7788391630-1646087",
+              "machine_tag": 0,
+              "raw": "Cincinnati Airport"
             }
+          ]
+        },
+        "title": {
+          "_content": "Cincinnati/Northern Kentucky International Airport (Hebron, Kentucky)"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/cseeman/7788391630/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "445",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2432,
+          "mimetype": "image/jpeg",
+          "secret": "CA6ZCWibBtpkBYArxC7ORxMOHbM5CbLP29ZWOsNZ2Qak8gakUo21",
+          "width": 3648
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "KIjFnj7eIcoPxdnK3bH0smDmfIJu5QxKsu0aooI48M57khrG1iJA",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006700,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006700,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"74c8ad805c2f0d33d0a2885ef7146b9e",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326823,
-            "region_id":85688641
-        }
+    "wof:geomhash": "74c8ad805c2f0d33d0a2885ef7146b9e",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326823,
+        "media_id": 1159326823,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326823,
-    "wof:lastmodified":1545868670,
-    "wof:name":"Cincinnati/Northern Kentucky International Airport (Hebron, Kentucky)",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326823,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Cincinnati/Northern Kentucky International Airport (Hebron, Kentucky)",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.641461,
     39.045186,
     -84.641461,
     39.045186
-],
-  "geometry": {"coordinates":[-84.64146100000001,39.045186],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.641461,39.045186],"type":"Point"}
 }

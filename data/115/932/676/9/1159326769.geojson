@@ -2,278 +2,281 @@
   "id": 1159326769,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-02-02",
-    "date:cessation_upper":"2013-02-02",
-    "date:inception_lower":"2013-02-02",
-    "date:inception_upper":"2013-02-02",
-    "edtf:cessation":"2013-02-02T21:50:07",
-    "edtf:inception":"2013-02-02T21:50:07",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.653503,39.052166,-84.653503,39.052166",
-    "geom:latitude":39.052166,
-    "geom:longitude":-84.653503,
-    "iso:country":"US",
-    "media:created":1359870607,
-    "media:fingerprint":"e3a7c54d396c23e1915795797b29a2d550961bc0",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8441137457",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1421532629",
-                "posted":"1359916453",
-                "taken":"2013-02-02 21:50:07",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1359916453",
-            "description":{
-                "_content":"Concourse C closed in 2009 as Delta reduced the number of flights out of CVG."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8441137457",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.052166",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.653503",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"f127a99c2c",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"899",
-                "location":"Cincinnati, Ohio, USA",
-                "nsid":"35807342@N00",
-                "path_alias":"taestell",
-                "realname":"Travis Estell",
-                "username":"Travis Estell"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"975309851b",
-            "server":"8092",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"abandoned",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8441137457-636",
-                        "machine_tag":0,
-                        "raw":"abandoned"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8441137457-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"concourse",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8441137457-78063",
-                        "machine_tag":0,
-                        "raw":"concourse"
-                    },
-                    {
-                        "_content":"concoursec",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8441137457-624673",
-                        "machine_tag":0,
-                        "raw":"concourse c"
-                    },
-                    {
-                        "_content":"cvg",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8441137457-118891",
-                        "machine_tag":0,
-                        "raw":"cvg"
-                    },
-                    {
-                        "_content":"delta",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8441137457-8731",
-                        "machine_tag":0,
-                        "raw":"delta"
-                    },
-                    {
-                        "_content":"northernkentucky",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8441137457-617736",
-                        "machine_tag":0,
-                        "raw":"northern kentucky"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Abandoned Concourse C"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/taestell/8441137457/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"847",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-02-02",
+    "date:cessation_upper": "2013-02-02",
+    "date:inception_lower": "2013-02-02",
+    "date:inception_upper": "2013-02-02",
+    "edtf:cessation": "2013-02-02T21:50:07",
+    "edtf:inception": "2013-02-02T21:50:07",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.653503,39.052166,-84.653503,39.052166",
+    "geom:latitude": 39.052166,
+    "geom:longitude": -84.653503,
+    "iso:country": "US",
+    "media:created": 1359870607,
+    "media:fingerprint": "e3a7c54d396c23e1915795797b29a2d550961bc0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8441137457",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
-                "width":1023
+        "dates": {
+          "lastupdate": "1421532629",
+          "posted": "1359916453",
+          "taken": "2013-02-02 21:50:07",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1359916453",
+        "description": {
+          "_content": "Concourse C closed in 2009 as Delta reduced the number of flights out of CVG."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8441137457",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.052166",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.653503",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "f127a99c2c",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "899",
+          "location": "Cincinnati, Ohio, USA",
+          "nsid": "35807342@N00",
+          "path_alias": "taestell",
+          "realname": "Travis Estell",
+          "username": "Travis Estell"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "975309851b",
+        "server": "8092",
+        "tags": {
+          "tag": [
+            {
+              "_content": "abandoned",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8441137457-636",
+              "machine_tag": 0,
+              "raw": "abandoned"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
-                "width":799
+            {
+              "_content": "airport",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8441137457-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
-                "width":319
+            {
+              "_content": "concourse",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8441137457-78063",
+              "machine_tag": 0,
+              "raw": "concourse"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2426,
-                "mimetype":"image/jpeg",
-                "secret":"1O0GibW89zjmYeJoM5aFZXyRMhQJH9YhCXO8bXqbww9ZpaZ3u2fl",
-                "width":3234
+            {
+              "_content": "concoursec",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8441137457-624673",
+              "machine_tag": 0,
+              "raw": "concourse c"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
-                "width":320
+            {
+              "_content": "cvg",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8441137457-118891",
+              "machine_tag": 0,
+              "raw": "cvg"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
-                "width":639
+            {
+              "_content": "delta",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8441137457-8731",
+              "machine_tag": 0,
+              "raw": "delta"
+            },
+            {
+              "_content": "northernkentucky",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8441137457-617736",
+              "machine_tag": 0,
+              "raw": "northern kentucky"
             }
+          ]
+        },
+        "title": {
+          "_content": "Abandoned Concourse C"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/taestell/8441137457/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "847",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
+          "width": 799
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
+          "width": 319
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2426,
+          "mimetype": "image/jpeg",
+          "secret": "1O0GibW89zjmYeJoM5aFZXyRMhQJH9YhCXO8bXqbww9ZpaZ3u2fl",
+          "width": 3234
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "r9eVyIj8ZBkffHZELOstz37blPGuvZ2Vb98OLp8P7pyPyexvPXZm",
+          "width": 639
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006682,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006682,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"e30c0556150e7e72d56e9d19cd2f7abd",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326769,
-            "region_id":85688641
-        }
+    "wof:geomhash": "e30c0556150e7e72d56e9d19cd2f7abd",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326769,
+        "media_id": 1159326769,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326769,
-    "wof:lastmodified":1545868678,
-    "wof:name":"Abandoned Concourse C",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326769,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Abandoned Concourse C",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.653503,
     39.052166,
     -84.653503,
     39.052166
-],
+  ],
   "geometry": {"coordinates":[-84.653503,39.052166],"type":"Point"}
 }

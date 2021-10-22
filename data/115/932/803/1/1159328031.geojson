@@ -2,263 +2,267 @@
   "id": 1159328031,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-06-02",
-    "date:cessation_upper":"2013-06-02",
-    "date:inception_lower":"2013-06-02",
-    "date:inception_upper":"2013-06-02",
-    "edtf:cessation":"2013-06-02T06:38:42",
-    "edtf:inception":"2013-06-02T06:38:42",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.944167,35.22,-80.944167,35.22",
-    "geom:latitude":35.22,
-    "geom:longitude":-80.944167,
-    "iso:country":"US",
-    "media:created":1370180322,
-    "media:fingerprint":"596d6203950e5ee64e4ed4d31c8c89e2d1ca25ae",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"9011925921",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1370920332",
-                "posted":"1370920325",
-                "taken":"2013-06-02 06:38:42",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1370920325",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"9011925921",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220000",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.944167",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"a0b66bdd42",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7030",
-                "location":"Bay Area, USA",
-                "nsid":"66579844@N00",
-                "path_alias":"raykrebs",
-                "realname":"Ray Krebs",
-                "username":"vrkrebs"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"e3aa093d5b",
-            "server":"5468",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"charlotte",
-                        "author":"66579844@N00",
-                        "authorname":"vrkrebs",
-                        "id":"4425115-9011925921-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"northcarolina",
-                        "author":"66579844@N00",
-                        "authorname":"vrkrebs",
-                        "id":"4425115-9011925921-8419",
-                        "machine_tag":0,
-                        "raw":"North Carolina"
-                    },
-                    {
-                        "_content":"unitedstates",
-                        "author":"66579844@N00",
-                        "authorname":"vrkrebs",
-                        "id":"4425115-9011925921-4074",
-                        "machine_tag":0,
-                        "raw":"United States"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"rocking chairs at Charlotte airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/raykrebs/9011925921/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"104",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-06-02",
+    "date:cessation_upper": "2013-06-02",
+    "date:inception_lower": "2013-06-02",
+    "date:inception_upper": "2013-06-02",
+    "edtf:cessation": "2013-06-02T06:38:42",
+    "edtf:inception": "2013-06-02T06:38:42",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.944167,35.220000,-80.944167,35.220000",
+    "geom:latitude": 35.22,
+    "geom:longitude": -80.944167,
+    "iso:country": "US",
+    "media:created": 1370180322,
+    "media:fingerprint": "596d6203950e5ee64e4ed4d31c8c89e2d1ca25ae",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "9011925921",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
-                "width":576
+        "dates": {
+          "lastupdate": "1370920332",
+          "posted": "1370920325",
+          "taken": "2013-06-02 06:38:42",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1370920325",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "9011925921",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220000",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.944167",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "a0b66bdd42",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7030",
+          "location": "Bay Area, USA",
+          "nsid": "66579844@N00",
+          "path_alias": "raykrebs",
+          "realname": "Ray Krebs",
+          "username": "vrkrebs"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "e3aa093d5b",
+        "server": "5468",
+        "tags": {
+          "tag": [
+            {
+              "_content": "charlotte",
+              "author": "66579844@N00",
+              "authorname": "vrkrebs",
+              "id": "4425115-9011925921-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
-                "width":450
+            {
+              "_content": "northcarolina",
+              "author": "66579844@N00",
+              "authorname": "vrkrebs",
+              "id": "4425115-9011925921-8419",
+              "machine_tag": 0,
+              "raw": "North Carolina"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
-                "width":180
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3264,
-                "mimetype":"image/jpeg",
-                "secret":"tuYXj4V3XTQAo9edxSIKvO3R4Aj1LagtaxGwZRuIuvwcQxZP7eTT",
-                "width":2448
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
-                "width":360
+            {
+              "_content": "unitedstates",
+              "author": "66579844@N00",
+              "authorname": "vrkrebs",
+              "id": "4425115-9011925921-4074",
+              "machine_tag": 0,
+              "raw": "United States"
             }
+          ]
+        },
+        "title": {
+          "_content": "rocking chairs at Charlotte airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/raykrebs/9011925921/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "104",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3264,
+          "mimetype": "image/jpeg",
+          "secret": "tuYXj4V3XTQAo9edxSIKvO3R4Aj1LagtaxGwZRuIuvwcQxZP7eTT",
+          "width": 2448
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "slnmJMjkZT9VJFCUzcnrrLChyCq63Ot9m6kG0BHffvtmmFFnnFec",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007348,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007348,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"347ab94512b9f07ceb04a5f11e4cd1a3",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328031,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328031,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "347ab94512b9f07ceb04a5f11e4cd1a3",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328031,
+        "locality_id": 85981333,
+        "media_id": 1159328031,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328031,
+        "media_id": 1159328031,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328031,
-    "wof:lastmodified":1545868687,
-    "wof:name":"rocking chairs at Charlotte airport",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328031,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "rocking chairs at Charlotte airport",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.944167,
     35.22,
     -80.944167,
     35.22
-],
-  "geometry": {"coordinates":[-80.94416699999999,35.22],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.944167,35.22],"type":"Point"}
 }

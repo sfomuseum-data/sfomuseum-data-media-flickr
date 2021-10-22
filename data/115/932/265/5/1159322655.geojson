@@ -2,238 +2,242 @@
   "id": 1159322655,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-05-06",
-    "date:cessation_upper":"2018-05-06",
-    "date:inception_lower":"2018-05-06",
-    "date:inception_upper":"2018-05-06",
-    "edtf:cessation":"2018-05-06T03:23:52",
-    "edtf:inception":"2018-05-06T03:23:52",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.385456,37.615388,-122.385456,37.615388",
-    "geom:latitude":37.615388,
-    "geom:longitude":-122.385456,
-    "iso:country":"US",
-    "media:created":1525602232,
-    "media:fingerprint":"065fd834c2ad0c7e187a90750634664ac6cf5fd1",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"28055235198",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1525607418",
-                "posted":"1525607415",
-                "taken":"2018-05-06 03:23:52",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1525607415",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"28055235198",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.615388",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.385456",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"132b60a94c",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7429",
-                "location":"San Mateo",
-                "nsid":"23807199@N00",
-                "path_alias":"mliu92",
-                "realname":"",
-                "username":"mliu92"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"692060d7ab",
-            "server":"865",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"SFO AirTrain, automated people mover. Terminal 2"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/mliu92/28055235198/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"25",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2018-05-06",
+    "date:cessation_upper": "2018-05-06",
+    "date:inception_lower": "2018-05-06",
+    "date:inception_upper": "2018-05-06",
+    "edtf:cessation": "2018-05-06T03:23:52",
+    "edtf:inception": "2018-05-06T03:23:52",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.385456,37.615388,-122.385456,37.615388",
+    "geom:latitude": 37.615388,
+    "geom:longitude": -122.385456,
+    "iso:country": "US",
+    "media:created": 1525602232,
+    "media:fingerprint": "065fd834c2ad0c7e187a90750634664ac6cf5fd1",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "28055235198",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":630,
-                "mimetype":"image/jpeg",
-                "secret":"BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":492,
-                "mimetype":"image/jpeg",
-                "secret":"BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":196,
-                "mimetype":"image/jpeg",
-                "secret":"BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":5054,
-                "mimetype":"image/jpeg",
-                "secret":"uqOCVyH4KoF79oGmwmS6K0oxEA5H6XMjYigov9SC2HN2n46xs0xS",
-                "width":8210
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":393,
-                "mimetype":"image/jpeg",
-                "secret":"BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
-                "width":640
+        "dates": {
+          "lastupdate": "1525607418",
+          "posted": "1525607415",
+          "taken": "2018-05-06 03:23:52",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1525607415",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "28055235198",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.615388",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.385456",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "132b60a94c",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7429",
+          "location": "San Mateo",
+          "nsid": "23807199@N00",
+          "path_alias": "mliu92",
+          "realname": "",
+          "username": "mliu92"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "692060d7ab",
+        "server": "865",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "SFO AirTrain, automated people mover. Terminal 2"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/mliu92/28055235198/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "25",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 630,
+          "mimetype": "image/jpeg",
+          "secret": "BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 492,
+          "mimetype": "image/jpeg",
+          "secret": "BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 196,
+          "mimetype": "image/jpeg",
+          "secret": "BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 5054,
+          "mimetype": "image/jpeg",
+          "secret": "uqOCVyH4KoF79oGmwmS6K0oxEA5H6XMjYigov9SC2HN2n46xs0xS",
+          "width": 8210
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 393,
+          "mimetype": "image/jpeg",
+          "secret": "BAFw7MtzIWD1GFIvVqPa5lXphquNzYQvGrjfLWsoCUijbIEGVv7C",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678655,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678655,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"596c1f6d06cb069c50cf9229ac8ce4db",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322655,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322655,
-            "region_id":85688637
-        }
+    "wof:geomhash": "596c1f6d06cb069c50cf9229ac8ce4db",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322655,
+        "locality_id": 85922583,
+        "media_id": 1159322655,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322655,
+        "media_id": 1159322655,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322655,
-    "wof:lastmodified":1545868685,
-    "wof:name":"SFO AirTrain, automated people mover. Terminal 2",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322655,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "SFO AirTrain, automated people mover. Terminal 2",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.385456,
     37.615388,
     -122.385456,
     37.615388
-],
+  ],
   "geometry": {"coordinates":[-122.385456,37.615388],"type":"Point"}
 }

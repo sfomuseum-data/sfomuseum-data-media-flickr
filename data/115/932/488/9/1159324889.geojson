@@ -2,326 +2,329 @@
   "id": 1159324889,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-04-27",
-    "date:cessation_upper":"2013-04-27",
-    "date:inception_lower":"2013-04-27",
-    "date:inception_upper":"2013-04-27",
-    "edtf:cessation":"2013-04-27T10:17:46",
-    "edtf:inception":"2013-04-27T10:17:46",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-149.99696,61.167821,-149.99696,61.167821",
-    "geom:latitude":61.167821,
-    "geom:longitude":-149.99696,
-    "iso:country":"US",
-    "media:created":1367083066,
-    "media:fingerprint":"40d96b6a9937d275ab3b9a88d958824e0f991863",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8732651296",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1524289342",
-                "posted":"1368380431",
-                "taken":"2013-04-27 10:17:46",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1368380431",
-            "description":{
-                "_content":"Departing Runway 7R Anchorage."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8732651296",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Municipality of Anchorage",
-                    "place_id":"gQNrKuBQUL8RyRbJsA",
-                    "woeid":"12587556"
-                },
-                "latitude":"61.167821",
-                "locality":{
-                    "_content":"Anchorage International Airport",
-                    "place_id":"jN3Fd_5QUL8qRX_4CQ",
-                    "woeid":"12518613"
-                },
-                "longitude":"-149.996960",
-                "place_id":"jN3Fd_5QUL8qRX_4CQ",
-                "region":{
-                    "_content":"Alaska",
-                    "place_id":"b_WIPQFTUb5YM9kc",
-                    "woeid":"2347560"
-                },
-                "woeid":"12518613"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"854ea39b12",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3732",
-                "location":"Toronto, Canada",
-                "nsid":"40563877@N00",
-                "path_alias":"bribri",
-                "realname":"",
-                "username":"BriYYZ"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"1493932305",
-            "server":"7283",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"747",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-59075",
-                        "machine_tag":0,
-                        "raw":"747"
-                    },
-                    {
-                        "_content":"747400f",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-2298766",
-                        "machine_tag":0,
-                        "raw":"747-400F"
-                    },
-                    {
-                        "_content":"1094",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-282473",
-                        "machine_tag":0,
-                        "raw":"1094"
-                    },
-                    {
-                        "_content":"28263",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-2454426",
-                        "machine_tag":0,
-                        "raw":"28263"
-                    },
-                    {
-                        "_content":"anc",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-35260",
-                        "machine_tag":0,
-                        "raw":"ANC"
-                    },
-                    {
-                        "_content":"b2428",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-18493562",
-                        "machine_tag":0,
-                        "raw":"B-2428"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"boeing747400f",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-5849435",
-                        "machine_tag":0,
-                        "raw":"Boeing 747-400F"
-                    },
-                    {
-                        "_content":"boeing747412f",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-11386124",
-                        "machine_tag":0,
-                        "raw":"Boeing 747-412F"
-                    },
-                    {
-                        "_content":"chinacargo",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-6170487",
-                        "machine_tag":0,
-                        "raw":"China Cargo"
-                    },
-                    {
-                        "_content":"chinacargoairlines",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-18262087",
-                        "machine_tag":0,
-                        "raw":"China Cargo Airlines"
-                    },
-                    {
-                        "_content":"??????????",
-                        "author":"40563877@N00",
-                        "authorname":"BriYYZ",
-                        "id":"1552743-8732651296-49517944",
-                        "machine_tag":0,
-                        "raw":"??????????"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"China Cargo Boeing 747-400F B-2428"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/bribri/8732651296/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"778",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-04-27",
+    "date:cessation_upper": "2013-04-27",
+    "date:inception_lower": "2013-04-27",
+    "date:inception_upper": "2013-04-27",
+    "edtf:cessation": "2013-04-27T10:17:46",
+    "edtf:inception": "2013-04-27T10:17:46",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-149.996960,61.167821,-149.996960,61.167821",
+    "geom:latitude": 61.167821,
+    "geom:longitude": -149.99696,
+    "iso:country": "US",
+    "media:created": 1367083066,
+    "media:fingerprint": "40d96b6a9937d275ab3b9a88d958824e0f991863",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8732651296",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":575,
-                "mimetype":"image/jpeg",
-                "secret":"6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
-                "width":1024
+        "dates": {
+          "lastupdate": "1524289342",
+          "posted": "1368380431",
+          "taken": "2013-04-27 10:17:46",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1368380431",
+        "description": {
+          "_content": "Departing Runway 7R Anchorage."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8732651296",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Municipality of Anchorage",
+            "place_id": "gQNrKuBQUL8RyRbJsA",
+            "woeid": "12587556"
+          },
+          "latitude": "61.167821",
+          "locality": {
+            "_content": "Anchorage International Airport",
+            "place_id": "jN3Fd_5QUL8qRX_4CQ",
+            "woeid": "12518613"
+          },
+          "longitude": "-149.996960",
+          "place_id": "jN3Fd_5QUL8qRX_4CQ",
+          "region": {
+            "_content": "Alaska",
+            "place_id": "b_WIPQFTUb5YM9kc",
+            "woeid": "2347560"
+          },
+          "woeid": "12518613"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "854ea39b12",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3732",
+          "location": "Toronto, Canada",
+          "nsid": "40563877@N00",
+          "path_alias": "bribri",
+          "realname": "",
+          "username": "BriYYZ"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "1493932305",
+        "server": "7283",
+        "tags": {
+          "tag": [
+            {
+              "_content": "747",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-59075",
+              "machine_tag": 0,
+              "raw": "747"
             },
-            "c":{
-                "extension":"jpg",
-                "height":449,
-                "mimetype":"image/jpeg",
-                "secret":"6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
-                "width":800
+            {
+              "_content": "747400f",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-2298766",
+              "machine_tag": 0,
+              "raw": "747-400F"
             },
-            "n":{
-                "extension":"jpg",
-                "height":179,
-                "mimetype":"image/jpeg",
-                "secret":"6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
-                "width":320
+            {
+              "_content": "1094",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-282473",
+              "machine_tag": 0,
+              "raw": "1094"
             },
-            "o":{
-                "extension":"jpg",
-                "height":731,
-                "mimetype":"image/jpeg",
-                "secret":"qpHkcD0WfmgUJh897nNmAdcwjNppjUTv9OkHy7cBc5tzaSml7uQw",
-                "width":1300
+            {
+              "_content": "28263",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-2454426",
+              "machine_tag": 0,
+              "raw": "28263"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
-                "width":320
+            {
+              "_content": "anc",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-35260",
+              "machine_tag": 0,
+              "raw": "ANC"
             },
-            "z":{
-                "extension":"jpg",
-                "height":359,
-                "mimetype":"image/jpeg",
-                "secret":"6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
-                "width":640
+            {
+              "_content": "b2428",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-18493562",
+              "machine_tag": 0,
+              "raw": "B-2428"
+            },
+            {
+              "_content": "boeing",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
+            },
+            {
+              "_content": "boeing747400f",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-5849435",
+              "machine_tag": 0,
+              "raw": "Boeing 747-400F"
+            },
+            {
+              "_content": "boeing747412f",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-11386124",
+              "machine_tag": 0,
+              "raw": "Boeing 747-412F"
+            },
+            {
+              "_content": "chinacargo",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-6170487",
+              "machine_tag": 0,
+              "raw": "China Cargo"
+            },
+            {
+              "_content": "chinacargoairlines",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-18262087",
+              "machine_tag": 0,
+              "raw": "China Cargo Airlines"
+            },
+            {
+              "_content": "??????????",
+              "author": "40563877@N00",
+              "authorname": "BriYYZ",
+              "id": "1552743-8732651296-49517944",
+              "machine_tag": 0,
+              "raw": "??????????"
             }
+          ]
+        },
+        "title": {
+          "_content": "China Cargo Boeing 747-400F B-2428"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/bribri/8732651296/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "778",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 575,
+          "mimetype": "image/jpeg",
+          "secret": "6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 449,
+          "mimetype": "image/jpeg",
+          "secret": "6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 179,
+          "mimetype": "image/jpeg",
+          "secret": "6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 731,
+          "mimetype": "image/jpeg",
+          "secret": "qpHkcD0WfmgUJh897nNmAdcwjNppjUTv9OkHy7cBc5tzaSml7uQw",
+          "width": 1300
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 359,
+          "mimetype": "image/jpeg",
+          "secret": "6lP5tWv2MmVhkRGA3LeqIogltWQfJFyeDQJYz0GoClfNvybxfO3P",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531979,
-        85850461,
-        102191575,
-        85633793,
-        85915707,
-        102085881,
-        85688573
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531979,
+      85850461,
+      102191575,
+      85633793,
+      85915707,
+      102085881,
+      85688573
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006001,
-    "wof:depicts":[
-        102531979
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006001,
+    "wof:depicts": [
+      102531979
     ],
-    "wof:geomhash":"b408a401317e1b29486a2748c557dbbc",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531979,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085881,
-            "locality_id":85915707,
-            "media_id":1159324889,
-            "neighbourhood_id":85850461,
-            "region_id":85688573
-        }
+    "wof:geomhash": "b408a401317e1b29486a2748c557dbbc",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531979,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085881,
+        "image_id": 1159324889,
+        "locality_id": 85915707,
+        "media_id": 1159324889,
+        "neighbourhood_id": 85850461,
+        "region_id": 85688573
+      }
     ],
-    "wof:id":1159324889,
-    "wof:lastmodified":1545868704,
-    "wof:name":"China Cargo Boeing 747-400F B-2428",
-    "wof:parent_id":102531979,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324889,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "China Cargo Boeing 747-400F B-2428",
+    "wof:parent_id": 102531979,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -149.99696,
     61.167821,
     -149.99696,
     61.167821
-],
+  ],
   "geometry": {"coordinates":[-149.99696,61.167821],"type":"Point"}
 }

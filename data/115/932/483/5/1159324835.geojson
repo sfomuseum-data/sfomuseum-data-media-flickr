@@ -2,252 +2,255 @@
   "id": 1159324835,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-08-07",
-    "date:cessation_upper":"2009-08-07",
-    "date:inception_lower":"2009-08-07",
-    "date:inception_upper":"2009-08-07",
-    "edtf:cessation":"2009-08-07T04:44:36",
-    "edtf:inception":"2009-08-07T04:44:36",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-147.866191,64.818277,-147.866191,64.818277",
-    "geom:latitude":64.818277,
-    "geom:longitude":-147.866191,
-    "iso:country":"US",
-    "media:created":1249645476,
-    "media:fingerprint":"d407050995da7203e5209442d72484b63643f901",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3802320510",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1260646498",
-                "posted":"1249769580",
-                "taken":"2009-08-07 04:44:36",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1249769580",
-            "description":{
-                "_content":"The floor in the Arr/Dep area of Fairbanks Airport.  I noticed it on arrival.  I took a picture during departure."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3802320510",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Fairbanks North Star Borough",
-                    "place_id":"1r8T18dQUL_K3F8dvg",
-                    "woeid":"12587561"
-                },
-                "latitude":"64.818277",
-                "locality":{
-                    "_content":"Fairbanks International Airport",
-                    "place_id":"K8DW2PBQUL.I.VBbbw",
-                    "woeid":"12519682"
-                },
-                "longitude":"-147.866191",
-                "place_id":"K8DW2PBQUL.I.VBbbw",
-                "region":{
-                    "_content":"Alaska",
-                    "place_id":"b_WIPQFTUb5YM9kc",
-                    "woeid":"2347560"
-                },
-                "woeid":"12519682"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"992b102749",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2864",
-                "location":"Canada",
-                "nsid":"95969344@N00",
-                "path_alias":"douglasobrien",
-                "realname":"Douglas O'Brien",
-                "username":"Douglas J O'Brien"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"c78d6fbf80",
-            "server":"3432",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"2009",
-                        "author":"95969344@N00",
-                        "authorname":"Douglas J O'Brien",
-                        "id":"3363178-3802320510-48795",
-                        "machine_tag":0,
-                        "raw":"2009"
-                    },
-                    {
-                        "_content":"365days",
-                        "author":"95969344@N00",
-                        "authorname":"Douglas J O'Brien",
-                        "id":"3363178-3802320510-1977798",
-                        "machine_tag":0,
-                        "raw":"365 days"
-                    },
-                    {
-                        "_content":"wood",
-                        "author":"95969344@N00",
-                        "authorname":"Douglas J O'Brien",
-                        "id":"3363178-3802320510-97",
-                        "machine_tag":0,
-                        "raw":"wood"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"20090807"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/douglasobrien/3802320510/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"2727",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-08-07",
+    "date:cessation_upper": "2009-08-07",
+    "date:inception_lower": "2009-08-07",
+    "date:inception_upper": "2009-08-07",
+    "edtf:cessation": "2009-08-07T04:44:36",
+    "edtf:inception": "2009-08-07T04:44:36",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-147.866191,64.818277,-147.866191,64.818277",
+    "geom:latitude": 64.818277,
+    "geom:longitude": -147.866191,
+    "iso:country": "US",
+    "media:created": 1249645476,
+    "media:fingerprint": "d407050995da7203e5209442d72484b63643f901",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3802320510",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
-                "width":576
+        "dates": {
+          "lastupdate": "1260646498",
+          "posted": "1249769580",
+          "taken": "2009-08-07 04:44:36",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1249769580",
+        "description": {
+          "_content": "The floor in the Arr/Dep area of Fairbanks Airport.  I noticed it on arrival.  I took a picture during departure."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3802320510",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Fairbanks North Star Borough",
+            "place_id": "1r8T18dQUL_K3F8dvg",
+            "woeid": "12587561"
+          },
+          "latitude": "64.818277",
+          "locality": {
+            "_content": "Fairbanks International Airport",
+            "place_id": "K8DW2PBQUL.I.VBbbw",
+            "woeid": "12519682"
+          },
+          "longitude": "-147.866191",
+          "place_id": "K8DW2PBQUL.I.VBbbw",
+          "region": {
+            "_content": "Alaska",
+            "place_id": "b_WIPQFTUb5YM9kc",
+            "woeid": "2347560"
+          },
+          "woeid": "12519682"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "992b102749",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2864",
+          "location": "Canada",
+          "nsid": "95969344@N00",
+          "path_alias": "douglasobrien",
+          "realname": "Douglas O'Brien",
+          "username": "Douglas J O'Brien"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "c78d6fbf80",
+        "server": "3432",
+        "tags": {
+          "tag": [
+            {
+              "_content": "2009",
+              "author": "95969344@N00",
+              "authorname": "Douglas J O'Brien",
+              "id": "3363178-3802320510-48795",
+              "machine_tag": 0,
+              "raw": "2009"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
-                "width":450
+            {
+              "_content": "365days",
+              "author": "95969344@N00",
+              "authorname": "Douglas J O'Brien",
+              "id": "3363178-3802320510-1977798",
+              "machine_tag": 0,
+              "raw": "365 days"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
-                "width":180
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3648,
-                "mimetype":"image/jpeg",
-                "secret":"fgsNHcQpQMeTsPbBbiazWExePyxjme5G6wvoMmiYQb2ERSIPOl99",
-                "width":2736
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
-                "width":360
+            {
+              "_content": "wood",
+              "author": "95969344@N00",
+              "authorname": "Douglas J O'Brien",
+              "id": "3363178-3802320510-97",
+              "machine_tag": 0,
+              "raw": "wood"
             }
+          ]
+        },
+        "title": {
+          "_content": "20090807"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/douglasobrien/3802320510/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "2727",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3648,
+          "mimetype": "image/jpeg",
+          "secret": "fgsNHcQpQMeTsPbBbiazWExePyxjme5G6wvoMmiYQb2ERSIPOl99",
+          "width": 2736
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "e4zGr7sxjrr5h7DaQnsrCIBqu8h7xJKNZQhBC5SwbbMI2lzsx2c1",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102524911,
-        85688573,
-        102191575,
-        85633793,
-        85916551,
-        102081397
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102524911,
+      85688573,
+      102191575,
+      85633793,
+      85916551,
+      102081397
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005983,
-    "wof:depicts":[
-        102524911
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005983,
+    "wof:depicts": [
+      102524911
     ],
-    "wof:geomhash":"53429132a45ca529f0e0cb64ed9111cb",
-    "wof:hierarchy":[
-        {
-            "campus_id":102524911,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081397,
-            "locality_id":85916551,
-            "media_id":1159324835,
-            "region_id":85688573
-        }
+    "wof:geomhash": "53429132a45ca529f0e0cb64ed9111cb",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102524911,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081397,
+        "image_id": 1159324835,
+        "locality_id": 85916551,
+        "media_id": 1159324835,
+        "region_id": 85688573
+      }
     ],
-    "wof:id":1159324835,
-    "wof:lastmodified":1545868651,
-    "wof:name":"20090807",
-    "wof:parent_id":102524911,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324835,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "20090807",
+    "wof:parent_id": 102524911,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -147.866191,
     64.818277,
     -147.866191,
     64.818277
-],
-  "geometry": {"coordinates":[-147.86619099999999,64.81827699999999],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-147.866191,64.818277],"type":"Point"}
 }

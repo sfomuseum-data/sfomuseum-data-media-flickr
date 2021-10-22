@@ -2,302 +2,305 @@
   "id": 1159326673,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-10-05",
-    "date:cessation_upper":"2017-10-05",
-    "date:inception_lower":"2017-10-05",
-    "date:inception_upper":"2017-10-05",
-    "edtf:cessation":"2017-10-05T00:10:10",
-    "edtf:inception":"2017-10-05T00:10:10",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.657912,39.052384,-84.657912,39.052384",
-    "geom:latitude":39.052384,
-    "geom:longitude":-84.657912,
-    "iso:country":"US",
-    "media:created":1507187410,
-    "media:fingerprint":"5c8018839110f4b1815b79d0a3df02bed8ad3557",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"37242520584",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1509116193",
-                "posted":"1509051416",
-                "taken":"2017-10-05 00:10:10",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1509051416",
-            "description":{
-                "_content":"C/n 4950T built in 1940 registered NC31327 at Cincinnati Int. Airport, KY, USA 4. October 2017"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"37242520584",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"12",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.052384",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.657912",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"143107b26c",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3834",
-                "location":"Oslo, Norway",
-                "nsid":"70364571@N05",
-                "path_alias":"johnnyflight",
-                "realname":"Johnny Comstedt",
-                "username":"J.Comstedt"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"b836937945",
-            "server":"4499",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"aircraft",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-5854",
-                        "machine_tag":0,
-                        "raw":"aircraft"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"cincinnati",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-5630",
-                        "machine_tag":0,
-                        "raw":"cincinnati"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"aeronca",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-132938",
-                        "machine_tag":0,
-                        "raw":"aeronca"
-                    },
-                    {
-                        "_content":"65",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-87325",
-                        "machine_tag":0,
-                        "raw":"65"
-                    },
-                    {
-                        "_content":"tandem",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-26065",
-                        "machine_tag":0,
-                        "raw":"tandem"
-                    },
-                    {
-                        "_content":"nc31327",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-309464923",
-                        "machine_tag":0,
-                        "raw":"nc31327"
-                    },
-                    {
-                        "_content":"usa",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-351",
-                        "machine_tag":0,
-                        "raw":"usa"
-                    },
-                    {
-                        "_content":"kentucky",
-                        "author":"70364571@N05",
-                        "authorname":"J.Comstedt",
-                        "id":"70359231-37242520584-5423",
-                        "machine_tag":0,
-                        "raw":"kentucky"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Aeronca 65TL Tandem at Cincinnati"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/johnnyflight/37242520584/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"133",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-10-05",
+    "date:cessation_upper": "2017-10-05",
+    "date:inception_lower": "2017-10-05",
+    "date:inception_upper": "2017-10-05",
+    "edtf:cessation": "2017-10-05T00:10:10",
+    "edtf:inception": "2017-10-05T00:10:10",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.657912,39.052384,-84.657912,39.052384",
+    "geom:latitude": 39.052384,
+    "geom:longitude": -84.657912,
+    "iso:country": "US",
+    "media:created": 1507187410,
+    "media:fingerprint": "5c8018839110f4b1815b79d0a3df02bed8ad3557",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "37242520584",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":576,
-                "mimetype":"image/jpeg",
-                "secret":"7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
-                "width":1024
+        "dates": {
+          "lastupdate": "1509116193",
+          "posted": "1509051416",
+          "taken": "2017-10-05 00:10:10",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1509051416",
+        "description": {
+          "_content": "C/n 4950T built in 1940 registered NC31327 at Cincinnati Int. Airport, KY, USA 4. October 2017"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "37242520584",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "12",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.052384",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.657912",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "143107b26c",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3834",
+          "location": "Oslo, Norway",
+          "nsid": "70364571@N05",
+          "path_alias": "johnnyflight",
+          "realname": "Johnny Comstedt",
+          "username": "J.Comstedt"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "b836937945",
+        "server": "4499",
+        "tags": {
+          "tag": [
+            {
+              "_content": "aircraft",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-5854",
+              "machine_tag": 0,
+              "raw": "aircraft"
             },
-            "c":{
-                "extension":"jpg",
-                "height":450,
-                "mimetype":"image/jpeg",
-                "secret":"7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
-                "width":800
+            {
+              "_content": "aviation",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
             },
-            "n":{
-                "extension":"jpg",
-                "height":180,
-                "mimetype":"image/jpeg",
-                "secret":"7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
-                "width":320
+            {
+              "_content": "cincinnati",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-5630",
+              "machine_tag": 0,
+              "raw": "cincinnati"
             },
-            "o":{
-                "extension":"jpg",
-                "height":4219,
-                "mimetype":"image/jpeg",
-                "secret":"TeygqIuxGfWjyzasp1BB9RLKhTl7L1rgAlQW4WLUohY9sVDVcoL7",
-                "width":7500
+            {
+              "_content": "airport",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
-                "width":320
+            {
+              "_content": "aeronca",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-132938",
+              "machine_tag": 0,
+              "raw": "aeronca"
             },
-            "z":{
-                "extension":"jpg",
-                "height":360,
-                "mimetype":"image/jpeg",
-                "secret":"7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
-                "width":640
+            {
+              "_content": "65",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-87325",
+              "machine_tag": 0,
+              "raw": "65"
+            },
+            {
+              "_content": "tandem",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-26065",
+              "machine_tag": 0,
+              "raw": "tandem"
+            },
+            {
+              "_content": "nc31327",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-309464923",
+              "machine_tag": 0,
+              "raw": "nc31327"
+            },
+            {
+              "_content": "usa",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-351",
+              "machine_tag": 0,
+              "raw": "usa"
+            },
+            {
+              "_content": "kentucky",
+              "author": "70364571@N05",
+              "authorname": "J.Comstedt",
+              "id": "70359231-37242520584-5423",
+              "machine_tag": 0,
+              "raw": "kentucky"
             }
+          ]
+        },
+        "title": {
+          "_content": "Aeronca 65TL Tandem at Cincinnati"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/johnnyflight/37242520584/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "133",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 576,
+          "mimetype": "image/jpeg",
+          "secret": "7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 450,
+          "mimetype": "image/jpeg",
+          "secret": "7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 180,
+          "mimetype": "image/jpeg",
+          "secret": "7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 4219,
+          "mimetype": "image/jpeg",
+          "secret": "TeygqIuxGfWjyzasp1BB9RLKhTl7L1rgAlQW4WLUohY9sVDVcoL7",
+          "width": 7500
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 360,
+          "mimetype": "image/jpeg",
+          "secret": "7n2iVcdOVIeCmgxyeoHkQqxzPyvJiZg2LHkt3U3pkcHRUEI5QvJ3",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006650,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006650,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"05ef874f0e0a93145c3bd7999ad2da8c",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326673,
-            "region_id":85688641
-        }
+    "wof:geomhash": "05ef874f0e0a93145c3bd7999ad2da8c",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326673,
+        "media_id": 1159326673,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326673,
-    "wof:lastmodified":1545868699,
-    "wof:name":"Aeronca 65TL Tandem at Cincinnati",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326673,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Aeronca 65TL Tandem at Cincinnati",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.657912,
     39.052384,
     -84.657912,
     39.052384
-],
+  ],
   "geometry": {"coordinates":[-84.657912,39.052384],"type":"Point"}
 }

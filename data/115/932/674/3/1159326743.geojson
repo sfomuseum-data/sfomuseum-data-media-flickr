@@ -2,430 +2,433 @@
   "id": 1159326743,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-07-05",
-    "date:cessation_upper":"2013-07-05",
-    "date:inception_lower":"2013-07-05",
-    "date:inception_upper":"2013-07-05",
-    "edtf:cessation":"2013-07-05T14:47:40",
-    "edtf:inception":"2013-07-05T14:47:40",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.658467,39.050194,-84.658467,39.050194",
-    "geom:latitude":39.050194,
-    "geom:longitude":-84.658467,
-    "iso:country":"US",
-    "media:created":1373060860,
-    "media:fingerprint":"1a3e1556a3cc00124d0d7db210af15d19b7674fc",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"16406005635",
-        "photo_info":{
-            "comments":{
-                "_content":"4"
-            },
-            "dates":{
-                "lastupdate":"1481927799",
-                "posted":"1422662116",
-                "taken":"2013-07-05 14:47:40",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1422662116",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"16406005635",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.050194",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.658467",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"2466bfaa71",
-            "owner":{
-                "iconfarm":0,
-                "iconserver":"0",
-                "location":"Long Beach, California, USA",
-                "nsid":"36576059@N03",
-                "path_alias":null,
-                "realname":"",
-                "username":"Cyrus II"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"2fd5f0fd7a",
-            "server":"8564",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airtrafficcontrol",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-241352",
-                        "machine_tag":0,
-                        "raw":"air traffic control"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"boarding",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-59600",
-                        "machine_tag":0,
-                        "raw":"boarding"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"cincinnati",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-5630",
-                        "machine_tag":0,
-                        "raw":"Cincinnati"
-                    },
-                    {
-                        "_content":"cloud",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-352",
-                        "machine_tag":0,
-                        "raw":"cloud"
-                    },
-                    {
-                        "_content":"cloudy",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-4557",
-                        "machine_tag":0,
-                        "raw":"cloudy"
-                    },
-                    {
-                        "_content":"controltower",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-102627",
-                        "machine_tag":0,
-                        "raw":"control tower"
-                    },
-                    {
-                        "_content":"dark",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-1492",
-                        "machine_tag":0,
-                        "raw":"dark"
-                    },
-                    {
-                        "_content":"delta",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-8731",
-                        "machine_tag":0,
-                        "raw":"Delta"
-                    },
-                    {
-                        "_content":"deltaairlines",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-601971",
-                        "machine_tag":0,
-                        "raw":"Delta Airlines"
-                    },
-                    {
-                        "_content":"evening",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-2117",
-                        "machine_tag":0,
-                        "raw":"evening"
-                    },
-                    {
-                        "_content":"gategourmet",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-1242090",
-                        "machine_tag":0,
-                        "raw":"Gategourmet"
-                    },
-                    {
-                        "_content":"greatercincinnatiairport",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-2997707",
-                        "machine_tag":0,
-                        "raw":"Greater Cincinnati Airport"
-                    },
-                    {
-                        "_content":"hdr",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-56210",
-                        "machine_tag":0,
-                        "raw":"HDR"
-                    },
-                    {
-                        "_content":"iphone5",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-8689916",
-                        "machine_tag":0,
-                        "raw":"iPhone 5"
-                    },
-                    {
-                        "_content":"kentucky",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-5423",
-                        "machine_tag":0,
-                        "raw":"Kentucky"
-                    },
-                    {
-                        "_content":"light",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-216",
-                        "machine_tag":0,
-                        "raw":"light"
-                    },
-                    {
-                        "_content":"plane",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-1369",
-                        "machine_tag":0,
-                        "raw":"plane"
-                    },
-                    {
-                        "_content":"runway",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-44219",
-                        "machine_tag":0,
-                        "raw":"runway"
-                    },
-                    {
-                        "_content":"tower",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-604",
-                        "machine_tag":0,
-                        "raw":"tower"
-                    },
-                    {
-                        "_content":"unitedstates",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-4074",
-                        "machine_tag":0,
-                        "raw":"United States"
-                    },
-                    {
-                        "_content":"usa",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-351",
-                        "machine_tag":0,
-                        "raw":"USA"
-                    },
-                    {
-                        "_content":"florence",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-2333",
-                        "machine_tag":0,
-                        "raw":"Florence"
-                    },
-                    {
-                        "_content":"summer",
-                        "author":"36576059@N03",
-                        "authorname":"Cyrus II",
-                        "id":"36553005-16406005635-245",
-                        "machine_tag":0,
-                        "raw":"Summer"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"2015-01-17_15-06-40_IMG_8019_q75_s10"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/36576059@N03/16406005635/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"3428",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-07-05",
+    "date:cessation_upper": "2013-07-05",
+    "date:inception_lower": "2013-07-05",
+    "date:inception_upper": "2013-07-05",
+    "edtf:cessation": "2013-07-05T14:47:40",
+    "edtf:inception": "2013-07-05T14:47:40",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.658467,39.050194,-84.658467,39.050194",
+    "geom:latitude": 39.050194,
+    "geom:longitude": -84.658467,
+    "iso:country": "US",
+    "media:created": 1373060860,
+    "media:fingerprint": "1a3e1556a3cc00124d0d7db210af15d19b7674fc",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "16406005635",
+      "photo_info": {
+        "comments": {
+          "_content": "4"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
-                "width":1024
+        "dates": {
+          "lastupdate": "1481927799",
+          "posted": "1422662116",
+          "taken": "2013-07-05 14:47:40",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1422662116",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "16406005635",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.050194",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.658467",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "2466bfaa71",
+        "owner": {
+          "iconfarm": 0,
+          "iconserver": "0",
+          "location": "Long Beach, California, USA",
+          "nsid": "36576059@N03",
+          "path_alias": null,
+          "realname": "",
+          "username": "Cyrus II"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "2fd5f0fd7a",
+        "server": "8564",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airtrafficcontrol",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-241352",
+              "machine_tag": 0,
+              "raw": "air traffic control"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
-                "width":800
+            {
+              "_content": "airplane",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
-                "width":320
+            {
+              "_content": "airport",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2448,
-                "mimetype":"image/jpeg",
-                "secret":"CwiIjUV7xqHl7dYFBYet1tn7FJdyIxcHSb1h4VB52lzEdSAy6wdi",
-                "width":3264
+            {
+              "_content": "boarding",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-59600",
+              "machine_tag": 0,
+              "raw": "boarding"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
-                "width":320
+            {
+              "_content": "boeing",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
-                "width":640
+            {
+              "_content": "cincinnati",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-5630",
+              "machine_tag": 0,
+              "raw": "Cincinnati"
+            },
+            {
+              "_content": "cloud",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-352",
+              "machine_tag": 0,
+              "raw": "cloud"
+            },
+            {
+              "_content": "cloudy",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-4557",
+              "machine_tag": 0,
+              "raw": "cloudy"
+            },
+            {
+              "_content": "controltower",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-102627",
+              "machine_tag": 0,
+              "raw": "control tower"
+            },
+            {
+              "_content": "dark",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-1492",
+              "machine_tag": 0,
+              "raw": "dark"
+            },
+            {
+              "_content": "delta",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-8731",
+              "machine_tag": 0,
+              "raw": "Delta"
+            },
+            {
+              "_content": "deltaairlines",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-601971",
+              "machine_tag": 0,
+              "raw": "Delta Airlines"
+            },
+            {
+              "_content": "evening",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-2117",
+              "machine_tag": 0,
+              "raw": "evening"
+            },
+            {
+              "_content": "gategourmet",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-1242090",
+              "machine_tag": 0,
+              "raw": "Gategourmet"
+            },
+            {
+              "_content": "greatercincinnatiairport",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-2997707",
+              "machine_tag": 0,
+              "raw": "Greater Cincinnati Airport"
+            },
+            {
+              "_content": "hdr",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-56210",
+              "machine_tag": 0,
+              "raw": "HDR"
+            },
+            {
+              "_content": "iphone5",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-8689916",
+              "machine_tag": 0,
+              "raw": "iPhone 5"
+            },
+            {
+              "_content": "kentucky",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-5423",
+              "machine_tag": 0,
+              "raw": "Kentucky"
+            },
+            {
+              "_content": "light",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-216",
+              "machine_tag": 0,
+              "raw": "light"
+            },
+            {
+              "_content": "plane",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-1369",
+              "machine_tag": 0,
+              "raw": "plane"
+            },
+            {
+              "_content": "runway",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-44219",
+              "machine_tag": 0,
+              "raw": "runway"
+            },
+            {
+              "_content": "tower",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-604",
+              "machine_tag": 0,
+              "raw": "tower"
+            },
+            {
+              "_content": "unitedstates",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-4074",
+              "machine_tag": 0,
+              "raw": "United States"
+            },
+            {
+              "_content": "usa",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-351",
+              "machine_tag": 0,
+              "raw": "USA"
+            },
+            {
+              "_content": "florence",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-2333",
+              "machine_tag": 0,
+              "raw": "Florence"
+            },
+            {
+              "_content": "summer",
+              "author": "36576059@N03",
+              "authorname": "Cyrus II",
+              "id": "36553005-16406005635-245",
+              "machine_tag": 0,
+              "raw": "Summer"
             }
+          ]
+        },
+        "title": {
+          "_content": "2015-01-17_15-06-40_IMG_8019_q75_s10"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/36576059@N03/16406005635/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "3428",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2448,
+          "mimetype": "image/jpeg",
+          "secret": "CwiIjUV7xqHl7dYFBYet1tn7FJdyIxcHSb1h4VB52lzEdSAy6wdi",
+          "width": 3264
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "9lPKZWxBipqjzz5joKyfCPNYHSoPV7X2i2xS4yph0FiboLOzt7rU",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006672,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006672,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"815f9d74ecdcaa50700fddfaa9ab716f",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326743,
-            "region_id":85688641
-        }
+    "wof:geomhash": "815f9d74ecdcaa50700fddfaa9ab716f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326743,
+        "media_id": 1159326743,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326743,
-    "wof:lastmodified":1545868706,
-    "wof:name":"2015-01-17_15-06-40_IMG_8019_q75_s10",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326743,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "2015-01-17_15-06-40_IMG_8019_q75_s10",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.658467,
     39.050194,
     -84.658467,
     39.050194
-],
+  ],
   "geometry": {"coordinates":[-84.658467,39.050194],"type":"Point"}
 }

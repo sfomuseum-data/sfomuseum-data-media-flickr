@@ -2,352 +2,356 @@
   "id": 1159327157,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-01-31",
-    "date:cessation_upper":"2009-01-31",
-    "date:inception_lower":"2009-01-31",
-    "date:inception_upper":"2009-01-31",
-    "edtf:cessation":"2009-01-31T18:28:38",
-    "edtf:inception":"2009-01-31T18:28:38",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.953102,35.226432,-80.953102,35.226432",
-    "geom:latitude":35.226432,
-    "geom:longitude":-80.953102,
-    "iso:country":"US",
-    "media:created":1233455318,
-    "media:fingerprint":"b50595d2ea201dde1953120bc19f8b933b349538",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3241977375",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1269204286",
-                "posted":"1233447932",
-                "taken":"2009-01-31 18:28:38",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1233447932",
-            "description":{
-                "_content":"Watching air traffic from the overlook at the end of runway 18C at CLT on 31 Jan.  This plane was landing on runway 23.  Photo was taken with a 4 second shutter.\n\n<a href=\"http://loc.alize.us/#/flickr:3241977375\" rel=\"nofollow\">See where this picture was taken.</a> <a href=\"http://www.flickr.com/groups/geotagging/discuss/72157594165549916/\">[?]</a>"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3241977375",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "latitude":"35.226432",
-                "longitude":"-80.953102",
-                "place_id":"nz.gsghTUb4c2WAecA",
-                "woeid":"23424977"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"3d1b8dd6a9",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5533",
-                "location":"Belmont, NC, USA",
-                "nsid":"34486561@N03",
-                "path_alias":"carolinadoug",
-                "realname":"Douglas Johnson",
-                "username":"Carolinadoug"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"c84c942487",
-            "server":"3120",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"clt",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-830168",
-                        "machine_tag":0,
-                        "raw":"clt"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-4733",
-                        "machine_tag":0,
-                        "raw":"charlotte"
-                    },
-                    {
-                        "_content":"d80",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-2498017",
-                        "machine_tag":0,
-                        "raw":"D80"
-                    },
-                    {
-                        "_content":"slowshutter",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-16531",
-                        "machine_tag":0,
-                        "raw":"Slow Shutter"
-                    },
-                    {
-                        "_content":"longexposure",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-111",
-                        "machine_tag":0,
-                        "raw":"Long Exposure"
-                    },
-                    {
-                        "_content":"nikon",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-2994",
-                        "machine_tag":0,
-                        "raw":"Nikon"
-                    },
-                    {
-                        "_content":"city",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-103",
-                        "machine_tag":0,
-                        "raw":"City"
-                    },
-                    {
-                        "_content":"night",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-1213",
-                        "machine_tag":0,
-                        "raw":"Night"
-                    },
-                    {
-                        "_content":"jet",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-7212",
-                        "machine_tag":0,
-                        "raw":"Jet"
-                    },
-                    {
-                        "_content":"aircraft",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-5854",
-                        "machine_tag":0,
-                        "raw":"Aircraft"
-                    },
-                    {
-                        "_content":"geo:lat=35224959",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-44199846",
-                        "machine_tag":1,
-                        "raw":"geo:lat=35.224959"
-                    },
-                    {
-                        "_content":"geo:lon=80955795",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-44199848",
-                        "machine_tag":1,
-                        "raw":"geo:lon=-80.955795"
-                    },
-                    {
-                        "_content":"geotagged",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-1700",
-                        "machine_tag":0,
-                        "raw":"geotagged"
-                    },
-                    {
-                        "_content":"dougjohnson",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-5318848",
-                        "machine_tag":0,
-                        "raw":"Doug Johnson"
-                    },
-                    {
-                        "_content":"bigjohnsonphotoblogspotcom",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3241977375-49569848",
-                        "machine_tag":0,
-                        "raw":"bigjohnsonphoto.blogspot.com"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Landing 23 at CLT"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/carolinadoug/3241977375/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"470",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-01-31",
+    "date:cessation_upper": "2009-01-31",
+    "date:inception_lower": "2009-01-31",
+    "date:inception_upper": "2009-01-31",
+    "edtf:cessation": "2009-01-31T18:28:38",
+    "edtf:inception": "2009-01-31T18:28:38",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.953102,35.226432,-80.953102,35.226432",
+    "geom:latitude": 35.226432,
+    "geom:longitude": -80.953102,
+    "iso:country": "US",
+    "media:created": 1233455318,
+    "media:fingerprint": "b50595d2ea201dde1953120bc19f8b933b349538",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3241977375",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":685,
-                "mimetype":"image/jpeg",
-                "secret":"PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
-                "width":1024
+        "dates": {
+          "lastupdate": "1269204286",
+          "posted": "1233447932",
+          "taken": "2009-01-31 18:28:38",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1233447932",
+        "description": {
+          "_content": "Watching air traffic from the overlook at the end of runway 18C at CLT on 31 Jan.  This plane was landing on runway 23.  Photo was taken with a 4 second shutter.\n\n\u003ca href=\"http://loc.alize.us/#/flickr:3241977375\" rel=\"nofollow\"\u003eSee where this picture was taken.\u003c/a\u003e \u003ca href=\"http://www.flickr.com/groups/geotagging/discuss/72157594165549916/\"\u003e[?]\u003c/a\u003e"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3241977375",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "latitude": "35.226432",
+          "longitude": "-80.953102",
+          "place_id": "nz.gsghTUb4c2WAecA",
+          "woeid": "23424977"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "3d1b8dd6a9",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5533",
+          "location": "Belmont, NC, USA",
+          "nsid": "34486561@N03",
+          "path_alias": "carolinadoug",
+          "realname": "Douglas Johnson",
+          "username": "Carolinadoug"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "c84c942487",
+        "server": "3120",
+        "tags": {
+          "tag": [
+            {
+              "_content": "clt",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-830168",
+              "machine_tag": 0,
+              "raw": "clt"
             },
-            "c":{
-                "extension":"jpg",
-                "height":535,
-                "mimetype":"image/jpeg",
-                "secret":"PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
-                "width":800
+            {
+              "_content": "airplane",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             },
-            "n":{
-                "extension":"jpg",
-                "height":214,
-                "mimetype":"image/jpeg",
-                "secret":"PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
-                "width":320
+            {
+              "_content": "charlotte",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-4733",
+              "machine_tag": 0,
+              "raw": "charlotte"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1296,
-                "mimetype":"image/jpeg",
-                "secret":"v2eQ42trY5msoBvyZg0LMC6vQ1gpERwJgHv3dbP8KnxlXSIHoTpv",
-                "width":1936
+            {
+              "_content": "d80",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-2498017",
+              "machine_tag": 0,
+              "raw": "D80"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
-                "width":320
+            {
+              "_content": "slowshutter",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-16531",
+              "machine_tag": 0,
+              "raw": "Slow Shutter"
             },
-            "z":{
-                "extension":"jpg",
-                "height":428,
-                "mimetype":"image/jpeg",
-                "secret":"PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
-                "width":640
+            {
+              "_content": "longexposure",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-111",
+              "machine_tag": 0,
+              "raw": "Long Exposure"
+            },
+            {
+              "_content": "nikon",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-2994",
+              "machine_tag": 0,
+              "raw": "Nikon"
+            },
+            {
+              "_content": "city",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-103",
+              "machine_tag": 0,
+              "raw": "City"
+            },
+            {
+              "_content": "night",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-1213",
+              "machine_tag": 0,
+              "raw": "Night"
+            },
+            {
+              "_content": "jet",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-7212",
+              "machine_tag": 0,
+              "raw": "Jet"
+            },
+            {
+              "_content": "aircraft",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-5854",
+              "machine_tag": 0,
+              "raw": "Aircraft"
+            },
+            {
+              "_content": "geo:lat=35224959",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-44199846",
+              "machine_tag": 1,
+              "raw": "geo:lat=35.224959"
+            },
+            {
+              "_content": "geo:lon=80955795",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-44199848",
+              "machine_tag": 1,
+              "raw": "geo:lon=-80.955795"
+            },
+            {
+              "_content": "geotagged",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-1700",
+              "machine_tag": 0,
+              "raw": "geotagged"
+            },
+            {
+              "_content": "dougjohnson",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-5318848",
+              "machine_tag": 0,
+              "raw": "Doug Johnson"
+            },
+            {
+              "_content": "bigjohnsonphotoblogspotcom",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3241977375-49569848",
+              "machine_tag": 0,
+              "raw": "bigjohnsonphoto.blogspot.com"
             }
+          ]
+        },
+        "title": {
+          "_content": "Landing 23 at CLT"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/carolinadoug/3241977375/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "470",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 685,
+          "mimetype": "image/jpeg",
+          "secret": "PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 535,
+          "mimetype": "image/jpeg",
+          "secret": "PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 214,
+          "mimetype": "image/jpeg",
+          "secret": "PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1296,
+          "mimetype": "image/jpeg",
+          "secret": "v2eQ42trY5msoBvyZg0LMC6vQ1gpERwJgHv3dbP8KnxlXSIHoTpv",
+          "width": 1936
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 428,
+          "mimetype": "image/jpeg",
+          "secret": "PtOB4ASycqte8ghyB5tQQcVmM1xd4EJAm67xgU9EC5VtuAx9H4Og",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006811,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006811,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"30d43c4316c8c79c36694dbef64ab782",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159327157,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159327157,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "30d43c4316c8c79c36694dbef64ab782",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327157,
+        "locality_id": 85981333,
+        "media_id": 1159327157,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327157,
+        "media_id": 1159327157,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159327157,
-    "wof:lastmodified":1545868695,
-    "wof:name":"Landing 23 at CLT",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327157,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Landing 23 at CLT",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.953102,
     35.226432,
     -80.953102,
     35.226432
-],
+  ],
   "geometry": {"coordinates":[-80.953102,35.226432],"type":"Point"}
 }

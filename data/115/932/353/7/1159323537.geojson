@@ -2,244 +2,247 @@
   "id": 1159323537,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-07-23",
-    "date:cessation_upper":"2012-07-23",
-    "date:inception_lower":"2012-07-23",
-    "date:inception_upper":"2012-07-23",
-    "edtf:cessation":"2012-07-23T17:25:43",
-    "edtf:inception":"2012-07-23T17:25:43",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-101.705612,35.219448,-101.705612,35.219448",
-    "geom:latitude":35.219448,
-    "geom:longitude":-101.705612,
-    "iso:country":"US",
-    "media:created":1343089543,
-    "media:fingerprint":"7248ff4c8a141e15eeb887a50ed96a8c99bb4687",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8328376438",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1409786423",
-                "posted":"1356918008",
-                "taken":"2012-07-23 17:25:43",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1356918008",
-            "description":{
-                "_content":"\n\n3 Likes on Instagram\n\n"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8328376438",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Potter",
-                    "place_id":"P2YBu8FQUL.egXmong",
-                    "woeid":"12590194"
-                },
-                "latitude":"35.219448",
-                "locality":{
-                    "_content":"Amarillo International Airport",
-                    "place_id":"xlMPLj9QUL9EdVjdbg",
-                    "woeid":"12518598"
-                },
-                "longitude":"-101.705612",
-                "place_id":"xlMPLj9QUL9EdVjdbg",
-                "region":{
-                    "_content":"Texas",
-                    "place_id":"EMo2gYtTUb7oiO66",
-                    "woeid":"2347602"
-                },
-                "woeid":"12518598"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"9e891f47a0",
-            "owner":{
-                "iconfarm":2,
-                "iconserver":"1048",
-                "location":"Austin",
-                "nsid":"33835098@N00",
-                "path_alias":"kimberlytm",
-                "realname":"kim mills",
-                "username":"kimberlytm"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"21f1c3a033",
-            "server":"8220",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"uploaded:by=flickstagram",
-                        "author":"33835098@N00",
-                        "authorname":"kimberlytm",
-                        "id":"567605-8328376438-101687426",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=flickstagram"
-                    },
-                    {
-                        "_content":"instagram:photo=2419637124004613593722690",
-                        "author":"33835098@N00",
-                        "authorname":"kimberlytm",
-                        "id":"567605-8328376438-102557028",
-                        "machine_tag":1,
-                        "raw":"instagram:photo=241963712400461359_3722690"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"241963712400461359_372269020121231-21449-193j2az"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/kimberlytm/8328376438/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"36",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-07-23",
+    "date:cessation_upper": "2012-07-23",
+    "date:inception_lower": "2012-07-23",
+    "date:inception_upper": "2012-07-23",
+    "edtf:cessation": "2012-07-23T17:25:43",
+    "edtf:inception": "2012-07-23T17:25:43",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-101.705612,35.219448,-101.705612,35.219448",
+    "geom:latitude": 35.219448,
+    "geom:longitude": -101.705612,
+    "iso:country": "US",
+    "media:created": 1343089543,
+    "media:fingerprint": "7248ff4c8a141e15eeb887a50ed96a8c99bb4687",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8328376438",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
-                "width":768
+        "dates": {
+          "lastupdate": "1409786423",
+          "posted": "1356918008",
+          "taken": "2012-07-23 17:25:43",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1356918008",
+        "description": {
+          "_content": "\n\n3 Likes on Instagram\n\n"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8328376438",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Potter",
+            "place_id": "P2YBu8FQUL.egXmong",
+            "woeid": "12590194"
+          },
+          "latitude": "35.219448",
+          "locality": {
+            "_content": "Amarillo International Airport",
+            "place_id": "xlMPLj9QUL9EdVjdbg",
+            "woeid": "12518598"
+          },
+          "longitude": "-101.705612",
+          "place_id": "xlMPLj9QUL9EdVjdbg",
+          "region": {
+            "_content": "Texas",
+            "place_id": "EMo2gYtTUb7oiO66",
+            "woeid": "2347602"
+          },
+          "woeid": "12518598"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "9e891f47a0",
+        "owner": {
+          "iconfarm": 2,
+          "iconserver": "1048",
+          "location": "Austin",
+          "nsid": "33835098@N00",
+          "path_alias": "kimberlytm",
+          "realname": "kim mills",
+          "username": "kimberlytm"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "21f1c3a033",
+        "server": "8220",
+        "tags": {
+          "tag": [
+            {
+              "_content": "uploaded:by=flickstagram",
+              "author": "33835098@N00",
+              "authorname": "kimberlytm",
+              "id": "567605-8328376438-101687426",
+              "machine_tag": 1,
+              "raw": "uploaded:by=flickstagram"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
-                "width":600
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
-                "width":240
-            },
-            "o":{
-                "extension":"jpg",
-                "height":612,
-                "mimetype":"image/jpeg",
-                "secret":"DZ6zF3hJkEEsyyTFRQvmk5EE29yQACEcVfSULY5vSMpgbswHxkqO",
-                "width":612
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
-                "width":480
+            {
+              "_content": "instagram:photo=2419637124004613593722690",
+              "author": "33835098@N00",
+              "authorname": "kimberlytm",
+              "id": "567605-8328376438-102557028",
+              "machine_tag": 1,
+              "raw": "instagram:photo=241963712400461359_3722690"
             }
+          ]
+        },
+        "title": {
+          "_content": "241963712400461359_372269020121231-21449-193j2az"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/kimberlytm/8328376438/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "36",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 612,
+          "mimetype": "image/jpeg",
+          "secret": "DZ6zF3hJkEEsyyTFRQvmk5EE29yQACEcVfSULY5vSMpgbswHxkqO",
+          "width": 612
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "h4SAk1Xa82k4L7mwfMdjfJx7l56H45tp2HB80imBSfbYAlvQ5YTT",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102529249,
-        85688753,
-        102191575,
-        85633793,
-        101724103,
-        102086749
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102529249,
+      85688753,
+      102191575,
+      85633793,
+      101724103,
+      102086749
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526688394,
-    "wof:depicts":[
-        102529249
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526688394,
+    "wof:depicts": [
+      102529249
     ],
-    "wof:geomhash":"c21b3e9073dde69fa4239e265b468ddc",
-    "wof:hierarchy":[
-        {
-            "campus_id":102529249,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086749,
-            "locality_id":101724103,
-            "media_id":1159323537,
-            "region_id":85688753
-        }
+    "wof:geomhash": "c21b3e9073dde69fa4239e265b468ddc",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529249,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086749,
+        "image_id": 1159323537,
+        "locality_id": 101724103,
+        "media_id": 1159323537,
+        "region_id": 85688753
+      }
     ],
-    "wof:id":1159323537,
-    "wof:lastmodified":1545868652,
-    "wof:name":"241963712400461359_372269020121231-21449-193j2az",
-    "wof:parent_id":102529249,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323537,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "241963712400461359_372269020121231-21449-193j2az",
+    "wof:parent_id": 102529249,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -101.705612,
     35.219448,
     -101.705612,
     35.219448
-],
+  ],
   "geometry": {"coordinates":[-101.705612,35.219448],"type":"Point"}
 }

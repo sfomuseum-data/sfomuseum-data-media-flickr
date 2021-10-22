@@ -2,238 +2,242 @@
   "id": 1159325475,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-10-24",
-    "date:cessation_upper":"2017-10-24",
-    "date:inception_lower":"2017-10-24",
-    "date:inception_upper":"2017-10-24",
-    "edtf:cessation":"2017-10-24T20:58:13",
-    "edtf:inception":"2017-10-24T20:58:13",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.939556,35.220677,-80.939556,35.220677",
-    "geom:latitude":35.220677,
-    "geom:longitude":-80.939556,
-    "iso:country":"US",
-    "media:created":1508903893,
-    "media:fingerprint":"4ec46094bc9979308e1e3d98d95cf54ea70a080d",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"37864461436",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1508893122",
-                "posted":"1508893120",
-                "taken":"2017-10-24 20:58:13",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1508893120",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"37864461436",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220677",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.939556",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"2c183ee5db",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3761",
-                "location":"San Francisco, United States",
-                "nsid":"64684255@N00",
-                "path_alias":"pleia2",
-                "realname":"Elizabeth K. Joseph",
-                "username":"PLeia2"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"236e7b1385",
-            "server":"4491",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Charlotte has a little airplane inside the airport!"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/pleia2/37864461436/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"54",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-10-24",
+    "date:cessation_upper": "2017-10-24",
+    "date:inception_lower": "2017-10-24",
+    "date:inception_upper": "2017-10-24",
+    "edtf:cessation": "2017-10-24T20:58:13",
+    "edtf:inception": "2017-10-24T20:58:13",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.939556,35.220677,-80.939556,35.220677",
+    "geom:latitude": 35.220677,
+    "geom:longitude": -80.939556,
+    "iso:country": "US",
+    "media:created": 1508903893,
+    "media:fingerprint": "4ec46094bc9979308e1e3d98d95cf54ea70a080d",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "37864461436",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":576,
-                "mimetype":"image/jpeg",
-                "secret":"KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":450,
-                "mimetype":"image/jpeg",
-                "secret":"KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":180,
-                "mimetype":"image/jpeg",
-                "secret":"KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1836,
-                "mimetype":"image/jpeg",
-                "secret":"IdARKNtlnVyGfOcgQVKJ1qSnyEhlbWsrFtDvMddY8LGBEHbfiMec",
-                "width":3264
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":360,
-                "mimetype":"image/jpeg",
-                "secret":"KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
-                "width":640
+        "dates": {
+          "lastupdate": "1508893122",
+          "posted": "1508893120",
+          "taken": "2017-10-24 20:58:13",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1508893120",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "37864461436",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220677",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.939556",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "2c183ee5db",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3761",
+          "location": "San Francisco, United States",
+          "nsid": "64684255@N00",
+          "path_alias": "pleia2",
+          "realname": "Elizabeth K. Joseph",
+          "username": "PLeia2"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "236e7b1385",
+        "server": "4491",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Charlotte has a little airplane inside the airport!"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/pleia2/37864461436/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "54",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 576,
+          "mimetype": "image/jpeg",
+          "secret": "KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 450,
+          "mimetype": "image/jpeg",
+          "secret": "KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 180,
+          "mimetype": "image/jpeg",
+          "secret": "KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1836,
+          "mimetype": "image/jpeg",
+          "secret": "IdARKNtlnVyGfOcgQVKJ1qSnyEhlbWsrFtDvMddY8LGBEHbfiMec",
+          "width": 3264
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 360,
+          "mimetype": "image/jpeg",
+          "secret": "KkfLBf7cc11ND2nlKInikzox2Qy5wInopSwKEISZmj3f0Eutz36j",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006202,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006202,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"ed65588d0295414ad90279f59159bed7",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159325475,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159325475,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "ed65588d0295414ad90279f59159bed7",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325475,
+        "locality_id": 85981333,
+        "media_id": 1159325475,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325475,
+        "media_id": 1159325475,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159325475,
-    "wof:lastmodified":1545868679,
-    "wof:name":"Charlotte has a little airplane inside the airport!",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325475,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Charlotte has a little airplane inside the airport!",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.939556,
     35.220677,
     -80.939556,
     35.220677
-],
+  ],
   "geometry": {"coordinates":[-80.939556,35.220677],"type":"Point"}
 }

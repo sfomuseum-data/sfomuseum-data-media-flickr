@@ -2,295 +2,299 @@
   "id": 1159328171,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2006-06-23",
-    "date:cessation_upper":"2006-06-23",
-    "date:inception_lower":"2006-06-23",
-    "date:inception_upper":"2006-06-23",
-    "edtf:cessation":"2006-06-23T09:04:55",
-    "edtf:inception":"2006-06-23T09:04:55",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.944524,35.220047,-80.944524,35.220047",
-    "geom:latitude":35.220047,
-    "geom:longitude":-80.944524,
-    "iso:country":"US",
-    "media:created":1151078695,
-    "media:fingerprint":"d52aa3ac8588742a04a31af88a55c0a9ee140231",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"5533502021",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1300495160",
-                "posted":"1300337830",
-                "taken":"2006-06-23 09:04:55",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1300337830",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"5533502021",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220047",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.944524",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e0976c2b2a",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7668",
-                "location":"",
-                "nsid":"12341760@N00",
-                "path_alias":"madbuster75",
-                "realname":"Ryan Keene",
-                "username":"Madbuster75"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"7acde5a6bb",
-            "server":"5297",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airline",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5533502021-15019",
-                        "machine_tag":0,
-                        "raw":"Airline"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5533502021-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"2006",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5533502021-9205",
-                        "machine_tag":0,
-                        "raw":"2006"
-                    },
-                    {
-                        "_content":"b737",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5533502021-297802",
-                        "machine_tag":0,
-                        "raw":"B737"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5533502021-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"usairways",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5533502021-132281",
-                        "machine_tag":0,
-                        "raw":"US Airways"
-                    },
-                    {
-                        "_content":"wallpaper",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5533502021-260",
-                        "machine_tag":0,
-                        "raw":"Wallpaper"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"US Airways B737 in Charlotte NC"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/madbuster75/5533502021/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"359",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2006-06-23",
+    "date:cessation_upper": "2006-06-23",
+    "date:inception_lower": "2006-06-23",
+    "date:inception_upper": "2006-06-23",
+    "edtf:cessation": "2006-06-23T09:04:55",
+    "edtf:inception": "2006-06-23T09:04:55",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.944524,35.220047,-80.944524,35.220047",
+    "geom:latitude": 35.220047,
+    "geom:longitude": -80.944524,
+    "iso:country": "US",
+    "media:created": 1151078695,
+    "media:fingerprint": "d52aa3ac8588742a04a31af88a55c0a9ee140231",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "5533502021",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":645,
-                "mimetype":"image/jpeg",
-                "secret":"JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
-                "width":1024
+        "dates": {
+          "lastupdate": "1300495160",
+          "posted": "1300337830",
+          "taken": "2006-06-23 09:04:55",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1300337830",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "5533502021",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220047",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.944524",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e0976c2b2a",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7668",
+          "location": "",
+          "nsid": "12341760@N00",
+          "path_alias": "madbuster75",
+          "realname": "Ryan Keene",
+          "username": "Madbuster75"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "7acde5a6bb",
+        "server": "5297",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airline",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5533502021-15019",
+              "machine_tag": 0,
+              "raw": "Airline"
             },
-            "c":{
-                "extension":"jpg",
-                "height":504,
-                "mimetype":"image/jpeg",
-                "secret":"JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
-                "width":800
+            {
+              "_content": "boeing",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5533502021-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
             },
-            "n":{
-                "extension":"jpg",
-                "height":201,
-                "mimetype":"image/jpeg",
-                "secret":"JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
-                "width":320
+            {
+              "_content": "2006",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5533502021-9205",
+              "machine_tag": 0,
+              "raw": "2006"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1210,
-                "mimetype":"image/jpeg",
-                "secret":"PZoCqs2E8otu5FdDCkD2wZk2pRgLSgzKi3Xh52zzr13k9nQW0RkB",
-                "width":1920
+            {
+              "_content": "b737",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5533502021-297802",
+              "machine_tag": 0,
+              "raw": "B737"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
-                "width":320
+            {
+              "_content": "charlotte",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5533502021-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
             },
-            "z":{
-                "extension":"jpg",
-                "height":403,
-                "mimetype":"image/jpeg",
-                "secret":"JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
-                "width":640
+            {
+              "_content": "usairways",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5533502021-132281",
+              "machine_tag": 0,
+              "raw": "US Airways"
+            },
+            {
+              "_content": "wallpaper",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5533502021-260",
+              "machine_tag": 0,
+              "raw": "Wallpaper"
             }
+          ]
+        },
+        "title": {
+          "_content": "US Airways B737 in Charlotte NC"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/madbuster75/5533502021/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "359",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 645,
+          "mimetype": "image/jpeg",
+          "secret": "JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 504,
+          "mimetype": "image/jpeg",
+          "secret": "JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 201,
+          "mimetype": "image/jpeg",
+          "secret": "JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1210,
+          "mimetype": "image/jpeg",
+          "secret": "PZoCqs2E8otu5FdDCkD2wZk2pRgLSgzKi3Xh52zzr13k9nQW0RkB",
+          "width": 1920
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 403,
+          "mimetype": "image/jpeg",
+          "secret": "JrWKgqvGJRCtZR6BTrkGBYqR7iEhz5ko16FprB3ayJtSIjOqXqjw",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007397,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007397,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"6304158343923dcc0390cda4e24387de",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328171,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328171,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "6304158343923dcc0390cda4e24387de",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328171,
+        "locality_id": 85981333,
+        "media_id": 1159328171,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328171,
+        "media_id": 1159328171,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328171,
-    "wof:lastmodified":1545868706,
-    "wof:name":"US Airways B737 in Charlotte NC",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328171,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "US Airways B737 in Charlotte NC",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.944524,
     35.220047,
     -80.944524,
     35.220047
-],
+  ],
   "geometry": {"coordinates":[-80.944524,35.220047],"type":"Point"}
 }

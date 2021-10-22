@@ -2,279 +2,283 @@
   "id": 1159323079,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-11-01",
-    "date:cessation_upper":"2016-11-01",
-    "date:inception_lower":"2016-11-01",
-    "date:inception_upper":"2016-11-01",
-    "edtf:cessation":"2016-11-01T16:33:26",
-    "edtf:inception":"2016-11-01T16:33:26",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387459,37.617666,-122.387459,37.617666",
-    "geom:latitude":37.617666,
-    "geom:longitude":-122.387459,
-    "iso:country":"US",
-    "media:created":1478043206,
-    "media:fingerprint":"43a6a2560df966ba3f5bcbee535514bb53ebf7c4",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"30630497541",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1478032408",
-                "posted":"1478032406",
-                "taken":"2016-11-01 16:33:26",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1478032406",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"30630497541",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.617666",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.387459",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"af72354780",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7426",
-                "location":"Rochester, NY, USA",
-                "nsid":"93461622@N00",
-                "path_alias":"adrants",
-                "realname":"Steve Hall",
-                "username":"adrants"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"10df93f19f",
-            "server":"5659",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"93461622@N00",
-                        "authorname":"adrants",
-                        "id":"108982-30630497541-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"93461622@N00",
-                        "authorname":"adrants",
-                        "id":"108982-30630497541-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"93461622@N00",
-                        "authorname":"adrants",
-                        "id":"108982-30630497541-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"93461622@N00",
-                        "authorname":"adrants",
-                        "id":"108982-30630497541-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"93461622@N00",
-                        "authorname":"adrants",
-                        "id":"108982-30630497541-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Delayed flight + @americanexpress Centurion Lounge = pop up #wine tasting! #sfo"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/adrants/30630497541/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"563",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-11-01",
+    "date:cessation_upper": "2016-11-01",
+    "date:inception_lower": "2016-11-01",
+    "date:inception_upper": "2016-11-01",
+    "edtf:cessation": "2016-11-01T16:33:26",
+    "edtf:inception": "2016-11-01T16:33:26",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.387459,37.617666,-122.387459,37.617666",
+    "geom:latitude": 37.617666,
+    "geom:longitude": -122.387459,
+    "iso:country": "US",
+    "media:created": 1478043206,
+    "media:fingerprint": "43a6a2560df966ba3f5bcbee535514bb53ebf7c4",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "30630497541",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
-                "width":1024
+        "dates": {
+          "lastupdate": "1478032408",
+          "posted": "1478032406",
+          "taken": "2016-11-01 16:33:26",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1478032406",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "30630497541",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.617666",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.387459",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "af72354780",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7426",
+          "location": "Rochester, NY, USA",
+          "nsid": "93461622@N00",
+          "path_alias": "adrants",
+          "realname": "Steve Hall",
+          "username": "adrants"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "10df93f19f",
+        "server": "5659",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "93461622@N00",
+              "authorname": "adrants",
+              "id": "108982-30630497541-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
-                "width":800
+            {
+              "_content": "square",
+              "author": "93461622@N00",
+              "authorname": "adrants",
+              "id": "108982-30630497541-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
-                "width":320
+            {
+              "_content": "squareformat",
+              "author": "93461622@N00",
+              "authorname": "adrants",
+              "id": "108982-30630497541-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "o":{
-                "extension":"jpg",
-                "height":810,
-                "mimetype":"image/jpeg",
-                "secret":"GLpQYcQCYArZX9h1K1FTzYmYiwg8O3qw4EiKDGAqL6uQ3AAO2m5e",
-                "width":1080
+            {
+              "_content": "iphoneography",
+              "author": "93461622@N00",
+              "authorname": "adrants",
+              "id": "108982-30630497541-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
-                "width":640
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "93461622@N00",
+              "authorname": "adrants",
+              "id": "108982-30630497541-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             }
+          ]
+        },
+        "title": {
+          "_content": "Delayed flight + @americanexpress Centurion Lounge = pop up #wine tasting! #sfo"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/adrants/30630497541/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "563",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 810,
+          "mimetype": "image/jpeg",
+          "secret": "GLpQYcQCYArZX9h1K1FTzYmYiwg8O3qw4EiKDGAqL6uQ3AAO2m5e",
+          "width": 1080
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "EmDUjNxmto0cIYSmzXYtupjR1PRmeFDpfv6jCaaOGESzRUEL0aRp",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678751,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678751,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"6e5e174e7ffe0b603fea8fa5647b4309",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159323079,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159323079,
-            "region_id":85688637
-        }
+    "wof:geomhash": "6e5e174e7ffe0b603fea8fa5647b4309",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159323079,
+        "locality_id": 85922583,
+        "media_id": 1159323079,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159323079,
+        "media_id": 1159323079,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159323079,
-    "wof:lastmodified":1545868689,
-    "wof:name":"Delayed flight + @americanexpress Centurion Lounge = pop up #wine tasting! #sfo",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323079,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Delayed flight + @americanexpress Centurion Lounge = pop up #wine tasting! #sfo",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.387459,
     37.617666,
     -122.387459,
     37.617666
-],
-  "geometry": {"coordinates":[-122.38745900000001,37.617666],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.387459,37.617666],"type":"Point"}
 }

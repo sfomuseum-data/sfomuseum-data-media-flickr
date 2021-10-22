@@ -2,305 +2,308 @@
   "id": 1159332325,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-14",
-    "date:cessation_upper":"2015-04-14",
-    "date:inception_lower":"2015-04-14",
-    "date:inception_upper":"2015-04-14",
-    "edtf:cessation":"2015-04-14T11:50:19",
-    "edtf:inception":"2015-04-14T11:50:19",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.396738,33.953572,-118.396738,33.953572",
-    "geom:latitude":33.953572,
-    "geom:longitude":-118.396738,
-    "iso:country":"US",
-    "media:created":1429037419,
-    "media:fingerprint":"feb9171a4e68de208a17b1fc62c8ef421ae45bbf",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"22584157355",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1446235842",
-                "posted":"1446155004",
-                "taken":"2015-04-14 11:50:19",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1446155004",
-            "description":{
-                "_content":"MSN 2778\nA320-214\nVIRGIN AMAERICA\nLAX AIRPORT"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"22584157355",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.953572",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.396738",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"bfc8832cb6",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8279",
-                "location":"PARIS, FRANCE",
-                "nsid":"16103393@N05",
-                "path_alias":"airlines470",
-                "realname":"ERIC  SALARD",
-                "username":"airlines470"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"a742efb270",
-            "server":"723",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"n624va",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-18136566",
-                        "machine_tag":0,
-                        "raw":"N624VA"
-                    },
-                    {
-                        "_content":"a320",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-109960",
-                        "machine_tag":0,
-                        "raw":"A320"
-                    },
-                    {
-                        "_content":"msn",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-24030",
-                        "machine_tag":0,
-                        "raw":"MSN"
-                    },
-                    {
-                        "_content":"2778",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-451284",
-                        "machine_tag":0,
-                        "raw":"2778"
-                    },
-                    {
-                        "_content":"virgin",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-11760",
-                        "machine_tag":0,
-                        "raw":"VIRGIN"
-                    },
-                    {
-                        "_content":"america",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-1299",
-                        "machine_tag":0,
-                        "raw":"AMERICA"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-2695",
-                        "machine_tag":0,
-                        "raw":"AIRPORT"
-                    },
-                    {
-                        "_content":"a320214",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22584157355-4905844",
-                        "machine_tag":0,
-                        "raw":"A320-214"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"N624VA  LAX"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/airlines470/22584157355/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"444",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-04-14",
+    "date:cessation_upper": "2015-04-14",
+    "date:inception_lower": "2015-04-14",
+    "date:inception_upper": "2015-04-14",
+    "edtf:cessation": "2015-04-14T11:50:19",
+    "edtf:inception": "2015-04-14T11:50:19",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.396738,33.953572,-118.396738,33.953572",
+    "geom:latitude": 33.953572,
+    "geom:longitude": -118.396738,
+    "iso:country": "US",
+    "media:created": 1429037419,
+    "media:fingerprint": "feb9171a4e68de208a17b1fc62c8ef421ae45bbf",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "22584157355",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
-                "width":1024
+        "dates": {
+          "lastupdate": "1446235842",
+          "posted": "1446155004",
+          "taken": "2015-04-14 11:50:19",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1446155004",
+        "description": {
+          "_content": "MSN 2778\nA320-214\nVIRGIN AMAERICA\nLAX AIRPORT"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "22584157355",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.953572",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.396738",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "bfc8832cb6",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8279",
+          "location": "PARIS, FRANCE",
+          "nsid": "16103393@N05",
+          "path_alias": "airlines470",
+          "realname": "ERIC  SALARD",
+          "username": "airlines470"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "a742efb270",
+        "server": "723",
+        "tags": {
+          "tag": [
+            {
+              "_content": "n624va",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-18136566",
+              "machine_tag": 0,
+              "raw": "N624VA"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
-                "width":800
+            {
+              "_content": "a320",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-109960",
+              "machine_tag": 0,
+              "raw": "A320"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
-                "width":320
+            {
+              "_content": "msn",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-24030",
+              "machine_tag": 0,
+              "raw": "MSN"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2097,
-                "mimetype":"image/jpeg",
-                "secret":"DTH9kVfm6RQq0OakmlWkhhGgqX4lN5mj4AleYSsOPFDtSfmU08QA",
-                "width":3146
+            {
+              "_content": "2778",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-451284",
+              "machine_tag": 0,
+              "raw": "2778"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
-                "width":320
+            {
+              "_content": "virgin",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-11760",
+              "machine_tag": 0,
+              "raw": "VIRGIN"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
-                "width":640
+            {
+              "_content": "america",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-1299",
+              "machine_tag": 0,
+              "raw": "AMERICA"
+            },
+            {
+              "_content": "lax",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "airport",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-2695",
+              "machine_tag": 0,
+              "raw": "AIRPORT"
+            },
+            {
+              "_content": "a320214",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22584157355-4905844",
+              "machine_tag": 0,
+              "raw": "A320-214"
             }
+          ]
+        },
+        "title": {
+          "_content": "N624VA  LAX"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/airlines470/22584157355/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "444",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2097,
+          "mimetype": "image/jpeg",
+          "secret": "DTH9kVfm6RQq0OakmlWkhhGgqX4lN5mj4AleYSsOPFDtSfmU08QA",
+          "width": 3146
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "0gRdQ7dvKov2Y0i2yigVvMj3Y4OaZlodgznQjra3ooBbD8VfpXF9",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018681,
-    "wof:depicts":[
-        102533795,
-        1159285481
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018681,
+    "wof:depicts": [
+      102533795,
+      1159285481
     ],
-    "wof:geomhash":"b71ca96ab8adc849dc4fcfc60f443081",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159332325,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "b71ca96ab8adc849dc4fcfc60f443081",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159332325,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159332325,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159332325,
-    "wof:lastmodified":1545868724,
-    "wof:name":"N624VA  LAX",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159332325,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "N624VA  LAX",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.396738,
     33.953572,
     -118.396738,
     33.953572
-],
+  ],
   "geometry": {"coordinates":[-118.396738,33.953572],"type":"Point"}
 }

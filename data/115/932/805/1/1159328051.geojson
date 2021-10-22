@@ -2,238 +2,242 @@
   "id": 1159328051,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-10-01",
-    "date:cessation_upper":"2012-10-01",
-    "date:inception_lower":"2012-10-01",
-    "date:inception_upper":"2012-10-01",
-    "edtf:cessation":"2012-10-01T04:08:21",
-    "edtf:inception":"2012-10-01T04:08:21",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.946241,35.215814,-80.946241,35.215814",
-    "geom:latitude":35.215814,
-    "geom:longitude":-80.946241,
-    "iso:country":"US",
-    "media:created":1349089701,
-    "media:fingerprint":"698fb9764e41b6ccda6150a8dd69c121cbd13ea4",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8760064074",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1369090782",
-                "posted":"1369090735",
-                "taken":"2012-10-01 04:08:21",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1369090735",
-            "description":{
-                "_content":"Traveling separated by 2 seats... feeling lonely : /c @helguita"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8760064074",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.215814",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.946241",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"9942b63117",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3760",
-                "location":"Seoul, Korea",
-                "nsid":"50158065@N00",
-                "path_alias":"samiq",
-                "realname":"Gilbert Corrales Villalobos",
-                "username":"samiq"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"ebec6a2ecf",
-            "server":"7416",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Traveling separated by 2 seats... feeling lonely : /c @helguita"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/samiq/8760064074/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"120",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-10-01",
+    "date:cessation_upper": "2012-10-01",
+    "date:inception_lower": "2012-10-01",
+    "date:inception_upper": "2012-10-01",
+    "edtf:cessation": "2012-10-01T04:08:21",
+    "edtf:inception": "2012-10-01T04:08:21",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.946241,35.215814,-80.946241,35.215814",
+    "geom:latitude": 35.215814,
+    "geom:longitude": -80.946241,
+    "iso:country": "US",
+    "media:created": 1349089701,
+    "media:fingerprint": "698fb9764e41b6ccda6150a8dd69c121cbd13ea4",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8760064074",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
-                "width":768
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
-                "width":600
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
-                "width":240
-            },
-            "o":{
-                "extension":"jpg",
-                "height":612,
-                "mimetype":"image/jpeg",
-                "secret":"F0YUCfMwrwZ1RBW13NKn4njhVukToR7c6BBqdl9kTpjbyZOSMCHS",
-                "width":612
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
-                "width":480
+        "dates": {
+          "lastupdate": "1369090782",
+          "posted": "1369090735",
+          "taken": "2012-10-01 04:08:21",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1369090735",
+        "description": {
+          "_content": "Traveling separated by 2 seats... feeling lonely : /c @helguita"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8760064074",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.215814",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.946241",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "9942b63117",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3760",
+          "location": "Seoul, Korea",
+          "nsid": "50158065@N00",
+          "path_alias": "samiq",
+          "realname": "Gilbert Corrales Villalobos",
+          "username": "samiq"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "ebec6a2ecf",
+        "server": "7416",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Traveling separated by 2 seats... feeling lonely : /c @helguita"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/samiq/8760064074/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "120",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 612,
+          "mimetype": "image/jpeg",
+          "secret": "F0YUCfMwrwZ1RBW13NKn4njhVukToR7c6BBqdl9kTpjbyZOSMCHS",
+          "width": 612
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "Xnd0K00SdBQUuyHr29IjVP4B2QQipDCG7bHtMpuiTOuvlILDgMwH",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007354,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007354,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"dceabada8ea78368da555de2506e753f",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328051,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328051,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "dceabada8ea78368da555de2506e753f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328051,
+        "locality_id": 85981333,
+        "media_id": 1159328051,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328051,
+        "media_id": 1159328051,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328051,
-    "wof:lastmodified":1545868651,
-    "wof:name":"Traveling separated by 2 seats... feeling lonely : /c @helguita",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328051,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Traveling separated by 2 seats... feeling lonely : /c @helguita",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.946241,
     35.215814,
     -80.946241,
     35.215814
-],
+  ],
   "geometry": {"coordinates":[-80.946241,35.215814],"type":"Point"}
 }

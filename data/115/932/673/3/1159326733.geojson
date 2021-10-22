@@ -2,262 +2,265 @@
   "id": 1159326733,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-01",
-    "date:cessation_upper":"2015-04-01",
-    "date:inception_lower":"2015-04-01",
-    "date:inception_upper":"2015-04-01",
-    "edtf:cessation":"2015-04-01T20:03:35",
-    "edtf:inception":"2015-04-01T20:03:35",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.654412,39.053177,-84.654412,39.053177",
-    "geom:latitude":39.053177,
-    "geom:longitude":-84.654412,
-    "iso:country":"US",
-    "media:created":1427943815,
-    "media:fingerprint":"06547cdebd36fa1973bf1bbae7e12a52a2ef90fa",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"17195381176",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1429605892",
-                "posted":"1429605875",
-                "taken":"2015-04-01 20:03:35",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1429605875",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"17195381176",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.053177",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.654412",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"1e9a8ba6a9",
-            "owner":{
-                "iconfarm":5,
-                "iconserver":"4526",
-                "location":"",
-                "nsid":"14662121@N00",
-                "path_alias":"dewmike",
-                "realname":"",
-                "username":"temporarySPASTIC"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"2dc56be310",
-            "server":"7653",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"vietnam",
-                        "author":"14662121@N00",
-                        "authorname":"temporarySPASTIC",
-                        "id":"1461679-17195381176-11298",
-                        "machine_tag":0,
-                        "raw":"vietnam"
-                    },
-                    {
-                        "_content":"saigon",
-                        "author":"14662121@N00",
-                        "authorname":"temporarySPASTIC",
-                        "id":"1461679-17195381176-45060",
-                        "machine_tag":0,
-                        "raw":"saigon"
-                    },
-                    {
-                        "_content":"hcmc",
-                        "author":"14662121@N00",
-                        "authorname":"temporarySPASTIC",
-                        "id":"1461679-17195381176-88496",
-                        "machine_tag":0,
-                        "raw":"hcmc"
-                    },
-                    {
-                        "_content":"okroi",
-                        "author":"14662121@N00",
-                        "authorname":"temporarySPASTIC",
-                        "id":"1461679-17195381176-246209029",
-                        "machine_tag":0,
-                        "raw":"okroi"
-                    },
-                    {
-                        "_content":"fuckyeahvietnam",
-                        "author":"14662121@N00",
-                        "authorname":"temporarySPASTIC",
-                        "id":"1461679-17195381176-246209039",
-                        "machine_tag":0,
-                        "raw":"fuckyeahvietnam"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"LTG v Vietnam"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/dewmike/17195381176/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"184",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-04-01",
+    "date:cessation_upper": "2015-04-01",
+    "date:inception_lower": "2015-04-01",
+    "date:inception_upper": "2015-04-01",
+    "edtf:cessation": "2015-04-01T20:03:35",
+    "edtf:inception": "2015-04-01T20:03:35",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.654412,39.053177,-84.654412,39.053177",
+    "geom:latitude": 39.053177,
+    "geom:longitude": -84.654412,
+    "iso:country": "US",
+    "media:created": 1427943815,
+    "media:fingerprint": "06547cdebd36fa1973bf1bbae7e12a52a2ef90fa",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "17195381176",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
-                "width":576
+        "dates": {
+          "lastupdate": "1429605892",
+          "posted": "1429605875",
+          "taken": "2015-04-01 20:03:35",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1429605875",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "17195381176",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.053177",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.654412",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "1e9a8ba6a9",
+        "owner": {
+          "iconfarm": 5,
+          "iconserver": "4526",
+          "location": "",
+          "nsid": "14662121@N00",
+          "path_alias": "dewmike",
+          "realname": "",
+          "username": "temporarySPASTIC"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "2dc56be310",
+        "server": "7653",
+        "tags": {
+          "tag": [
+            {
+              "_content": "vietnam",
+              "author": "14662121@N00",
+              "authorname": "temporarySPASTIC",
+              "id": "1461679-17195381176-11298",
+              "machine_tag": 0,
+              "raw": "vietnam"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
-                "width":450
+            {
+              "_content": "saigon",
+              "author": "14662121@N00",
+              "authorname": "temporarySPASTIC",
+              "id": "1461679-17195381176-45060",
+              "machine_tag": 0,
+              "raw": "saigon"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
-                "width":180
+            {
+              "_content": "hcmc",
+              "author": "14662121@N00",
+              "authorname": "temporarySPASTIC",
+              "id": "1461679-17195381176-88496",
+              "machine_tag": 0,
+              "raw": "hcmc"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3264,
-                "mimetype":"image/jpeg",
-                "secret":"du7vTqAPTFrnRo9iVDEWpBUwi1FC4Up1MSr3QXi4gssImrUWhHp8",
-                "width":2448
+            {
+              "_content": "okroi",
+              "author": "14662121@N00",
+              "authorname": "temporarySPASTIC",
+              "id": "1461679-17195381176-246209029",
+              "machine_tag": 0,
+              "raw": "okroi"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
-                "width":360
+            {
+              "_content": "fuckyeahvietnam",
+              "author": "14662121@N00",
+              "authorname": "temporarySPASTIC",
+              "id": "1461679-17195381176-246209039",
+              "machine_tag": 0,
+              "raw": "fuckyeahvietnam"
             }
+          ]
+        },
+        "title": {
+          "_content": "LTG v Vietnam"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/dewmike/17195381176/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "184",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3264,
+          "mimetype": "image/jpeg",
+          "secret": "du7vTqAPTFrnRo9iVDEWpBUwi1FC4Up1MSr3QXi4gssImrUWhHp8",
+          "width": 2448
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "ICjqBUlM08nmnlGkxEqXZdL5Ku1F2UuNNmlY7NsFYgaZsWjMoJRr",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006669,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006669,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"1a0bb3f01a443de27ae3e776978a2530",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326733,
-            "region_id":85688641
-        }
+    "wof:geomhash": "1a0bb3f01a443de27ae3e776978a2530",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326733,
+        "media_id": 1159326733,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326733,
-    "wof:lastmodified":1545868683,
-    "wof:name":"LTG v Vietnam",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326733,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "LTG v Vietnam",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.654412,
     39.053177,
     -84.654412,
     39.053177
-],
-  "geometry": {"coordinates":[-84.65441199999999,39.053177],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.654412,39.053177],"type":"Point"}
 }

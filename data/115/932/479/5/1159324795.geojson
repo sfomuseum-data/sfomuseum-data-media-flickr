@@ -2,308 +2,311 @@
   "id": 1159324795,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-06-19",
-    "date:cessation_upper":"2012-06-19",
-    "date:inception_lower":"2012-06-19",
-    "date:inception_upper":"2012-06-19",
-    "edtf:cessation":"2012-06-19T18:59:50",
-    "edtf:inception":"2012-06-19T18:59:50",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-147.849884,64.827114,-147.849884,64.827114",
-    "geom:latitude":64.827114,
-    "geom:longitude":-147.849884,
-    "iso:country":"US",
-    "media:created":1340157590,
-    "media:fingerprint":"2db2f28265d73f997565b819c17842dc774f3532",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"7862751644",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1345997999",
-                "posted":"1345972834",
-                "taken":"2012-06-19 18:59:50",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1345972834",
-            "description":{
-                "_content":"Recently restored, originally manufactured 1929!"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"7862751644",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"13",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Fairbanks North Star Borough",
-                    "place_id":"1r8T18dQUL_K3F8dvg",
-                    "woeid":"12587561"
-                },
-                "latitude":"64.827114",
-                "locality":{
-                    "_content":"Fairbanks International Airport",
-                    "place_id":"K8DW2PBQUL.I.VBbbw",
-                    "woeid":"12519682"
-                },
-                "longitude":"-147.849884",
-                "place_id":"K8DW2PBQUL.I.VBbbw",
-                "region":{
-                    "_content":"Alaska",
-                    "place_id":"b_WIPQFTUb5YM9kc",
-                    "woeid":"2347560"
-                },
-                "woeid":"12519682"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"8cd266c252",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"90",
-                "location":"Netherlands",
-                "nsid":"72605979@N00",
-                "path_alias":"dutchsimba",
-                "realname":"",
-                "username":"Dutch Simba"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"3ef599ebbf",
-            "server":"8287",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"planes",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-16333",
-                        "machine_tag":0,
-                        "raw":"planes"
-                    },
-                    {
-                        "_content":"propliners",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-6669029",
-                        "machine_tag":0,
-                        "raw":"propliners"
-                    },
-                    {
-                        "_content":"bushplanes",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-3160976",
-                        "machine_tag":0,
-                        "raw":"bushplanes"
-                    },
-                    {
-                        "_content":"seaplanes",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-74105",
-                        "machine_tag":0,
-                        "raw":"seaplanes"
-                    },
-                    {
-                        "_content":"floatplanes",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-637257",
-                        "machine_tag":0,
-                        "raw":"floatplanes"
-                    },
-                    {
-                        "_content":"alaska",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-1127",
-                        "machine_tag":0,
-                        "raw":"alaska"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"classicaviation",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-2466347",
-                        "machine_tag":0,
-                        "raw":"classic aviation"
-                    },
-                    {
-                        "_content":"vintageaviation",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-6485964",
-                        "machine_tag":0,
-                        "raw":"vintage aviation"
-                    },
-                    {
-                        "_content":"airtransport",
-                        "author":"72605979@N00",
-                        "authorname":"Dutch Simba",
-                        "id":"4209482-7862751644-150511",
-                        "machine_tag":0,
-                        "raw":"air transport"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Travel Air NC9966_4880"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/dutchsimba/7862751644/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"114",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-06-19",
+    "date:cessation_upper": "2012-06-19",
+    "date:inception_lower": "2012-06-19",
+    "date:inception_upper": "2012-06-19",
+    "edtf:cessation": "2012-06-19T18:59:50",
+    "edtf:inception": "2012-06-19T18:59:50",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-147.849884,64.827114,-147.849884,64.827114",
+    "geom:latitude": 64.827114,
+    "geom:longitude": -147.849884,
+    "iso:country": "US",
+    "media:created": 1340157590,
+    "media:fingerprint": "2db2f28265d73f997565b819c17842dc774f3532",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "7862751644",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":683,
-                "mimetype":"image/jpeg",
-                "secret":"N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
-                "width":1024
+        "dates": {
+          "lastupdate": "1345997999",
+          "posted": "1345972834",
+          "taken": "2012-06-19 18:59:50",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1345972834",
+        "description": {
+          "_content": "Recently restored, originally manufactured 1929!"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "7862751644",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "13",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Fairbanks North Star Borough",
+            "place_id": "1r8T18dQUL_K3F8dvg",
+            "woeid": "12587561"
+          },
+          "latitude": "64.827114",
+          "locality": {
+            "_content": "Fairbanks International Airport",
+            "place_id": "K8DW2PBQUL.I.VBbbw",
+            "woeid": "12519682"
+          },
+          "longitude": "-147.849884",
+          "place_id": "K8DW2PBQUL.I.VBbbw",
+          "region": {
+            "_content": "Alaska",
+            "place_id": "b_WIPQFTUb5YM9kc",
+            "woeid": "2347560"
+          },
+          "woeid": "12519682"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "8cd266c252",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "90",
+          "location": "Netherlands",
+          "nsid": "72605979@N00",
+          "path_alias": "dutchsimba",
+          "realname": "",
+          "username": "Dutch Simba"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "3ef599ebbf",
+        "server": "8287",
+        "tags": {
+          "tag": [
+            {
+              "_content": "planes",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-16333",
+              "machine_tag": 0,
+              "raw": "planes"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
-                "width":800
+            {
+              "_content": "propliners",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-6669029",
+              "machine_tag": 0,
+              "raw": "propliners"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
-                "width":320
+            {
+              "_content": "bushplanes",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-3160976",
+              "machine_tag": 0,
+              "raw": "bushplanes"
             },
-            "o":{
-                "extension":"jpg",
-                "height":563,
-                "mimetype":"image/jpeg",
-                "secret":"VAB5GLXWxmYHbpy0uhRAXgR746NyO097ElcgZ1TuNbAKjieHmxOh",
-                "width":844
+            {
+              "_content": "seaplanes",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-74105",
+              "machine_tag": 0,
+              "raw": "seaplanes"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
-                "width":320
+            {
+              "_content": "floatplanes",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-637257",
+              "machine_tag": 0,
+              "raw": "floatplanes"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
-                "width":640
+            {
+              "_content": "alaska",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-1127",
+              "machine_tag": 0,
+              "raw": "alaska"
+            },
+            {
+              "_content": "aviation",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
+            },
+            {
+              "_content": "classicaviation",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-2466347",
+              "machine_tag": 0,
+              "raw": "classic aviation"
+            },
+            {
+              "_content": "vintageaviation",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-6485964",
+              "machine_tag": 0,
+              "raw": "vintage aviation"
+            },
+            {
+              "_content": "airtransport",
+              "author": "72605979@N00",
+              "authorname": "Dutch Simba",
+              "id": "4209482-7862751644-150511",
+              "machine_tag": 0,
+              "raw": "air transport"
             }
+          ]
+        },
+        "title": {
+          "_content": "Travel Air NC9966_4880"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/dutchsimba/7862751644/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "114",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 683,
+          "mimetype": "image/jpeg",
+          "secret": "N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 563,
+          "mimetype": "image/jpeg",
+          "secret": "VAB5GLXWxmYHbpy0uhRAXgR746NyO097ElcgZ1TuNbAKjieHmxOh",
+          "width": 844
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "N5J5uu2DyOeXpdqxNhcWcaQRJF0ksppr1o3An689VPtiqHEFY5Np",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102524911,
-        85688573,
-        102191575,
-        85633793,
-        85916551,
-        102081397
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102524911,
+      85688573,
+      102191575,
+      85633793,
+      85916551,
+      102081397
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005965,
-    "wof:depicts":[
-        102524911
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005965,
+    "wof:depicts": [
+      102524911
     ],
-    "wof:geomhash":"7e210dcdfb480270888c98f710d03b36",
-    "wof:hierarchy":[
-        {
-            "campus_id":102524911,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081397,
-            "locality_id":85916551,
-            "media_id":1159324795,
-            "region_id":85688573
-        }
+    "wof:geomhash": "7e210dcdfb480270888c98f710d03b36",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102524911,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081397,
+        "image_id": 1159324795,
+        "locality_id": 85916551,
+        "media_id": 1159324795,
+        "region_id": 85688573
+      }
     ],
-    "wof:id":1159324795,
-    "wof:lastmodified":1545868681,
-    "wof:name":"Travel Air NC9966_4880",
-    "wof:parent_id":102524911,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324795,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Travel Air NC9966_4880",
+    "wof:parent_id": 102524911,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -147.849884,
     64.827114,
     -147.849884,
     64.827114
-],
-  "geometry": {"coordinates":[-147.849884,64.82711399999999],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-147.849884,64.827114],"type":"Point"}
 }

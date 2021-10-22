@@ -2,295 +2,299 @@
   "id": 1159327189,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-01-07",
-    "date:cessation_upper":"2009-01-07",
-    "date:inception_lower":"2009-01-07",
-    "date:inception_upper":"2009-01-07",
-    "edtf:cessation":"2009-01-07T08:53:28",
-    "edtf:inception":"2009-01-07T08:53:28",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.958166,35.220666,-80.958166,35.220666",
-    "geom:latitude":35.220666,
-    "geom:longitude":-80.958166,
-    "iso:country":"US",
-    "media:created":1231347208,
-    "media:fingerprint":"88e1f1ad3d57adca7efcf8ccb54bc7aa9d3847ba",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3176245087",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1263163965",
-                "posted":"1231337863",
-                "taken":"2009-01-07 08:53:28",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1231337863",
-            "description":{
-                "_content":"Charlotte... on my way to Lima via Newark"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3176245087",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"13",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220666",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.958166",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"d0455f728b",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8086",
-                "location":"",
-                "nsid":"28485445@N03",
-                "path_alias":"wilkristin",
-                "realname":"Wil Kristin",
-                "username":"wilkristin"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"95e229c524",
-            "server":"3467",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"gates",
-                        "author":"28485445@N03",
-                        "authorname":"wilkristin",
-                        "id":"28462391-3176245087-5037",
-                        "machine_tag":0,
-                        "raw":"gates"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"28485445@N03",
-                        "authorname":"wilkristin",
-                        "id":"28462391-3176245087-4733",
-                        "machine_tag":0,
-                        "raw":"charlotte"
-                    },
-                    {
-                        "_content":"wilkristin",
-                        "author":"28485445@N03",
-                        "authorname":"wilkristin",
-                        "id":"28462391-3176245087-26222832",
-                        "machine_tag":0,
-                        "raw":"wilkristin"
-                    },
-                    {
-                        "_content":"wil",
-                        "author":"28485445@N03",
-                        "authorname":"wilkristin",
-                        "id":"28462391-3176245087-687",
-                        "machine_tag":0,
-                        "raw":"wil"
-                    },
-                    {
-                        "_content":"kristin",
-                        "author":"28485445@N03",
-                        "authorname":"wilkristin",
-                        "id":"28462391-3176245087-10854",
-                        "machine_tag":0,
-                        "raw":"kristin"
-                    },
-                    {
-                        "_content":"ashoka",
-                        "author":"28485445@N03",
-                        "authorname":"wilkristin",
-                        "id":"28462391-3176245087-106144",
-                        "machine_tag":0,
-                        "raw":"ashoka"
-                    },
-                    {
-                        "_content":"lima",
-                        "author":"28485445@N03",
-                        "authorname":"wilkristin",
-                        "id":"28462391-3176245087-4447",
-                        "machine_tag":0,
-                        "raw":"lima"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"gates!"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/wilkristin/3176245087/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"147",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-01-07",
+    "date:cessation_upper": "2009-01-07",
+    "date:inception_lower": "2009-01-07",
+    "date:inception_upper": "2009-01-07",
+    "edtf:cessation": "2009-01-07T08:53:28",
+    "edtf:inception": "2009-01-07T08:53:28",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.958166,35.220666,-80.958166,35.220666",
+    "geom:latitude": 35.220666,
+    "geom:longitude": -80.958166,
+    "iso:country": "US",
+    "media:created": 1231347208,
+    "media:fingerprint": "88e1f1ad3d57adca7efcf8ccb54bc7aa9d3847ba",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3176245087",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
-                "width":1024
+        "dates": {
+          "lastupdate": "1263163965",
+          "posted": "1231337863",
+          "taken": "2009-01-07 08:53:28",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1231337863",
+        "description": {
+          "_content": "Charlotte... on my way to Lima via Newark"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3176245087",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "13",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220666",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.958166",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "d0455f728b",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8086",
+          "location": "",
+          "nsid": "28485445@N03",
+          "path_alias": "wilkristin",
+          "realname": "Wil Kristin",
+          "username": "wilkristin"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "95e229c524",
+        "server": "3467",
+        "tags": {
+          "tag": [
+            {
+              "_content": "gates",
+              "author": "28485445@N03",
+              "authorname": "wilkristin",
+              "id": "28462391-3176245087-5037",
+              "machine_tag": 0,
+              "raw": "gates"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
-                "width":800
+            {
+              "_content": "charlotte",
+              "author": "28485445@N03",
+              "authorname": "wilkristin",
+              "id": "28462391-3176245087-4733",
+              "machine_tag": 0,
+              "raw": "charlotte"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
-                "width":320
+            {
+              "_content": "wilkristin",
+              "author": "28485445@N03",
+              "authorname": "wilkristin",
+              "id": "28462391-3176245087-26222832",
+              "machine_tag": 0,
+              "raw": "wilkristin"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1200,
-                "mimetype":"image/jpeg",
-                "secret":"hWUSyu36YeFGIPs5U6Pyeol9qz09eSFTsq9Y8xeP6P4uoInvM1nO",
-                "width":1600
+            {
+              "_content": "wil",
+              "author": "28485445@N03",
+              "authorname": "wilkristin",
+              "id": "28462391-3176245087-687",
+              "machine_tag": 0,
+              "raw": "wil"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
-                "width":320
+            {
+              "_content": "kristin",
+              "author": "28485445@N03",
+              "authorname": "wilkristin",
+              "id": "28462391-3176245087-10854",
+              "machine_tag": 0,
+              "raw": "kristin"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
-                "width":640
+            {
+              "_content": "ashoka",
+              "author": "28485445@N03",
+              "authorname": "wilkristin",
+              "id": "28462391-3176245087-106144",
+              "machine_tag": 0,
+              "raw": "ashoka"
+            },
+            {
+              "_content": "lima",
+              "author": "28485445@N03",
+              "authorname": "wilkristin",
+              "id": "28462391-3176245087-4447",
+              "machine_tag": 0,
+              "raw": "lima"
             }
+          ]
+        },
+        "title": {
+          "_content": "gates!"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/wilkristin/3176245087/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "147",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1200,
+          "mimetype": "image/jpeg",
+          "secret": "hWUSyu36YeFGIPs5U6Pyeol9qz09eSFTsq9Y8xeP6P4uoInvM1nO",
+          "width": 1600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "dwQz62DdGydmrkZjO9LkiePxM6zUVWK9CWqMIRrNYWuRAtbTzONJ",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006820,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006820,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"539ae2e4d268c45a5046ae166b7fd5dc",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159327189,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159327189,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "539ae2e4d268c45a5046ae166b7fd5dc",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327189,
+        "locality_id": 85981333,
+        "media_id": 1159327189,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327189,
+        "media_id": 1159327189,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159327189,
-    "wof:lastmodified":1545868659,
-    "wof:name":"gates!",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327189,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "gates!",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.958166,
     35.220666,
     -80.958166,
     35.220666
-],
-  "geometry": {"coordinates":[-80.95816600000001,35.220666],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.958166,35.220666],"type":"Point"}
 }

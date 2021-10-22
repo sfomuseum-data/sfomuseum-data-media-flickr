@@ -2,271 +2,275 @@
   "id": 1159328023,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-05-06",
-    "date:cessation_upper":"2013-05-06",
-    "date:inception_lower":"2013-05-06",
-    "date:inception_upper":"2013-05-06",
-    "edtf:cessation":"2013-05-06T19:41:36",
-    "edtf:inception":"2013-05-06T19:41:36",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.941928,35.220572,-80.941928,35.220572",
-    "geom:latitude":35.220572,
-    "geom:longitude":-80.941928,
-    "iso:country":"US",
-    "media:created":1367894496,
-    "media:fingerprint":"9d14bcebe66338bd11f735c40c23fcd3f0b2735f",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"9146662191",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1372301114",
-                "posted":"1372301108",
-                "taken":"2013-05-06 19:41:36",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1372301108",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"9146662191",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220572",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.941928",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"4d2078df0c",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8134",
-                "location":"",
-                "nsid":"8685194@N06",
-                "path_alias":"mjstewart",
-                "realname":"Marques Stewart",
-                "username":"mjpeacecorps"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"b3dc560080",
-            "server":"7304",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"honeymoon",
-                        "author":"8685194@N06",
-                        "authorname":"mjpeacecorps",
-                        "id":"8639872-9146662191-3491",
-                        "machine_tag":0,
-                        "raw":"Honeymoon"
-                    },
-                    {
-                        "_content":"puntacana",
-                        "author":"8685194@N06",
-                        "authorname":"mjpeacecorps",
-                        "id":"8639872-9146662191-70471",
-                        "machine_tag":0,
-                        "raw":"Punta Cana"
-                    },
-                    {
-                        "_content":"domincanrepublic",
-                        "author":"8685194@N06",
-                        "authorname":"mjpeacecorps",
-                        "id":"8639872-9146662191-951776",
-                        "machine_tag":0,
-                        "raw":"Domincan Republic"
-                    },
-                    {
-                        "_content":"vacation",
-                        "author":"8685194@N06",
-                        "authorname":"mjpeacecorps",
-                        "id":"8639872-9146662191-264",
-                        "machine_tag":0,
-                        "raw":"vacation"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Amy & Marques Honeymoon Pics"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/mjstewart/9146662191/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"153",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-05-06",
+    "date:cessation_upper": "2013-05-06",
+    "date:inception_lower": "2013-05-06",
+    "date:inception_upper": "2013-05-06",
+    "edtf:cessation": "2013-05-06T19:41:36",
+    "edtf:inception": "2013-05-06T19:41:36",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.941928,35.220572,-80.941928,35.220572",
+    "geom:latitude": 35.220572,
+    "geom:longitude": -80.941928,
+    "iso:country": "US",
+    "media:created": 1367894496,
+    "media:fingerprint": "9d14bcebe66338bd11f735c40c23fcd3f0b2735f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "9146662191",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
-                "width":576
+        "dates": {
+          "lastupdate": "1372301114",
+          "posted": "1372301108",
+          "taken": "2013-05-06 19:41:36",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1372301108",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "9146662191",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220572",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.941928",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "4d2078df0c",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8134",
+          "location": "",
+          "nsid": "8685194@N06",
+          "path_alias": "mjstewart",
+          "realname": "Marques Stewart",
+          "username": "mjpeacecorps"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "b3dc560080",
+        "server": "7304",
+        "tags": {
+          "tag": [
+            {
+              "_content": "honeymoon",
+              "author": "8685194@N06",
+              "authorname": "mjpeacecorps",
+              "id": "8639872-9146662191-3491",
+              "machine_tag": 0,
+              "raw": "Honeymoon"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
-                "width":450
+            {
+              "_content": "puntacana",
+              "author": "8685194@N06",
+              "authorname": "mjpeacecorps",
+              "id": "8639872-9146662191-70471",
+              "machine_tag": 0,
+              "raw": "Punta Cana"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
-                "width":180
+            {
+              "_content": "domincanrepublic",
+              "author": "8685194@N06",
+              "authorname": "mjpeacecorps",
+              "id": "8639872-9146662191-951776",
+              "machine_tag": 0,
+              "raw": "Domincan Republic"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2592,
-                "mimetype":"image/jpeg",
-                "secret":"NOUvLMKTF46pJiL8bbmBQqkOMklFAoAX8MI3DfpVdu5l3nqE32hL",
-                "width":1944
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
-                "width":360
+            {
+              "_content": "vacation",
+              "author": "8685194@N06",
+              "authorname": "mjpeacecorps",
+              "id": "8639872-9146662191-264",
+              "machine_tag": 0,
+              "raw": "vacation"
             }
+          ]
+        },
+        "title": {
+          "_content": "Amy \u0026 Marques Honeymoon Pics"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/mjstewart/9146662191/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "153",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2592,
+          "mimetype": "image/jpeg",
+          "secret": "NOUvLMKTF46pJiL8bbmBQqkOMklFAoAX8MI3DfpVdu5l3nqE32hL",
+          "width": 1944
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "DI0uiH5MGLOanBq85h6kBOyQLx3aTSApU7iwp98O3b44bHzYsSOR",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007346,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007346,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"4177588fdaf7eca98f6906dc20611233",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328023,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328023,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "4177588fdaf7eca98f6906dc20611233",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328023,
+        "locality_id": 85981333,
+        "media_id": 1159328023,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328023,
+        "media_id": 1159328023,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328023,
-    "wof:lastmodified":1545868663,
-    "wof:name":"Amy & Marques Honeymoon Pics",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328023,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Amy \u0026 Marques Honeymoon Pics",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.941928,
     35.220572,
     -80.941928,
     35.220572
-],
+  ],
   "geometry": {"coordinates":[-80.941928,35.220572],"type":"Point"}
 }

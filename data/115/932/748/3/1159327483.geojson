@@ -2,287 +2,290 @@
   "id": 1159327483,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-03-08",
-    "date:cessation_upper":"2013-03-08",
-    "date:inception_lower":"2013-03-08",
-    "date:inception_upper":"2013-03-08",
-    "edtf:cessation":"2013-03-08T11:30:26",
-    "edtf:inception":"2013-03-08T11:30:26",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.434049,40.651943,-75.434049,40.651943",
-    "geom:latitude":40.651943,
-    "geom:longitude":-75.434049,
-    "iso:country":"US",
-    "media:created":1362771026,
-    "media:fingerprint":"bf193153224372abb72e802c1a89477a08e8560b",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8539966970",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1421882057",
-                "posted":"1362760226",
-                "taken":"2013-03-08 11:30:26",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1362760226",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8539966970",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Northampton",
-                    "place_id":"u4fHzFZQUL.XfU_jlA",
-                    "woeid":"12589775"
-                },
-                "latitude":"40.651943",
-                "locality":{
-                    "_content":"Lehigh Valley International Airport",
-                    "place_id":"7DNGVytQUL8QSNNPrg",
-                    "woeid":"12518581"
-                },
-                "longitude":"-75.434049",
-                "place_id":"7DNGVytQUL8QSNNPrg",
-                "region":{
-                    "_content":"Pennsylvania",
-                    "place_id":"fGSdmohTUb6YMlQa",
-                    "woeid":"2347597"
-                },
-                "woeid":"12518581"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"1fe881a2fe",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5485",
-                "location":"Lehigh Valley, PA, USA",
-                "nsid":"32075561@N06",
-                "path_alias":"lehighvalleypa",
-                "realname":"",
-                "username":"Lehigh Valley, PA"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"b0fb573cc3",
-            "server":"8367",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"32075561@N06",
-                        "authorname":"Lehigh Valley, PA",
-                        "id":"32030239-8539966970-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"32075561@N06",
-                        "authorname":"Lehigh Valley, PA",
-                        "id":"32030239-8539966970-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"32075561@N06",
-                        "authorname":"Lehigh Valley, PA",
-                        "id":"32030239-8539966970-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"32075561@N06",
-                        "authorname":"Lehigh Valley, PA",
-                        "id":"32030239-8539966970-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"32075561@N06",
-                        "authorname":"Lehigh Valley, PA",
-                        "id":"32030239-8539966970-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    },
-                    {
-                        "_content":"amaro",
-                        "author":"32075561@N06",
-                        "authorname":"Lehigh Valley, PA",
-                        "id":"32030239-8539966970-348109",
-                        "machine_tag":0,
-                        "raw":"Amaro"
-                    },
-                    {
-                        "_content":"foursquare:venue=4b128cebf964a520bc8a23e3",
-                        "author":"32075561@N06",
-                        "authorname":"Lehigh Valley, PA",
-                        "id":"32030239-8539966970-71399183",
-                        "machine_tag":1,
-                        "raw":"foursquare:venue=4b128cebf964a520bc8a23e3"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Peeps greet visitors at The Lehigh Valley International Airport @flylvia #lehighvalley #allentown #bethlehem #easton #airport #peep #peeps #pennsylvania #candy #travel #cute #justborn #mikeandike"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/lehighvalleypa/8539966970/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"211",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-03-08",
+    "date:cessation_upper": "2013-03-08",
+    "date:inception_lower": "2013-03-08",
+    "date:inception_upper": "2013-03-08",
+    "edtf:cessation": "2013-03-08T11:30:26",
+    "edtf:inception": "2013-03-08T11:30:26",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.434049,40.651943,-75.434049,40.651943",
+    "geom:latitude": 40.651943,
+    "geom:longitude": -75.434049,
+    "iso:country": "US",
+    "media:created": 1362771026,
+    "media:fingerprint": "bf193153224372abb72e802c1a89477a08e8560b",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8539966970",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
-                "width":768
+        "dates": {
+          "lastupdate": "1421882057",
+          "posted": "1362760226",
+          "taken": "2013-03-08 11:30:26",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1362760226",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8539966970",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Northampton",
+            "place_id": "u4fHzFZQUL.XfU_jlA",
+            "woeid": "12589775"
+          },
+          "latitude": "40.651943",
+          "locality": {
+            "_content": "Lehigh Valley International Airport",
+            "place_id": "7DNGVytQUL8QSNNPrg",
+            "woeid": "12518581"
+          },
+          "longitude": "-75.434049",
+          "place_id": "7DNGVytQUL8QSNNPrg",
+          "region": {
+            "_content": "Pennsylvania",
+            "place_id": "fGSdmohTUb6YMlQa",
+            "woeid": "2347597"
+          },
+          "woeid": "12518581"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "1fe881a2fe",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5485",
+          "location": "Lehigh Valley, PA, USA",
+          "nsid": "32075561@N06",
+          "path_alias": "lehighvalleypa",
+          "realname": "",
+          "username": "Lehigh Valley, PA"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "b0fb573cc3",
+        "server": "8367",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "32075561@N06",
+              "authorname": "Lehigh Valley, PA",
+              "id": "32030239-8539966970-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
-                "width":600
+            {
+              "_content": "square",
+              "author": "32075561@N06",
+              "authorname": "Lehigh Valley, PA",
+              "id": "32030239-8539966970-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
-                "width":240
+            {
+              "_content": "squareformat",
+              "author": "32075561@N06",
+              "authorname": "Lehigh Valley, PA",
+              "id": "32030239-8539966970-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "o":{
-                "extension":"jpg",
-                "height":612,
-                "mimetype":"image/jpeg",
-                "secret":"Wzrfoge5qae3pfoheLFu6IklseRY0q0vEwqusLTIjUaoHXOL8ClT",
-                "width":612
+            {
+              "_content": "iphoneography",
+              "author": "32075561@N06",
+              "authorname": "Lehigh Valley, PA",
+              "id": "32030239-8539966970-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
-                "width":320
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "32075561@N06",
+              "authorname": "Lehigh Valley, PA",
+              "id": "32030239-8539966970-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
-                "width":480
+            {
+              "_content": "amaro",
+              "author": "32075561@N06",
+              "authorname": "Lehigh Valley, PA",
+              "id": "32030239-8539966970-348109",
+              "machine_tag": 0,
+              "raw": "Amaro"
+            },
+            {
+              "_content": "foursquare:venue=4b128cebf964a520bc8a23e3",
+              "author": "32075561@N06",
+              "authorname": "Lehigh Valley, PA",
+              "id": "32030239-8539966970-71399183",
+              "machine_tag": 1,
+              "raw": "foursquare:venue=4b128cebf964a520bc8a23e3"
             }
+          ]
+        },
+        "title": {
+          "_content": "Peeps greet visitors at The Lehigh Valley International Airport @flylvia #lehighvalley #allentown #bethlehem #easton #airport #peep #peeps #pennsylvania #candy #travel #cute #justborn #mikeandike"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/lehighvalleypa/8539966970/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "211",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 612,
+          "mimetype": "image/jpeg",
+          "secret": "Wzrfoge5qae3pfoheLFu6IklseRY0q0vEwqusLTIjUaoHXOL8ClT",
+          "width": 612
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "3BVnUFuVd1vN9khmq5aUb6Mps9OLH3CfA8Hdpd42dyq31E6Doqqi",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102529131,
-        85838547,
-        102191575,
-        404485953,
-        85633793,
-        102081327,
-        85688481
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102529131,
+      85838547,
+      102191575,
+      404485953,
+      85633793,
+      102081327,
+      85688481
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006926,
-    "wof:depicts":[
-        102529131
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006926,
+    "wof:depicts": [
+      102529131
     ],
-    "wof:geomhash":"898da52ad125fc3615b1e6fbcda46515",
-    "wof:hierarchy":[
-        {
-            "campus_id":102529131,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081327,
-            "localadmin_id":404485953,
-            "locality_id":-1,
-            "media_id":1159327483,
-            "neighbourhood_id":85838547,
-            "region_id":85688481
-        }
+    "wof:geomhash": "898da52ad125fc3615b1e6fbcda46515",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529131,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081327,
+        "image_id": 1159327483,
+        "localadmin_id": 404485953,
+        "locality_id": -1,
+        "media_id": 1159327483,
+        "neighbourhood_id": 85838547,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159327483,
-    "wof:lastmodified":1545868681,
-    "wof:name":"Peeps greet visitors at The Lehigh Valley International Airport @flylvia #lehighvalley #allentown #bethlehem #easton #airport #peep #peeps #pennsylvania #candy #travel #cute #justborn #mikeandike",
-    "wof:parent_id":102529131,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327483,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Peeps greet visitors at The Lehigh Valley International Airport @flylvia #lehighvalley #allentown #bethlehem #easton #airport #peep #peeps #pennsylvania #candy #travel #cute #justborn #mikeandike",
+    "wof:parent_id": 102529131,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.434049,
     40.651943,
     -75.434049,
     40.651943
-],
+  ],
   "geometry": {"coordinates":[-75.434049,40.651943],"type":"Point"}
 }

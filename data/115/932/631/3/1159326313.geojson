@@ -2,271 +2,274 @@
   "id": 1159326313,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2008-04-27",
-    "date:cessation_upper":"2008-04-27",
-    "date:inception_lower":"2008-04-27",
-    "date:inception_upper":"2008-04-27",
-    "edtf:cessation":"2008-04-27T11:09:12",
-    "edtf:inception":"2008-04-27T11:09:12",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.435476,40.652903,-75.435476,40.652903",
-    "geom:latitude":40.652903,
-    "geom:longitude":-75.435476,
-    "iso:country":"US",
-    "media:created":1209319752,
-    "media:fingerprint":"5975ebd9ae81983cc4f8ca5e645a3292b1833978",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"2730652300",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1308787191",
-                "posted":"1217815873",
-                "taken":"2008-04-27 11:09:12",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1217815873",
-            "description":{
-                "_content":"ABE (Allentown, PA) - April 27th, 2008\nThe upper level terminal area of the airport."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"2730652300",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Northampton",
-                    "place_id":"u4fHzFZQUL.XfU_jlA",
-                    "woeid":"12589775"
-                },
-                "latitude":"40.652903",
-                "locality":{
-                    "_content":"Lehigh Valley International Airport",
-                    "place_id":"7DNGVytQUL8QSNNPrg",
-                    "woeid":"12518581"
-                },
-                "longitude":"-75.435476",
-                "place_id":"7DNGVytQUL8QSNNPrg",
-                "region":{
-                    "_content":"Pennsylvania",
-                    "place_id":"fGSdmohTUb6YMlQa",
-                    "woeid":"2347597"
-                },
-                "woeid":"12518581"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"2de41182d8",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2859",
-                "location":"",
-                "nsid":"85726777@N00",
-                "path_alias":"andrewc75",
-                "realname":"Andrew E. Cohen",
-                "username":"AndrewC75"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"0409c67065",
-            "server":"3078",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airport",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730652300-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"abe",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730652300-28382",
-                        "machine_tag":0,
-                        "raw":"ABE"
-                    },
-                    {
-                        "_content":"lehighvalley",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730652300-65443",
-                        "machine_tag":0,
-                        "raw":"Lehigh Valley"
-                    },
-                    {
-                        "_content":"allentown",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730652300-65008",
-                        "machine_tag":0,
-                        "raw":"Allentown"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-2730652300-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Lehigh Valley International Airport (ABE) terminal"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/andrewc75/2730652300/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"596",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2008-04-27",
+    "date:cessation_upper": "2008-04-27",
+    "date:inception_lower": "2008-04-27",
+    "date:inception_upper": "2008-04-27",
+    "edtf:cessation": "2008-04-27T11:09:12",
+    "edtf:inception": "2008-04-27T11:09:12",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.435476,40.652903,-75.435476,40.652903",
+    "geom:latitude": 40.652903,
+    "geom:longitude": -75.435476,
+    "iso:country": "US",
+    "media:created": 1209319752,
+    "media:fingerprint": "5975ebd9ae81983cc4f8ca5e645a3292b1833978",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "2730652300",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":683,
-                "mimetype":"image/jpeg",
-                "secret":"SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
-                "width":1024
+        "dates": {
+          "lastupdate": "1308787191",
+          "posted": "1217815873",
+          "taken": "2008-04-27 11:09:12",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1217815873",
+        "description": {
+          "_content": "ABE (Allentown, PA) - April 27th, 2008\nThe upper level terminal area of the airport."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "2730652300",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Northampton",
+            "place_id": "u4fHzFZQUL.XfU_jlA",
+            "woeid": "12589775"
+          },
+          "latitude": "40.652903",
+          "locality": {
+            "_content": "Lehigh Valley International Airport",
+            "place_id": "7DNGVytQUL8QSNNPrg",
+            "woeid": "12518581"
+          },
+          "longitude": "-75.435476",
+          "place_id": "7DNGVytQUL8QSNNPrg",
+          "region": {
+            "_content": "Pennsylvania",
+            "place_id": "fGSdmohTUb6YMlQa",
+            "woeid": "2347597"
+          },
+          "woeid": "12518581"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "2de41182d8",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2859",
+          "location": "",
+          "nsid": "85726777@N00",
+          "path_alias": "andrewc75",
+          "realname": "Andrew E. Cohen",
+          "username": "AndrewC75"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "0409c67065",
+        "server": "3078",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airport",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730652300-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
-                "width":800
+            {
+              "_content": "abe",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730652300-28382",
+              "machine_tag": 0,
+              "raw": "ABE"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
-                "width":320
+            {
+              "_content": "lehighvalley",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730652300-65443",
+              "machine_tag": 0,
+              "raw": "Lehigh Valley"
             },
-            "o":{
-                "extension":"jpg",
-                "height":683,
-                "mimetype":"image/jpeg",
-                "secret":"pdJhwCVgRPoM9nA1wxlvISJeh9Isaay2KYajQMNdrTGn9RXrTRZu",
-                "width":1024
+            {
+              "_content": "allentown",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730652300-65008",
+              "machine_tag": 0,
+              "raw": "Allentown"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
-                "width":640
+            {
+              "_content": "aviation",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-2730652300-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
             }
+          ]
+        },
+        "title": {
+          "_content": "Lehigh Valley International Airport (ABE) terminal"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/andrewc75/2730652300/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "596",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 683,
+          "mimetype": "image/jpeg",
+          "secret": "SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 683,
+          "mimetype": "image/jpeg",
+          "secret": "pdJhwCVgRPoM9nA1wxlvISJeh9Isaay2KYajQMNdrTGn9RXrTRZu",
+          "width": 1024
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "SAQQhekJDOslV0JGlqi0rtjEBrzPP52eDEmJgmppPhP2QMJ2r183",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102529131,
-        85838547,
-        102191575,
-        404485953,
-        85633793,
-        102081327,
-        85688481
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102529131,
+      85838547,
+      102191575,
+      404485953,
+      85633793,
+      102081327,
+      85688481
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006480,
-    "wof:depicts":[
-        102529131
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006480,
+    "wof:depicts": [
+      102529131
     ],
-    "wof:geomhash":"89a43afcc991131b8ef9bfb46d48213a",
-    "wof:hierarchy":[
-        {
-            "campus_id":102529131,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081327,
-            "localadmin_id":404485953,
-            "locality_id":-1,
-            "media_id":1159326313,
-            "neighbourhood_id":85838547,
-            "region_id":85688481
-        }
+    "wof:geomhash": "89a43afcc991131b8ef9bfb46d48213a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529131,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081327,
+        "image_id": 1159326313,
+        "localadmin_id": 404485953,
+        "locality_id": -1,
+        "media_id": 1159326313,
+        "neighbourhood_id": 85838547,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159326313,
-    "wof:lastmodified":1545868675,
-    "wof:name":"Lehigh Valley International Airport (ABE) terminal",
-    "wof:parent_id":102529131,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326313,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Lehigh Valley International Airport (ABE) terminal",
+    "wof:parent_id": 102529131,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.435476,
     40.652903,
     -75.435476,
     40.652903
-],
-  "geometry": {"coordinates":[-75.43547599999999,40.652903],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-75.435476,40.652903],"type":"Point"}
 }

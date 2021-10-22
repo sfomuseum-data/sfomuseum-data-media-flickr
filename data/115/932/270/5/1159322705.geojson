@@ -2,255 +2,259 @@
   "id": 1159322705,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-09-24",
-    "date:cessation_upper":"2017-09-24",
-    "date:inception_lower":"2017-09-24",
-    "date:inception_upper":"2017-09-24",
-    "edtf:cessation":"2017-09-24T06:36:11",
-    "edtf:inception":"2017-09-24T06:36:11",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.386842,37.620338,-122.386842,37.620338",
-    "geom:latitude":37.620338,
-    "geom:longitude":-122.386842,
-    "iso:country":"US",
-    "media:created":1506260171,
-    "media:fingerprint":"cf0b25051da65e1e5382633ddb1a0a00551c7a56",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"39228295284",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1517115716",
-                "posted":"1517115691",
-                "taken":"2017-09-24 06:36:11",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1517115691",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"39228295284",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.620338",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.386842",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"73a375d206",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3134",
-                "location":"Honolulu, USA",
-                "nsid":"21442511@N08",
-                "path_alias":"danramarch",
-                "realname":"Daniel Ramirez",
-                "username":"jdnx"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"1333470e6d",
-            "server":"4749",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"dawn",
-                        "author":"21442511@N08",
-                        "authorname":"jdnx",
-                        "id":"21349698-39228295284-1998",
-                        "machine_tag":0,
-                        "raw":"dawn"
-                    },
-                    {
-                        "_content":"sanfranciscoairport",
-                        "author":"21442511@N08",
-                        "authorname":"jdnx",
-                        "id":"21349698-39228295284-453696",
-                        "machine_tag":0,
-                        "raw":"san francisco airport"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Before sunrise at San Francisco International Airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/danramarch/39228295284/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"161",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-09-24",
+    "date:cessation_upper": "2017-09-24",
+    "date:inception_lower": "2017-09-24",
+    "date:inception_upper": "2017-09-24",
+    "edtf:cessation": "2017-09-24T06:36:11",
+    "edtf:inception": "2017-09-24T06:36:11",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.386842,37.620338,-122.386842,37.620338",
+    "geom:latitude": 37.620338,
+    "geom:longitude": -122.386842,
+    "iso:country": "US",
+    "media:created": 1506260171,
+    "media:fingerprint": "cf0b25051da65e1e5382633ddb1a0a00551c7a56",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "39228295284",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":767,
-                "mimetype":"image/jpeg",
-                "secret":"3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
-                "width":1024
+        "dates": {
+          "lastupdate": "1517115716",
+          "posted": "1517115691",
+          "taken": "2017-09-24 06:36:11",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1517115691",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "39228295284",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.620338",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.386842",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "73a375d206",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3134",
+          "location": "Honolulu, USA",
+          "nsid": "21442511@N08",
+          "path_alias": "danramarch",
+          "realname": "Daniel Ramirez",
+          "username": "jdnx"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "1333470e6d",
+        "server": "4749",
+        "tags": {
+          "tag": [
+            {
+              "_content": "dawn",
+              "author": "21442511@N08",
+              "authorname": "jdnx",
+              "id": "21349698-39228295284-1998",
+              "machine_tag": 0,
+              "raw": "dawn"
             },
-            "c":{
-                "extension":"jpg",
-                "height":599,
-                "mimetype":"image/jpeg",
-                "secret":"3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":239,
-                "mimetype":"image/jpeg",
-                "secret":"3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2915,
-                "mimetype":"image/jpeg",
-                "secret":"nreJzXQjN3i9JoEWpFfF8UyEx489q316t9s0uVbOcf88Kq7m8Qv8",
-                "width":3887
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":479,
-                "mimetype":"image/jpeg",
-                "secret":"3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
-                "width":640
+            {
+              "_content": "sanfranciscoairport",
+              "author": "21442511@N08",
+              "authorname": "jdnx",
+              "id": "21349698-39228295284-453696",
+              "machine_tag": 0,
+              "raw": "san francisco airport"
             }
+          ]
+        },
+        "title": {
+          "_content": "Before sunrise at San Francisco International Airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/danramarch/39228295284/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "161",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 767,
+          "mimetype": "image/jpeg",
+          "secret": "3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 599,
+          "mimetype": "image/jpeg",
+          "secret": "3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 239,
+          "mimetype": "image/jpeg",
+          "secret": "3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2915,
+          "mimetype": "image/jpeg",
+          "secret": "nreJzXQjN3i9JoEWpFfF8UyEx489q316t9s0uVbOcf88Kq7m8Qv8",
+          "width": 3887
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 479,
+          "mimetype": "image/jpeg",
+          "secret": "3FkBJrMQj72KRAI5GPFVgXD8eimETwuqyHpVlGBdIvaPSpmKNB1c",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678666,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678666,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"c7df34f634b84f35269ee3390509c8de",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322705,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322705,
-            "region_id":85688637
-        }
+    "wof:geomhash": "c7df34f634b84f35269ee3390509c8de",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322705,
+        "locality_id": 85922583,
+        "media_id": 1159322705,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322705,
+        "media_id": 1159322705,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322705,
-    "wof:lastmodified":1545868710,
-    "wof:name":"Before sunrise at San Francisco International Airport",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322705,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Before sunrise at San Francisco International Airport",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386842,
     37.620338,
     -122.386842,
     37.620338
-],
+  ],
   "geometry": {"coordinates":[-122.386842,37.620338],"type":"Point"}
 }

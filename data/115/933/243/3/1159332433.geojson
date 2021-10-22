@@ -2,346 +2,349 @@
   "id": 1159332433,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-16",
-    "date:cessation_upper":"2015-04-16",
-    "date:inception_lower":"2015-04-16",
-    "date:inception_upper":"2015-04-16",
-    "edtf:cessation":"2015-04-16T10:17:03",
-    "edtf:inception":"2015-04-16T10:17:03",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.408584,33.943359,-118.408584,33.943359",
-    "geom:latitude":33.943359,
-    "geom:longitude":-118.408584,
-    "iso:country":"US",
-    "media:created":1429204623,
-    "media:fingerprint":"85ed86cb2f3599a3f7716118cd23da7206a2c2f0",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"22120402598",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1445384290",
-                "posted":"1445272909",
-                "taken":"2015-04-16 10:17:03",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1445272909",
-            "description":{
-                "_content":"MSN 29733  LN 1281\nB747-4R7F\nCARGOLUX\nLAX AIRPORT"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"22120402598",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"12",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.943359",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.408584",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"a899b8607f",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8279",
-                "location":"PARIS, FRANCE",
-                "nsid":"16103393@N05",
-                "path_alias":"airlines470",
-                "realname":"ERIC  SALARD",
-                "username":"airlines470"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"4c126f1e07",
-            "server":"677",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"lxscv",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-8150968",
-                        "machine_tag":0,
-                        "raw":"LX-SCV"
-                    },
-                    {
-                        "_content":"747",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-59075",
-                        "machine_tag":0,
-                        "raw":"747"
-                    },
-                    {
-                        "_content":"msn",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-24030",
-                        "machine_tag":0,
-                        "raw":"MSN"
-                    },
-                    {
-                        "_content":"29733",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-2587574",
-                        "machine_tag":0,
-                        "raw":"29733"
-                    },
-                    {
-                        "_content":"ln",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-221912",
-                        "machine_tag":0,
-                        "raw":"LN"
-                    },
-                    {
-                        "_content":"1281",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-595581",
-                        "machine_tag":0,
-                        "raw":"1281"
-                    },
-                    {
-                        "_content":"cargolux",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-103824",
-                        "machine_tag":0,
-                        "raw":"CARGOLUX"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-2695",
-                        "machine_tag":0,
-                        "raw":"AIRPORT"
-                    },
-                    {
-                        "_content":"747400",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-124027",
-                        "machine_tag":0,
-                        "raw":"747-400"
-                    },
-                    {
-                        "_content":"7474r7",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-31543363",
-                        "machine_tag":0,
-                        "raw":"747-4R7"
-                    },
-                    {
-                        "_content":"7474r7f",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-20359405",
-                        "machine_tag":0,
-                        "raw":"747-4R7F"
-                    },
-                    {
-                        "_content":"747400f",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-2298766",
-                        "machine_tag":0,
-                        "raw":"747-400F"
-                    },
-                    {
-                        "_content":"747f",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22120402598-1881571",
-                        "machine_tag":0,
-                        "raw":"747F"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"LX-SCV    LAX"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/airlines470/22120402598/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"926",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-04-16",
+    "date:cessation_upper": "2015-04-16",
+    "date:inception_lower": "2015-04-16",
+    "date:inception_upper": "2015-04-16",
+    "edtf:cessation": "2015-04-16T10:17:03",
+    "edtf:inception": "2015-04-16T10:17:03",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.408584,33.943359,-118.408584,33.943359",
+    "geom:latitude": 33.943359,
+    "geom:longitude": -118.408584,
+    "iso:country": "US",
+    "media:created": 1429204623,
+    "media:fingerprint": "85ed86cb2f3599a3f7716118cd23da7206a2c2f0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "22120402598",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
-                "width":1024
+        "dates": {
+          "lastupdate": "1445384290",
+          "posted": "1445272909",
+          "taken": "2015-04-16 10:17:03",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1445272909",
+        "description": {
+          "_content": "MSN 29733  LN 1281\nB747-4R7F\nCARGOLUX\nLAX AIRPORT"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "22120402598",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "12",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.943359",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.408584",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "a899b8607f",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8279",
+          "location": "PARIS, FRANCE",
+          "nsid": "16103393@N05",
+          "path_alias": "airlines470",
+          "realname": "ERIC  SALARD",
+          "username": "airlines470"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "4c126f1e07",
+        "server": "677",
+        "tags": {
+          "tag": [
+            {
+              "_content": "lxscv",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-8150968",
+              "machine_tag": 0,
+              "raw": "LX-SCV"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
-                "width":800
+            {
+              "_content": "747",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-59075",
+              "machine_tag": 0,
+              "raw": "747"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
-                "width":320
+            {
+              "_content": "msn",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-24030",
+              "machine_tag": 0,
+              "raw": "MSN"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2209,
-                "mimetype":"image/jpeg",
-                "secret":"DomaVP8a9PlUxY1dN8VkcYKCEuLGkitsNTup6omvUkRtj0KkgRAx",
-                "width":3312
+            {
+              "_content": "29733",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-2587574",
+              "machine_tag": 0,
+              "raw": "29733"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
-                "width":320
+            {
+              "_content": "ln",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-221912",
+              "machine_tag": 0,
+              "raw": "LN"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
-                "width":640
+            {
+              "_content": "1281",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-595581",
+              "machine_tag": 0,
+              "raw": "1281"
+            },
+            {
+              "_content": "cargolux",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-103824",
+              "machine_tag": 0,
+              "raw": "CARGOLUX"
+            },
+            {
+              "_content": "lax",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "airport",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-2695",
+              "machine_tag": 0,
+              "raw": "AIRPORT"
+            },
+            {
+              "_content": "747400",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-124027",
+              "machine_tag": 0,
+              "raw": "747-400"
+            },
+            {
+              "_content": "7474r7",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-31543363",
+              "machine_tag": 0,
+              "raw": "747-4R7"
+            },
+            {
+              "_content": "7474r7f",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-20359405",
+              "machine_tag": 0,
+              "raw": "747-4R7F"
+            },
+            {
+              "_content": "747400f",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-2298766",
+              "machine_tag": 0,
+              "raw": "747-400F"
+            },
+            {
+              "_content": "747f",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22120402598-1881571",
+              "machine_tag": 0,
+              "raw": "747F"
             }
+          ]
+        },
+        "title": {
+          "_content": "LX-SCV    LAX"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/airlines470/22120402598/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "926",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2209,
+          "mimetype": "image/jpeg",
+          "secret": "DomaVP8a9PlUxY1dN8VkcYKCEuLGkitsNTup6omvUkRtj0KkgRAx",
+          "width": 3312
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "l40gWqn6NjltoF7ZwQfEGFTOZXwkbxYbpn4aI3dUm6wHWz9IVYZg",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018718,
-    "wof:depicts":[
-        102533795,
-        1159284109,
-        1159289873
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018718,
+    "wof:depicts": [
+      102533795,
+      1159284109,
+      1159289873
     ],
-    "wof:geomhash":"8b6f0bd5628e99aac6fc57fca2b92680",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159332433,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "8b6f0bd5628e99aac6fc57fca2b92680",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159332433,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159332433,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159332433,
-    "wof:lastmodified":1545868717,
-    "wof:name":"LX-SCV    LAX",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159332433,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "LX-SCV    LAX",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.408584,
     33.943359,
     -118.408584,
     33.943359
-],
+  ],
   "geometry": {"coordinates":[-118.408584,33.943359],"type":"Point"}
 }

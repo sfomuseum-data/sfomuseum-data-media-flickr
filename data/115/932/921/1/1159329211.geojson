@@ -2,248 +2,252 @@
   "id": 1159329211,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-01-28",
-    "date:cessation_upper":"2017-01-28",
-    "date:inception_lower":"2017-01-28",
-    "date:inception_upper":"2017-01-28",
-    "edtf:cessation":"2017-01-28T15:55:52",
-    "edtf:inception":"2017-01-28T15:55:52",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.390223,37.615252,-122.390223,37.615252",
-    "geom:latitude":37.615252,
-    "geom:longitude":-122.390223,
-    "iso:country":"US",
-    "media:created":1485647752,
-    "media:fingerprint":"d7bdff3c4f0784a4cb63f7c85229b3dc5ff61c15",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"32428516142",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1485716868",
-                "posted":"1485663361",
-                "taken":"2017-01-28 15:55:52",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1485663361",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"32428516142",
-            "isfavorite":0,
-            "license":"6",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.615252",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.390223",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"63c07c7b36",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"26",
-                "location":"Redwood City / SF, USA",
-                "nsid":"74453626@N00",
-                "path_alias":"lizhenry",
-                "realname":"Liz Henry",
-                "username":"Liz Henry"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"71fd84a95e",
-            "server":"749",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"cameraphone",
-                        "author":"74453626@N00",
-                        "authorname":"Liz Henry",
-                        "id":"1161531-32428516142-17",
-                        "machine_tag":0,
-                        "raw":"cameraphone"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"SFO protest"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/lizhenry/32428516142/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"198",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-01-28",
+    "date:cessation_upper": "2017-01-28",
+    "date:inception_lower": "2017-01-28",
+    "date:inception_upper": "2017-01-28",
+    "edtf:cessation": "2017-01-28T15:55:52",
+    "edtf:inception": "2017-01-28T15:55:52",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.390223,37.615252,-122.390223,37.615252",
+    "geom:latitude": 37.615252,
+    "geom:longitude": -122.390223,
+    "iso:country": "US",
+    "media:created": 1485647752,
+    "media:fingerprint": "d7bdff3c4f0784a4cb63f7c85229b3dc5ff61c15",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "32428516142",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":757,
-                "mimetype":"image/jpeg",
-                "secret":"gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":592,
-                "mimetype":"image/jpeg",
-                "secret":"gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":236,
-                "mimetype":"image/jpeg",
-                "secret":"gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2432,
-                "mimetype":"image/jpeg",
-                "secret":"MGEuJygukOV7Yt8AshacIaILXadRhVx3ZsG6mQ7dkVTmBI3Dj5V1",
-                "width":3286
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":473,
-                "mimetype":"image/jpeg",
-                "secret":"gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
-                "width":640
+        "dates": {
+          "lastupdate": "1485716868",
+          "posted": "1485663361",
+          "taken": "2017-01-28 15:55:52",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1485663361",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "32428516142",
+        "isfavorite": 0,
+        "license": "6",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.615252",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.390223",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "63c07c7b36",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "26",
+          "location": "Redwood City / SF, USA",
+          "nsid": "74453626@N00",
+          "path_alias": "lizhenry",
+          "realname": "Liz Henry",
+          "username": "Liz Henry"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "71fd84a95e",
+        "server": "749",
+        "tags": {
+          "tag": [
+            {
+              "_content": "cameraphone",
+              "author": "74453626@N00",
+              "authorname": "Liz Henry",
+              "id": "1161531-32428516142-17",
+              "machine_tag": 0,
+              "raw": "cameraphone"
             }
+          ]
+        },
+        "title": {
+          "_content": "SFO protest"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/lizhenry/32428516142/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "198",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 757,
+          "mimetype": "image/jpeg",
+          "secret": "gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 592,
+          "mimetype": "image/jpeg",
+          "secret": "gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 236,
+          "mimetype": "image/jpeg",
+          "secret": "gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2432,
+          "mimetype": "image/jpeg",
+          "secret": "MGEuJygukOV7Yt8AshacIaILXadRhVx3ZsG6mQ7dkVTmBI3Dj5V1",
+          "width": 3286
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 473,
+          "mimetype": "image/jpeg",
+          "secret": "gi7auno9hpPGxvpe69K23jVZcN91wkA0uQNoVXSgJvIlEwVzkZHK",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527013975,
-    "wof:depicts":[
-        102527513,
-        1159157333
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527013975,
+    "wof:depicts": [
+      102527513,
+      1159157333
     ],
-    "wof:geomhash":"a24c952ef209c619d29af32e9cd70b97",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159329211,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159329211,
-            "region_id":85688637
-        }
+    "wof:geomhash": "a24c952ef209c619d29af32e9cd70b97",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159329211,
+        "locality_id": 85922583,
+        "media_id": 1159329211,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159329211,
+        "media_id": 1159329211,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159329211,
-    "wof:lastmodified":1545868671,
-    "wof:name":"SFO protest",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159329211,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "SFO protest",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.390223,
     37.615252,
     -122.390223,
     37.615252
-],
-  "geometry": {"coordinates":[-122.39022300000001,37.615252],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.390223,37.615252],"type":"Point"}
 }

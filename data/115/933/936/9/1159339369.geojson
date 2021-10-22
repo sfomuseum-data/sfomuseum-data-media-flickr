@@ -2,416 +2,419 @@
   "id": 1159339369,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-10-16",
-    "date:cessation_upper":"2011-10-16",
-    "date:inception_lower":"2011-10-16",
-    "date:inception_upper":"2011-10-16",
-    "edtf:cessation":"2011-10-16T22:18:00",
-    "edtf:inception":"2011-10-16T22:18:00",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.779839,40.64679,-73.779839,40.64679",
-    "geom:latitude":40.64679,
-    "geom:longitude":-73.779839,
-    "iso:country":"US",
-    "media:created":1318828680,
-    "media:fingerprint":"4228fd6e2b09b9e1e97cf3e129238aaf93f84d67",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#2e5894",
-                        "name":"B'dazzled Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#4682b4",
-                        "name":"steelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#476696",
-                "name":"#476696",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#5d76cb",
-                        "name":"Indigo",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#4682b4",
-                        "name":"steelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#5375a3",
-                "name":"#5375a3",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c2bfb9",
-                "name":"#c2bfb9",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#45423d",
-                "name":"#45423d",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"6251899145",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1484773259",
-                "posted":"1318816945",
-                "taken":"2011-10-16 22:18:00",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1318816945",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":7,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"6251899145",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Queens",
-                    "place_id":"6gNCBQJQUL9_wSrP2Q",
-                    "woeid":"12589352"
-                },
-                "latitude":"40.646790",
-                "locality":{
-                    "_content":"John F Kennedy International Airport",
-                    "place_id":"nD9KAURQUL9pSurxUw",
-                    "woeid":"12520380"
-                },
-                "longitude":"-73.779839",
-                "place_id":"nD9KAURQUL9pSurxUw",
-                "region":{
-                    "_content":"New York",
-                    "place_id":"ODHTuIhTUb75gdBu",
-                    "woeid":"2347591"
-                },
-                "woeid":"12520380"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"36ef46c3a4",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3071",
-                "location":"Brooklyn, United States",
-                "nsid":"39623400@N00",
-                "path_alias":"kbrinker",
-                "realname":"Kai Brinker",
-                "username":"Kai Brinker"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"853938c225",
-            "server":"6153",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"raw",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-3444",
-                        "machine_tag":0,
-                        "raw":"Raw"
-                    },
-                    {
-                        "_content":"twa",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-70897",
-                        "machine_tag":0,
-                        "raw":"TWA"
-                    },
-                    {
-                        "_content":"jfk",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-10978",
-                        "machine_tag":0,
-                        "raw":"JFK"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"flightcenter",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-2513853",
-                        "machine_tag":0,
-                        "raw":"Flight Center"
-                    },
-                    {
-                        "_content":"openhouse",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-45184",
-                        "machine_tag":0,
-                        "raw":"open house"
-                    },
-                    {
-                        "_content":"terminal",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-9675",
-                        "machine_tag":0,
-                        "raw":"terminal"
-                    },
-                    {
-                        "_content":"flight",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-7097",
-                        "machine_tag":0,
-                        "raw":"flight"
-                    },
-                    {
-                        "_content":"airtravel",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-113625",
-                        "machine_tag":0,
-                        "raw":"air travel"
-                    },
-                    {
-                        "_content":"1960s",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-23941",
-                        "machine_tag":0,
-                        "raw":"1960s"
-                    },
-                    {
-                        "_content":"saarinen",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-66350",
-                        "machine_tag":0,
-                        "raw":"Saarinen"
-                    },
-                    {
-                        "_content":"abandonedbuildings",
-                        "author":"39623400@N00",
-                        "authorname":"Kai Brinker",
-                        "id":"7072645-6251899145-182231",
-                        "machine_tag":0,
-                        "raw":"abandoned buildings"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"TWA Flight Center Open House NYC - 10/16/2011 - 53"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/kbrinker/6251899145/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1657",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":680,
-                "mimetype":"image/jpeg",
-                "secret":"c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":531,
-                "mimetype":"image/jpeg",
-                "secret":"c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":531,
-                "mimetype":"image/jpeg",
-                "secret":"c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":212,
-                "mimetype":"image/jpeg",
-                "secret":"c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2848,
-                "mimetype":"image/jpeg",
-                "secret":"N1hBykJrxcW7gex6UHQ9gGLg60PQmexLH0gvztQVG4aMcdKiWrZW",
-                "width":4288
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":425,
-                "mimetype":"image/jpeg",
-                "secret":"c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
-                "width":640
-            }
-        },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102534365
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534365,
-        907131691,
-        102191575,
-        85633793,
-        85977539,
-        421205767,
-        102082377,
-        85688543
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527111507,
-    "wof:depicts":[
-        102534365,
-        1159339369
-    ],
-    "wof:geomhash":"4ebcc0dc5d8437c90d40d5e97688bfd7",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2011-10-16",
+    "date:cessation_upper": "2011-10-16",
+    "date:inception_lower": "2011-10-16",
+    "date:inception_upper": "2011-10-16",
+    "edtf:cessation": "2011-10-16T22:18:00",
+    "edtf:inception": "2011-10-16T22:18:00",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.779839,40.646790,-73.779839,40.646790",
+    "geom:latitude": 40.64679,
+    "geom:longitude": -73.779839,
+    "iso:country": "US",
+    "media:created": 1318828680,
+    "media:fingerprint": "4228fd6e2b09b9e1e97cf3e129238aaf93f84d67",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "borough_id":421205767,
-            "campus_id":102534365,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
-            "media_id":1159339369,
-            "neighbourhood_id":907131691,
-            "region_id":85688543
+          "closest": [
+            {
+              "hex": "#2e5894",
+              "name": "B'dazzled Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#4682b4",
+              "name": "steelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#476696",
+          "name": "#476696",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#5d76cb",
+              "name": "Indigo",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#4682b4",
+              "name": "steelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#5375a3",
+          "name": "#5375a3",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c2bfb9",
+          "name": "#c2bfb9",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#45423d",
+          "name": "#45423d",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "6251899145",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1484773259",
+          "posted": "1318816945",
+          "taken": "2011-10-16 22:18:00",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1318816945",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 7,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "6251899145",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Queens",
+            "place_id": "6gNCBQJQUL9_wSrP2Q",
+            "woeid": "12589352"
+          },
+          "latitude": "40.646790",
+          "locality": {
+            "_content": "John F Kennedy International Airport",
+            "place_id": "nD9KAURQUL9pSurxUw",
+            "woeid": "12520380"
+          },
+          "longitude": "-73.779839",
+          "place_id": "nD9KAURQUL9pSurxUw",
+          "region": {
+            "_content": "New York",
+            "place_id": "ODHTuIhTUb75gdBu",
+            "woeid": "2347591"
+          },
+          "woeid": "12520380"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "36ef46c3a4",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3071",
+          "location": "Brooklyn, United States",
+          "nsid": "39623400@N00",
+          "path_alias": "kbrinker",
+          "realname": "Kai Brinker",
+          "username": "Kai Brinker"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "853938c225",
+        "server": "6153",
+        "tags": {
+          "tag": [
+            {
+              "_content": "raw",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-3444",
+              "machine_tag": 0,
+              "raw": "Raw"
+            },
+            {
+              "_content": "twa",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-70897",
+              "machine_tag": 0,
+              "raw": "TWA"
+            },
+            {
+              "_content": "jfk",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-10978",
+              "machine_tag": 0,
+              "raw": "JFK"
+            },
+            {
+              "_content": "airport",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
+            },
+            {
+              "_content": "flightcenter",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-2513853",
+              "machine_tag": 0,
+              "raw": "Flight Center"
+            },
+            {
+              "_content": "openhouse",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-45184",
+              "machine_tag": 0,
+              "raw": "open house"
+            },
+            {
+              "_content": "terminal",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-9675",
+              "machine_tag": 0,
+              "raw": "terminal"
+            },
+            {
+              "_content": "flight",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-7097",
+              "machine_tag": 0,
+              "raw": "flight"
+            },
+            {
+              "_content": "airtravel",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-113625",
+              "machine_tag": 0,
+              "raw": "air travel"
+            },
+            {
+              "_content": "1960s",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-23941",
+              "machine_tag": 0,
+              "raw": "1960s"
+            },
+            {
+              "_content": "saarinen",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-66350",
+              "machine_tag": 0,
+              "raw": "Saarinen"
+            },
+            {
+              "_content": "abandonedbuildings",
+              "author": "39623400@N00",
+              "authorname": "Kai Brinker",
+              "id": "7072645-6251899145-182231",
+              "machine_tag": 0,
+              "raw": "abandoned buildings"
+            }
+          ]
+        },
+        "title": {
+          "_content": "TWA Flight Center Open House NYC - 10/16/2011 - 53"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/kbrinker/6251899145/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1657",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 680,
+          "mimetype": "image/jpeg",
+          "secret": "c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 531,
+          "mimetype": "image/jpeg",
+          "secret": "c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 531,
+          "mimetype": "image/jpeg",
+          "secret": "c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 212,
+          "mimetype": "image/jpeg",
+          "secret": "c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2848,
+          "mimetype": "image/jpeg",
+          "secret": "N1hBykJrxcW7gex6UHQ9gGLg60PQmexLH0gvztQVG4aMcdKiWrZW",
+          "width": 4288
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 425,
+          "mimetype": "image/jpeg",
+          "secret": "c3YZeFizYYNkCZC1P9k4w34dyPaCng9BPtvFYP7qJfDaIw9j9Si6",
+          "width": 640
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102534365
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534365,
+      907131691,
+      102191575,
+      85633793,
+      85977539,
+      421205767,
+      102082377,
+      85688543
     ],
-    "wof:id":1159339369,
-    "wof:lastmodified":1545868713,
-    "wof:name":"TWA Flight Center Open House NYC - 10/16/2011 - 53",
-    "wof:parent_id":102534365,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527111507,
+    "wof:depicts": [
+      102534365,
+      1159339369
+    ],
+    "wof:geomhash": "4ebcc0dc5d8437c90d40d5e97688bfd7",
+    "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "image_id": 1159339369,
+        "locality_id": 85977539,
+        "media_id": 1159339369,
+        "neighbourhood_id": 907131691,
+        "region_id": 85688543
+      }
+    ],
+    "wof:id": 1159339369,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "TWA Flight Center Open House NYC - 10/16/2011 - 53",
+    "wof:parent_id": 102534365,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.779839,
     40.64679,
     -73.779839,
     40.64679
-],
+  ],
   "geometry": {"coordinates":[-73.779839,40.64679],"type":"Point"}
 }

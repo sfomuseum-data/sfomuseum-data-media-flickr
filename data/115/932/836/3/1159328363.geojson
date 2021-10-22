@@ -2,246 +2,249 @@
   "id": 1159328363,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-02-02",
-    "date:cessation_upper":"2016-02-02",
-    "date:inception_lower":"2016-02-02",
-    "date:inception_upper":"2016-02-02",
-    "edtf:cessation":"2016-02-02T19:43:02",
-    "edtf:inception":"2016-02-02T19:43:02",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.296456,47.51778,-122.296456,47.51778",
-    "geom:latitude":47.51778,
-    "geom:longitude":-122.296456,
-    "iso:country":"US",
-    "media:created":1454470982,
-    "media:fingerprint":"efc2a9e6d77fb4c88cfa7d45429e91c099935fdb",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"24729614090",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1455470574",
-                "posted":"1455470571",
-                "taken":"2016-02-02 19:43:02",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1455470571",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":2,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"24729614090",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"King",
-                    "place_id":"e4JdbCFQUL8iSf0rtg",
-                    "woeid":"12590456"
-                },
-                "latitude":"47.517780",
-                "locality":{
-                    "_content":"King County International Airport-Boeing Field",
-                    "place_id":"3ojMGppQUL9TpjoCCA",
-                    "woeid":"12518877"
-                },
-                "longitude":"-122.296456",
-                "place_id":"3ojMGppQUL9TpjoCCA",
-                "region":{
-                    "_content":"Washington",
-                    "place_id":"jyADg3RTUb65Hnbj",
-                    "woeid":"2347606"
-                },
-                "woeid":"12518877"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"b3a6aa0424",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7354",
-                "location":"Waikoloa, USA",
-                "nsid":"26537801@N05",
-                "path_alias":"rosasay",
-                "realname":"Rosa Say",
-                "username":"Rosa Say"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"015c3f89db",
-            "server":"1709",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"seattle",
-                        "author":"26537801@N05",
-                        "authorname":"Rosa Say",
-                        "id":"26532461-24729614090-69",
-                        "machine_tag":0,
-                        "raw":"Seattle"
-                    },
-                    {
-                        "_content":"museumofflight",
-                        "author":"26537801@N05",
-                        "authorname":"Rosa Say",
-                        "id":"26532461-24729614090-15509",
-                        "machine_tag":0,
-                        "raw":"Museum of Flight"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Museum of Flight_5090"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/rosasay/24729614090/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"33",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-02-02",
+    "date:cessation_upper": "2016-02-02",
+    "date:inception_lower": "2016-02-02",
+    "date:inception_upper": "2016-02-02",
+    "edtf:cessation": "2016-02-02T19:43:02",
+    "edtf:inception": "2016-02-02T19:43:02",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.296456,47.517780,-122.296456,47.517780",
+    "geom:latitude": 47.51778,
+    "geom:longitude": -122.296456,
+    "iso:country": "US",
+    "media:created": 1454470982,
+    "media:fingerprint": "efc2a9e6d77fb4c88cfa7d45429e91c099935fdb",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "24729614090",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
-                "width":1024
+        "dates": {
+          "lastupdate": "1455470574",
+          "posted": "1455470571",
+          "taken": "2016-02-02 19:43:02",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1455470571",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 2,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "24729614090",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "King",
+            "place_id": "e4JdbCFQUL8iSf0rtg",
+            "woeid": "12590456"
+          },
+          "latitude": "47.517780",
+          "locality": {
+            "_content": "King County International Airport-Boeing Field",
+            "place_id": "3ojMGppQUL9TpjoCCA",
+            "woeid": "12518877"
+          },
+          "longitude": "-122.296456",
+          "place_id": "3ojMGppQUL9TpjoCCA",
+          "region": {
+            "_content": "Washington",
+            "place_id": "jyADg3RTUb65Hnbj",
+            "woeid": "2347606"
+          },
+          "woeid": "12518877"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "b3a6aa0424",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7354",
+          "location": "Waikoloa, USA",
+          "nsid": "26537801@N05",
+          "path_alias": "rosasay",
+          "realname": "Rosa Say",
+          "username": "Rosa Say"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "015c3f89db",
+        "server": "1709",
+        "tags": {
+          "tag": [
+            {
+              "_content": "seattle",
+              "author": "26537801@N05",
+              "authorname": "Rosa Say",
+              "id": "26532461-24729614090-69",
+              "machine_tag": 0,
+              "raw": "Seattle"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2448,
-                "mimetype":"image/jpeg",
-                "secret":"SqfpAgjk9xZZPKANRmMUv5kUM9kNhEXv3TrXhJMTSOowi1EmKMfu",
-                "width":3264
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
-                "width":640
+            {
+              "_content": "museumofflight",
+              "author": "26537801@N05",
+              "authorname": "Rosa Say",
+              "id": "26532461-24729614090-15509",
+              "machine_tag": 0,
+              "raw": "Museum of Flight"
             }
+          ]
+        },
+        "title": {
+          "_content": "Museum of Flight_5090"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/rosasay/24729614090/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "33",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2448,
+          "mimetype": "image/jpeg",
+          "secret": "SqfpAgjk9xZZPKANRmMUv5kUM9kNhEXv3TrXhJMTSOowi1EmKMfu",
+          "width": 3264
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "OHUCBMrsNgbNFwyW4S9ylQhbYczTQRtwuKqxC5rpoHckEacCD7RA",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527671,
-        85821315,
-        102191575,
-        85633793,
-        101730401,
-        102086191,
-        85688623
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527671,
+      85821315,
+      102191575,
+      85633793,
+      101730401,
+      102086191,
+      85688623
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007614,
-    "wof:depicts":[
-        102527671
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007614,
+    "wof:depicts": [
+      102527671
     ],
-    "wof:geomhash":"331b6b35bc324de9d64799c4c1e6c72c",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527671,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "media_id":1159328363,
-            "neighbourhood_id":85821315,
-            "region_id":85688623
-        }
+    "wof:geomhash": "331b6b35bc324de9d64799c4c1e6c72c",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527671,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "image_id": 1159328363,
+        "locality_id": 101730401,
+        "media_id": 1159328363,
+        "neighbourhood_id": 85821315,
+        "region_id": 85688623
+      }
     ],
-    "wof:id":1159328363,
-    "wof:lastmodified":1545868676,
-    "wof:name":"Museum of Flight_5090",
-    "wof:parent_id":102527671,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328363,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Museum of Flight_5090",
+    "wof:parent_id": 102527671,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.296456,
     47.51778,
     -122.296456,
     47.51778
-],
-  "geometry": {"coordinates":[-122.29645600000001,47.51778],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.296456,47.51778],"type":"Point"}
 }

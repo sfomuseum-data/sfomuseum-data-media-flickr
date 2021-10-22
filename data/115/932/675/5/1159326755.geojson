@@ -2,246 +2,249 @@
   "id": 1159326755,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-09-03",
-    "date:cessation_upper":"2013-09-03",
-    "date:inception_lower":"2013-09-03",
-    "date:inception_upper":"2013-09-03",
-    "edtf:cessation":"2013-09-03T07:26:49",
-    "edtf:inception":"2013-09-03T07:26:49",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.656167,39.055666,-84.656167,39.055666",
-    "geom:latitude":39.055666,
-    "geom:longitude":-84.656167,
-    "iso:country":"US",
-    "media:created":1378218409,
-    "media:fingerprint":"54f3c7842348f1e37af462c7db3fbf6f70cd69fd",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"9664238854",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1493048715",
-                "posted":"1378207767",
-                "taken":"2013-09-03 07:26:49",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1378207767",
-            "description":{
-                "_content":"A little blurred-sorry. I fed him a piece of bagel and now he is hanging around."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"9664238854",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.055666",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.656167",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"64262ebfae",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3824",
-                "location":"Newport News, USA",
-                "nsid":"78428166@N00",
-                "path_alias":null,
-                "realname":"Tony Alter",
-                "username":"Tobyotter"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"d9f8dc3618",
-            "server":"3826",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"originalfilter",
-                        "author":"78428166@N00",
-                        "authorname":"Tobyotter",
-                        "id":"1997072-9664238854-76934997",
-                        "machine_tag":0,
-                        "raw":"Original filter"
-                    },
-                    {
-                        "_content":"flickriosapp:filter=original",
-                        "author":"78428166@N00",
-                        "authorname":"Tobyotter",
-                        "id":"1997072-9664238854-127461185",
-                        "machine_tag":1,
-                        "raw":"flickriosapp:filter=Original"
-                    },
-                    {
-                        "_content":"uploaded:by=flickrmobile",
-                        "author":"78428166@N00",
-                        "authorname":"Tobyotter",
-                        "id":"1997072-9664238854-97692397",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=flickr_mobile"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"The Sparrow, My New Friend"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/78428166@N00/9664238854/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"642",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-09-03",
+    "date:cessation_upper": "2013-09-03",
+    "date:inception_lower": "2013-09-03",
+    "date:inception_upper": "2013-09-03",
+    "edtf:cessation": "2013-09-03T07:26:49",
+    "edtf:inception": "2013-09-03T07:26:49",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.656167,39.055666,-84.656167,39.055666",
+    "geom:latitude": 39.055666,
+    "geom:longitude": -84.656167,
+    "iso:country": "US",
+    "media:created": 1378218409,
+    "media:fingerprint": "54f3c7842348f1e37af462c7db3fbf6f70cd69fd",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "9664238854",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":764,
-                "mimetype":"image/jpeg",
-                "secret":"cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
-                "width":1024
+        "dates": {
+          "lastupdate": "1493048715",
+          "posted": "1378207767",
+          "taken": "2013-09-03 07:26:49",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1378207767",
+        "description": {
+          "_content": "A little blurred-sorry. I fed him a piece of bagel and now he is hanging around."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "9664238854",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.055666",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.656167",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "64262ebfae",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3824",
+          "location": "Newport News, USA",
+          "nsid": "78428166@N00",
+          "path_alias": null,
+          "realname": "Tony Alter",
+          "username": "Tobyotter"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "d9f8dc3618",
+        "server": "3826",
+        "tags": {
+          "tag": [
+            {
+              "_content": "originalfilter",
+              "author": "78428166@N00",
+              "authorname": "Tobyotter",
+              "id": "1997072-9664238854-76934997",
+              "machine_tag": 0,
+              "raw": "Original filter"
             },
-            "c":{
-                "extension":"jpg",
-                "height":597,
-                "mimetype":"image/jpeg",
-                "secret":"cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
-                "width":800
+            {
+              "_content": "flickriosapp:filter=original",
+              "author": "78428166@N00",
+              "authorname": "Tobyotter",
+              "id": "1997072-9664238854-127461185",
+              "machine_tag": 1,
+              "raw": "flickriosapp:filter=Original"
             },
-            "n":{
-                "extension":"jpg",
-                "height":239,
-                "mimetype":"image/jpeg",
-                "secret":"cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1936,
-                "mimetype":"image/jpeg",
-                "secret":"vwoUwMpOCuNcbhtNa4uqMuL7QcJLMKNEXA39oD5quC2VwuHiAHDm",
-                "width":2592
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":478,
-                "mimetype":"image/jpeg",
-                "secret":"cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
-                "width":640
+            {
+              "_content": "uploaded:by=flickrmobile",
+              "author": "78428166@N00",
+              "authorname": "Tobyotter",
+              "id": "1997072-9664238854-97692397",
+              "machine_tag": 1,
+              "raw": "uploaded:by=flickr_mobile"
             }
+          ]
+        },
+        "title": {
+          "_content": "The Sparrow, My New Friend"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/78428166@N00/9664238854/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "642",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 764,
+          "mimetype": "image/jpeg",
+          "secret": "cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 597,
+          "mimetype": "image/jpeg",
+          "secret": "cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 239,
+          "mimetype": "image/jpeg",
+          "secret": "cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1936,
+          "mimetype": "image/jpeg",
+          "secret": "vwoUwMpOCuNcbhtNa4uqMuL7QcJLMKNEXA39oD5quC2VwuHiAHDm",
+          "width": 2592
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 478,
+          "mimetype": "image/jpeg",
+          "secret": "cdbjjjiV9HThwaoM7MkXn7oDIdE02yD5Ard8wtiBtFmw37ApegwP",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006678,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006678,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"3613ec5d4145909d16885e187aa91666",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326755,
-            "region_id":85688641
-        }
+    "wof:geomhash": "3613ec5d4145909d16885e187aa91666",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326755,
+        "media_id": 1159326755,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326755,
-    "wof:lastmodified":1545868678,
-    "wof:name":"The Sparrow, My New Friend",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326755,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "The Sparrow, My New Friend",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.656167,
     39.055666,
     -84.656167,
     39.055666
-],
+  ],
   "geometry": {"coordinates":[-84.656167,39.055666],"type":"Point"}
 }

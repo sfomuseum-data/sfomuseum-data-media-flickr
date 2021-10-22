@@ -2,329 +2,332 @@
   "id": 1159332269,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-14",
-    "date:cessation_upper":"2015-04-14",
-    "date:inception_lower":"2015-04-14",
-    "date:inception_upper":"2015-04-14",
-    "edtf:cessation":"2015-04-14T11:21:31",
-    "edtf:inception":"2015-04-14T11:21:31",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.396738,33.953572,-118.396738,33.953572",
-    "geom:latitude":33.953572,
-    "geom:longitude":-118.396738,
-    "iso:country":"US",
-    "media:created":1429035691,
-    "media:fingerprint":"08ac6934536c01579b799e63c35e31af3dbf170e",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"22725329016",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1446584303",
-                "posted":"1446568917",
-                "taken":"2015-04-14 11:21:31",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1446568917",
-            "description":{
-                "_content":"MSN 27694  LN 2699\nB737-3H4\nSOUTHWEST AIRLINES\nLAX AIRPORT"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"22725329016",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.953572",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.396738",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"d86ba58a44",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8279",
-                "location":"PARIS, FRANCE",
-                "nsid":"16103393@N05",
-                "path_alias":"airlines470",
-                "realname":"ERIC  SALARD",
-                "username":"airlines470"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"0c88573ba9",
-            "server":"643",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"n600wn",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-15423492",
-                        "machine_tag":0,
-                        "raw":"N600WN"
-                    },
-                    {
-                        "_content":"737",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-101050",
-                        "machine_tag":0,
-                        "raw":"737"
-                    },
-                    {
-                        "_content":"msn",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-24030",
-                        "machine_tag":0,
-                        "raw":"MSN"
-                    },
-                    {
-                        "_content":"27694",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-2402549",
-                        "machine_tag":0,
-                        "raw":"27694"
-                    },
-                    {
-                        "_content":"ln",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-221912",
-                        "machine_tag":0,
-                        "raw":"LN"
-                    },
-                    {
-                        "_content":"2699",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-1667729",
-                        "machine_tag":0,
-                        "raw":"2699"
-                    },
-                    {
-                        "_content":"southwest",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-521",
-                        "machine_tag":0,
-                        "raw":"SOUTHWEST"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-32533",
-                        "machine_tag":0,
-                        "raw":"AIRLINES"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-2695",
-                        "machine_tag":0,
-                        "raw":"AIRPORT"
-                    },
-                    {
-                        "_content":"737300",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-1389433",
-                        "machine_tag":0,
-                        "raw":"737-300"
-                    },
-                    {
-                        "_content":"7373h4",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-22725329016-3153027",
-                        "machine_tag":0,
-                        "raw":"737-3H4"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"N600WN    LAX"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/airlines470/22725329016/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"752",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-04-14",
+    "date:cessation_upper": "2015-04-14",
+    "date:inception_lower": "2015-04-14",
+    "date:inception_upper": "2015-04-14",
+    "edtf:cessation": "2015-04-14T11:21:31",
+    "edtf:inception": "2015-04-14T11:21:31",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.396738,33.953572,-118.396738,33.953572",
+    "geom:latitude": 33.953572,
+    "geom:longitude": -118.396738,
+    "iso:country": "US",
+    "media:created": 1429035691,
+    "media:fingerprint": "08ac6934536c01579b799e63c35e31af3dbf170e",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "22725329016",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
-                "width":1024
+        "dates": {
+          "lastupdate": "1446584303",
+          "posted": "1446568917",
+          "taken": "2015-04-14 11:21:31",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1446568917",
+        "description": {
+          "_content": "MSN 27694  LN 2699\nB737-3H4\nSOUTHWEST AIRLINES\nLAX AIRPORT"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "22725329016",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.953572",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.396738",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "d86ba58a44",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8279",
+          "location": "PARIS, FRANCE",
+          "nsid": "16103393@N05",
+          "path_alias": "airlines470",
+          "realname": "ERIC  SALARD",
+          "username": "airlines470"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "0c88573ba9",
+        "server": "643",
+        "tags": {
+          "tag": [
+            {
+              "_content": "n600wn",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-15423492",
+              "machine_tag": 0,
+              "raw": "N600WN"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
-                "width":800
+            {
+              "_content": "737",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-101050",
+              "machine_tag": 0,
+              "raw": "737"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
-                "width":320
+            {
+              "_content": "msn",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-24030",
+              "machine_tag": 0,
+              "raw": "MSN"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2279,
-                "mimetype":"image/jpeg",
-                "secret":"XgZJKMeYzZe6ykldxz5nzzzq92yEC10ECNHfmqfuiClbwt9dZAUo",
-                "width":3419
+            {
+              "_content": "27694",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-2402549",
+              "machine_tag": 0,
+              "raw": "27694"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
-                "width":320
+            {
+              "_content": "ln",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-221912",
+              "machine_tag": 0,
+              "raw": "LN"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
-                "width":640
+            {
+              "_content": "2699",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-1667729",
+              "machine_tag": 0,
+              "raw": "2699"
+            },
+            {
+              "_content": "southwest",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-521",
+              "machine_tag": 0,
+              "raw": "SOUTHWEST"
+            },
+            {
+              "_content": "airlines",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-32533",
+              "machine_tag": 0,
+              "raw": "AIRLINES"
+            },
+            {
+              "_content": "lax",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "airport",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-2695",
+              "machine_tag": 0,
+              "raw": "AIRPORT"
+            },
+            {
+              "_content": "737300",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-1389433",
+              "machine_tag": 0,
+              "raw": "737-300"
+            },
+            {
+              "_content": "7373h4",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-22725329016-3153027",
+              "machine_tag": 0,
+              "raw": "737-3H4"
             }
+          ]
+        },
+        "title": {
+          "_content": "N600WN    LAX"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/airlines470/22725329016/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "752",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2279,
+          "mimetype": "image/jpeg",
+          "secret": "XgZJKMeYzZe6ykldxz5nzzzq92yEC10ECNHfmqfuiClbwt9dZAUo",
+          "width": 3419
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "DJpEy8bwkLcK8HvLyixo0E5k8DR072pPZPjxRkVJQIfBDknpP5S1",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018661,
-    "wof:depicts":[
-        102533795,
-        1159285591
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018661,
+    "wof:depicts": [
+      102533795,
+      1159285591
     ],
-    "wof:geomhash":"b71ca96ab8adc849dc4fcfc60f443081",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159332269,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "b71ca96ab8adc849dc4fcfc60f443081",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159332269,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159332269,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159332269,
-    "wof:lastmodified":1545868718,
-    "wof:name":"N600WN    LAX",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159332269,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "N600WN    LAX",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.396738,
     33.953572,
     -118.396738,
     33.953572
-],
+  ],
   "geometry": {"coordinates":[-118.396738,33.953572],"type":"Point"}
 }

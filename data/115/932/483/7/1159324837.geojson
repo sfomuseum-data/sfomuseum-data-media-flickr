@@ -2,286 +2,289 @@
   "id": 1159324837,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-07-13",
-    "date:cessation_upper":"2017-07-13",
-    "date:inception_lower":"2017-07-13",
-    "date:inception_upper":"2017-07-13",
-    "edtf:cessation":"2017-07-13T04:25:41",
-    "edtf:inception":"2017-07-13T04:25:41",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-149.977154,61.172053,-149.977154,61.172053",
-    "geom:latitude":61.172053,
-    "geom:longitude":-149.977154,
-    "iso:country":"US",
-    "media:created":1499945141,
-    "media:fingerprint":"f999b8bfa96fd4d8d90b828daf2e309524a0121a",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"26390898408",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1519412346",
-                "posted":"1518617437",
-                "taken":"2017-07-13 04:25:41",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1518617437",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"26390898408",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Municipality of Anchorage",
-                    "place_id":"gQNrKuBQUL8RyRbJsA",
-                    "woeid":"12587556"
-                },
-                "latitude":"61.172053",
-                "locality":{
-                    "_content":"Anchorage International Airport",
-                    "place_id":"jN3Fd_5QUL8qRX_4CQ",
-                    "woeid":"12518613"
-                },
-                "longitude":"-149.977154",
-                "place_id":"jN3Fd_5QUL8qRX_4CQ",
-                "region":{
-                    "_content":"Alaska",
-                    "place_id":"b_WIPQFTUb5YM9kc",
-                    "woeid":"2347560"
-                },
-                "woeid":"12518613"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"3957409bfb",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3724",
-                "location":"Pittsburgh, Pennsylvania",
-                "nsid":"7150652@N02",
-                "path_alias":"josepha",
-                "realname":"Joseph",
-                "username":"joseph a"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"35eed44283",
-            "server":"4722",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"alaska",
-                        "author":"7150652@N02",
-                        "authorname":"joseph a",
-                        "id":"7130304-26390898408-1127",
-                        "machine_tag":0,
-                        "raw":"Alaska"
-                    },
-                    {
-                        "_content":"dc6",
-                        "author":"7150652@N02",
-                        "authorname":"joseph a",
-                        "id":"7130304-26390898408-442895",
-                        "machine_tag":0,
-                        "raw":"DC-6"
-                    },
-                    {
-                        "_content":"douglasdc6",
-                        "author":"7150652@N02",
-                        "authorname":"joseph a",
-                        "id":"7130304-26390898408-3510468",
-                        "machine_tag":0,
-                        "raw":"Douglas DC-6"
-                    },
-                    {
-                        "_content":"evertsaircargo",
-                        "author":"7150652@N02",
-                        "authorname":"joseph a",
-                        "id":"7130304-26390898408-10569162",
-                        "machine_tag":0,
-                        "raw":"Everts Air Cargo"
-                    },
-                    {
-                        "_content":"anchorageinternationalairport",
-                        "author":"7150652@N02",
-                        "authorname":"joseph a",
-                        "id":"7130304-26390898408-826762",
-                        "machine_tag":0,
-                        "raw":"Anchorage International Airport"
-                    },
-                    {
-                        "_content":"anc",
-                        "author":"7150652@N02",
-                        "authorname":"joseph a",
-                        "id":"7130304-26390898408-35260",
-                        "machine_tag":0,
-                        "raw":"ANC"
-                    },
-                    {
-                        "_content":"anchorage",
-                        "author":"7150652@N02",
-                        "authorname":"joseph a",
-                        "id":"7130304-26390898408-12995",
-                        "machine_tag":0,
-                        "raw":"Anchorage"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Everts Air Cargo DC-6, Anchorage, AK"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/josepha/26390898408/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"256",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-07-13",
+    "date:cessation_upper": "2017-07-13",
+    "date:inception_lower": "2017-07-13",
+    "date:inception_upper": "2017-07-13",
+    "edtf:cessation": "2017-07-13T04:25:41",
+    "edtf:inception": "2017-07-13T04:25:41",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-149.977154,61.172053,-149.977154,61.172053",
+    "geom:latitude": 61.172053,
+    "geom:longitude": -149.977154,
+    "iso:country": "US",
+    "media:created": 1499945141,
+    "media:fingerprint": "f999b8bfa96fd4d8d90b828daf2e309524a0121a",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "26390898408",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
-                "width":1024
+        "dates": {
+          "lastupdate": "1519412346",
+          "posted": "1518617437",
+          "taken": "2017-07-13 04:25:41",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1518617437",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "26390898408",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Municipality of Anchorage",
+            "place_id": "gQNrKuBQUL8RyRbJsA",
+            "woeid": "12587556"
+          },
+          "latitude": "61.172053",
+          "locality": {
+            "_content": "Anchorage International Airport",
+            "place_id": "jN3Fd_5QUL8qRX_4CQ",
+            "woeid": "12518613"
+          },
+          "longitude": "-149.977154",
+          "place_id": "jN3Fd_5QUL8qRX_4CQ",
+          "region": {
+            "_content": "Alaska",
+            "place_id": "b_WIPQFTUb5YM9kc",
+            "woeid": "2347560"
+          },
+          "woeid": "12518613"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "3957409bfb",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3724",
+          "location": "Pittsburgh, Pennsylvania",
+          "nsid": "7150652@N02",
+          "path_alias": "josepha",
+          "realname": "Joseph",
+          "username": "joseph a"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "35eed44283",
+        "server": "4722",
+        "tags": {
+          "tag": [
+            {
+              "_content": "alaska",
+              "author": "7150652@N02",
+              "authorname": "joseph a",
+              "id": "7130304-26390898408-1127",
+              "machine_tag": 0,
+              "raw": "Alaska"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
-                "width":800
+            {
+              "_content": "dc6",
+              "author": "7150652@N02",
+              "authorname": "joseph a",
+              "id": "7130304-26390898408-442895",
+              "machine_tag": 0,
+              "raw": "DC-6"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
-                "width":320
+            {
+              "_content": "douglasdc6",
+              "author": "7150652@N02",
+              "authorname": "joseph a",
+              "id": "7130304-26390898408-3510468",
+              "machine_tag": 0,
+              "raw": "Douglas DC-6"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3456,
-                "mimetype":"image/jpeg",
-                "secret":"t7q9zp25TK0TPS7Vebz7QLDgdXZ61lteERLu6TGrH12xwx1OevFv",
-                "width":5184
+            {
+              "_content": "evertsaircargo",
+              "author": "7150652@N02",
+              "authorname": "joseph a",
+              "id": "7130304-26390898408-10569162",
+              "machine_tag": 0,
+              "raw": "Everts Air Cargo"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
-                "width":320
+            {
+              "_content": "anchorageinternationalairport",
+              "author": "7150652@N02",
+              "authorname": "joseph a",
+              "id": "7130304-26390898408-826762",
+              "machine_tag": 0,
+              "raw": "Anchorage International Airport"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
-                "width":640
+            {
+              "_content": "anc",
+              "author": "7150652@N02",
+              "authorname": "joseph a",
+              "id": "7130304-26390898408-35260",
+              "machine_tag": 0,
+              "raw": "ANC"
+            },
+            {
+              "_content": "anchorage",
+              "author": "7150652@N02",
+              "authorname": "joseph a",
+              "id": "7130304-26390898408-12995",
+              "machine_tag": 0,
+              "raw": "Anchorage"
             }
+          ]
+        },
+        "title": {
+          "_content": "Everts Air Cargo DC-6, Anchorage, AK"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/josepha/26390898408/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "256",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3456,
+          "mimetype": "image/jpeg",
+          "secret": "t7q9zp25TK0TPS7Vebz7QLDgdXZ61lteERLu6TGrH12xwx1OevFv",
+          "width": 5184
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "pY8AdhjO7180YSdf2YGjOLTGZMGnJe0eSNQEuCJqfHH6fab33lHZ",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531979,
-        85850461,
-        102191575,
-        85633793,
-        85915707,
-        102085881,
-        85688573
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531979,
+      85850461,
+      102191575,
+      85633793,
+      85915707,
+      102085881,
+      85688573
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005983,
-    "wof:depicts":[
-        102531979
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005983,
+    "wof:depicts": [
+      102531979
     ],
-    "wof:geomhash":"6ddc4cda888481b8d715e3b5d2a54d89",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531979,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085881,
-            "locality_id":85915707,
-            "media_id":1159324837,
-            "neighbourhood_id":85850461,
-            "region_id":85688573
-        }
+    "wof:geomhash": "6ddc4cda888481b8d715e3b5d2a54d89",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531979,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085881,
+        "image_id": 1159324837,
+        "locality_id": 85915707,
+        "media_id": 1159324837,
+        "neighbourhood_id": 85850461,
+        "region_id": 85688573
+      }
     ],
-    "wof:id":1159324837,
-    "wof:lastmodified":1545868651,
-    "wof:name":"Everts Air Cargo DC-6, Anchorage, AK",
-    "wof:parent_id":102531979,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324837,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Everts Air Cargo DC-6, Anchorage, AK",
+    "wof:parent_id": 102531979,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -149.977154,
     61.172053,
     -149.977154,
     61.172053
-],
-  "geometry": {"coordinates":[-149.97715400000001,61.172053],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-149.977154,61.172053],"type":"Point"}
 }

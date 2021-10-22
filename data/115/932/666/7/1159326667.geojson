@@ -2,302 +2,305 @@
   "id": 1159326667,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2008-04-23",
-    "date:cessation_upper":"2008-04-23",
-    "date:inception_lower":"2008-04-23",
-    "date:inception_upper":"2008-04-23",
-    "edtf:cessation":"2008-04-23T08:02:30",
-    "edtf:inception":"2008-04-23T08:02:30",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-106.462669,42.900081,-106.462669,42.900081",
-    "geom:latitude":42.900081,
-    "geom:longitude":-106.462669,
-    "iso:country":"US",
-    "media:created":1208962950,
-    "media:fingerprint":"5387a301e2252d4c94a3cca8f41c4a7218fe6c68",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"2441461166",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1227226108",
-                "posted":"1209144632",
-                "taken":"2008-04-23 08:02:30",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1209144632",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":3,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"2441461166",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Natrona",
-                    "place_id":"LAeQcz1QUL_VB_u7hw",
-                    "woeid":"12590618"
-                },
-                "latitude":"42.900081",
-                "locality":{
-                    "_content":"Natrona County International Airport",
-                    "place_id":"orX9sRFQUL_ap3Er.g",
-                    "woeid":"12521085"
-                },
-                "longitude":"-106.462669",
-                "place_id":"orX9sRFQUL_ap3Er.g",
-                "region":{
-                    "_content":"Wyoming",
-                    "place_id":"ZzxV2f5TUb5yo8Rk",
-                    "woeid":"2347609"
-                },
-                "woeid":"12521085"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"32e8c5a534",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7427",
-                "location":"Winter Haven, FL, USA",
-                "nsid":"12734746@N00",
-                "path_alias":"hyku",
-                "realname":"Josh Hallett",
-                "username":"hyku"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"79cf3b2ae5",
-            "server":"2346",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"cpr",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-41567",
-                        "machine_tag":0,
-                        "raw":"CPR"
-                    },
-                    {
-                        "_content":"crj200",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-973552",
-                        "machine_tag":0,
-                        "raw":"CRJ200"
-                    },
-                    {
-                        "_content":"canadair",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-173027",
-                        "machine_tag":0,
-                        "raw":"Canadair"
-                    },
-                    {
-                        "_content":"dl",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-51374",
-                        "machine_tag":0,
-                        "raw":"DL"
-                    },
-                    {
-                        "_content":"delta",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-8731",
-                        "machine_tag":0,
-                        "raw":"Delta"
-                    },
-                    {
-                        "_content":"skywest",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-349289",
-                        "machine_tag":0,
-                        "raw":"SkyWest"
-                    },
-                    {
-                        "_content":"wy",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-141223",
-                        "machine_tag":0,
-                        "raw":"WY"
-                    },
-                    {
-                        "_content":"casper",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-17039",
-                        "machine_tag":0,
-                        "raw":"casper"
-                    },
-                    {
-                        "_content":"wyoming",
-                        "author":"12734746@N00",
-                        "authorname":"hyku",
-                        "id":"259141-2441461166-24739",
-                        "machine_tag":0,
-                        "raw":"wyoming"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Casper Airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/hyku/2441461166/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"372",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2008-04-23",
+    "date:cessation_upper": "2008-04-23",
+    "date:inception_lower": "2008-04-23",
+    "date:inception_upper": "2008-04-23",
+    "edtf:cessation": "2008-04-23T08:02:30",
+    "edtf:inception": "2008-04-23T08:02:30",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-106.462669,42.900081,-106.462669,42.900081",
+    "geom:latitude": 42.900081,
+    "geom:longitude": -106.462669,
+    "iso:country": "US",
+    "media:created": 1208962950,
+    "media:fingerprint": "5387a301e2252d4c94a3cca8f41c4a7218fe6c68",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "2441461166",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
-                "width":510
+        "dates": {
+          "lastupdate": "1227226108",
+          "posted": "1209144632",
+          "taken": "2008-04-23 08:02:30",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1209144632",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 3,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "2441461166",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Natrona",
+            "place_id": "LAeQcz1QUL_VB_u7hw",
+            "woeid": "12590618"
+          },
+          "latitude": "42.900081",
+          "locality": {
+            "_content": "Natrona County International Airport",
+            "place_id": "orX9sRFQUL_ap3Er.g",
+            "woeid": "12521085"
+          },
+          "longitude": "-106.462669",
+          "place_id": "orX9sRFQUL_ap3Er.g",
+          "region": {
+            "_content": "Wyoming",
+            "place_id": "ZzxV2f5TUb5yo8Rk",
+            "woeid": "2347609"
+          },
+          "woeid": "12521085"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "32e8c5a534",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7427",
+          "location": "Winter Haven, FL, USA",
+          "nsid": "12734746@N00",
+          "path_alias": "hyku",
+          "realname": "Josh Hallett",
+          "username": "hyku"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "79cf3b2ae5",
+        "server": "2346",
+        "tags": {
+          "tag": [
+            {
+              "_content": "cpr",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-41567",
+              "machine_tag": 0,
+              "raw": "CPR"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
-                "width":398
+            {
+              "_content": "crj200",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-973552",
+              "machine_tag": 0,
+              "raw": "CRJ200"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
-                "width":159
+            {
+              "_content": "canadair",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-173027",
+              "machine_tag": 0,
+              "raw": "Canadair"
             },
-            "o":{
-                "extension":"jpg",
-                "height":4070,
-                "mimetype":"image/jpeg",
-                "secret":"IpI6MGTKKotUtqxcKvlAbkoq5c17MmOlwjPnDUASq46Uz8gdXiUs",
-                "width":2704
+            {
+              "_content": "dl",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-51374",
+              "machine_tag": 0,
+              "raw": "DL"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
-                "width":320
+            {
+              "_content": "delta",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-8731",
+              "machine_tag": 0,
+              "raw": "Delta"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
-                "width":318
+            {
+              "_content": "skywest",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-349289",
+              "machine_tag": 0,
+              "raw": "SkyWest"
+            },
+            {
+              "_content": "wy",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-141223",
+              "machine_tag": 0,
+              "raw": "WY"
+            },
+            {
+              "_content": "casper",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-17039",
+              "machine_tag": 0,
+              "raw": "casper"
+            },
+            {
+              "_content": "wyoming",
+              "author": "12734746@N00",
+              "authorname": "hyku",
+              "id": "259141-2441461166-24739",
+              "machine_tag": 0,
+              "raw": "wyoming"
             }
+          ]
+        },
+        "title": {
+          "_content": "Casper Airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/hyku/2441461166/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "372",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
+          "width": 510
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
+          "width": 398
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
+          "width": 159
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 4070,
+          "mimetype": "image/jpeg",
+          "secret": "IpI6MGTKKotUtqxcKvlAbkoq5c17MmOlwjPnDUASq46Uz8gdXiUs",
+          "width": 2704
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "tWXlQjPOSFM8FJ9StgUwoyZhmifhIqieLvqQp9BzAngtRB9t4ye3",
+          "width": 318
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102525293,
-        102191575,
-        85633793,
-        102080753,
-        85688475
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102525293,
+      102191575,
+      85633793,
+      102080753,
+      85688475
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006648,
-    "wof:depicts":[
-        102525293,
-        1159284269,
-        1159287931
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006648,
+    "wof:depicts": [
+      102525293,
+      1159284269,
+      1159287931
     ],
-    "wof:geomhash":"41f81f9e73290ab8ea6a3e3ec2ec1786",
-    "wof:hierarchy":[
-        {
-            "campus_id":102525293,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080753,
-            "locality_id":-1,
-            "media_id":1159326667,
-            "neighbourhood_id":-1,
-            "region_id":85688475
-        }
+    "wof:geomhash": "41f81f9e73290ab8ea6a3e3ec2ec1786",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102525293,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080753,
+        "image_id": 1159326667,
+        "locality_id": -1,
+        "media_id": 1159326667,
+        "neighbourhood_id": -1,
+        "region_id": 85688475
+      }
     ],
-    "wof:id":1159326667,
-    "wof:lastmodified":1545868663,
-    "wof:name":"Casper Airport",
-    "wof:parent_id":102525293,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326667,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Casper Airport",
+    "wof:parent_id": 102525293,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -106.462669,
     42.900081,
     -106.462669,
     42.900081
-],
-  "geometry": {"coordinates":[-106.46266900000001,42.900081],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-106.462669,42.900081],"type":"Point"}
 }

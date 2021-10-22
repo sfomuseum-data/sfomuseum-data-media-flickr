@@ -2,304 +2,308 @@
   "id": 1159337563,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-08-05",
-    "date:cessation_upper":"2012-08-05",
-    "date:inception_lower":"2012-08-05",
-    "date:inception_upper":"2012-08-05",
-    "edtf:cessation":"2012-08-05T05:45:40",
-    "edtf:inception":"2012-08-05T05:45:40",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.923924,37.364885,-121.923924,37.364885",
-    "geom:latitude":37.364885,
-    "geom:longitude":-121.923924,
-    "iso:country":"US",
-    "media:created":1344170740,
-    "media:fingerprint":"0cfd44939996a5f6b6f024712d3dcf033c115717",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"7712554648",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
+    "date:cessation_lower": "2012-08-05",
+    "date:cessation_upper": "2012-08-05",
+    "date:inception_lower": "2012-08-05",
+    "date:inception_upper": "2012-08-05",
+    "edtf:cessation": "2012-08-05T05:45:40",
+    "edtf:inception": "2012-08-05T05:45:40",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.923924,37.364885,-121.923924,37.364885",
+    "geom:latitude": 37.364885,
+    "geom:longitude": -121.923924,
+    "iso:country": "US",
+    "media:created": 1344170740,
+    "media:fingerprint": "0cfd44939996a5f6b6f024712d3dcf033c115717",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "7712554648",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1416956365",
+          "posted": "1344113140",
+          "taken": "2012-08-05 05:45:40",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1344113140",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "7712554648",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Santa Clara",
+            "place_id": "b3n8i7RQUL_rtDiYCQ",
+            "woeid": "12587712"
+          },
+          "latitude": "37.364885",
+          "locality": {
+            "_content": "Norman Y Mineta San Jose International Airport",
+            "place_id": "u2FFS25QUL9w2dKkeg",
+            "woeid": "12521722"
+          },
+          "longitude": "-121.923924",
+          "place_id": "u2FFS25QUL9w2dKkeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521722"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "bb285264c4",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7433",
+          "location": "Seoul, Korea",
+          "nsid": "41894171246@N01",
+          "path_alias": "namho",
+          "realname": "Nam-ho Park",
+          "username": "namho"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "d26f18d0de",
+        "server": "8284",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "41894171246@N01",
+              "authorname": "namho",
+              "id": "18175-7712554648-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "dates":{
-                "lastupdate":"1416956365",
-                "posted":"1344113140",
-                "taken":"2012-08-05 05:45:40",
-                "takengranularity":0,
-                "takenunknown":"1"
+            {
+              "_content": "square",
+              "author": "41894171246@N01",
+              "authorname": "namho",
+              "id": "18175-7712554648-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "dateuploaded":"1344113140",
-            "description":{
-                "_content":""
+            {
+              "_content": "squareformat",
+              "author": "41894171246@N01",
+              "authorname": "namho",
+              "id": "18175-7712554648-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
+            {
+              "_content": "iphoneography",
+              "author": "41894171246@N01",
+              "authorname": "namho",
+              "id": "18175-7712554648-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "41894171246@N01",
+              "authorname": "namho",
+              "id": "18175-7712554648-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             },
-            "id":"7712554648",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Santa Clara",
-                    "place_id":"b3n8i7RQUL_rtDiYCQ",
-                    "woeid":"12587712"
-                },
-                "latitude":"37.364885",
-                "locality":{
-                    "_content":"Norman Y Mineta San Jose International Airport",
-                    "place_id":"u2FFS25QUL9w2dKkeg",
-                    "woeid":"12521722"
-                },
-                "longitude":"-121.923924",
-                "place_id":"u2FFS25QUL9w2dKkeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521722"
+            {
+              "_content": "amaro",
+              "author": "41894171246@N01",
+              "authorname": "namho",
+              "id": "18175-7712554648-348109",
+              "machine_tag": 0,
+              "raw": "Amaro"
             },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"bb285264c4",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7433",
-                "location":"Seoul, Korea",
-                "nsid":"41894171246@N01",
-                "path_alias":"namho",
-                "realname":"Nam-ho Park",
-                "username":"namho"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"d26f18d0de",
-            "server":"8284",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"41894171246@N01",
-                        "authorname":"namho",
-                        "id":"18175-7712554648-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"41894171246@N01",
-                        "authorname":"namho",
-                        "id":"18175-7712554648-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"41894171246@N01",
-                        "authorname":"namho",
-                        "id":"18175-7712554648-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"41894171246@N01",
-                        "authorname":"namho",
-                        "id":"18175-7712554648-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"41894171246@N01",
-                        "authorname":"namho",
-                        "id":"18175-7712554648-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    },
-                    {
-                        "_content":"amaro",
-                        "author":"41894171246@N01",
-                        "authorname":"namho",
-                        "id":"18175-7712554648-348109",
-                        "machine_tag":0,
-                        "raw":"Amaro"
-                    },
-                    {
-                        "_content":"foursquare:venue=4d0e4d0f80105481ac262396",
-                        "author":"41894171246@N01",
-                        "authorname":"namho",
-                        "id":"18175-7712554648-71290324",
-                        "machine_tag":1,
-                        "raw":"foursquare:venue=4d0e4d0f80105481ac262396"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"San Jose Airport. Thank you Silicon Valley."
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/namho/7712554648/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"228",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
+            {
+              "_content": "foursquare:venue=4d0e4d0f80105481ac262396",
+              "author": "41894171246@N01",
+              "authorname": "namho",
+              "id": "18175-7712554648-71290324",
+              "machine_tag": 1,
+              "raw": "foursquare:venue=4d0e4d0f80105481ac262396"
             }
+          ]
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
-                "width":768
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
-                "width":600
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
-                "width":240
-            },
-            "o":{
-                "extension":"jpg",
-                "height":612,
-                "mimetype":"image/jpeg",
-                "secret":"XSUnGJafqTcDHWhf8z0jD0upRPTP27pAGyKCglkikERAHX2YezIK",
-                "width":612
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
-                "width":480
+        "title": {
+          "_content": "San Jose Airport. Thank you Silicon Valley."
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/namho/7712554648/",
+              "type": "photopage"
             }
+          ]
         },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102527529
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527529,
-        85869525,
-        102191575,
-        85633793,
-        85922341,
-        102081673,
-        85688637,
-        1108779019,
-        1108782553,
-        85922347
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527028323,
-    "wof:depicts":[
-        102527529,
-        1159337563
-    ],
-    "wof:geomhash":"dbd6acf60736e91281a3702b6280bff5",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922341,
-            "media_id":1159337563,
-            "neighbourhood_id":85869525,
-            "region_id":85688637
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
         },
-        {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782553,
-            "media_id":1159337563,
-            "neighbourhood_id":1108779019,
-            "region_id":85688637
+        "views": "228",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 612,
+          "mimetype": "image/jpeg",
+          "secret": "XSUnGJafqTcDHWhf8z0jD0upRPTP27pAGyKCglkikERAHX2YezIK",
+          "width": 612
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "RQispyjUZ1Fqn8sLBQB9X6PzqepVwtbwD1Ow5OVcdiPPh7x95pHB",
+          "width": 480
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102527529
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527529,
+      85869525,
+      102191575,
+      85633793,
+      85922341,
+      102081673,
+      85688637,
+      1108779019,
+      1108782553,
+      85922347
     ],
-    "wof:id":1159337563,
-    "wof:lastmodified":1545868713,
-    "wof:name":"San Jose Airport. Thank you Silicon Valley.",
-    "wof:parent_id":102527529,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527028323,
+    "wof:depicts": [
+      102527529,
+      1159337563
+    ],
+    "wof:geomhash": "dbd6acf60736e91281a3702b6280bff5",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "image_id": 1159337563,
+        "locality_id": 85922341,
+        "media_id": 1159337563,
+        "neighbourhood_id": 85869525,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "image_id": 1159337563,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782553,
+        "media_id": 1159337563,
+        "neighbourhood_id": 1108779019,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159337563,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "San Jose Airport. Thank you Silicon Valley.",
+    "wof:parent_id": 102527529,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.923924,
     37.364885,
     -121.923924,
     37.364885
-],
+  ],
   "geometry": {"coordinates":[-121.923924,37.364885],"type":"Point"}
 }

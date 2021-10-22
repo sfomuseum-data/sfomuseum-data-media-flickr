@@ -2,489 +2,492 @@
   "id": 1159332143,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-11-08",
-    "date:cessation_upper":"2015-11-08",
-    "date:inception_lower":"2015-11-08",
-    "date:inception_upper":"2015-11-08",
-    "edtf:cessation":"2015-11-08T09:09:45",
-    "edtf:inception":"2015-11-08T09:09:45",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.391175,33.944197,-118.391175,33.944197",
-    "geom:latitude":33.944197,
-    "geom:longitude":-118.391175,
-    "iso:country":"US",
-    "media:created":1447002585,
-    "media:fingerprint":"b26148df284bf5cae5ee019eb44c86dec1ae1aa7",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b22222",
-                        "name":"firebrick",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#af0516",
-                "name":"#af0516",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b22222",
-                        "name":"firebrick",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bb2338",
-                "name":"#bb2338",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#708090",
-                        "name":"slategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#5b8098",
-                "name":"#5b8098",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#aab9c4",
-                "name":"#aab9c4",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#2d3e52",
-                "name":"#2d3e52",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"22909787376",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1476419316",
-                "posted":"1447220435",
-                "taken":"2015-11-08 09:09:45",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1447220435",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"22909787376",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.944197",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.391175",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"80e5174490",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7378",
-                "location":"Goleta, USA",
-                "nsid":"23089307@N02",
-                "path_alias":"n28307",
-                "realname":"Glenn Beltz",
-                "username":"beltz6"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"b7a9b85fa8",
-            "server":"569",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"losangeles",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-2424",
-                        "machine_tag":0,
-                        "raw":"Los Angeles"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"klax",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-1327757",
-                        "machine_tag":0,
-                        "raw":"KLAX"
-                    },
-                    {
-                        "_content":"lax2015",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-245935971",
-                        "machine_tag":0,
-                        "raw":"LAX2015"
-                    },
-                    {
-                        "_content":"laxspotters",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-264881703",
-                        "machine_tag":0,
-                        "raw":"LAXSpotters"
-                    },
-                    {
-                        "_content":"avgeek",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-2425700",
-                        "machine_tag":0,
-                        "raw":"avgeek"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"losangelesinternationalairport",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-481719",
-                        "machine_tag":0,
-                        "raw":"Los Angeles International Airport"
-                    },
-                    {
-                        "_content":"chinasouthern",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-1596985",
-                        "machine_tag":0,
-                        "raw":"China Southern"
-                    },
-                    {
-                        "_content":"chinasoutherncargo",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-19007098",
-                        "machine_tag":0,
-                        "raw":"China Southern Cargo"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"777",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-43328",
-                        "machine_tag":0,
-                        "raw":"777"
-                    },
-                    {
-                        "_content":"777f",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-8102022",
-                        "machine_tag":0,
-                        "raw":"777F"
-                    },
-                    {
-                        "_content":"boeing777",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-316234",
-                        "machine_tag":0,
-                        "raw":"Boeing 777"
-                    },
-                    {
-                        "_content":"boeing777f",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-24047019",
-                        "machine_tag":0,
-                        "raw":"Boeing 777F"
-                    },
-                    {
-                        "_content":"b2073",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22909787376-11035055",
-                        "machine_tag":0,
-                        "raw":"B-2073"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"China Sourthern Cargo Boeing 777F approaches LAX"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/n28307/22909787376/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"241",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":683,
-                "mimetype":"image/jpeg",
-                "secret":"EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":534,
-                "mimetype":"image/jpeg",
-                "secret":"EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":534,
-                "mimetype":"image/jpeg",
-                "secret":"EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":4016,
-                "mimetype":"image/jpeg",
-                "secret":"Hgt3mjXVQUZOYaq2rzi9WABlMQ63myB2H9lidzQlQlE1473hmjQQ",
-                "width":6016
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":427,
-                "mimetype":"image/jpeg",
-                "secret":"EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
-                "width":640
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018619,
-    "wof:depicts":[
-        102533795,
-        1159284165,
-        1159287917,
-        1159289979,
-        1159293593
-    ],
-    "wof:geomhash":"f6e988f19eb9a2f331ded61965342788",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2015-11-08",
+    "date:cessation_upper": "2015-11-08",
+    "date:inception_lower": "2015-11-08",
+    "date:inception_upper": "2015-11-08",
+    "edtf:cessation": "2015-11-08T09:09:45",
+    "edtf:inception": "2015-11-08T09:09:45",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.391175,33.944197,-118.391175,33.944197",
+    "geom:latitude": 33.944197,
+    "geom:longitude": -118.391175,
+    "iso:country": "US",
+    "media:created": 1447002585,
+    "media:fingerprint": "b26148df284bf5cae5ee019eb44c86dec1ae1aa7",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159332143,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b22222",
+              "name": "firebrick",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#af0516",
+          "name": "#af0516",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b22222",
+              "name": "firebrick",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bb2338",
+          "name": "#bb2338",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#708090",
+              "name": "slategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#5b8098",
+          "name": "#5b8098",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#aab9c4",
+          "name": "#aab9c4",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#2d3e52",
+          "name": "#2d3e52",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "22909787376",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1476419316",
+          "posted": "1447220435",
+          "taken": "2015-11-08 09:09:45",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1447220435",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "22909787376",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.944197",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.391175",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "80e5174490",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7378",
+          "location": "Goleta, USA",
+          "nsid": "23089307@N02",
+          "path_alias": "n28307",
+          "realname": "Glenn Beltz",
+          "username": "beltz6"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "b7a9b85fa8",
+        "server": "569",
+        "tags": {
+          "tag": [
+            {
+              "_content": "losangeles",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-2424",
+              "machine_tag": 0,
+              "raw": "Los Angeles"
+            },
+            {
+              "_content": "california",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-50",
+              "machine_tag": 0,
+              "raw": "California"
+            },
+            {
+              "_content": "lax",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "klax",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-1327757",
+              "machine_tag": 0,
+              "raw": "KLAX"
+            },
+            {
+              "_content": "lax2015",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-245935971",
+              "machine_tag": 0,
+              "raw": "LAX2015"
+            },
+            {
+              "_content": "laxspotters",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-264881703",
+              "machine_tag": 0,
+              "raw": "LAXSpotters"
+            },
+            {
+              "_content": "avgeek",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-2425700",
+              "machine_tag": 0,
+              "raw": "avgeek"
+            },
+            {
+              "_content": "airplane",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
+            },
+            {
+              "_content": "aviation",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
+            },
+            {
+              "_content": "airport",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-2695",
+              "machine_tag": 0,
+              "raw": "airport"
+            },
+            {
+              "_content": "losangelesinternationalairport",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-481719",
+              "machine_tag": 0,
+              "raw": "Los Angeles International Airport"
+            },
+            {
+              "_content": "chinasouthern",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-1596985",
+              "machine_tag": 0,
+              "raw": "China Southern"
+            },
+            {
+              "_content": "chinasoutherncargo",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-19007098",
+              "machine_tag": 0,
+              "raw": "China Southern Cargo"
+            },
+            {
+              "_content": "boeing",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
+            },
+            {
+              "_content": "777",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-43328",
+              "machine_tag": 0,
+              "raw": "777"
+            },
+            {
+              "_content": "777f",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-8102022",
+              "machine_tag": 0,
+              "raw": "777F"
+            },
+            {
+              "_content": "boeing777",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-316234",
+              "machine_tag": 0,
+              "raw": "Boeing 777"
+            },
+            {
+              "_content": "boeing777f",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-24047019",
+              "machine_tag": 0,
+              "raw": "Boeing 777F"
+            },
+            {
+              "_content": "b2073",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22909787376-11035055",
+              "machine_tag": 0,
+              "raw": "B-2073"
+            }
+          ]
+        },
+        "title": {
+          "_content": "China Sourthern Cargo Boeing 777F approaches LAX"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/n28307/22909787376/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "241",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 683,
+          "mimetype": "image/jpeg",
+          "secret": "EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 534,
+          "mimetype": "image/jpeg",
+          "secret": "EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 534,
+          "mimetype": "image/jpeg",
+          "secret": "EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 4016,
+          "mimetype": "image/jpeg",
+          "secret": "Hgt3mjXVQUZOYaq2rzi9WABlMQ63myB2H9lidzQlQlE1473hmjQQ",
+          "width": 6016
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 427,
+          "mimetype": "image/jpeg",
+          "secret": "EZjUOm3wcFl3FSU6nZh2ZrdZvmPzqzYWzaBrwvR2OKHSuRp0UaAm",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159332143,
-    "wof:lastmodified":1545868722,
-    "wof:name":"China Sourthern Cargo Boeing 777F approaches LAX",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018619,
+    "wof:depicts": [
+      102533795,
+      1159284165,
+      1159287917,
+      1159289979,
+      1159293593
+    ],
+    "wof:geomhash": "f6e988f19eb9a2f331ded61965342788",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159332143,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159332143,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159332143,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "China Sourthern Cargo Boeing 777F approaches LAX",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.391175,
     33.944197,
     -118.391175,
     33.944197
-],
+  ],
   "geometry": {"coordinates":[-118.391175,33.944197],"type":"Point"}
 }

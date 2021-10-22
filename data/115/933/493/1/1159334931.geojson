@@ -2,387 +2,390 @@
   "id": 1159334931,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-12-24",
-    "date:cessation_upper":"2014-12-24",
-    "date:inception_lower":"2014-12-24",
-    "date:inception_upper":"2014-12-24",
-    "edtf:cessation":"2014-12-24T02:23:29",
-    "edtf:inception":"2014-12-24T02:23:29",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.397136,33.953276,-118.397136,33.953276",
-    "geom:latitude":33.953276,
-    "geom:longitude":-118.397136,
-    "iso:country":"US",
-    "media:created":1419416609,
-    "media:fingerprint":"512830782f8d5ebe55834359cbee674cb25ff5d1",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#ffcf48",
-                        "name":"Sunglow",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#ffd700",
-                        "name":"gold",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#f5ca28",
-                "name":"#f5ca28",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9aceeb",
-                        "name":"Cornflower",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#adc7e8",
-                "name":"#adc7e8",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#8b4513",
-                        "name":"saddlebrown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#95451d",
-                "name":"#95451d",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a5694f",
-                        "name":"Sepia",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#9d6854",
-                "name":"#9d6854",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cec3aa",
-                "name":"#cec3aa",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"20904786939",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1457547484",
-                "posted":"1441216215",
-                "taken":"2014-12-24 02:23:29",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1441216215",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"20904786939",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.953276",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.397136",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"81f1335a34",
-            "owner":{
-                "iconfarm":0,
-                "iconserver":"0",
-                "location":"",
-                "nsid":"133747477@N08",
-                "path_alias":null,
-                "realname":"Honda Hsv",
-                "username":"hondahsv010gt"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"528c4bd61a",
-            "server":"5743",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"losangelesinternationalairport",
-                        "author":"133747477@N08",
-                        "authorname":"hondahsv010gt",
-                        "id":"133654664-20904786939-481719",
-                        "machine_tag":0,
-                        "raw":"Los Angeles International Airport"
-                    },
-                    {
-                        "_content":"??????????",
-                        "author":"133747477@N08",
-                        "authorname":"hondahsv010gt",
-                        "id":"133654664-20904786939-9717425",
-                        "machine_tag":0,
-                        "raw":"??????????"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"133747477@N08",
-                        "authorname":"hondahsv010gt",
-                        "id":"133654664-20904786939-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"innoutburger",
-                        "author":"133747477@N08",
-                        "authorname":"hondahsv010gt",
-                        "id":"133654664-20904786939-57739",
-                        "machine_tag":0,
-                        "raw":"In-N-Out Burger"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"133747477@N08",
-                        "authorname":"hondahsv010gt",
-                        "id":"133654664-20904786939-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"usa",
-                        "author":"133747477@N08",
-                        "authorname":"hondahsv010gt",
-                        "id":"133654664-20904786939-351",
-                        "machine_tag":0,
-                        "raw":"USA"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Los Angeles International Airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/133747477@N08/20904786939/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"208",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3456,
-                "mimetype":"image/jpeg",
-                "secret":"dzac7tnFvev4YL07rsMkaeOvdDh14dGaK30X3E2CCzJBYfXQrdJR",
-                "width":5184
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
-                "width":640
-            }
-        },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102533795
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527023099,
-    "wof:depicts":[
-        102533795,
-        1159285481,
-        1159288091,
-        1159334931
-    ],
-    "wof:geomhash":"e051abd7f5d5aafd6abd7099550b963a",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2014-12-24",
+    "date:cessation_upper": "2014-12-24",
+    "date:inception_lower": "2014-12-24",
+    "date:inception_upper": "2014-12-24",
+    "edtf:cessation": "2014-12-24T02:23:29",
+    "edtf:inception": "2014-12-24T02:23:29",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.397136,33.953276,-118.397136,33.953276",
+    "geom:latitude": 33.953276,
+    "geom:longitude": -118.397136,
+    "iso:country": "US",
+    "media:created": 1419416609,
+    "media:fingerprint": "512830782f8d5ebe55834359cbee674cb25ff5d1",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159334931,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#ffcf48",
+              "name": "Sunglow",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#ffd700",
+              "name": "gold",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#f5ca28",
+          "name": "#f5ca28",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#9aceeb",
+              "name": "Cornflower",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#adc7e8",
+          "name": "#adc7e8",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#8b4513",
+              "name": "saddlebrown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#95451d",
+          "name": "#95451d",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#a5694f",
+              "name": "Sepia",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#9d6854",
+          "name": "#9d6854",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cec3aa",
+          "name": "#cec3aa",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "20904786939",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1457547484",
+          "posted": "1441216215",
+          "taken": "2014-12-24 02:23:29",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1441216215",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "20904786939",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.953276",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.397136",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "81f1335a34",
+        "owner": {
+          "iconfarm": 0,
+          "iconserver": "0",
+          "location": "",
+          "nsid": "133747477@N08",
+          "path_alias": null,
+          "realname": "Honda Hsv",
+          "username": "hondahsv010gt"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "528c4bd61a",
+        "server": "5743",
+        "tags": {
+          "tag": [
+            {
+              "_content": "losangelesinternationalairport",
+              "author": "133747477@N08",
+              "authorname": "hondahsv010gt",
+              "id": "133654664-20904786939-481719",
+              "machine_tag": 0,
+              "raw": "Los Angeles International Airport"
+            },
+            {
+              "_content": "??????????",
+              "author": "133747477@N08",
+              "authorname": "hondahsv010gt",
+              "id": "133654664-20904786939-9717425",
+              "machine_tag": 0,
+              "raw": "??????????"
+            },
+            {
+              "_content": "lax",
+              "author": "133747477@N08",
+              "authorname": "hondahsv010gt",
+              "id": "133654664-20904786939-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "innoutburger",
+              "author": "133747477@N08",
+              "authorname": "hondahsv010gt",
+              "id": "133654664-20904786939-57739",
+              "machine_tag": 0,
+              "raw": "In-N-Out Burger"
+            },
+            {
+              "_content": "california",
+              "author": "133747477@N08",
+              "authorname": "hondahsv010gt",
+              "id": "133654664-20904786939-50",
+              "machine_tag": 0,
+              "raw": "California"
+            },
+            {
+              "_content": "usa",
+              "author": "133747477@N08",
+              "authorname": "hondahsv010gt",
+              "id": "133654664-20904786939-351",
+              "machine_tag": 0,
+              "raw": "USA"
+            }
+          ]
+        },
+        "title": {
+          "_content": "Los Angeles International Airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/133747477@N08/20904786939/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "208",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3456,
+          "mimetype": "image/jpeg",
+          "secret": "dzac7tnFvev4YL07rsMkaeOvdDh14dGaK30X3E2CCzJBYfXQrdJR",
+          "width": 5184
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "jdea3g9XQl5p24UyQBixz6oT84xRR0Pj9es5yICfNAJCLfAzEnUN",
+          "width": 640
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102533795
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159334931,
-    "wof:lastmodified":1545868724,
-    "wof:name":"Los Angeles International Airport",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527023099,
+    "wof:depicts": [
+      102533795,
+      1159285481,
+      1159288091,
+      1159334931
+    ],
+    "wof:geomhash": "e051abd7f5d5aafd6abd7099550b963a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159334931,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159334931,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159334931,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Los Angeles International Airport",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.397136,
     33.953276,
     -118.397136,
     33.953276
-],
+  ],
   "geometry": {"coordinates":[-118.397136,33.953276],"type":"Point"}
 }

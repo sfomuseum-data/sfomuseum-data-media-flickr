@@ -2,271 +2,275 @@
   "id": 1159328159,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-04-24",
-    "date:cessation_upper":"2011-04-24",
-    "date:inception_lower":"2011-04-24",
-    "date:inception_upper":"2011-04-24",
-    "edtf:cessation":"2011-04-24T18:01:25",
-    "edtf:inception":"2011-04-24T18:01:25",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.9467,35.2174,-80.9467,35.2174",
-    "geom:latitude":35.2174,
-    "geom:longitude":-80.9467,
-    "iso:country":"US",
-    "media:created":1303693285,
-    "media:fingerprint":"4d9fbb4b6de461cadbe7461276a6fcf15f2cbd3f",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"5661982188",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1303936656",
-                "posted":"1303925981",
-                "taken":"2011-04-24 18:01:25",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1303925981",
-            "description":{
-                "_content":"US Airways Cheese Plate"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"5661982188",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.217400",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.946700",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"41efdb3749",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3684",
-                "location":"Nashville, USA",
-                "nsid":"27127323@N00",
-                "path_alias":"bnilsen",
-                "realname":"",
-                "username":"bnilsen"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"7a72d461a1",
-            "server":"5224",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"eyefi",
-                        "author":"27127323@N00",
-                        "authorname":"bnilsen",
-                        "id":"170241-5661982188-3179191",
-                        "machine_tag":0,
-                        "raw":"Eye-Fi"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"27127323@N00",
-                        "authorname":"bnilsen",
-                        "id":"170241-5661982188-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"northcarolina",
-                        "author":"27127323@N00",
-                        "authorname":"bnilsen",
-                        "id":"170241-5661982188-8419",
-                        "machine_tag":0,
-                        "raw":"North Carolina"
-                    },
-                    {
-                        "_content":"unitedstates",
-                        "author":"27127323@N00",
-                        "authorname":"bnilsen",
-                        "id":"170241-5661982188-4074",
-                        "machine_tag":0,
-                        "raw":"United States"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"What goes for $8?"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/bnilsen/5661982188/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"187",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2011-04-24",
+    "date:cessation_upper": "2011-04-24",
+    "date:inception_lower": "2011-04-24",
+    "date:inception_upper": "2011-04-24",
+    "edtf:cessation": "2011-04-24T18:01:25",
+    "edtf:inception": "2011-04-24T18:01:25",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.946700,35.217400,-80.946700,35.217400",
+    "geom:latitude": 35.2174,
+    "geom:longitude": -80.9467,
+    "iso:country": "US",
+    "media:created": 1303693285,
+    "media:fingerprint": "4d9fbb4b6de461cadbe7461276a6fcf15f2cbd3f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "5661982188",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":653,
-                "mimetype":"image/jpeg",
-                "secret":"oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
-                "width":1024
+        "dates": {
+          "lastupdate": "1303936656",
+          "posted": "1303925981",
+          "taken": "2011-04-24 18:01:25",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1303925981",
+        "description": {
+          "_content": "US Airways Cheese Plate"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "5661982188",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.217400",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.946700",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "41efdb3749",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3684",
+          "location": "Nashville, USA",
+          "nsid": "27127323@N00",
+          "path_alias": "bnilsen",
+          "realname": "",
+          "username": "bnilsen"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "7a72d461a1",
+        "server": "5224",
+        "tags": {
+          "tag": [
+            {
+              "_content": "eyefi",
+              "author": "27127323@N00",
+              "authorname": "bnilsen",
+              "id": "170241-5661982188-3179191",
+              "machine_tag": 0,
+              "raw": "Eye-Fi"
             },
-            "c":{
-                "extension":"jpg",
-                "height":510,
-                "mimetype":"image/jpeg",
-                "secret":"oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
-                "width":800
+            {
+              "_content": "charlotte",
+              "author": "27127323@N00",
+              "authorname": "bnilsen",
+              "id": "170241-5661982188-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
             },
-            "n":{
-                "extension":"jpg",
-                "height":204,
-                "mimetype":"image/jpeg",
-                "secret":"oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
-                "width":320
+            {
+              "_content": "northcarolina",
+              "author": "27127323@N00",
+              "authorname": "bnilsen",
+              "id": "170241-5661982188-8419",
+              "machine_tag": 0,
+              "raw": "North Carolina"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1676,
-                "mimetype":"image/jpeg",
-                "secret":"yszfAL40W8nHbVKZN8n2F2NsciqjAVxvbLaoHS6QuWHMQfdqKG9W",
-                "width":2628
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":408,
-                "mimetype":"image/jpeg",
-                "secret":"oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
-                "width":640
+            {
+              "_content": "unitedstates",
+              "author": "27127323@N00",
+              "authorname": "bnilsen",
+              "id": "170241-5661982188-4074",
+              "machine_tag": 0,
+              "raw": "United States"
             }
+          ]
+        },
+        "title": {
+          "_content": "What goes for $8?"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/bnilsen/5661982188/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "187",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 653,
+          "mimetype": "image/jpeg",
+          "secret": "oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 510,
+          "mimetype": "image/jpeg",
+          "secret": "oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 204,
+          "mimetype": "image/jpeg",
+          "secret": "oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1676,
+          "mimetype": "image/jpeg",
+          "secret": "yszfAL40W8nHbVKZN8n2F2NsciqjAVxvbLaoHS6QuWHMQfdqKG9W",
+          "width": 2628
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 408,
+          "mimetype": "image/jpeg",
+          "secret": "oT2Df3N1fxPqSnDdO2CqhqtFYONYdPdf3kuPbQOziw2uRWwepBgK",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007393,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007393,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"8c888e06a7f5662c9ac7d359c26bf9cc",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328159,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328159,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "8c888e06a7f5662c9ac7d359c26bf9cc",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328159,
+        "locality_id": 85981333,
+        "media_id": 1159328159,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328159,
+        "media_id": 1159328159,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328159,
-    "wof:lastmodified":1545868673,
-    "wof:name":"What goes for $8?",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328159,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "What goes for $8?",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.9467,
     35.2174,
     -80.9467,
     35.2174
-],
-  "geometry": {"coordinates":[-80.94670000000001,35.2174],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.9467,35.2174],"type":"Point"}
 }

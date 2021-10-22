@@ -2,328 +2,331 @@
   "id": 1159325103,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-07-08",
-    "date:cessation_upper":"2012-07-08",
-    "date:inception_lower":"2012-07-08",
-    "date:inception_upper":"2012-07-08",
-    "edtf:cessation":"2012-07-08T12:10:23",
-    "edtf:inception":"2012-07-08T12:10:23",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.226976,39.888671,-84.226976,39.888671",
-    "geom:latitude":39.888671,
-    "geom:longitude":-84.226976,
-    "iso:country":"US",
-    "media:created":1341774623,
-    "media:fingerprint":"c1b0bae923a04bcb0363ad821070f80a5dff482d",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"7529194862",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1341791621",
-                "posted":"1341772167",
-                "taken":"2012-07-08 12:10:23",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1341772167",
-            "description":{
-                "_content":"Piper PA-28 Cherokee\n\nJames M. Cox Dayton International Airport"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"7529194862",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Montgomery",
-                    "place_id":"6bZemIVQUL8LSYoWJg",
-                    "woeid":"12589583"
-                },
-                "latitude":"39.888671",
-                "locality":{
-                    "_content":"James M Cox Dayton International Airport",
-                    "place_id":"BSnRH65QUL8Ww2N8Jw",
-                    "woeid":"12520347"
-                },
-                "longitude":"-84.226976",
-                "place_id":"BSnRH65QUL8Ww2N8Jw",
-                "region":{
-                    "_content":"Ohio",
-                    "place_id":"UUU.pnpTUb7KHEfH",
-                    "woeid":"2347594"
-                },
-                "woeid":"12520347"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"7f42f5bee6",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2593",
-                "location":"Vandalia, OH, United States",
-                "nsid":"42603028@N05",
-                "path_alias":"redlegsfan21",
-                "realname":"",
-                "username":"redlegsfan21"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"97312fc2c2",
-            "server":"7107",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"n8814w",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-92252844",
-                        "machine_tag":0,
-                        "raw":"N8814W"
-                    },
-                    {
-                        "_content":"piper",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-25291",
-                        "machine_tag":0,
-                        "raw":"Piper"
-                    },
-                    {
-                        "_content":"pa28",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-374936",
-                        "machine_tag":0,
-                        "raw":"PA-28"
-                    },
-                    {
-                        "_content":"cherokee",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-22970",
-                        "machine_tag":0,
-                        "raw":"Cherokee"
-                    },
-                    {
-                        "_content":"james",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-2094",
-                        "machine_tag":0,
-                        "raw":"James"
-                    },
-                    {
-                        "_content":"m",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-10821",
-                        "machine_tag":0,
-                        "raw":"M."
-                    },
-                    {
-                        "_content":"cox",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-17246",
-                        "machine_tag":0,
-                        "raw":"Cox"
-                    },
-                    {
-                        "_content":"dayton",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-63106",
-                        "machine_tag":0,
-                        "raw":"Dayton"
-                    },
-                    {
-                        "_content":"international",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-12495",
-                        "machine_tag":0,
-                        "raw":"International"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"day",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-3511",
-                        "machine_tag":0,
-                        "raw":"DAY"
-                    },
-                    {
-                        "_content":"kday",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-7529194862-265840",
-                        "machine_tag":0,
-                        "raw":"KDAY"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"N8814W"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/redlegsfan21/7529194862/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"262",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-07-08",
+    "date:cessation_upper": "2012-07-08",
+    "date:inception_lower": "2012-07-08",
+    "date:inception_upper": "2012-07-08",
+    "edtf:cessation": "2012-07-08T12:10:23",
+    "edtf:inception": "2012-07-08T12:10:23",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.226976,39.888671,-84.226976,39.888671",
+    "geom:latitude": 39.888671,
+    "geom:longitude": -84.226976,
+    "iso:country": "US",
+    "media:created": 1341774623,
+    "media:fingerprint": "c1b0bae923a04bcb0363ad821070f80a5dff482d",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "7529194862",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
-                "width":1024
+        "dates": {
+          "lastupdate": "1341791621",
+          "posted": "1341772167",
+          "taken": "2012-07-08 12:10:23",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1341772167",
+        "description": {
+          "_content": "Piper PA-28 Cherokee\n\nJames M. Cox Dayton International Airport"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "7529194862",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Montgomery",
+            "place_id": "6bZemIVQUL8LSYoWJg",
+            "woeid": "12589583"
+          },
+          "latitude": "39.888671",
+          "locality": {
+            "_content": "James M Cox Dayton International Airport",
+            "place_id": "BSnRH65QUL8Ww2N8Jw",
+            "woeid": "12520347"
+          },
+          "longitude": "-84.226976",
+          "place_id": "BSnRH65QUL8Ww2N8Jw",
+          "region": {
+            "_content": "Ohio",
+            "place_id": "UUU.pnpTUb7KHEfH",
+            "woeid": "2347594"
+          },
+          "woeid": "12520347"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "7f42f5bee6",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2593",
+          "location": "Vandalia, OH, United States",
+          "nsid": "42603028@N05",
+          "path_alias": "redlegsfan21",
+          "realname": "",
+          "username": "redlegsfan21"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "97312fc2c2",
+        "server": "7107",
+        "tags": {
+          "tag": [
+            {
+              "_content": "n8814w",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-92252844",
+              "machine_tag": 0,
+              "raw": "N8814W"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
-                "width":800
+            {
+              "_content": "piper",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-25291",
+              "machine_tag": 0,
+              "raw": "Piper"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
-                "width":320
+            {
+              "_content": "pa28",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-374936",
+              "machine_tag": 0,
+              "raw": "PA-28"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1536,
-                "mimetype":"image/jpeg",
-                "secret":"UTpUYUW9JqvuBKTi4TiwXRBirax30y64yOjANbIcEoma6eFCSKjC",
-                "width":2048
+            {
+              "_content": "cherokee",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-22970",
+              "machine_tag": 0,
+              "raw": "Cherokee"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
-                "width":320
+            {
+              "_content": "james",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-2094",
+              "machine_tag": 0,
+              "raw": "James"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
-                "width":640
+            {
+              "_content": "m",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-10821",
+              "machine_tag": 0,
+              "raw": "M."
+            },
+            {
+              "_content": "cox",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-17246",
+              "machine_tag": 0,
+              "raw": "Cox"
+            },
+            {
+              "_content": "dayton",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-63106",
+              "machine_tag": 0,
+              "raw": "Dayton"
+            },
+            {
+              "_content": "international",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-12495",
+              "machine_tag": 0,
+              "raw": "International"
+            },
+            {
+              "_content": "airport",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
+            },
+            {
+              "_content": "day",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-3511",
+              "machine_tag": 0,
+              "raw": "DAY"
+            },
+            {
+              "_content": "kday",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-7529194862-265840",
+              "machine_tag": 0,
+              "raw": "KDAY"
             }
+          ]
+        },
+        "title": {
+          "_content": "N8814W"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/redlegsfan21/7529194862/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "262",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "UTpUYUW9JqvuBKTi4TiwXRBirax30y64yOjANbIcEoma6eFCSKjC",
+          "width": 2048
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "VpsgoUUSypMovDcBXlAlcLwsuLBC17lOwl9lGJAezVy52iuMbQoq",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534301,
-        85833935,
-        102191575,
-        404526925,
-        85633793,
-        101712189,
-        102083667,
-        85688485
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534301,
+      85833935,
+      102191575,
+      404526925,
+      85633793,
+      101712189,
+      102083667,
+      85688485
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006079,
-    "wof:depicts":[
-        102534301
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006079,
+    "wof:depicts": [
+      102534301
     ],
-    "wof:geomhash":"0f0957cefaf4cd5196bc59276fbe2e21",
-    "wof:hierarchy":[
-        {
-            "campus_id":102534301,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083667,
-            "localadmin_id":404526925,
-            "locality_id":101712189,
-            "media_id":1159325103,
-            "neighbourhood_id":85833935,
-            "region_id":85688485
-        }
+    "wof:geomhash": "0f0957cefaf4cd5196bc59276fbe2e21",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102534301,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083667,
+        "image_id": 1159325103,
+        "localadmin_id": 404526925,
+        "locality_id": 101712189,
+        "media_id": 1159325103,
+        "neighbourhood_id": 85833935,
+        "region_id": 85688485
+      }
     ],
-    "wof:id":1159325103,
-    "wof:lastmodified":1545868677,
-    "wof:name":"N8814W",
-    "wof:parent_id":102534301,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325103,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "N8814W",
+    "wof:parent_id": 102534301,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.226976,
     39.888671,
     -84.226976,
     39.888671
-],
-  "geometry": {"coordinates":[-84.22697599999999,39.888671],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.226976,39.888671],"type":"Point"}
 }

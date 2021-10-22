@@ -2,360 +2,363 @@
   "id": 1159330031,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-08-13",
-    "date:cessation_upper":"2017-08-13",
-    "date:inception_lower":"2017-08-13",
-    "date:inception_upper":"2017-08-13",
-    "edtf:cessation":"2017-08-13T03:04:22",
-    "edtf:inception":"2017-08-13T03:04:22",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.397898,33.953505,-118.397898,33.953505",
-    "geom:latitude":33.953505,
-    "geom:longitude":-118.397898,
-    "iso:country":"US",
-    "media:created":1502618662,
-    "media:fingerprint":"e81c72bf800f706b624c557cf8ff0d1e6984396c",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"36599734302",
-        "photo_info":{
-            "comments":{
-                "_content":"4"
-            },
-            "dates":{
-                "lastupdate":"1523378687",
-                "posted":"1503550251",
-                "taken":"2017-08-13 03:04:22",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1503550251",
-            "description":{
-                "_content":"Standing at the corner of the North runway (Sepulveda Westway St.) one can be mesmerized by how close these planes come by on their approach. Just another exciting Sunday in L.A.!\n"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"36599734302",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.953505",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.397898",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"7d77b97a52",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8538",
-                "location":"Rancho Palos Verdes, CA, USA",
-                "nsid":"45958601@N02",
-                "path_alias":null,
-                "realname":"joey  zanotti",
-                "username":"Joey Z1"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"36db12d858",
-            "server":"4374",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"sundayafternoonlax",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-348907746",
-                        "machine_tag":0,
-                        "raw":"Sunday Afternoon @ LAX"
-                    },
-                    {
-                        "_content":"losangelesairport",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-2646843",
-                        "machine_tag":0,
-                        "raw":"Los Angeles Airport"
-                    },
-                    {
-                        "_content":"incomingplanes",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-348907756",
-                        "machine_tag":0,
-                        "raw":"Incoming Planes"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-1649",
-                        "machine_tag":0,
-                        "raw":"Airplane"
-                    },
-                    {
-                        "_content":"unitedairlines",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-109273",
-                        "machine_tag":0,
-                        "raw":"United Airlines"
-                    },
-                    {
-                        "_content":"sola",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-51226",
-                        "machine_tag":0,
-                        "raw":"So LA !"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"urbanscene",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-610010",
-                        "machine_tag":0,
-                        "raw":"Urban Scene"
-                    },
-                    {
-                        "_content":"laasseenbyjoeyz1",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-88406280",
-                        "machine_tag":0,
-                        "raw":"LA As Seen By Joey Z1"
-                    },
-                    {
-                        "_content":"lifeinlosangeles",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-17421062",
-                        "machine_tag":0,
-                        "raw":"Life In Los Angeles"
-                    },
-                    {
-                        "_content":"streetscenela",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-69410969",
-                        "machine_tag":0,
-                        "raw":"Street Scene LA"
-                    },
-                    {
-                        "_content":"streetscene",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-9042",
-                        "machine_tag":0,
-                        "raw":"Street Scene"
-                    },
-                    {
-                        "_content":"unitedairlinesjet",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-13051783",
-                        "machine_tag":0,
-                        "raw":"United Airlines Jet"
-                    },
-                    {
-                        "_content":"polychromatic",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-637297",
-                        "machine_tag":0,
-                        "raw":"Polychromatic"
-                    },
-                    {
-                        "_content":"pentaxks1",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-229079336",
-                        "machine_tag":0,
-                        "raw":"Pentax K-S1"
-                    },
-                    {
-                        "_content":"bylaphotolaureatejoeyzanotti",
-                        "author":"45958601@N02",
-                        "authorname":"Joey Z1",
-                        "id":"45938253-36599734302-276385133",
-                        "machine_tag":0,
-                        "raw":"By LA Photo Laureate Joey Zanotti"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Sunday afternoon @ LAX !"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/45958601@N02/36599734302/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1656",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-08-13",
+    "date:cessation_upper": "2017-08-13",
+    "date:inception_lower": "2017-08-13",
+    "date:inception_upper": "2017-08-13",
+    "edtf:cessation": "2017-08-13T03:04:22",
+    "edtf:inception": "2017-08-13T03:04:22",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.397898,33.953505,-118.397898,33.953505",
+    "geom:latitude": 33.953505,
+    "geom:longitude": -118.397898,
+    "iso:country": "US",
+    "media:created": 1502618662,
+    "media:fingerprint": "e81c72bf800f706b624c557cf8ff0d1e6984396c",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "36599734302",
+      "photo_info": {
+        "comments": {
+          "_content": "4"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
-                "width":1024
+        "dates": {
+          "lastupdate": "1523378687",
+          "posted": "1503550251",
+          "taken": "2017-08-13 03:04:22",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1503550251",
+        "description": {
+          "_content": "Standing at the corner of the North runway (Sepulveda Westway St.) one can be mesmerized by how close these planes come by on their approach. Just another exciting Sunday in L.A.!\n"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "36599734302",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.953505",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.397898",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "7d77b97a52",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8538",
+          "location": "Rancho Palos Verdes, CA, USA",
+          "nsid": "45958601@N02",
+          "path_alias": null,
+          "realname": "joey  zanotti",
+          "username": "Joey Z1"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "36db12d858",
+        "server": "4374",
+        "tags": {
+          "tag": [
+            {
+              "_content": "sundayafternoonlax",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-348907746",
+              "machine_tag": 0,
+              "raw": "Sunday Afternoon @ LAX"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
-                "width":800
+            {
+              "_content": "losangelesairport",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-2646843",
+              "machine_tag": 0,
+              "raw": "Los Angeles Airport"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
-                "width":320
+            {
+              "_content": "incomingplanes",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-348907756",
+              "machine_tag": 0,
+              "raw": "Incoming Planes"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3648,
-                "mimetype":"image/jpeg",
-                "secret":"ohjArqWNYZBS6YvKQKkRaEEMkWYvzg1STrF8pGgcHlGOgnZPcT5a",
-                "width":5472
+            {
+              "_content": "airplane",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-1649",
+              "machine_tag": 0,
+              "raw": "Airplane"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
-                "width":320
+            {
+              "_content": "unitedairlines",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-109273",
+              "machine_tag": 0,
+              "raw": "United Airlines"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
-                "width":640
+            {
+              "_content": "sola",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-51226",
+              "machine_tag": 0,
+              "raw": "So LA !"
+            },
+            {
+              "_content": "lax",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "urbanscene",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-610010",
+              "machine_tag": 0,
+              "raw": "Urban Scene"
+            },
+            {
+              "_content": "laasseenbyjoeyz1",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-88406280",
+              "machine_tag": 0,
+              "raw": "LA As Seen By Joey Z1"
+            },
+            {
+              "_content": "lifeinlosangeles",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-17421062",
+              "machine_tag": 0,
+              "raw": "Life In Los Angeles"
+            },
+            {
+              "_content": "streetscenela",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-69410969",
+              "machine_tag": 0,
+              "raw": "Street Scene LA"
+            },
+            {
+              "_content": "streetscene",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-9042",
+              "machine_tag": 0,
+              "raw": "Street Scene"
+            },
+            {
+              "_content": "unitedairlinesjet",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-13051783",
+              "machine_tag": 0,
+              "raw": "United Airlines Jet"
+            },
+            {
+              "_content": "polychromatic",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-637297",
+              "machine_tag": 0,
+              "raw": "Polychromatic"
+            },
+            {
+              "_content": "pentaxks1",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-229079336",
+              "machine_tag": 0,
+              "raw": "Pentax K-S1"
+            },
+            {
+              "_content": "bylaphotolaureatejoeyzanotti",
+              "author": "45958601@N02",
+              "authorname": "Joey Z1",
+              "id": "45938253-36599734302-276385133",
+              "machine_tag": 0,
+              "raw": "By LA Photo Laureate Joey Zanotti"
             }
+          ]
+        },
+        "title": {
+          "_content": "Sunday afternoon @ LAX !"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/45958601@N02/36599734302/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1656",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3648,
+          "mimetype": "image/jpeg",
+          "secret": "ohjArqWNYZBS6YvKQKkRaEEMkWYvzg1STrF8pGgcHlGOgnZPcT5a",
+          "width": 5472
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "9ckMDPj5nqa8Jjxr2LEAwpF89Oeh8pMDs4UlLO3MiUgSIxAGjfBg",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527017243,
-    "wof:depicts":[
-        102533795
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527017243,
+    "wof:depicts": [
+      102533795
     ],
-    "wof:geomhash":"0a30105028fa67b40efa617c75d9a218",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159330031,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "0a30105028fa67b40efa617c75d9a218",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159330031,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159330031,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159330031,
-    "wof:lastmodified":1545868712,
-    "wof:name":"Sunday afternoon @ LAX !",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159330031,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Sunday afternoon @ LAX !",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.397898,
     33.953505,
     -118.397898,
     33.953505
-],
+  ],
   "geometry": {"coordinates":[-118.397898,33.953505],"type":"Point"}
 }

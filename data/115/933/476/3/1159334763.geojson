@@ -2,319 +2,322 @@
   "id": 1159334763,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-01-27",
-    "date:cessation_upper":"2016-01-27",
-    "date:inception_lower":"2016-01-27",
-    "date:inception_upper":"2016-01-27",
-    "edtf:cessation":"2016-01-27T21:58:21",
-    "edtf:inception":"2016-01-27T21:58:21",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.399417,33.9406,-118.399417,33.9406",
-    "geom:latitude":33.9406,
-    "geom:longitude":-118.399417,
-    "iso:country":"US",
-    "media:created":1453960701,
-    "media:fingerprint":"7acd23c11c04845975a591911cb0122d95139c88",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#80daeb",
-                        "name":"Sky Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#87ceeb",
-                        "name":"skyblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#89dbf2",
-                "name":"#89dbf2",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#708090",
-                        "name":"slategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#767d87",
-                "name":"#767d87",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b3c3ce",
-                "name":"#b3c3ce",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#30313d",
-                "name":"#30313d",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"24661572905",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1453960703",
-                "posted":"1453960701",
-                "taken":"2016-01-27 21:58:21",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1453960701",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":2,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"24661572905",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.940600",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.399417",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"ba01b4caf6",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3761",
-                "location":"San Francisco, United States",
-                "nsid":"64684255@N00",
-                "path_alias":"pleia2",
-                "realname":"Elizabeth K. Joseph",
-                "username":"PLeia2"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"bba5772dd6",
-            "server":"1571",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Nice plane, but can't say I'm excited to spend 16 hours inside it ;)"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/pleia2/24661572905/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"111",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3120,
-                "mimetype":"image/jpeg",
-                "secret":"kjrylKmEft6xwv9ZapVsdAkj5jrGt33FevUA0pXs6eKn0qpl7ZKS",
-                "width":4160
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
-                "width":640
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527021907,
-    "wof:depicts":[
-        102533795,
-        1159285413,
-        1159288779,
-        1159292849,
-        1159293593
-    ],
-    "wof:geomhash":"cefbb1eca0c333f72bf8222fd6388286",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2016-01-27",
+    "date:cessation_upper": "2016-01-27",
+    "date:inception_lower": "2016-01-27",
+    "date:inception_upper": "2016-01-27",
+    "edtf:cessation": "2016-01-27T21:58:21",
+    "edtf:inception": "2016-01-27T21:58:21",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.399417,33.940600,-118.399417,33.940600",
+    "geom:latitude": 33.9406,
+    "geom:longitude": -118.399417,
+    "iso:country": "US",
+    "media:created": 1453960701,
+    "media:fingerprint": "7acd23c11c04845975a591911cb0122d95139c88",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159334763,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#80daeb",
+              "name": "Sky Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#87ceeb",
+              "name": "skyblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#89dbf2",
+          "name": "#89dbf2",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#708090",
+              "name": "slategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#767d87",
+          "name": "#767d87",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b3c3ce",
+          "name": "#b3c3ce",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#30313d",
+          "name": "#30313d",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "24661572905",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1453960703",
+          "posted": "1453960701",
+          "taken": "2016-01-27 21:58:21",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1453960701",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 2,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "24661572905",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.940600",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.399417",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "ba01b4caf6",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3761",
+          "location": "San Francisco, United States",
+          "nsid": "64684255@N00",
+          "path_alias": "pleia2",
+          "realname": "Elizabeth K. Joseph",
+          "username": "PLeia2"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "bba5772dd6",
+        "server": "1571",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Nice plane, but can't say I'm excited to spend 16 hours inside it ;)"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/pleia2/24661572905/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "111",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3120,
+          "mimetype": "image/jpeg",
+          "secret": "kjrylKmEft6xwv9ZapVsdAkj5jrGt33FevUA0pXs6eKn0qpl7ZKS",
+          "width": 4160
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "cEcOdotSFKGAYEGsxWn9YsF5adVAVvVevS8ySWD2eZIB1IkAzVIp",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159334763,
-    "wof:lastmodified":1545868716,
-    "wof:name":"Nice plane, but can't say I'm excited to spend 16 hours inside it ;)",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527021907,
+    "wof:depicts": [
+      102533795,
+      1159285413,
+      1159288779,
+      1159292849,
+      1159293593
+    ],
+    "wof:geomhash": "cefbb1eca0c333f72bf8222fd6388286",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159334763,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159334763,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159334763,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Nice plane, but can't say I'm excited to spend 16 hours inside it ;)",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.399417,
     33.9406,
     -118.399417,
     33.9406
-],
+  ],
   "geometry": {"coordinates":[-118.399417,33.9406],"type":"Point"}
 }

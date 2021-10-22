@@ -2,341 +2,345 @@
   "id": 1159329289,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-11-22",
-    "date:cessation_upper":"2016-11-22",
-    "date:inception_lower":"2016-11-22",
-    "date:inception_upper":"2016-11-22",
-    "edtf:cessation":"2016-11-22T22:20:20",
-    "edtf:inception":"2016-11-22T22:20:20",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382294,37.617563,-122.382294,37.617563",
-    "geom:latitude":37.617563,
-    "geom:longitude":-122.382294,
-    "iso:country":"US",
-    "media:created":1479882020,
-    "media:fingerprint":"c155e52faeff4b0bd169f8b710f5e89ef55b1241",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
+    "date:cessation_lower": "2016-11-22",
+    "date:cessation_upper": "2016-11-22",
+    "date:inception_lower": "2016-11-22",
+    "date:inception_upper": "2016-11-22",
+    "edtf:cessation": "2016-11-22T22:20:20",
+    "edtf:inception": "2016-11-22T22:20:20",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382294,37.617563,-122.382294,37.617563",
+    "geom:latitude": 37.617563,
+    "geom:longitude": -122.382294,
+    "iso:country": "US",
+    "media:created": 1479882020,
+    "media:fingerprint": "c155e52faeff4b0bd169f8b710f5e89ef55b1241",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "closest": [
             {
-                "closest":[
-                    {
-                        "hex":"#2e5894",
-                        "name":"B'dazzled Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#483d8b",
-                        "name":"darkslateblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#2a5881",
-                "name":"#2a5881",
-                "reference":"vibrant"
+              "hex": "#2e5894",
+              "name": "B'dazzled Blue",
+              "reference": "crayola"
             },
             {
-                "closest":[
-                    {
-                        "hex":"#deaa88",
-                        "name":"Tumbleweed",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d5b586",
-                "name":"#d5b586",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#6699cc",
-                        "name":"Blue Gray",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#5f9ea0",
-                        "name":"cadetblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#5d93a6",
-                "name":"#5d93a6",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c4b9b0",
-                "name":"#c4b9b0",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#5a4537",
-                "name":"#5a4537",
-                "reference":"vibrant"
+              "hex": "#483d8b",
+              "name": "darkslateblue",
+              "reference": "css4"
             }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"31274981926",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1480706117",
-                "posted":"1480402348",
-                "taken":"2016-11-22 22:20:20",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1480402348",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"31274981926",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.617563",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.382294",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e3b72f55bc",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8753",
-                "location":"San Francisco, U.S.A.",
-                "nsid":"10069023@N00",
-                "path_alias":"charleskremenak",
-                "realname":"Charles Kremenak",
-                "username":"Charkrem"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"806f9a7c54",
-            "server":"5538",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Amazing Big Ouija Board exhibhit at SFO!"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/charleskremenak/31274981926/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"138",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+          ],
+          "hex": "#2a5881",
+          "name": "#2a5881",
+          "reference": "vibrant"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
-                "width":1024
+        {
+          "closest": [
+            {
+              "hex": "#deaa88",
+              "name": "Tumbleweed",
+              "reference": "crayola"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2448,
-                "mimetype":"image/jpeg",
-                "secret":"7vKHySWxCy2uep9S0lX7C5n8ybgPAijhnxUebtSMDkP5xwSlfOiK",
-                "width":3264
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
-                "width":640
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
             }
+          ],
+          "hex": "#d5b586",
+          "name": "#d5b586",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#6699cc",
+              "name": "Blue Gray",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#5f9ea0",
+              "name": "cadetblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#5d93a6",
+          "name": "#5d93a6",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c4b9b0",
+          "name": "#c4b9b0",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#5a4537",
+          "name": "#5a4537",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "31274981926",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1480706117",
+          "posted": "1480402348",
+          "taken": "2016-11-22 22:20:20",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1480402348",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "31274981926",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.617563",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.382294",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e3b72f55bc",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8753",
+          "location": "San Francisco, U.S.A.",
+          "nsid": "10069023@N00",
+          "path_alias": "charleskremenak",
+          "realname": "Charles Kremenak",
+          "username": "Charkrem"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "806f9a7c54",
+        "server": "5538",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Amazing Big Ouija Board exhibhit at SFO!"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/charleskremenak/31274981926/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "138",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2448,
+          "mimetype": "image/jpeg",
+          "secret": "7vKHySWxCy2uep9S0lX7C5n8ybgPAijhnxUebtSMDkP5xwSlfOiK",
+          "width": 3264
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "UtrhBysDhBQb3dzoIv80MK2ecDsqgtAmFmmcY4bA5oER25nXOYcl",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527013997,
-    "wof:depicts":[
-        102527513,
-        1159157271,
-        1159157325
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527013997,
+    "wof:depicts": [
+      102527513,
+      1159157271,
+      1159157325
     ],
-    "wof:geomhash":"9de97f4f330cf2b86c74020bc22ff430",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159329289,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159329289,
-            "region_id":85688637
-        }
+    "wof:geomhash": "9de97f4f330cf2b86c74020bc22ff430",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159329289,
+        "locality_id": 85922583,
+        "media_id": 1159329289,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159329289,
+        "media_id": 1159329289,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159329289,
-    "wof:lastmodified":1545868665,
-    "wof:name":"Amazing Big Ouija Board exhibhit at SFO!",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159329289,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Amazing Big Ouija Board exhibhit at SFO!",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.382294,
     37.617563,
     -122.382294,
     37.617563
-],
+  ],
   "geometry": {"coordinates":[-122.382294,37.617563],"type":"Point"}
 }

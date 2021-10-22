@@ -2,238 +2,242 @@
   "id": 1159323091,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-10-12",
-    "date:cessation_upper":"2016-10-12",
-    "date:inception_lower":"2016-10-12",
-    "date:inception_upper":"2016-10-12",
-    "edtf:cessation":"2016-10-12T13:06:57",
-    "edtf:inception":"2016-10-12T13:06:57",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38695,37.620712,-122.38695,37.620712",
-    "geom:latitude":37.620712,
-    "geom:longitude":-122.38695,
-    "iso:country":"US",
-    "media:created":1476302817,
-    "media:fingerprint":"4b319186593e610f024afb1d99cec80e3bbf0626",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"29986812710",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1477687730",
-                "posted":"1476292017",
-                "taken":"2016-10-12 13:06:57",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1476292017",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"29986812710",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.620712",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.386950",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"268c28bd17",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3742",
-                "location":"New York, NY, US",
-                "nsid":"66458073@N00",
-                "path_alias":"mlcastle",
-                "realname":"mike",
-                "username":"mlcastle"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"2421de0e90",
-            "server":"5655",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Notice about Samsung Galaxy Note 7 devices"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/mlcastle/29986812710/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"434",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-10-12",
+    "date:cessation_upper": "2016-10-12",
+    "date:inception_lower": "2016-10-12",
+    "date:inception_upper": "2016-10-12",
+    "edtf:cessation": "2016-10-12T13:06:57",
+    "edtf:inception": "2016-10-12T13:06:57",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.386950,37.620712,-122.386950,37.620712",
+    "geom:latitude": 37.620712,
+    "geom:longitude": -122.38695,
+    "iso:country": "US",
+    "media:created": 1476302817,
+    "media:fingerprint": "4b319186593e610f024afb1d99cec80e3bbf0626",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "29986812710",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
-                "width":1023
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
-                "width":799
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
-                "width":319
-            },
-            "o":{
-                "extension":"jpg",
-                "height":886,
-                "mimetype":"image/jpeg",
-                "secret":"REB4lbkug4gGyUYtqCN2w9YE99FvJIORVUzSW6HGpWsSWPrFs0gn",
-                "width":1181
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
-                "width":639
+        "dates": {
+          "lastupdate": "1477687730",
+          "posted": "1476292017",
+          "taken": "2016-10-12 13:06:57",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1476292017",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "29986812710",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.620712",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.386950",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "268c28bd17",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3742",
+          "location": "New York, NY, US",
+          "nsid": "66458073@N00",
+          "path_alias": "mlcastle",
+          "realname": "mike",
+          "username": "mlcastle"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "2421de0e90",
+        "server": "5655",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Notice about Samsung Galaxy Note 7 devices"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/mlcastle/29986812710/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "434",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
+          "width": 799
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
+          "width": 319
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 886,
+          "mimetype": "image/jpeg",
+          "secret": "REB4lbkug4gGyUYtqCN2w9YE99FvJIORVUzSW6HGpWsSWPrFs0gn",
+          "width": 1181
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "f4ptthrFVuXBRKteZwqEkXFLZ0NncSfhdQpaVtk6v14eYls6nr3Z",
+          "width": 639
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678756,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678756,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"699bdfa41691fb67e5ab252d5884bce8",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159323091,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159323091,
-            "region_id":85688637
-        }
+    "wof:geomhash": "699bdfa41691fb67e5ab252d5884bce8",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159323091,
+        "locality_id": 85922583,
+        "media_id": 1159323091,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159323091,
+        "media_id": 1159323091,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159323091,
-    "wof:lastmodified":1545868689,
-    "wof:name":"Notice about Samsung Galaxy Note 7 devices",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323091,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Notice about Samsung Galaxy Note 7 devices",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.38695,
     37.620712,
     -122.38695,
     37.620712
-],
+  ],
   "geometry": {"coordinates":[-122.38695,37.620712],"type":"Point"}
 }

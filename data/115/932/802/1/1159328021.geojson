@@ -2,271 +2,275 @@
   "id": 1159328021,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-02-22",
-    "date:cessation_upper":"2013-02-22",
-    "date:inception_lower":"2013-02-22",
-    "date:inception_upper":"2013-02-22",
-    "edtf:cessation":"2013-02-22T14:56:23",
-    "edtf:inception":"2013-02-22T14:56:23",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.940887,35.22025,-80.940887,35.22025",
-    "geom:latitude":35.22025,
-    "geom:longitude":-80.940887,
-    "iso:country":"US",
-    "media:created":1361573783,
-    "media:fingerprint":"d477c91b39ae00d934f885dbdc5f4a9d012931c7",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"9213783003",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1373032039",
-                "posted":"1373032035",
-                "taken":"2013-02-22 14:56:23",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1373032035",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"9213783003",
-            "isfavorite":0,
-            "license":"6",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220250",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.940887",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"26ef31a81b",
-            "owner":{
-                "iconfarm":2,
-                "iconserver":"1147",
-                "location":"Philly, USA",
-                "nsid":"10512012@N08",
-                "path_alias":"sarahsj",
-                "realname":"Sarah J",
-                "username":"johnsons531"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"d325d24e33",
-            "server":"3755",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"charlotte",
-                        "author":"10512012@N08",
-                        "authorname":"johnsons531",
-                        "id":"10419199-9213783003-4733",
-                        "machine_tag":0,
-                        "raw":"charlotte"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"10512012@N08",
-                        "authorname":"johnsons531",
-                        "id":"10419199-9213783003-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"clt",
-                        "author":"10512012@N08",
-                        "authorname":"johnsons531",
-                        "id":"10419199-9213783003-830168",
-                        "machine_tag":0,
-                        "raw":"CLT"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"10512012@N08",
-                        "authorname":"johnsons531",
-                        "id":"10419199-9213783003-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"CharlotteBaggage"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/sarahsj/9213783003/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"52",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-02-22",
+    "date:cessation_upper": "2013-02-22",
+    "date:inception_lower": "2013-02-22",
+    "date:inception_upper": "2013-02-22",
+    "edtf:cessation": "2013-02-22T14:56:23",
+    "edtf:inception": "2013-02-22T14:56:23",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.940887,35.220250,-80.940887,35.220250",
+    "geom:latitude": 35.22025,
+    "geom:longitude": -80.940887,
+    "iso:country": "US",
+    "media:created": 1361573783,
+    "media:fingerprint": "d477c91b39ae00d934f885dbdc5f4a9d012931c7",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "9213783003",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":576,
-                "mimetype":"image/jpeg",
-                "secret":"SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
-                "width":1024
+        "dates": {
+          "lastupdate": "1373032039",
+          "posted": "1373032035",
+          "taken": "2013-02-22 14:56:23",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1373032035",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "9213783003",
+        "isfavorite": 0,
+        "license": "6",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220250",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.940887",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "26ef31a81b",
+        "owner": {
+          "iconfarm": 2,
+          "iconserver": "1147",
+          "location": "Philly, USA",
+          "nsid": "10512012@N08",
+          "path_alias": "sarahsj",
+          "realname": "Sarah J",
+          "username": "johnsons531"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "d325d24e33",
+        "server": "3755",
+        "tags": {
+          "tag": [
+            {
+              "_content": "charlotte",
+              "author": "10512012@N08",
+              "authorname": "johnsons531",
+              "id": "10419199-9213783003-4733",
+              "machine_tag": 0,
+              "raw": "charlotte"
             },
-            "c":{
-                "extension":"jpg",
-                "height":450,
-                "mimetype":"image/jpeg",
-                "secret":"SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
-                "width":800
+            {
+              "_content": "airport",
+              "author": "10512012@N08",
+              "authorname": "johnsons531",
+              "id": "10419199-9213783003-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "n":{
-                "extension":"jpg",
-                "height":180,
-                "mimetype":"image/jpeg",
-                "secret":"SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
-                "width":320
+            {
+              "_content": "clt",
+              "author": "10512012@N08",
+              "authorname": "johnsons531",
+              "id": "10419199-9213783003-830168",
+              "machine_tag": 0,
+              "raw": "CLT"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1836,
-                "mimetype":"image/jpeg",
-                "secret":"NlFjCMGv7UMdYSQXcAg0wbJdDff9NX1ZAqa08z0Oqg5WkhBpKT5C",
-                "width":3264
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":360,
-                "mimetype":"image/jpeg",
-                "secret":"SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
-                "width":640
+            {
+              "_content": "airplane",
+              "author": "10512012@N08",
+              "authorname": "johnsons531",
+              "id": "10419199-9213783003-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             }
+          ]
+        },
+        "title": {
+          "_content": "CharlotteBaggage"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/sarahsj/9213783003/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "52",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 576,
+          "mimetype": "image/jpeg",
+          "secret": "SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 450,
+          "mimetype": "image/jpeg",
+          "secret": "SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 180,
+          "mimetype": "image/jpeg",
+          "secret": "SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1836,
+          "mimetype": "image/jpeg",
+          "secret": "NlFjCMGv7UMdYSQXcAg0wbJdDff9NX1ZAqa08z0Oqg5WkhBpKT5C",
+          "width": 3264
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 360,
+          "mimetype": "image/jpeg",
+          "secret": "SUZsE3NIGq3eTLSo2Fyo2m2yP7FKVwzKarYqZVMtDe4hmBsWXtUo",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007346,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007346,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"7a29d88ab0ff94b1d385cdb4c085ea98",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328021,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328021,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "7a29d88ab0ff94b1d385cdb4c085ea98",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328021,
+        "locality_id": 85981333,
+        "media_id": 1159328021,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328021,
+        "media_id": 1159328021,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328021,
-    "wof:lastmodified":1545868663,
-    "wof:name":"CharlotteBaggage",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328021,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "CharlotteBaggage",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.940887,
     35.22025,
     -80.940887,
     35.22025
-],
+  ],
   "geometry": {"coordinates":[-80.940887,35.22025],"type":"Point"}
 }

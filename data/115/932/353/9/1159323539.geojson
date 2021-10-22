@@ -2,260 +2,263 @@
   "id": 1159323539,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-12-18",
-    "date:cessation_upper":"2012-12-18",
-    "date:inception_lower":"2012-12-18",
-    "date:inception_upper":"2012-12-18",
-    "edtf:cessation":"2012-12-18T14:29:54",
-    "edtf:inception":"2012-12-18T14:29:54",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-101.705749,35.219009,-101.705749,35.219009",
-    "geom:latitude":35.219009,
-    "geom:longitude":-101.705749,
-    "iso:country":"US",
-    "media:created":1355869794,
-    "media:fingerprint":"7b757b4af989f91d55316384177fd61f77b059ab",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8285527710",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1355872439",
-                "posted":"1355862952",
-                "taken":"2012-12-18 14:29:54",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1355862952",
-            "description":{
-                "_content":"Welcome to Texas"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8285527710",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Potter",
-                    "place_id":"P2YBu8FQUL.egXmong",
-                    "woeid":"12590194"
-                },
-                "latitude":"35.219009",
-                "locality":{
-                    "_content":"Amarillo International Airport",
-                    "place_id":"xlMPLj9QUL9EdVjdbg",
-                    "woeid":"12518598"
-                },
-                "longitude":"-101.705749",
-                "place_id":"xlMPLj9QUL9EdVjdbg",
-                "region":{
-                    "_content":"Texas",
-                    "place_id":"EMo2gYtTUb7oiO66",
-                    "woeid":"2347602"
-                },
-                "woeid":"12518598"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"f9dd45100e",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"4",
-                "location":"Washington, DC, US",
-                "nsid":"47084925@N00",
-                "path_alias":"jaytamboli",
-                "realname":"Jay Tamboli",
-                "username":"Jay Tamboli"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"c7bba4b9bb",
-            "server":"8479",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"rickhusbandamarillointernationalairportama",
-                        "author":"47084925@N00",
-                        "authorname":"Jay Tamboli",
-                        "id":"200850-8285527710-101674594",
-                        "machine_tag":0,
-                        "raw":"Rick Husband Amarillo International Airport (AMA)"
-                    },
-                    {
-                        "_content":"aardvark",
-                        "author":"47084925@N00",
-                        "authorname":"Jay Tamboli",
-                        "id":"200850-8285527710-78198",
-                        "machine_tag":0,
-                        "raw":"Aardvark"
-                    },
-                    {
-                        "_content":"flickriosapp:filter=aardvark",
-                        "author":"47084925@N00",
-                        "authorname":"Jay Tamboli",
-                        "id":"200850-8285527710-100995637",
-                        "machine_tag":1,
-                        "raw":"flickriosapp:filter=Aardvark"
-                    },
-                    {
-                        "_content":"uploaded:by=flickrmobile",
-                        "author":"47084925@N00",
-                        "authorname":"Jay Tamboli",
-                        "id":"200850-8285527710-97692397",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=flickr_mobile"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Rifle as checked baggage"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/jaytamboli/8285527710/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"634",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-12-18",
+    "date:cessation_upper": "2012-12-18",
+    "date:inception_lower": "2012-12-18",
+    "date:inception_upper": "2012-12-18",
+    "edtf:cessation": "2012-12-18T14:29:54",
+    "edtf:inception": "2012-12-18T14:29:54",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-101.705749,35.219009,-101.705749,35.219009",
+    "geom:latitude": 35.219009,
+    "geom:longitude": -101.705749,
+    "iso:country": "US",
+    "media:created": 1355869794,
+    "media:fingerprint": "7b757b4af989f91d55316384177fd61f77b059ab",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8285527710",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
-                "width":576
+        "dates": {
+          "lastupdate": "1355872439",
+          "posted": "1355862952",
+          "taken": "2012-12-18 14:29:54",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1355862952",
+        "description": {
+          "_content": "Welcome to Texas"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8285527710",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Potter",
+            "place_id": "P2YBu8FQUL.egXmong",
+            "woeid": "12590194"
+          },
+          "latitude": "35.219009",
+          "locality": {
+            "_content": "Amarillo International Airport",
+            "place_id": "xlMPLj9QUL9EdVjdbg",
+            "woeid": "12518598"
+          },
+          "longitude": "-101.705749",
+          "place_id": "xlMPLj9QUL9EdVjdbg",
+          "region": {
+            "_content": "Texas",
+            "place_id": "EMo2gYtTUb7oiO66",
+            "woeid": "2347602"
+          },
+          "woeid": "12518598"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "f9dd45100e",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "4",
+          "location": "Washington, DC, US",
+          "nsid": "47084925@N00",
+          "path_alias": "jaytamboli",
+          "realname": "Jay Tamboli",
+          "username": "Jay Tamboli"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "c7bba4b9bb",
+        "server": "8479",
+        "tags": {
+          "tag": [
+            {
+              "_content": "rickhusbandamarillointernationalairportama",
+              "author": "47084925@N00",
+              "authorname": "Jay Tamboli",
+              "id": "200850-8285527710-101674594",
+              "machine_tag": 0,
+              "raw": "Rick Husband Amarillo International Airport (AMA)"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
-                "width":450
+            {
+              "_content": "aardvark",
+              "author": "47084925@N00",
+              "authorname": "Jay Tamboli",
+              "id": "200850-8285527710-78198",
+              "machine_tag": 0,
+              "raw": "Aardvark"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
-                "width":180
+            {
+              "_content": "flickriosapp:filter=aardvark",
+              "author": "47084925@N00",
+              "authorname": "Jay Tamboli",
+              "id": "200850-8285527710-100995637",
+              "machine_tag": 1,
+              "raw": "flickriosapp:filter=Aardvark"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3264,
-                "mimetype":"image/jpeg",
-                "secret":"lmnLDuTXpu9Vk0cLR67n9B6D4NtSAfE2jTLOVrAT57YtAKk5CwZe",
-                "width":2448
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
-                "width":360
+            {
+              "_content": "uploaded:by=flickrmobile",
+              "author": "47084925@N00",
+              "authorname": "Jay Tamboli",
+              "id": "200850-8285527710-97692397",
+              "machine_tag": 1,
+              "raw": "uploaded:by=flickr_mobile"
             }
+          ]
+        },
+        "title": {
+          "_content": "Rifle as checked baggage"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/jaytamboli/8285527710/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "634",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3264,
+          "mimetype": "image/jpeg",
+          "secret": "lmnLDuTXpu9Vk0cLR67n9B6D4NtSAfE2jTLOVrAT57YtAKk5CwZe",
+          "width": 2448
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "HXnsoyBIPkYCETVBu1XrbmyeOtCMXIhlZK13YoD0BVN2CAoz3Nsc",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102529249,
-        85688753,
-        102191575,
-        85633793,
-        101724103,
-        102086749
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102529249,
+      85688753,
+      102191575,
+      85633793,
+      101724103,
+      102086749
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526688395,
-    "wof:depicts":[
-        102529249
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526688395,
+    "wof:depicts": [
+      102529249
     ],
-    "wof:geomhash":"40647d5a9eb4d16c06afb731b3f4c470",
-    "wof:hierarchy":[
-        {
-            "campus_id":102529249,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086749,
-            "locality_id":101724103,
-            "media_id":1159323539,
-            "region_id":85688753
-        }
+    "wof:geomhash": "40647d5a9eb4d16c06afb731b3f4c470",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529249,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086749,
+        "image_id": 1159323539,
+        "locality_id": 101724103,
+        "media_id": 1159323539,
+        "region_id": 85688753
+      }
     ],
-    "wof:id":1159323539,
-    "wof:lastmodified":1545868652,
-    "wof:name":"Rifle as checked baggage",
-    "wof:parent_id":102529249,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323539,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Rifle as checked baggage",
+    "wof:parent_id": 102529249,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -101.705749,
     35.219009,
     -101.705749,
     35.219009
-],
+  ],
   "geometry": {"coordinates":[-101.705749,35.219009],"type":"Point"}
 }

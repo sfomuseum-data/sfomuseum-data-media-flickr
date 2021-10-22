@@ -2,241 +2,244 @@
   "id": 1159322939,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-05-17",
-    "date:cessation_upper":"2018-05-17",
-    "date:inception_lower":"2018-05-17",
-    "date:inception_upper":"2018-05-17",
-    "edtf:cessation":"2018-05-17T12:01:02",
-    "edtf:inception":"2018-05-17T12:01:02",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389982,37.617666,-122.389982,37.617666",
-    "geom:latitude":37.617666,
-    "geom:longitude":-122.389982,
-    "iso:country":"US",
-    "media:created":1526583662,
-    "media:fingerprint":"427ef09e6a263990fb3a1501b9a7d8d382c4a203",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"28301927528",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1526579542",
-                "posted":"1526579020",
-                "taken":"2018-05-17 12:01:02",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1526579020",
-            "description":{
-                "_content":"Isamu Noguchi (1986) &quot;Akari Table Lamp Model VB13-T&quot; made of washi paper, bamboo and metal.  Display cases in International Terminal showing Japanese-American designer (1904-1988), where 2-dimensional origami folding influences 3-dimensional objects.  (San Francisco International Airport, International Terminal G, California).  20180517"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"28301927528",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.617666",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.389982",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"81c9ea6ee0",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3059",
-                "location":"Toronto, Canada",
-                "nsid":"91056830@N00",
-                "path_alias":"daviding",
-                "realname":"David Ing",
-                "username":"divirtual"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"7583b66ec1",
-            "server":"946",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"SFO Museum"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/daviding/28301927528/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"22",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2018-05-17",
+    "date:cessation_upper": "2018-05-17",
+    "date:inception_lower": "2018-05-17",
+    "date:inception_upper": "2018-05-17",
+    "edtf:cessation": "2018-05-17T12:01:02",
+    "edtf:inception": "2018-05-17T12:01:02",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389982,37.617666,-122.389982,37.617666",
+    "geom:latitude": 37.617666,
+    "geom:longitude": -122.389982,
+    "iso:country": "US",
+    "media:created": 1526583662,
+    "media:fingerprint": "427ef09e6a263990fb3a1501b9a7d8d382c4a203",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "28301927528",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":576,
-                "mimetype":"image/jpeg",
-                "secret":"KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":450,
-                "mimetype":"image/jpeg",
-                "secret":"KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":180,
-                "mimetype":"image/jpeg",
-                "secret":"KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2432,
-                "mimetype":"image/jpeg",
-                "secret":"ovr0jqK5MbfPG0mQYH38O9MzjdAUHhW5JIKDizAeFupNvzabceAq",
-                "width":4320
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":360,
-                "mimetype":"image/jpeg",
-                "secret":"KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
-                "width":640
+        "dates": {
+          "lastupdate": "1526579542",
+          "posted": "1526579020",
+          "taken": "2018-05-17 12:01:02",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1526579020",
+        "description": {
+          "_content": "Isamu Noguchi (1986) \u0026quot;Akari Table Lamp Model VB13-T\u0026quot; made of washi paper, bamboo and metal.  Display cases in International Terminal showing Japanese-American designer (1904-1988), where 2-dimensional origami folding influences 3-dimensional objects.  (San Francisco International Airport, International Terminal G, California).  20180517"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "28301927528",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.617666",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.389982",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "81c9ea6ee0",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3059",
+          "location": "Toronto, Canada",
+          "nsid": "91056830@N00",
+          "path_alias": "daviding",
+          "realname": "David Ing",
+          "username": "divirtual"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "7583b66ec1",
+        "server": "946",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "SFO Museum"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/daviding/28301927528/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "22",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 576,
+          "mimetype": "image/jpeg",
+          "secret": "KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 450,
+          "mimetype": "image/jpeg",
+          "secret": "KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 180,
+          "mimetype": "image/jpeg",
+          "secret": "KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2432,
+          "mimetype": "image/jpeg",
+          "secret": "ovr0jqK5MbfPG0mQYH38O9MzjdAUHhW5JIKDizAeFupNvzabceAq",
+          "width": 4320
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 360,
+          "mimetype": "image/jpeg",
+          "secret": "KgWsGqaNBrGjQojEV7hJb76hO5HMXWiqkEBJEbpJHkkv2mlswgfu",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "src:geom":"unknown",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678720,
-    "wof:depicts":[
-        102527513,
-        1159157333,
-        1226619815
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678720,
+    "wof:depicts": [
+      102527513,
+      1159157333,
+      1226619815
     ],
-    "wof:geomhash":"1d5ba002f3ed0e67e1042506ce210124",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322939,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322939,
-            "region_id":85688637
-        }
+    "wof:geomhash": "1d5ba002f3ed0e67e1042506ce210124",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322939,
+        "locality_id": 85922583,
+        "media_id": 1159322939,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322939,
+        "media_id": 1159322939,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322939,
-    "wof:lastmodified":1545876254,
-    "wof:name":"SFO Museum",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322939,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "SFO Museum",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.389982,
     37.617666,
     -122.389982,
     37.617666
-],
+  ],
   "geometry": {"coordinates":[-122.389982,37.617666],"type":"Point"}
 }

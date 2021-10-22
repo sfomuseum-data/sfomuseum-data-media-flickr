@@ -2,230 +2,233 @@
   "id": 1159326309,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2008-10-05",
-    "date:cessation_upper":"2008-10-05",
-    "date:inception_lower":"2008-10-05",
-    "date:inception_upper":"2008-10-05",
-    "edtf:cessation":"2008-10-05T06:06:27",
-    "edtf:inception":"2008-10-05T06:06:27",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.433588,40.651634,-75.433588,40.651634",
-    "geom:latitude":40.651634,
-    "geom:longitude":-75.433588,
-    "iso:country":"US",
-    "media:created":1223211987,
-    "media:fingerprint":"605c508e9b5e47221ce6b00b0eb9395731fb2f94",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"2916499845",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1240849245",
-                "posted":"1223257348",
-                "taken":"2008-10-05 06:06:27",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1223257348",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"2916499845",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"13",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Northampton",
-                    "place_id":"u4fHzFZQUL.XfU_jlA",
-                    "woeid":"12589775"
-                },
-                "latitude":"40.651634",
-                "locality":{
-                    "_content":"Lehigh Valley International Airport",
-                    "place_id":"7DNGVytQUL8QSNNPrg",
-                    "woeid":"12518581"
-                },
-                "longitude":"-75.433588",
-                "place_id":"7DNGVytQUL8QSNNPrg",
-                "region":{
-                    "_content":"Pennsylvania",
-                    "place_id":"fGSdmohTUb6YMlQa",
-                    "woeid":"2347597"
-                },
-                "woeid":"12518581"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"178eb8bc69",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2207",
-                "location":"",
-                "nsid":"8722123@N07",
-                "path_alias":"avesane",
-                "realname":"",
-                "username":"avesane"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"047c800ab7",
-            "server":"3142",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"IMGP3811 (Small)"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/avesane/2916499845/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"13",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2008-10-05",
+    "date:cessation_upper": "2008-10-05",
+    "date:inception_lower": "2008-10-05",
+    "date:inception_upper": "2008-10-05",
+    "edtf:cessation": "2008-10-05T06:06:27",
+    "edtf:inception": "2008-10-05T06:06:27",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.433588,40.651634,-75.433588,40.651634",
+    "geom:latitude": 40.651634,
+    "geom:longitude": -75.433588,
+    "iso:country": "US",
+    "media:created": 1223211987,
+    "media:fingerprint": "605c508e9b5e47221ce6b00b0eb9395731fb2f94",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "2916499845",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":684,
-                "mimetype":"image/jpeg",
-                "secret":"CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":535,
-                "mimetype":"image/jpeg",
-                "secret":"CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":214,
-                "mimetype":"image/jpeg",
-                "secret":"CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":428,
-                "mimetype":"image/jpeg",
-                "secret":"ugHBon2CmJbsAxGmpVV42PJ2Z2gHUA1V4EGg2ToxVNqtNUC7CzaQ",
-                "width":640
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":428,
-                "mimetype":"image/jpeg",
-                "secret":"CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
-                "width":640
+        "dates": {
+          "lastupdate": "1240849245",
+          "posted": "1223257348",
+          "taken": "2008-10-05 06:06:27",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1223257348",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "2916499845",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "13",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Northampton",
+            "place_id": "u4fHzFZQUL.XfU_jlA",
+            "woeid": "12589775"
+          },
+          "latitude": "40.651634",
+          "locality": {
+            "_content": "Lehigh Valley International Airport",
+            "place_id": "7DNGVytQUL8QSNNPrg",
+            "woeid": "12518581"
+          },
+          "longitude": "-75.433588",
+          "place_id": "7DNGVytQUL8QSNNPrg",
+          "region": {
+            "_content": "Pennsylvania",
+            "place_id": "fGSdmohTUb6YMlQa",
+            "woeid": "2347597"
+          },
+          "woeid": "12518581"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "178eb8bc69",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2207",
+          "location": "",
+          "nsid": "8722123@N07",
+          "path_alias": "avesane",
+          "realname": "",
+          "username": "avesane"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "047c800ab7",
+        "server": "3142",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "IMGP3811 (Small)"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/avesane/2916499845/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "13",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 684,
+          "mimetype": "image/jpeg",
+          "secret": "CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 535,
+          "mimetype": "image/jpeg",
+          "secret": "CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 214,
+          "mimetype": "image/jpeg",
+          "secret": "CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 428,
+          "mimetype": "image/jpeg",
+          "secret": "ugHBon2CmJbsAxGmpVV42PJ2Z2gHUA1V4EGg2ToxVNqtNUC7CzaQ",
+          "width": 640
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 428,
+          "mimetype": "image/jpeg",
+          "secret": "CnQf9124f4tElFfH897Vr7NzmJW5t3fhwCMvuZDxj8qKcTE6oLF7",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102529131,
-        85838547,
-        102191575,
-        404485953,
-        85633793,
-        102081327,
-        85688481
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102529131,
+      85838547,
+      102191575,
+      404485953,
+      85633793,
+      102081327,
+      85688481
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006478,
-    "wof:depicts":[
-        102529131
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006478,
+    "wof:depicts": [
+      102529131
     ],
-    "wof:geomhash":"cb86cc8f7853426625b49d5a10893440",
-    "wof:hierarchy":[
-        {
-            "campus_id":102529131,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081327,
-            "localadmin_id":404485953,
-            "locality_id":-1,
-            "media_id":1159326309,
-            "neighbourhood_id":85838547,
-            "region_id":85688481
-        }
+    "wof:geomhash": "cb86cc8f7853426625b49d5a10893440",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529131,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081327,
+        "image_id": 1159326309,
+        "localadmin_id": 404485953,
+        "locality_id": -1,
+        "media_id": 1159326309,
+        "neighbourhood_id": 85838547,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159326309,
-    "wof:lastmodified":1545868656,
-    "wof:name":"IMGP3811 (Small)",
-    "wof:parent_id":102529131,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326309,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "IMGP3811 (Small)",
+    "wof:parent_id": 102529131,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.433588,
     40.651634,
     -75.433588,
     40.651634
-],
+  ],
   "geometry": {"coordinates":[-75.433588,40.651634],"type":"Point"}
 }

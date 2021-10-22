@@ -2,229 +2,232 @@
   "id": 1159324725,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-12-09",
-    "date:cessation_upper":"2016-12-09",
-    "date:inception_lower":"2016-12-09",
-    "date:inception_upper":"2016-12-09",
-    "edtf:cessation":"2016-12-09T07:13:02",
-    "edtf:inception":"2016-12-09T07:13:02",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-90.074798,32.3101,-90.074798,32.3101",
-    "geom:latitude":32.3101,
-    "geom:longitude":-90.074798,
-    "iso:country":"US",
-    "media:created":1481296382,
-    "media:fingerprint":"0c76d319e42a8daf7f2210c883833d2f295e11cb",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"31384265012",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1482605011",
-                "posted":"1481297211",
-                "taken":"2016-12-09 07:13:02",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1481297211",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"31384265012",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Hinds",
-                    "place_id":"v.KZvRdQUL9o1X4oKw",
-                    "woeid":"12588908"
-                },
-                "latitude":"32.310100",
-                "locality":{
-                    "_content":"Jackson International Airport",
-                    "place_id":"6oIvepFQUL.EDzXr0Q",
-                    "woeid":"12520336"
-                },
-                "longitude":"-90.074798",
-                "place_id":"6oIvepFQUL.EDzXr0Q",
-                "region":{
-                    "_content":"Mississippi",
-                    "place_id":"6RIpGGpTUb6yHzA6",
-                    "woeid":"2347583"
-                },
-                "woeid":"12520336"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"528413cbd8",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3140",
-                "location":"",
-                "nsid":"32544079@N08",
-                "path_alias":"jwood601",
-                "realname":"John Wood",
-                "username":"jwood601"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"c859b85fc8",
-            "server":"780",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":""
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/jwood601/31384265012/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"31",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-12-09",
+    "date:cessation_upper": "2016-12-09",
+    "date:inception_lower": "2016-12-09",
+    "date:inception_upper": "2016-12-09",
+    "edtf:cessation": "2016-12-09T07:13:02",
+    "edtf:inception": "2016-12-09T07:13:02",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-90.074798,32.310100,-90.074798,32.310100",
+    "geom:latitude": 32.3101,
+    "geom:longitude": -90.074798,
+    "iso:country": "US",
+    "media:created": 1481296382,
+    "media:fingerprint": "0c76d319e42a8daf7f2210c883833d2f295e11cb",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "31384265012",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3024,
-                "mimetype":"image/jpeg",
-                "secret":"u4S2zAy8y4YARqDcs3LzSV8UTNRmymCD6OHSAxxJjjhuvsL0iiWJ",
-                "width":4032
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
-                "width":640
+        "dates": {
+          "lastupdate": "1482605011",
+          "posted": "1481297211",
+          "taken": "2016-12-09 07:13:02",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1481297211",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "31384265012",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Hinds",
+            "place_id": "v.KZvRdQUL9o1X4oKw",
+            "woeid": "12588908"
+          },
+          "latitude": "32.310100",
+          "locality": {
+            "_content": "Jackson International Airport",
+            "place_id": "6oIvepFQUL.EDzXr0Q",
+            "woeid": "12520336"
+          },
+          "longitude": "-90.074798",
+          "place_id": "6oIvepFQUL.EDzXr0Q",
+          "region": {
+            "_content": "Mississippi",
+            "place_id": "6RIpGGpTUb6yHzA6",
+            "woeid": "2347583"
+          },
+          "woeid": "12520336"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "528413cbd8",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3140",
+          "location": "",
+          "nsid": "32544079@N08",
+          "path_alias": "jwood601",
+          "realname": "John Wood",
+          "username": "jwood601"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "c859b85fc8",
+        "server": "780",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": ""
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/jwood601/31384265012/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "31",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3024,
+          "mimetype": "image/jpeg",
+          "secret": "u4S2zAy8y4YARqDcs3LzSV8UTNRmymCD6OHSAxxJjjhuvsL0iiWJ",
+          "width": 4032
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "cOaRWKlGZFH8fJNzWv2VNMrSd76hjRIrJxewsorwpZt5JhpcfoKg",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534355,
-        420525281,
-        102191575,
-        85633793,
-        85969693,
-        102081407,
-        85688579
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534355,
+      420525281,
+      102191575,
+      85633793,
+      85969693,
+      102081407,
+      85688579
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005938,
-    "wof:depicts":[
-        102534355
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005938,
+    "wof:depicts": [
+      102534355
     ],
-    "wof:geomhash":"152085aadc98cb840db88e6e04d2340a",
-    "wof:hierarchy":[
-        {
-            "campus_id":102534355,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081407,
-            "locality_id":85969693,
-            "media_id":1159324725,
-            "neighbourhood_id":420525281,
-            "region_id":85688579
-        }
+    "wof:geomhash": "152085aadc98cb840db88e6e04d2340a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102534355,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081407,
+        "image_id": 1159324725,
+        "locality_id": 85969693,
+        "media_id": 1159324725,
+        "neighbourhood_id": 420525281,
+        "region_id": 85688579
+      }
     ],
-    "wof:id":1159324725,
-    "wof:lastmodified":1545868710,
-    "wof:name":"",
-    "wof:parent_id":102534355,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324725,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "",
+    "wof:parent_id": 102534355,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -90.074798,
     32.3101,
     -90.074798,
     32.3101
-],
+  ],
   "geometry": {"coordinates":[-90.074798,32.3101],"type":"Point"}
 }

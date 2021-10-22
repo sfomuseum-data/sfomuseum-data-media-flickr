@@ -2,343 +2,347 @@
   "id": 1159327119,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-02-04",
-    "date:cessation_upper":"2009-02-04",
-    "date:inception_lower":"2009-02-04",
-    "date:inception_upper":"2009-02-04",
-    "edtf:cessation":"2009-02-04T06:08:13",
-    "edtf:inception":"2009-02-04T06:08:13",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.942834,35.219333,-80.942834,35.219333",
-    "geom:latitude":35.219333,
-    "geom:longitude":-80.942834,
-    "iso:country":"US",
-    "media:created":1233756493,
-    "media:fingerprint":"ac924718280cf43d5d5499eed610b7451cfce0eb",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3282478815",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1268143952",
-                "posted":"1234744538",
-                "taken":"2009-02-04 06:08:13",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1234744538",
-            "description":{
-                "_content":"Orphan Glove, Charlotte Airport, Charlotte, NC"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3282478815",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.219333",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.942834",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"9a51910fbf",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7414",
-                "location":"Falls Church, Virginia, USA",
-                "nsid":"54601088@N00",
-                "path_alias":"orpost",
-                "realname":"George Brett",
-                "username":"ghbrett"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"133a449bc6",
-            "server":"3543",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"iphone",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-176591",
-                        "machine_tag":0,
-                        "raw":"iPhone"
-                    },
-                    {
-                        "_content":"20090204",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-35463346",
-                        "machine_tag":0,
-                        "raw":"20090204"
-                    },
-                    {
-                        "_content":"dailyfoto",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-14552530",
-                        "machine_tag":0,
-                        "raw":"daily-foto"
-                    },
-                    {
-                        "_content":"glove",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-18495",
-                        "machine_tag":0,
-                        "raw":"glove"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-4733",
-                        "machine_tag":0,
-                        "raw":"charlotte"
-                    },
-                    {
-                        "_content":"nc",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-2533",
-                        "machine_tag":0,
-                        "raw":"nc"
-                    },
-                    {
-                        "_content":"usair",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-132279",
-                        "machine_tag":0,
-                        "raw":"usair"
-                    },
-                    {
-                        "_content":"orphanglove",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-2898870",
-                        "machine_tag":0,
-                        "raw":"orphan glove"
-                    },
-                    {
-                        "_content":"lonelyglove",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-102311",
-                        "machine_tag":0,
-                        "raw":"lonely glove"
-                    },
-                    {
-                        "_content":"lostglove",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-137593",
-                        "machine_tag":0,
-                        "raw":"lost glove"
-                    },
-                    {
-                        "_content":"lost",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-1803",
-                        "machine_tag":0,
-                        "raw":"lost"
-                    },
-                    {
-                        "_content":"alone",
-                        "author":"54601088@N00",
-                        "authorname":"ghbrett",
-                        "id":"119655-3282478815-3547",
-                        "machine_tag":0,
-                        "raw":"alone"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"20090204 Foto"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/orpost/3282478815/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"103",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-02-04",
+    "date:cessation_upper": "2009-02-04",
+    "date:inception_lower": "2009-02-04",
+    "date:inception_upper": "2009-02-04",
+    "edtf:cessation": "2009-02-04T06:08:13",
+    "edtf:inception": "2009-02-04T06:08:13",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.942834,35.219333,-80.942834,35.219333",
+    "geom:latitude": 35.219333,
+    "geom:longitude": -80.942834,
+    "iso:country": "US",
+    "media:created": 1233756493,
+    "media:fingerprint": "ac924718280cf43d5d5499eed610b7451cfce0eb",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3282478815",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
-                "width":576
+        "dates": {
+          "lastupdate": "1268143952",
+          "posted": "1234744538",
+          "taken": "2009-02-04 06:08:13",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1234744538",
+        "description": {
+          "_content": "Orphan Glove, Charlotte Airport, Charlotte, NC"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3282478815",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.219333",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.942834",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "9a51910fbf",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7414",
+          "location": "Falls Church, Virginia, USA",
+          "nsid": "54601088@N00",
+          "path_alias": "orpost",
+          "realname": "George Brett",
+          "username": "ghbrett"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "133a449bc6",
+        "server": "3543",
+        "tags": {
+          "tag": [
+            {
+              "_content": "iphone",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-176591",
+              "machine_tag": 0,
+              "raw": "iPhone"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
-                "width":450
+            {
+              "_content": "20090204",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-35463346",
+              "machine_tag": 0,
+              "raw": "20090204"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
-                "width":180
+            {
+              "_content": "dailyfoto",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-14552530",
+              "machine_tag": 0,
+              "raw": "daily-foto"
             },
-            "o":{
-                "extension":"jpg",
-                "height":800,
-                "mimetype":"image/jpeg",
-                "secret":"6SUfr9uxuKFcoq7YYRBAVsq4nKo5Mch1rdQKLe0w2kx4pWgeFsnG",
-                "width":600
+            {
+              "_content": "glove",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-18495",
+              "machine_tag": 0,
+              "raw": "glove"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
-                "width":320
+            {
+              "_content": "airport",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
-                "width":360
+            {
+              "_content": "charlotte",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-4733",
+              "machine_tag": 0,
+              "raw": "charlotte"
+            },
+            {
+              "_content": "nc",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-2533",
+              "machine_tag": 0,
+              "raw": "nc"
+            },
+            {
+              "_content": "usair",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-132279",
+              "machine_tag": 0,
+              "raw": "usair"
+            },
+            {
+              "_content": "orphanglove",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-2898870",
+              "machine_tag": 0,
+              "raw": "orphan glove"
+            },
+            {
+              "_content": "lonelyglove",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-102311",
+              "machine_tag": 0,
+              "raw": "lonely glove"
+            },
+            {
+              "_content": "lostglove",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-137593",
+              "machine_tag": 0,
+              "raw": "lost glove"
+            },
+            {
+              "_content": "lost",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-1803",
+              "machine_tag": 0,
+              "raw": "lost"
+            },
+            {
+              "_content": "alone",
+              "author": "54601088@N00",
+              "authorname": "ghbrett",
+              "id": "119655-3282478815-3547",
+              "machine_tag": 0,
+              "raw": "alone"
             }
+          ]
+        },
+        "title": {
+          "_content": "20090204 Foto"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/orpost/3282478815/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "103",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 800,
+          "mimetype": "image/jpeg",
+          "secret": "6SUfr9uxuKFcoq7YYRBAVsq4nKo5Mch1rdQKLe0w2kx4pWgeFsnG",
+          "width": 600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "SdgsVqwTA1o9dMJCCT6mjjUYUQ4mR3IOqA6lBHx2PrLMpSPvpXgC",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006798,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006798,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"8bba17b1d7b618131fff031a2a2d52f0",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159327119,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159327119,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "8bba17b1d7b618131fff031a2a2d52f0",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327119,
+        "locality_id": 85981333,
+        "media_id": 1159327119,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327119,
+        "media_id": 1159327119,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159327119,
-    "wof:lastmodified":1545868655,
-    "wof:name":"20090204 Foto",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327119,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "20090204 Foto",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.942834,
     35.219333,
     -80.942834,
     35.219333
-],
+  ],
   "geometry": {"coordinates":[-80.942834,35.219333],"type":"Point"}
 }

@@ -2,263 +2,267 @@
   "id": 1159328077,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-04-06",
-    "date:cessation_upper":"2013-04-06",
-    "date:inception_lower":"2013-04-06",
-    "date:inception_upper":"2013-04-06",
-    "edtf:cessation":"2013-04-06T15:22:35",
-    "edtf:inception":"2013-04-06T15:22:35",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.944,35.220166,-80.944,35.220166",
-    "geom:latitude":35.220166,
-    "geom:longitude":-80.944,
-    "iso:country":"US",
-    "media:created":1365286955,
-    "media:fingerprint":"982a1e623e0455575d63b65af0ecca8f2f6160f9",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8625798288",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1366392594",
-                "posted":"1365278221",
-                "taken":"2013-04-06 15:22:35",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1365278221",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8625798288",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220166",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.944000",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"ff09b44d50",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7413",
-                "location":"Topeka, KS, USA",
-                "nsid":"80994469@N00",
-                "path_alias":"davidking",
-                "realname":"David King",
-                "username":"David Lee King"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"c453b07079",
-            "server":"8388",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"flickriosapp:filter=nofilter",
-                        "author":"80994469@N00",
-                        "authorname":"David Lee King",
-                        "id":"153392-8625798288-98737803",
-                        "machine_tag":1,
-                        "raw":"flickriosapp:filter=NoFilter"
-                    },
-                    {
-                        "_content":"uploaded:by=flickrmobile",
-                        "author":"80994469@N00",
-                        "authorname":"David Lee King",
-                        "id":"153392-8625798288-97692397",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=flickr_mobile"
-                    },
-                    {
-                        "_content":"sushi",
-                        "author":"80994469@N00",
-                        "authorname":"David Lee King",
-                        "id":"153392-8625798288-1584",
-                        "machine_tag":0,
-                        "raw":"sushi"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Charlotte/Douglas International Airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/davidking/8625798288/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"143",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-04-06",
+    "date:cessation_upper": "2013-04-06",
+    "date:inception_lower": "2013-04-06",
+    "date:inception_upper": "2013-04-06",
+    "edtf:cessation": "2013-04-06T15:22:35",
+    "edtf:inception": "2013-04-06T15:22:35",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.944000,35.220166,-80.944000,35.220166",
+    "geom:latitude": 35.220166,
+    "geom:longitude": -80.944,
+    "iso:country": "US",
+    "media:created": 1365286955,
+    "media:fingerprint": "982a1e623e0455575d63b65af0ecca8f2f6160f9",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8625798288",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
-                "width":576
+        "dates": {
+          "lastupdate": "1366392594",
+          "posted": "1365278221",
+          "taken": "2013-04-06 15:22:35",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1365278221",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8625798288",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220166",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.944000",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "ff09b44d50",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7413",
+          "location": "Topeka, KS, USA",
+          "nsid": "80994469@N00",
+          "path_alias": "davidking",
+          "realname": "David King",
+          "username": "David Lee King"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "c453b07079",
+        "server": "8388",
+        "tags": {
+          "tag": [
+            {
+              "_content": "flickriosapp:filter=nofilter",
+              "author": "80994469@N00",
+              "authorname": "David Lee King",
+              "id": "153392-8625798288-98737803",
+              "machine_tag": 1,
+              "raw": "flickriosapp:filter=NoFilter"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
-                "width":450
+            {
+              "_content": "uploaded:by=flickrmobile",
+              "author": "80994469@N00",
+              "authorname": "David Lee King",
+              "id": "153392-8625798288-97692397",
+              "machine_tag": 1,
+              "raw": "uploaded:by=flickr_mobile"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
-                "width":180
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3264,
-                "mimetype":"image/jpeg",
-                "secret":"ewSKXPNxSRMjDtFOHizHFH299A2abAgQYzCH6uLLTKczxzOQSK7L",
-                "width":2448
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
-                "width":360
+            {
+              "_content": "sushi",
+              "author": "80994469@N00",
+              "authorname": "David Lee King",
+              "id": "153392-8625798288-1584",
+              "machine_tag": 0,
+              "raw": "sushi"
             }
+          ]
+        },
+        "title": {
+          "_content": "Charlotte/Douglas International Airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/davidking/8625798288/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "143",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3264,
+          "mimetype": "image/jpeg",
+          "secret": "ewSKXPNxSRMjDtFOHizHFH299A2abAgQYzCH6uLLTKczxzOQSK7L",
+          "width": 2448
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "d8mgD4eXmXDVYR4vYmQoTMb6la1A0sXj8PEqfyZ9oHZyVvYDRztn",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007368,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007368,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"a0a58a9a4ff83902c36d877b58cf73da",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328077,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328077,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "a0a58a9a4ff83902c36d877b58cf73da",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328077,
+        "locality_id": 85981333,
+        "media_id": 1159328077,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328077,
+        "media_id": 1159328077,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328077,
-    "wof:lastmodified":1545868691,
-    "wof:name":"Charlotte/Douglas International Airport",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328077,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Charlotte/Douglas International Airport",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.944,
     35.220166,
     -80.944,
     35.220166
-],
+  ],
   "geometry": {"coordinates":[-80.944,35.220166],"type":"Point"}
 }

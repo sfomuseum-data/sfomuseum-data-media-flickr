@@ -2,229 +2,232 @@
   "id": 1159324737,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-08-25",
-    "date:cessation_upper":"2015-08-25",
-    "date:inception_lower":"2015-08-25",
-    "date:inception_upper":"2015-08-25",
-    "edtf:cessation":"2015-08-25T16:38:12",
-    "edtf:inception":"2015-08-25T16:38:12",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-90.074489,32.311225,-90.074489,32.311225",
-    "geom:latitude":32.311225,
-    "geom:longitude":-90.074489,
-    "iso:country":"US",
-    "media:created":1440545892,
-    "media:fingerprint":"b0a1752258eb25f06aaf30845dfc3d45e5b124e4",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"20876623822",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1440554327",
-                "posted":"1440554319",
-                "taken":"2015-08-25 16:38:12",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1440554319",
-            "description":{
-                "_content":"Jackson Medgar Evers, lonely"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"20876623822",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Hinds",
-                    "place_id":"v.KZvRdQUL9o1X4oKw",
-                    "woeid":"12588908"
-                },
-                "latitude":"32.311225",
-                "locality":{
-                    "_content":"Jackson International Airport",
-                    "place_id":"6oIvepFQUL.EDzXr0Q",
-                    "woeid":"12520336"
-                },
-                "longitude":"-90.074489",
-                "place_id":"6oIvepFQUL.EDzXr0Q",
-                "region":{
-                    "_content":"Mississippi",
-                    "place_id":"6RIpGGpTUb6yHzA6",
-                    "woeid":"2347583"
-                },
-                "woeid":"12520336"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"013701de68",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7429",
-                "location":"San Mateo",
-                "nsid":"23807199@N00",
-                "path_alias":"mliu92",
-                "realname":"",
-                "username":"mliu92"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"533764ee7b",
-            "server":"689",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"WP_20150825_16_38_13_Pro"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/mliu92/20876623822/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"107",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-08-25",
+    "date:cessation_upper": "2015-08-25",
+    "date:inception_lower": "2015-08-25",
+    "date:inception_upper": "2015-08-25",
+    "edtf:cessation": "2015-08-25T16:38:12",
+    "edtf:inception": "2015-08-25T16:38:12",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-90.074489,32.311225,-90.074489,32.311225",
+    "geom:latitude": 32.311225,
+    "geom:longitude": -90.074489,
+    "iso:country": "US",
+    "media:created": 1440545892,
+    "media:fingerprint": "b0a1752258eb25f06aaf30845dfc3d45e5b124e4",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "20876623822",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":577,
-                "mimetype":"image/jpeg",
-                "secret":"hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":451,
-                "mimetype":"image/jpeg",
-                "secret":"hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":180,
-                "mimetype":"image/jpeg",
-                "secret":"hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":4352,
-                "mimetype":"image/jpeg",
-                "secret":"bzX1QlLKGZfeP7wNpS8LTINUnJXL6kqJN5DlId3xm7HQ11G3UiSE",
-                "width":7712
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":361,
-                "mimetype":"image/jpeg",
-                "secret":"hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
-                "width":640
+        "dates": {
+          "lastupdate": "1440554327",
+          "posted": "1440554319",
+          "taken": "2015-08-25 16:38:12",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1440554319",
+        "description": {
+          "_content": "Jackson Medgar Evers, lonely"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "20876623822",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Hinds",
+            "place_id": "v.KZvRdQUL9o1X4oKw",
+            "woeid": "12588908"
+          },
+          "latitude": "32.311225",
+          "locality": {
+            "_content": "Jackson International Airport",
+            "place_id": "6oIvepFQUL.EDzXr0Q",
+            "woeid": "12520336"
+          },
+          "longitude": "-90.074489",
+          "place_id": "6oIvepFQUL.EDzXr0Q",
+          "region": {
+            "_content": "Mississippi",
+            "place_id": "6RIpGGpTUb6yHzA6",
+            "woeid": "2347583"
+          },
+          "woeid": "12520336"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "013701de68",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7429",
+          "location": "San Mateo",
+          "nsid": "23807199@N00",
+          "path_alias": "mliu92",
+          "realname": "",
+          "username": "mliu92"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "533764ee7b",
+        "server": "689",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "WP_20150825_16_38_13_Pro"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/mliu92/20876623822/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "107",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 577,
+          "mimetype": "image/jpeg",
+          "secret": "hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 451,
+          "mimetype": "image/jpeg",
+          "secret": "hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 180,
+          "mimetype": "image/jpeg",
+          "secret": "hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 4352,
+          "mimetype": "image/jpeg",
+          "secret": "bzX1QlLKGZfeP7wNpS8LTINUnJXL6kqJN5DlId3xm7HQ11G3UiSE",
+          "width": 7712
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 361,
+          "mimetype": "image/jpeg",
+          "secret": "hp5QcOoPqD5XoGjjI1gb4RDbN6Hlhs3QBnxDYbEejbIGMArr4OWL",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534355,
-        420525281,
-        102191575,
-        85633793,
-        85969693,
-        102081407,
-        85688579
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534355,
+      420525281,
+      102191575,
+      85633793,
+      85969693,
+      102081407,
+      85688579
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005943,
-    "wof:depicts":[
-        102534355
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005943,
+    "wof:depicts": [
+      102534355
     ],
-    "wof:geomhash":"acb994b42220694687f9d2a6d28d6036",
-    "wof:hierarchy":[
-        {
-            "campus_id":102534355,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081407,
-            "locality_id":85969693,
-            "media_id":1159324737,
-            "neighbourhood_id":420525281,
-            "region_id":85688579
-        }
+    "wof:geomhash": "acb994b42220694687f9d2a6d28d6036",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102534355,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081407,
+        "image_id": 1159324737,
+        "locality_id": 85969693,
+        "media_id": 1159324737,
+        "neighbourhood_id": 420525281,
+        "region_id": 85688579
+      }
     ],
-    "wof:id":1159324737,
-    "wof:lastmodified":1545868691,
-    "wof:name":"WP_20150825_16_38_13_Pro",
-    "wof:parent_id":102534355,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324737,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "WP_20150825_16_38_13_Pro",
+    "wof:parent_id": 102534355,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -90.074489,
     32.311225,
     -90.074489,
     32.311225
-],
+  ],
   "geometry": {"coordinates":[-90.074489,32.311225],"type":"Point"}
 }

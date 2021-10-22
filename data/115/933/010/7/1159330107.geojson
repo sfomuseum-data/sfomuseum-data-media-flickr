@@ -2,466 +2,469 @@
   "id": 1159330107,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-09-28",
-    "date:cessation_upper":"2016-09-28",
-    "date:inception_lower":"2016-09-28",
-    "date:inception_upper":"2016-09-28",
-    "edtf:cessation":"2016-09-28T19:24:59",
-    "edtf:inception":"2016-09-28T19:24:59",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.396096,33.950755,-118.396096,33.950755",
-    "geom:latitude":33.950755,
-    "geom:longitude":-118.396096,
-    "iso:country":"US",
-    "media:created":1475115899,
-    "media:fingerprint":"b193052dd24f7335de17f07e0963bde6c719c93f",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"30800224423",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1481679642",
-                "posted":"1481594587",
-                "taken":"2016-09-28 19:24:59",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1481594587",
-            "description":{
-                "_content":"Retro livery\nLAX"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"30800224423",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.950755",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.396096",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"8133321020",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2859",
-                "location":"",
-                "nsid":"85726777@N00",
-                "path_alias":"andrewc75",
-                "realname":"Andrew E. Cohen",
-                "username":"AndrewC75"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"616d7fc5d5",
-            "server":"737",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airline",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-15019",
-                        "machine_tag":0,
-                        "raw":"airline"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"aircraft",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-5854",
-                        "machine_tag":0,
-                        "raw":"aircraft"
-                    },
-                    {
-                        "_content":"airliner",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-73548",
-                        "machine_tag":0,
-                        "raw":"airliner"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"landing",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-11499",
-                        "machine_tag":0,
-                        "raw":"landing"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"losangeles",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-2424",
-                        "machine_tag":0,
-                        "raw":"Los Angeles"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"sepulveda",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-95085",
-                        "machine_tag":0,
-                        "raw":"Sepulveda"
-                    },
-                    {
-                        "_content":"international",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-12495",
-                        "machine_tag":0,
-                        "raw":"International"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"747",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-59075",
-                        "machine_tag":0,
-                        "raw":"747"
-                    },
-                    {
-                        "_content":"b747",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-114604",
-                        "machine_tag":0,
-                        "raw":"B747"
-                    },
-                    {
-                        "_content":"b748",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-5361279",
-                        "machine_tag":0,
-                        "raw":"B748"
-                    },
-                    {
-                        "_content":"b748i",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-66993108",
-                        "machine_tag":0,
-                        "raw":"B748i"
-                    },
-                    {
-                        "_content":"b7478i",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-67229806",
-                        "machine_tag":0,
-                        "raw":"B747-8i"
-                    },
-                    {
-                        "_content":"7478i",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-16689873",
-                        "machine_tag":0,
-                        "raw":"747-8i"
-                    },
-                    {
-                        "_content":"b7478",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-16386585",
-                        "machine_tag":0,
-                        "raw":"B747-8"
-                    },
-                    {
-                        "_content":"b747800",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-9803120",
-                        "machine_tag":0,
-                        "raw":"B747-800"
-                    },
-                    {
-                        "_content":"7478",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-2206454",
-                        "machine_tag":0,
-                        "raw":"747-8"
-                    },
-                    {
-                        "_content":"747800",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-4412210",
-                        "machine_tag":0,
-                        "raw":"747-800"
-                    },
-                    {
-                        "_content":"lufthansa",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-45276",
-                        "machine_tag":0,
-                        "raw":"Lufthansa"
-                    },
-                    {
-                        "_content":"heavy",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-34169",
-                        "machine_tag":0,
-                        "raw":"heavy"
-                    },
-                    {
-                        "_content":"jumbo",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-79986",
-                        "machine_tag":0,
-                        "raw":"jumbo"
-                    },
-                    {
-                        "_content":"retro",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-10560",
-                        "machine_tag":0,
-                        "raw":"Retro"
-                    },
-                    {
-                        "_content":"livery",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-264741",
-                        "machine_tag":0,
-                        "raw":"livery"
-                    },
-                    {
-                        "_content":"approach",
-                        "author":"85726777@N00",
-                        "authorname":"AndrewC75",
-                        "id":"3507427-30800224423-31631",
-                        "machine_tag":0,
-                        "raw":"Approach"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"D-ABYT - Lufthansa Boeing 747-8i"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/andrewc75/30800224423/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"243",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-09-28",
+    "date:cessation_upper": "2016-09-28",
+    "date:inception_lower": "2016-09-28",
+    "date:inception_upper": "2016-09-28",
+    "edtf:cessation": "2016-09-28T19:24:59",
+    "edtf:inception": "2016-09-28T19:24:59",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.396096,33.950755,-118.396096,33.950755",
+    "geom:latitude": 33.950755,
+    "geom:longitude": -118.396096,
+    "iso:country": "US",
+    "media:created": 1475115899,
+    "media:fingerprint": "b193052dd24f7335de17f07e0963bde6c719c93f",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "30800224423",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
-                "width":1024
+        "dates": {
+          "lastupdate": "1481679642",
+          "posted": "1481594587",
+          "taken": "2016-09-28 19:24:59",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1481594587",
+        "description": {
+          "_content": "Retro livery\nLAX"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "30800224423",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.950755",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.396096",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "8133321020",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2859",
+          "location": "",
+          "nsid": "85726777@N00",
+          "path_alias": "andrewc75",
+          "realname": "Andrew E. Cohen",
+          "username": "AndrewC75"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "616d7fc5d5",
+        "server": "737",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airline",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-15019",
+              "machine_tag": 0,
+              "raw": "airline"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
-                "width":800
+            {
+              "_content": "airport",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
-                "width":320
+            {
+              "_content": "airplane",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1080,
-                "mimetype":"image/jpeg",
-                "secret":"H3vYkV0uihqRcWbHybsGBazIzNt0uJLRI8wZeFXb0JK9ekty7lFH",
-                "width":1620
+            {
+              "_content": "aircraft",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-5854",
+              "machine_tag": 0,
+              "raw": "aircraft"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
-                "width":320
+            {
+              "_content": "airliner",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-73548",
+              "machine_tag": 0,
+              "raw": "airliner"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
-                "width":640
+            {
+              "_content": "aviation",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
+            },
+            {
+              "_content": "landing",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-11499",
+              "machine_tag": 0,
+              "raw": "landing"
+            },
+            {
+              "_content": "lax",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "losangeles",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-2424",
+              "machine_tag": 0,
+              "raw": "Los Angeles"
+            },
+            {
+              "_content": "california",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-50",
+              "machine_tag": 0,
+              "raw": "California"
+            },
+            {
+              "_content": "sepulveda",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-95085",
+              "machine_tag": 0,
+              "raw": "Sepulveda"
+            },
+            {
+              "_content": "international",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-12495",
+              "machine_tag": 0,
+              "raw": "International"
+            },
+            {
+              "_content": "boeing",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
+            },
+            {
+              "_content": "747",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-59075",
+              "machine_tag": 0,
+              "raw": "747"
+            },
+            {
+              "_content": "b747",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-114604",
+              "machine_tag": 0,
+              "raw": "B747"
+            },
+            {
+              "_content": "b748",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-5361279",
+              "machine_tag": 0,
+              "raw": "B748"
+            },
+            {
+              "_content": "b748i",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-66993108",
+              "machine_tag": 0,
+              "raw": "B748i"
+            },
+            {
+              "_content": "b7478i",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-67229806",
+              "machine_tag": 0,
+              "raw": "B747-8i"
+            },
+            {
+              "_content": "7478i",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-16689873",
+              "machine_tag": 0,
+              "raw": "747-8i"
+            },
+            {
+              "_content": "b7478",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-16386585",
+              "machine_tag": 0,
+              "raw": "B747-8"
+            },
+            {
+              "_content": "b747800",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-9803120",
+              "machine_tag": 0,
+              "raw": "B747-800"
+            },
+            {
+              "_content": "7478",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-2206454",
+              "machine_tag": 0,
+              "raw": "747-8"
+            },
+            {
+              "_content": "747800",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-4412210",
+              "machine_tag": 0,
+              "raw": "747-800"
+            },
+            {
+              "_content": "lufthansa",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-45276",
+              "machine_tag": 0,
+              "raw": "Lufthansa"
+            },
+            {
+              "_content": "heavy",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-34169",
+              "machine_tag": 0,
+              "raw": "heavy"
+            },
+            {
+              "_content": "jumbo",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-79986",
+              "machine_tag": 0,
+              "raw": "jumbo"
+            },
+            {
+              "_content": "retro",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-10560",
+              "machine_tag": 0,
+              "raw": "Retro"
+            },
+            {
+              "_content": "livery",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-264741",
+              "machine_tag": 0,
+              "raw": "livery"
+            },
+            {
+              "_content": "approach",
+              "author": "85726777@N00",
+              "authorname": "AndrewC75",
+              "id": "3507427-30800224423-31631",
+              "machine_tag": 0,
+              "raw": "Approach"
             }
+          ]
+        },
+        "title": {
+          "_content": "D-ABYT - Lufthansa Boeing 747-8i"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/andrewc75/30800224423/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "243",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1080,
+          "mimetype": "image/jpeg",
+          "secret": "H3vYkV0uihqRcWbHybsGBazIzNt0uJLRI8wZeFXb0JK9ekty7lFH",
+          "width": 1620
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "yun8AIomrEHBgj75mGj0G9vmMekE55EOgx1O5HrzCHh1obFoh4nq",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527017266,
-    "wof:depicts":[
-        102533795,
-        1159286015,
-        1159289873
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527017266,
+    "wof:depicts": [
+      102533795,
+      1159286015,
+      1159289873
     ],
-    "wof:geomhash":"2692749c09c12c1103b36454e763d125",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159330107,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "2692749c09c12c1103b36454e763d125",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159330107,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159330107,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159330107,
-    "wof:lastmodified":1545868730,
-    "wof:name":"D-ABYT - Lufthansa Boeing 747-8i",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159330107,
+    "wof:lastmodified": 1634938259,
+    "wof:name": "D-ABYT - Lufthansa Boeing 747-8i",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.396096,
     33.950755,
     -118.396096,
     33.950755
-],
+  ],
   "geometry": {"coordinates":[-118.396096,33.950755],"type":"Point"}
 }

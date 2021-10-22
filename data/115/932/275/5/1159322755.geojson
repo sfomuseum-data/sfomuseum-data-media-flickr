@@ -2,238 +2,242 @@
   "id": 1159322755,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-10-18",
-    "date:cessation_upper":"2017-10-18",
-    "date:inception_lower":"2017-10-18",
-    "date:inception_upper":"2017-10-18",
-    "edtf:cessation":"2017-10-18T15:28:12",
-    "edtf:inception":"2017-10-18T15:28:12",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.392712,37.615922,-122.392712,37.615922",
-    "geom:latitude":37.615922,
-    "geom:longitude":-122.392712,
-    "iso:country":"US",
-    "media:created":1508365692,
-    "media:fingerprint":"cfbfd87ec0d922fb24186eb874eb7b6821ff2120",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"26302525319",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1509505313",
-                "posted":"1509505087",
-                "taken":"2017-10-18 15:28:12",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1509505087",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"26302525319",
-            "isfavorite":0,
-            "license":"6",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.615922",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.392712",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"46b041f689",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"1",
-                "location":"Hoboken, NJ, USA",
-                "nsid":"35468148844@N01",
-                "path_alias":"kingfox",
-                "realname":"",
-                "username":"Kingfox"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"2cb38d8352",
-            "server":"4462",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"IMG_20171018_152811"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/kingfox/26302525319/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"37",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-10-18",
+    "date:cessation_upper": "2017-10-18",
+    "date:inception_lower": "2017-10-18",
+    "date:inception_upper": "2017-10-18",
+    "edtf:cessation": "2017-10-18T15:28:12",
+    "edtf:inception": "2017-10-18T15:28:12",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.392712,37.615922,-122.392712,37.615922",
+    "geom:latitude": 37.615922,
+    "geom:longitude": -122.392712,
+    "iso:country": "US",
+    "media:created": 1508365692,
+    "media:fingerprint": "cfbfd87ec0d922fb24186eb874eb7b6821ff2120",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "26302525319",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
-                "width":576
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
-                "width":450
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
-                "width":180
-            },
-            "o":{
-                "extension":"jpg",
-                "height":4032,
-                "mimetype":"image/jpeg",
-                "secret":"D80FAcdtLo5Ww3jLHdhFoxDhJ4X1TyUhHJzrK0cYPH8TjLuX6XhB",
-                "width":3024
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
-                "width":360
+        "dates": {
+          "lastupdate": "1509505313",
+          "posted": "1509505087",
+          "taken": "2017-10-18 15:28:12",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1509505087",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "26302525319",
+        "isfavorite": 0,
+        "license": "6",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.615922",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.392712",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "46b041f689",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "1",
+          "location": "Hoboken, NJ, USA",
+          "nsid": "35468148844@N01",
+          "path_alias": "kingfox",
+          "realname": "",
+          "username": "Kingfox"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "2cb38d8352",
+        "server": "4462",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "IMG_20171018_152811"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/kingfox/26302525319/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "37",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 4032,
+          "mimetype": "image/jpeg",
+          "secret": "D80FAcdtLo5Ww3jLHdhFoxDhJ4X1TyUhHJzrK0cYPH8TjLuX6XhB",
+          "width": 3024
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "dSVpYBldyNyAL06NsyX0ZQI5b5Pcr5Hh9cGYzoC9kZWWmskV4r96",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678678,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678678,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"166e93c52c34ef85faeddbff80fe721c",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322755,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322755,
-            "region_id":85688637
-        }
+    "wof:geomhash": "166e93c52c34ef85faeddbff80fe721c",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322755,
+        "locality_id": 85922583,
+        "media_id": 1159322755,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322755,
+        "media_id": 1159322755,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322755,
-    "wof:lastmodified":1545868709,
-    "wof:name":"IMG_20171018_152811",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322755,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "IMG_20171018_152811",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.392712,
     37.615922,
     -122.392712,
     37.615922
-],
+  ],
   "geometry": {"coordinates":[-122.392712,37.615922],"type":"Point"}
 }

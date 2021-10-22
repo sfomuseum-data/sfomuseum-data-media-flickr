@@ -2,262 +2,265 @@
   "id": 1159328879,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-07-21",
-    "date:cessation_upper":"2011-07-21",
-    "date:inception_lower":"2011-07-21",
-    "date:inception_upper":"2011-07-21",
-    "edtf:cessation":"2011-07-21T19:18:28",
-    "edtf:inception":"2011-07-21T19:18:28",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.211367,37.711644,-122.211367,37.711644",
-    "geom:latitude":37.711644,
-    "geom:longitude":-122.211367,
-    "iso:country":"US",
-    "media:created":1311301108,
-    "media:fingerprint":"96a052123defd60e7d0a5f31e3bc890139ab2331",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"5975051245",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1416945050",
-                "posted":"1311626660",
-                "taken":"2011-07-21 19:18:28",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1311626660",
-            "description":{
-                "_content":"View from the Southwest Airlines terminal"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":7,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"5975051245",
-            "isfavorite":0,
-            "license":"6",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Alameda",
-                    "place_id":"1IvHpmpQUL8ZId.pmA",
-                    "woeid":"12587670"
-                },
-                "latitude":"37.711644",
-                "locality":{
-                    "_content":"Oakland International Airport",
-                    "place_id":"XGeMqQpQUL_SI70Kxw",
-                    "woeid":"12520917"
-                },
-                "longitude":"-122.211367",
-                "place_id":"XGeMqQpQUL_SI70Kxw",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12520917"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e111d8a681",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7694",
-                "location":"Oakland, United States",
-                "nsid":"35034347485@N01",
-                "path_alias":"allaboutgeorge",
-                "realname":"George Kelly",
-                "username":"allaboutgeorge"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"34d28350ab",
-            "server":"6132",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"oakland",
-                        "author":"35034347485@N01",
-                        "authorname":"allaboutgeorge",
-                        "id":"5948-5975051245-2086",
-                        "machine_tag":0,
-                        "raw":"Oakland"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"35034347485@N01",
-                        "authorname":"allaboutgeorge",
-                        "id":"5948-5975051245-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"runway",
-                        "author":"35034347485@N01",
-                        "authorname":"allaboutgeorge",
-                        "id":"5948-5975051245-44219",
-                        "machine_tag":0,
-                        "raw":"runway"
-                    },
-                    {
-                        "_content":"southwest",
-                        "author":"35034347485@N01",
-                        "authorname":"allaboutgeorge",
-                        "id":"5948-5975051245-521",
-                        "machine_tag":0,
-                        "raw":"Southwest"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Poised for takeoff"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/allaboutgeorge/5975051245/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"722",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2011-07-21",
+    "date:cessation_upper": "2011-07-21",
+    "date:inception_lower": "2011-07-21",
+    "date:inception_upper": "2011-07-21",
+    "edtf:cessation": "2011-07-21T19:18:28",
+    "edtf:inception": "2011-07-21T19:18:28",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.211367,37.711644,-122.211367,37.711644",
+    "geom:latitude": 37.711644,
+    "geom:longitude": -122.211367,
+    "iso:country": "US",
+    "media:created": 1311301108,
+    "media:fingerprint": "96a052123defd60e7d0a5f31e3bc890139ab2331",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "5975051245",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":767,
-                "mimetype":"image/jpeg",
-                "secret":"mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
-                "width":767
+        "dates": {
+          "lastupdate": "1416945050",
+          "posted": "1311626660",
+          "taken": "2011-07-21 19:18:28",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1311626660",
+        "description": {
+          "_content": "View from the Southwest Airlines terminal"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 7,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "5975051245",
+        "isfavorite": 0,
+        "license": "6",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Alameda",
+            "place_id": "1IvHpmpQUL8ZId.pmA",
+            "woeid": "12587670"
+          },
+          "latitude": "37.711644",
+          "locality": {
+            "_content": "Oakland International Airport",
+            "place_id": "XGeMqQpQUL_SI70Kxw",
+            "woeid": "12520917"
+          },
+          "longitude": "-122.211367",
+          "place_id": "XGeMqQpQUL_SI70Kxw",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12520917"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e111d8a681",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7694",
+          "location": "Oakland, United States",
+          "nsid": "35034347485@N01",
+          "path_alias": "allaboutgeorge",
+          "realname": "George Kelly",
+          "username": "allaboutgeorge"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "34d28350ab",
+        "server": "6132",
+        "tags": {
+          "tag": [
+            {
+              "_content": "oakland",
+              "author": "35034347485@N01",
+              "authorname": "allaboutgeorge",
+              "id": "5948-5975051245-2086",
+              "machine_tag": 0,
+              "raw": "Oakland"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
-                "width":600
+            {
+              "_content": "airport",
+              "author": "35034347485@N01",
+              "authorname": "allaboutgeorge",
+              "id": "5948-5975051245-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
-                "width":240
+            {
+              "_content": "runway",
+              "author": "35034347485@N01",
+              "authorname": "allaboutgeorge",
+              "id": "5948-5975051245-44219",
+              "machine_tag": 0,
+              "raw": "runway"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2140,
-                "mimetype":"image/jpeg",
-                "secret":"qpoqhmL7CIiLOeXQi9682VROmJFjTO8HwiiTQXz3QHoOuuzlVSZT",
-                "width":2140
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
-                "width":480
+            {
+              "_content": "southwest",
+              "author": "35034347485@N01",
+              "authorname": "allaboutgeorge",
+              "id": "5948-5975051245-521",
+              "machine_tag": 0,
+              "raw": "Southwest"
             }
+          ]
+        },
+        "title": {
+          "_content": "Poised for takeoff"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/allaboutgeorge/5975051245/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "722",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 767,
+          "mimetype": "image/jpeg",
+          "secret": "mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
+          "width": 767
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2140,
+          "mimetype": "image/jpeg",
+          "secret": "qpoqhmL7CIiLOeXQi9682VROmJFjTO8HwiiTQXz3QHoOuuzlVSZT",
+          "width": 2140
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "mrZ2oTEvm5temUxRTJqRpTpwYuGyJAoEfWWwuHzh2klSzcKOMfEC",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531041,
-        1108794155,
-        102191575,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531041,
+      1108794155,
+      102191575,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527013875,
-    "wof:depicts":[
-        102531041
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527013875,
+    "wof:depicts": [
+      102531041
     ],
-    "wof:geomhash":"381657485104a261f46a3a259929e255",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531041,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "media_id":1159328879,
-            "neighbourhood_id":1108794155,
-            "region_id":85688637
-        }
+    "wof:geomhash": "381657485104a261f46a3a259929e255",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531041,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "image_id": 1159328879,
+        "locality_id": 85921881,
+        "media_id": 1159328879,
+        "neighbourhood_id": 1108794155,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159328879,
-    "wof:lastmodified":1545868699,
-    "wof:name":"Poised for takeoff",
-    "wof:parent_id":102531041,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328879,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Poised for takeoff",
+    "wof:parent_id": 102531041,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.211367,
     37.711644,
     -122.211367,
     37.711644
-],
+  ],
   "geometry": {"coordinates":[-122.211367,37.711644],"type":"Point"}
 }

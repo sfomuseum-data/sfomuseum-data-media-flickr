@@ -2,271 +2,275 @@
   "id": 1159323049,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-10-17",
-    "date:cessation_upper":"2016-10-17",
-    "date:inception_lower":"2016-10-17",
-    "date:inception_upper":"2016-10-17",
-    "edtf:cessation":"2016-10-17T06:11:04",
-    "edtf:inception":"2016-10-17T06:11:04",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.390389,37.620638,-122.390389,37.620638",
-    "geom:latitude":37.620638,
-    "geom:longitude":-122.390389,
-    "iso:country":"US",
-    "media:created":1476709864,
-    "media:fingerprint":"59be92598d43e1c3163473c901fa628a0b25172e",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"33924592016",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1510693721",
-                "posted":"1491876695",
-                "taken":"2016-10-17 06:11:04",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1491876695",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":3,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"33924592016",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.620638",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.390389",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"8b7095e3d8",
-            "owner":{
-                "iconfarm":5,
-                "iconserver":"4595",
-                "location":"Monterey, CA, USA",
-                "nsid":"75264768@N00",
-                "path_alias":"smaedli",
-                "realname":"Chad Kainz",
-                "username":"smaedli"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"aba838fbda",
-            "server":"2919",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"appleiphone6s",
-                        "author":"75264768@N00",
-                        "authorname":"smaedli",
-                        "id":"4658093-33924592016-241059592",
-                        "machine_tag":0,
-                        "raw":"Apple iPhone 6s"
-                    },
-                    {
-                        "_content":"sanfrancisco",
-                        "author":"75264768@N00",
-                        "authorname":"smaedli",
-                        "id":"4658093-33924592016-46",
-                        "machine_tag":0,
-                        "raw":"San Francisco"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"75264768@N00",
-                        "authorname":"smaedli",
-                        "id":"4658093-33924592016-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"75264768@N00",
-                        "authorname":"smaedli",
-                        "id":"4658093-33924592016-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Early Morning"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/smaedli/33924592016/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"214",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-10-17",
+    "date:cessation_upper": "2016-10-17",
+    "date:inception_lower": "2016-10-17",
+    "date:inception_upper": "2016-10-17",
+    "edtf:cessation": "2016-10-17T06:11:04",
+    "edtf:inception": "2016-10-17T06:11:04",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.390389,37.620638,-122.390389,37.620638",
+    "geom:latitude": 37.620638,
+    "geom:longitude": -122.390389,
+    "iso:country": "US",
+    "media:created": 1476709864,
+    "media:fingerprint": "59be92598d43e1c3163473c901fa628a0b25172e",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "33924592016",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
-                "width":768
+        "dates": {
+          "lastupdate": "1510693721",
+          "posted": "1491876695",
+          "taken": "2016-10-17 06:11:04",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1491876695",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 3,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "33924592016",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.620638",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.390389",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "8b7095e3d8",
+        "owner": {
+          "iconfarm": 5,
+          "iconserver": "4595",
+          "location": "Monterey, CA, USA",
+          "nsid": "75264768@N00",
+          "path_alias": "smaedli",
+          "realname": "Chad Kainz",
+          "username": "smaedli"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "aba838fbda",
+        "server": "2919",
+        "tags": {
+          "tag": [
+            {
+              "_content": "appleiphone6s",
+              "author": "75264768@N00",
+              "authorname": "smaedli",
+              "id": "4658093-33924592016-241059592",
+              "machine_tag": 0,
+              "raw": "Apple iPhone 6s"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
-                "width":600
+            {
+              "_content": "sanfrancisco",
+              "author": "75264768@N00",
+              "authorname": "smaedli",
+              "id": "4658093-33924592016-46",
+              "machine_tag": 0,
+              "raw": "San Francisco"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
-                "width":240
+            {
+              "_content": "aviation",
+              "author": "75264768@N00",
+              "authorname": "smaedli",
+              "id": "4658093-33924592016-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2837,
-                "mimetype":"image/jpeg",
-                "secret":"Rdpp1QYhztAwOIdplQpbdXlnL08lYS5AXveQqmSZJgCKfQuxx2Rm",
-                "width":2837
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
-                "width":480
+            {
+              "_content": "airport",
+              "author": "75264768@N00",
+              "authorname": "smaedli",
+              "id": "4658093-33924592016-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             }
+          ]
+        },
+        "title": {
+          "_content": "Early Morning"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/smaedli/33924592016/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "214",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2837,
+          "mimetype": "image/jpeg",
+          "secret": "Rdpp1QYhztAwOIdplQpbdXlnL08lYS5AXveQqmSZJgCKfQuxx2Rm",
+          "width": 2837
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "FrGCImARcimKGUSj7XuisG8Y14IWnj7GDG6Uo98skmpJ2nRrU54x",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678743,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678743,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"f4d724f84f89f6b632d7be2ec60c5639",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159323049,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159323049,
-            "region_id":85688637
-        }
+    "wof:geomhash": "f4d724f84f89f6b632d7be2ec60c5639",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159323049,
+        "locality_id": 85922583,
+        "media_id": 1159323049,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159323049,
+        "media_id": 1159323049,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159323049,
-    "wof:lastmodified":1545868664,
-    "wof:name":"Early Morning",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323049,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Early Morning",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.390389,
     37.620638,
     -122.390389,
     37.620638
-],
+  ],
   "geometry": {"coordinates":[-122.390389,37.620638],"type":"Point"}
 }

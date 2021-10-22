@@ -2,354 +2,357 @@
   "id": 1159329873,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-07-23",
-    "date:cessation_upper":"2017-07-23",
-    "date:inception_lower":"2017-07-23",
-    "date:inception_upper":"2017-07-23",
-    "edtf:cessation":"2017-07-23T13:51:39",
-    "edtf:inception":"2017-07-23T13:51:39",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.39727,33.953258,-118.39727,33.953258",
-    "geom:latitude":33.953258,
-    "geom:longitude":-118.39727,
-    "iso:country":"US",
-    "media:created":1500843099,
-    "media:fingerprint":"949dbd6d40cc93e0965f96aaa581f64f6300d301",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"35999016791",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1502162139",
-                "posted":"1500904980",
-                "taken":"2017-07-23 13:51:39",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1500904980",
-            "description":{
-                "_content":"My son and I had a fast food picnic at LAX."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"35999016791",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.953258",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.397270",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e00a895f72",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7378",
-                "location":"Goleta, USA",
-                "nsid":"23089307@N02",
-                "path_alias":"n28307",
-                "realname":"Glenn Beltz",
-                "username":"beltz6"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"3dd84764e7",
-            "server":"4303",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"losangeles",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-2424",
-                        "machine_tag":0,
-                        "raw":"Los Angeles"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"777",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-43328",
-                        "machine_tag":0,
-                        "raw":"777"
-                    },
-                    {
-                        "_content":"boeing777",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-316234",
-                        "machine_tag":0,
-                        "raw":"Boeing 777"
-                    },
-                    {
-                        "_content":"qatar",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-103405",
-                        "machine_tag":0,
-                        "raw":"Qatar"
-                    },
-                    {
-                        "_content":"qatarairways",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-605290",
-                        "machine_tag":0,
-                        "raw":"Qatar Airways"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"klax",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-1327757",
-                        "machine_tag":0,
-                        "raw":"KLAX"
-                    },
-                    {
-                        "_content":"losangelesinternationalairport",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-481719",
-                        "machine_tag":0,
-                        "raw":"Los Angeles International Airport"
-                    },
-                    {
-                        "_content":"planespotting",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-307257",
-                        "machine_tag":0,
-                        "raw":"planespotting"
-                    },
-                    {
-                        "_content":"innout",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-64405",
-                        "machine_tag":0,
-                        "raw":"In-n-out"
-                    },
-                    {
-                        "_content":"innoutburger",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-57739",
-                        "machine_tag":0,
-                        "raw":"In-N-Out Burger"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-35999016791-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Qatar Boeing 777 on the In-n-Out arrival"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/n28307/35999016791/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"697",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-07-23",
+    "date:cessation_upper": "2017-07-23",
+    "date:inception_lower": "2017-07-23",
+    "date:inception_upper": "2017-07-23",
+    "edtf:cessation": "2017-07-23T13:51:39",
+    "edtf:inception": "2017-07-23T13:51:39",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.397270,33.953258,-118.397270,33.953258",
+    "geom:latitude": 33.953258,
+    "geom:longitude": -118.39727,
+    "iso:country": "US",
+    "media:created": 1500843099,
+    "media:fingerprint": "949dbd6d40cc93e0965f96aaa581f64f6300d301",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "35999016791",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
-                "width":576
+        "dates": {
+          "lastupdate": "1502162139",
+          "posted": "1500904980",
+          "taken": "2017-07-23 13:51:39",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1500904980",
+        "description": {
+          "_content": "My son and I had a fast food picnic at LAX."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "35999016791",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.953258",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.397270",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e00a895f72",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7378",
+          "location": "Goleta, USA",
+          "nsid": "23089307@N02",
+          "path_alias": "n28307",
+          "realname": "Glenn Beltz",
+          "username": "beltz6"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "3dd84764e7",
+        "server": "4303",
+        "tags": {
+          "tag": [
+            {
+              "_content": "losangeles",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-2424",
+              "machine_tag": 0,
+              "raw": "Los Angeles"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
-                "width":450
+            {
+              "_content": "california",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-50",
+              "machine_tag": 0,
+              "raw": "California"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
-                "width":180
+            {
+              "_content": "boeing",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
             },
-            "o":{
-                "extension":"jpg",
-                "height":4032,
-                "mimetype":"image/jpeg",
-                "secret":"swIP3ZzmTOH6KFFpSJLbgAtSO1CHuOHhHtHL7mTvBD3YpBCFHVc6",
-                "width":3024
+            {
+              "_content": "777",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-43328",
+              "machine_tag": 0,
+              "raw": "777"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
-                "width":320
+            {
+              "_content": "boeing777",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-316234",
+              "machine_tag": 0,
+              "raw": "Boeing 777"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
-                "width":360
+            {
+              "_content": "qatar",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-103405",
+              "machine_tag": 0,
+              "raw": "Qatar"
+            },
+            {
+              "_content": "qatarairways",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-605290",
+              "machine_tag": 0,
+              "raw": "Qatar Airways"
+            },
+            {
+              "_content": "lax",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "klax",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-1327757",
+              "machine_tag": 0,
+              "raw": "KLAX"
+            },
+            {
+              "_content": "losangelesinternationalairport",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-481719",
+              "machine_tag": 0,
+              "raw": "Los Angeles International Airport"
+            },
+            {
+              "_content": "planespotting",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-307257",
+              "machine_tag": 0,
+              "raw": "planespotting"
+            },
+            {
+              "_content": "innout",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-64405",
+              "machine_tag": 0,
+              "raw": "In-n-out"
+            },
+            {
+              "_content": "innoutburger",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-57739",
+              "machine_tag": 0,
+              "raw": "In-N-Out Burger"
+            },
+            {
+              "_content": "aviation",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
+            },
+            {
+              "_content": "airplane",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-35999016791-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             }
+          ]
+        },
+        "title": {
+          "_content": "Qatar Boeing 777 on the In-n-Out arrival"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/n28307/35999016791/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "697",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 4032,
+          "mimetype": "image/jpeg",
+          "secret": "swIP3ZzmTOH6KFFpSJLbgAtSO1CHuOHhHtHL7mTvBD3YpBCFHVc6",
+          "width": 3024
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "PBwKWJbLtKsjzfp12CD0j5C1DQfCIX3MFGg8NwTsQMlbKznmr5qk",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527017188,
-    "wof:depicts":[
-        102533795,
-        1159286153,
-        1159289979
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527017188,
+    "wof:depicts": [
+      102533795,
+      1159286153,
+      1159289979
     ],
-    "wof:geomhash":"2f36075dc76360a07eb8d4902c06fb48",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159329873,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "2f36075dc76360a07eb8d4902c06fb48",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159329873,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159329873,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159329873,
-    "wof:lastmodified":1545868696,
-    "wof:name":"Qatar Boeing 777 on the In-n-Out arrival",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159329873,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Qatar Boeing 777 on the In-n-Out arrival",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.39727,
     33.953258,
     -118.39727,
     33.953258
-],
-  "geometry": {"coordinates":[-118.39727000000001,33.953258],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.39727,33.953258],"type":"Point"}
 }

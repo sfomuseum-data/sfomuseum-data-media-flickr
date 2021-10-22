@@ -2,229 +2,232 @@
   "id": 1159326145,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-02-22",
-    "date:cessation_upper":"2017-02-22",
-    "date:inception_lower":"2017-02-22",
-    "date:inception_upper":"2017-02-22",
-    "edtf:cessation":"2017-02-22T11:35:06",
-    "edtf:inception":"2017-02-22T11:35:06",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.0279,32.877411,-80.0279,32.877411",
-    "geom:latitude":32.877411,
-    "geom:longitude":-80.0279,
-    "iso:country":"US",
-    "media:created":1487792106,
-    "media:fingerprint":"d257fe0fb7ecf39745d2c0d70cbcdfb469936418",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"33048554006",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1487959048",
-                "posted":"1487951192",
-                "taken":"2017-02-22 11:35:06",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1487951192",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"33048554006",
-            "isfavorite":0,
-            "license":"6",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Charleston",
-                    "place_id":"Jc0dijdQUL.n.X07GA",
-                    "woeid":"12589809"
-                },
-                "latitude":"32.877411",
-                "locality":{
-                    "_content":"Charleston International Airport",
-                    "place_id":"1SI6QotQUL_AP1MaLA",
-                    "woeid":"12519142"
-                },
-                "longitude":"-80.027900",
-                "place_id":"1SI6QotQUL_AP1MaLA",
-                "region":{
-                    "_content":"South Carolina",
-                    "place_id":"J0wmj5lTUb6eTQbF",
-                    "woeid":"2347599"
-                },
-                "woeid":"12519142"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"933688a830",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"257",
-                "location":"Denver, CO, USA",
-                "nsid":"82286745@N00",
-                "path_alias":"pt737swa",
-                "realname":"Paul Thompson",
-                "username":"Flying Photog"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"459ed0278f",
-            "server":"3751",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Pilot crew rest"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/pt737swa/33048554006/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"164",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-02-22",
+    "date:cessation_upper": "2017-02-22",
+    "date:inception_lower": "2017-02-22",
+    "date:inception_upper": "2017-02-22",
+    "edtf:cessation": "2017-02-22T11:35:06",
+    "edtf:inception": "2017-02-22T11:35:06",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.027900,32.877411,-80.027900,32.877411",
+    "geom:latitude": 32.877411,
+    "geom:longitude": -80.0279,
+    "iso:country": "US",
+    "media:created": 1487792106,
+    "media:fingerprint": "d257fe0fb7ecf39745d2c0d70cbcdfb469936418",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "33048554006",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3024,
-                "mimetype":"image/jpeg",
-                "secret":"xK2rOEZFm9yttbiDhEyQcAaBW4zDXGQ91l8eP9QKydoGagaCKOje",
-                "width":4032
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
-                "width":640
+        "dates": {
+          "lastupdate": "1487959048",
+          "posted": "1487951192",
+          "taken": "2017-02-22 11:35:06",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1487951192",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "33048554006",
+        "isfavorite": 0,
+        "license": "6",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Charleston",
+            "place_id": "Jc0dijdQUL.n.X07GA",
+            "woeid": "12589809"
+          },
+          "latitude": "32.877411",
+          "locality": {
+            "_content": "Charleston International Airport",
+            "place_id": "1SI6QotQUL_AP1MaLA",
+            "woeid": "12519142"
+          },
+          "longitude": "-80.027900",
+          "place_id": "1SI6QotQUL_AP1MaLA",
+          "region": {
+            "_content": "South Carolina",
+            "place_id": "J0wmj5lTUb6eTQbF",
+            "woeid": "2347599"
+          },
+          "woeid": "12519142"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "933688a830",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "257",
+          "location": "Denver, CO, USA",
+          "nsid": "82286745@N00",
+          "path_alias": "pt737swa",
+          "realname": "Paul Thompson",
+          "username": "Flying Photog"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "459ed0278f",
+        "server": "3751",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Pilot crew rest"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/pt737swa/33048554006/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "164",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3024,
+          "mimetype": "image/jpeg",
+          "secret": "xK2rOEZFm9yttbiDhEyQcAaBW4zDXGQ91l8eP9QKydoGagaCKOje",
+          "width": 4032
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "e6NBqsONAFbmGsplJsArkJyuAMSVwfIJu44o4Oiy0tpajvu9nQE7",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531215,
-        85839447,
-        102191575,
-        85633793,
-        101720747,
-        102085591,
-        85688683
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531215,
+      85839447,
+      102191575,
+      85633793,
+      101720747,
+      102085591,
+      85688683
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006428,
-    "wof:depicts":[
-        102531215
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006428,
+    "wof:depicts": [
+      102531215
     ],
-    "wof:geomhash":"796793a8f9c9bd19e09b4423e69f9ffd",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531215,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085591,
-            "locality_id":101720747,
-            "media_id":1159326145,
-            "neighbourhood_id":85839447,
-            "region_id":85688683
-        }
+    "wof:geomhash": "796793a8f9c9bd19e09b4423e69f9ffd",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531215,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085591,
+        "image_id": 1159326145,
+        "locality_id": 101720747,
+        "media_id": 1159326145,
+        "neighbourhood_id": 85839447,
+        "region_id": 85688683
+      }
     ],
-    "wof:id":1159326145,
-    "wof:lastmodified":1545868707,
-    "wof:name":"Pilot crew rest",
-    "wof:parent_id":102531215,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326145,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Pilot crew rest",
+    "wof:parent_id": 102531215,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.0279,
     32.877411,
     -80.0279,
     32.877411
-],
+  ],
   "geometry": {"coordinates":[-80.0279,32.877411],"type":"Point"}
 }

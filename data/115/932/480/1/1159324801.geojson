@@ -2,324 +2,327 @@
   "id": 1159324801,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-08-18",
-    "date:cessation_upper":"2011-08-18",
-    "date:inception_lower":"2011-08-18",
-    "date:inception_upper":"2011-08-18",
-    "edtf:cessation":"2011-08-18T12:29:05",
-    "edtf:inception":"2011-08-18T12:29:05",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-147.845678,64.826776,-147.845678,64.826776",
-    "geom:latitude":64.826776,
-    "geom:longitude":-147.845678,
-    "iso:country":"US",
-    "media:created":1313695745,
-    "media:fingerprint":"8418f2bbbcaba790d77f5c56b46dfa77f7b35217",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"6815302497",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1328415024",
-                "posted":"1328331581",
-                "taken":"2011-08-18 12:29:05",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1328331581",
-            "description":{
-                "_content":"We're loading up for our third and final day out on the Minto Flats. It had rained overnight and although it's still cloudy, the rain has stopped. Matt is waiting for us to climb aboard."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"6815302497",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Fairbanks North Star Borough",
-                    "place_id":"1r8T18dQUL_K3F8dvg",
-                    "woeid":"12587561"
-                },
-                "latitude":"64.826776",
-                "locality":{
-                    "_content":"Fairbanks International Airport",
-                    "place_id":"K8DW2PBQUL.I.VBbbw",
-                    "woeid":"12519682"
-                },
-                "longitude":"-147.845678",
-                "place_id":"K8DW2PBQUL.I.VBbbw",
-                "region":{
-                    "_content":"Alaska",
-                    "place_id":"b_WIPQFTUb5YM9kc",
-                    "woeid":"2347560"
-                },
-                "woeid":"12519682"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e97a919113",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3697",
-                "location":"Anchorage, AK",
-                "nsid":"51378257@N00",
-                "path_alias":"baggis",
-                "realname":"Travis",
-                "username":"Travis S."
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"68cee48b11",
-            "server":"7164",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"alaska",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-1127",
-                        "machine_tag":0,
-                        "raw":"Alaska"
-                    },
-                    {
-                        "_content":"fairbanks",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-66840",
-                        "machine_tag":0,
-                        "raw":"Fairbanks"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"airstrip",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-64354",
-                        "machine_tag":0,
-                        "raw":"airstrip"
-                    },
-                    {
-                        "_content":"runway",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-44219",
-                        "machine_tag":0,
-                        "raw":"runway"
-                    },
-                    {
-                        "_content":"helicopter",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-12101",
-                        "machine_tag":0,
-                        "raw":"helicopter"
-                    },
-                    {
-                        "_content":"waiting",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-3145",
-                        "machine_tag":0,
-                        "raw":"waiting"
-                    },
-                    {
-                        "_content":"sarah",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-1137",
-                        "machine_tag":0,
-                        "raw":"Sarah"
-                    },
-                    {
-                        "_content":"mike",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-725",
-                        "machine_tag":0,
-                        "raw":"Mike"
-                    },
-                    {
-                        "_content":"aubrey",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-63923",
-                        "machine_tag":0,
-                        "raw":"Aubrey"
-                    },
-                    {
-                        "_content":"matt",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-1449",
-                        "machine_tag":0,
-                        "raw":"Matt"
-                    },
-                    {
-                        "_content":"southwest",
-                        "author":"51378257@N00",
-                        "authorname":"Travis S.",
-                        "id":"864565-6815302497-521",
-                        "machine_tag":0,
-                        "raw":"southwest"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Morning Commute"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/baggis/6815302497/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"331",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2011-08-18",
+    "date:cessation_upper": "2011-08-18",
+    "date:inception_lower": "2011-08-18",
+    "date:inception_upper": "2011-08-18",
+    "edtf:cessation": "2011-08-18T12:29:05",
+    "edtf:inception": "2011-08-18T12:29:05",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-147.845678,64.826776,-147.845678,64.826776",
+    "geom:latitude": 64.826776,
+    "geom:longitude": -147.845678,
+    "iso:country": "US",
+    "media:created": 1313695745,
+    "media:fingerprint": "8418f2bbbcaba790d77f5c56b46dfa77f7b35217",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "6815302497",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":745,
-                "mimetype":"image/jpeg",
-                "secret":"RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
-                "width":1023
+        "dates": {
+          "lastupdate": "1328415024",
+          "posted": "1328331581",
+          "taken": "2011-08-18 12:29:05",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1328331581",
+        "description": {
+          "_content": "We're loading up for our third and final day out on the Minto Flats. It had rained overnight and although it's still cloudy, the rain has stopped. Matt is waiting for us to climb aboard."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "6815302497",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Fairbanks North Star Borough",
+            "place_id": "1r8T18dQUL_K3F8dvg",
+            "woeid": "12587561"
+          },
+          "latitude": "64.826776",
+          "locality": {
+            "_content": "Fairbanks International Airport",
+            "place_id": "K8DW2PBQUL.I.VBbbw",
+            "woeid": "12519682"
+          },
+          "longitude": "-147.845678",
+          "place_id": "K8DW2PBQUL.I.VBbbw",
+          "region": {
+            "_content": "Alaska",
+            "place_id": "b_WIPQFTUb5YM9kc",
+            "woeid": "2347560"
+          },
+          "woeid": "12519682"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e97a919113",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3697",
+          "location": "Anchorage, AK",
+          "nsid": "51378257@N00",
+          "path_alias": "baggis",
+          "realname": "Travis",
+          "username": "Travis S."
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "68cee48b11",
+        "server": "7164",
+        "tags": {
+          "tag": [
+            {
+              "_content": "alaska",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-1127",
+              "machine_tag": 0,
+              "raw": "Alaska"
             },
-            "c":{
-                "extension":"jpg",
-                "height":582,
-                "mimetype":"image/jpeg",
-                "secret":"RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
-                "width":800
+            {
+              "_content": "fairbanks",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-66840",
+              "machine_tag": 0,
+              "raw": "Fairbanks"
             },
-            "n":{
-                "extension":"jpg",
-                "height":233,
-                "mimetype":"image/jpeg",
-                "secret":"RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
-                "width":320
+            {
+              "_content": "airport",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2818,
-                "mimetype":"image/jpeg",
-                "secret":"iJKOeBMIIzru7eE0TUURpeWlX8lGhU71dpjDp1Q0uy6ML9o8iiJ4",
-                "width":3870
+            {
+              "_content": "airstrip",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-64354",
+              "machine_tag": 0,
+              "raw": "airstrip"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
-                "width":320
+            {
+              "_content": "runway",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-44219",
+              "machine_tag": 0,
+              "raw": "runway"
             },
-            "z":{
-                "extension":"jpg",
-                "height":466,
-                "mimetype":"image/jpeg",
-                "secret":"RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
-                "width":640
+            {
+              "_content": "helicopter",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-12101",
+              "machine_tag": 0,
+              "raw": "helicopter"
+            },
+            {
+              "_content": "waiting",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-3145",
+              "machine_tag": 0,
+              "raw": "waiting"
+            },
+            {
+              "_content": "sarah",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-1137",
+              "machine_tag": 0,
+              "raw": "Sarah"
+            },
+            {
+              "_content": "mike",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-725",
+              "machine_tag": 0,
+              "raw": "Mike"
+            },
+            {
+              "_content": "aubrey",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-63923",
+              "machine_tag": 0,
+              "raw": "Aubrey"
+            },
+            {
+              "_content": "matt",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-1449",
+              "machine_tag": 0,
+              "raw": "Matt"
+            },
+            {
+              "_content": "southwest",
+              "author": "51378257@N00",
+              "authorname": "Travis S.",
+              "id": "864565-6815302497-521",
+              "machine_tag": 0,
+              "raw": "southwest"
             }
+          ]
+        },
+        "title": {
+          "_content": "Morning Commute"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/baggis/6815302497/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "331",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 745,
+          "mimetype": "image/jpeg",
+          "secret": "RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 582,
+          "mimetype": "image/jpeg",
+          "secret": "RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 233,
+          "mimetype": "image/jpeg",
+          "secret": "RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2818,
+          "mimetype": "image/jpeg",
+          "secret": "iJKOeBMIIzru7eE0TUURpeWlX8lGhU71dpjDp1Q0uy6ML9o8iiJ4",
+          "width": 3870
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 466,
+          "mimetype": "image/jpeg",
+          "secret": "RT2u1tBKVK4yYni9JBEpEvu42WnvTt140gBOkMQTyuesRpLiKuTJ",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102524911,
-        85688573,
-        102191575,
-        85633793,
-        85916551,
-        102081397
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102524911,
+      85688573,
+      102191575,
+      85633793,
+      85916551,
+      102081397
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005968,
-    "wof:depicts":[
-        102524911
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005968,
+    "wof:depicts": [
+      102524911
     ],
-    "wof:geomhash":"d2eb7794cc0e8ada040d368405444991",
-    "wof:hierarchy":[
-        {
-            "campus_id":102524911,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081397,
-            "locality_id":85916551,
-            "media_id":1159324801,
-            "region_id":85688573
-        }
+    "wof:geomhash": "d2eb7794cc0e8ada040d368405444991",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102524911,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081397,
+        "image_id": 1159324801,
+        "locality_id": 85916551,
+        "media_id": 1159324801,
+        "region_id": 85688573
+      }
     ],
-    "wof:id":1159324801,
-    "wof:lastmodified":1545868660,
-    "wof:name":"Morning Commute",
-    "wof:parent_id":102524911,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324801,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Morning Commute",
+    "wof:parent_id": 102524911,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -147.845678,
     64.826776,
     -147.845678,
     64.826776
-],
-  "geometry": {"coordinates":[-147.84567799999999,64.826776],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-147.845678,64.826776],"type":"Point"}
 }

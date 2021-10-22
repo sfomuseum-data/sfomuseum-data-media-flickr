@@ -2,333 +2,336 @@
   "id": 1159339363,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-06-10",
-    "date:cessation_upper":"2009-06-10",
-    "date:inception_lower":"2009-06-10",
-    "date:inception_upper":"2009-06-10",
-    "edtf:cessation":"2009-06-10T20:18:32",
-    "edtf:inception":"2009-06-10T20:18:32",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.795595,40.644731,-73.795595,40.644731",
-    "geom:latitude":40.644731,
-    "geom:longitude":-73.795595,
-    "iso:country":"US",
-    "media:created":1244690312,
-    "media:fingerprint":"0f3e92cca6fe376fe966d183b85742a6cfee1fa3",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"16650523771",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1492796457",
-                "posted":"1424944322",
-                "taken":"2009-06-10 20:18:32",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1424944322",
-            "description":{
-                "_content":"MSN 28698 LN 87\nB777-2Z9ER\nAUSTRIAN AIRLINES\nJFK AIRPORT\nEX LAUDA AIR AS OE-LPA"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"16650523771",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Queens",
-                    "place_id":"6gNCBQJQUL9_wSrP2Q",
-                    "woeid":"12589352"
-                },
-                "latitude":"40.644731",
-                "locality":{
-                    "_content":"John F Kennedy International Airport",
-                    "place_id":"nD9KAURQUL9pSurxUw",
-                    "woeid":"12520380"
-                },
-                "longitude":"-73.795595",
-                "place_id":"nD9KAURQUL9pSurxUw",
-                "region":{
-                    "_content":"New York",
-                    "place_id":"ODHTuIhTUb75gdBu",
-                    "woeid":"2347591"
-                },
-                "woeid":"12520380"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"556e91ce3d",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8279",
-                "location":"PARIS, FRANCE",
-                "nsid":"16103393@N05",
-                "path_alias":"airlines470",
-                "realname":"ERIC  SALARD",
-                "username":"airlines470"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"a24238685d",
-            "server":"8633",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"oelpa",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-8283867",
-                        "machine_tag":0,
-                        "raw":"OE-LPA"
-                    },
-                    {
-                        "_content":"777",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-43328",
-                        "machine_tag":0,
-                        "raw":"777"
-                    },
-                    {
-                        "_content":"msn",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-24030",
-                        "machine_tag":0,
-                        "raw":"MSN"
-                    },
-                    {
-                        "_content":"28698",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-47992285",
-                        "machine_tag":0,
-                        "raw":"28698"
-                    },
-                    {
-                        "_content":"ln",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-221912",
-                        "machine_tag":0,
-                        "raw":"LN"
-                    },
-                    {
-                        "_content":"87",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-72452",
-                        "machine_tag":0,
-                        "raw":"87"
-                    },
-                    {
-                        "_content":"austrian",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-106195",
-                        "machine_tag":0,
-                        "raw":"AUSTRIAN"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-32533",
-                        "machine_tag":0,
-                        "raw":"AIRLINES"
-                    },
-                    {
-                        "_content":"jfk",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-10978",
-                        "machine_tag":0,
-                        "raw":"JFK"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-2695",
-                        "machine_tag":0,
-                        "raw":"AIRPORT"
-                    },
-                    {
-                        "_content":"777200",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-1096739",
-                        "machine_tag":0,
-                        "raw":"777-200"
-                    },
-                    {
-                        "_content":"7772z9",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16650523771-54588635",
-                        "machine_tag":0,
-                        "raw":"777-2Z9"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"OE-LPA"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/airlines470/16650523771/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"2155",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-06-10",
+    "date:cessation_upper": "2009-06-10",
+    "date:inception_lower": "2009-06-10",
+    "date:inception_upper": "2009-06-10",
+    "edtf:cessation": "2009-06-10T20:18:32",
+    "edtf:inception": "2009-06-10T20:18:32",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.795595,40.644731,-73.795595,40.644731",
+    "geom:latitude": 40.644731,
+    "geom:longitude": -73.795595,
+    "iso:country": "US",
+    "media:created": 1244690312,
+    "media:fingerprint": "0f3e92cca6fe376fe966d183b85742a6cfee1fa3",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "16650523771",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1885,
-                "mimetype":"image/jpeg",
-                "secret":"0YJvnM5eADQIMlTzdyQNyde5fqT4j7o0dftiNW7pVbIyZmM8dFYN",
-                "width":2829
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
-                "width":640
-            }
+        "dates": {
+          "lastupdate": "1492796457",
+          "posted": "1424944322",
+          "taken": "2009-06-10 20:18:32",
+          "takengranularity": "0",
+          "takenunknown": "0"
         },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102534365
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534365,
-        907131691,
-        102191575,
-        85633793,
-        85977539,
-        421205767,
-        102082377,
-        85688543
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527110725,
-    "wof:depicts":[
-        102534365,
-        1159283947,
-        1159339363
-    ],
-    "wof:geomhash":"b4d4baf4a28cac1aa36f7ee81e81dd77",
-    "wof:hierarchy":[
-        {
-            "borough_id":421205767,
-            "campus_id":102534365,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
-            "media_id":1159339363,
-            "neighbourhood_id":907131691,
-            "region_id":85688543
+        "dateuploaded": "1424944322",
+        "description": {
+          "_content": "MSN 28698 LN 87\nB777-2Z9ER\nAUSTRIAN AIRLINES\nJFK AIRPORT\nEX LAUDA AIR AS OE-LPA"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "16650523771",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Queens",
+            "place_id": "6gNCBQJQUL9_wSrP2Q",
+            "woeid": "12589352"
+          },
+          "latitude": "40.644731",
+          "locality": {
+            "_content": "John F Kennedy International Airport",
+            "place_id": "nD9KAURQUL9pSurxUw",
+            "woeid": "12520380"
+          },
+          "longitude": "-73.795595",
+          "place_id": "nD9KAURQUL9pSurxUw",
+          "region": {
+            "_content": "New York",
+            "place_id": "ODHTuIhTUb75gdBu",
+            "woeid": "2347591"
+          },
+          "woeid": "12520380"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "556e91ce3d",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8279",
+          "location": "PARIS, FRANCE",
+          "nsid": "16103393@N05",
+          "path_alias": "airlines470",
+          "realname": "ERIC  SALARD",
+          "username": "airlines470"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "a24238685d",
+        "server": "8633",
+        "tags": {
+          "tag": [
+            {
+              "_content": "oelpa",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-8283867",
+              "machine_tag": 0,
+              "raw": "OE-LPA"
+            },
+            {
+              "_content": "777",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-43328",
+              "machine_tag": 0,
+              "raw": "777"
+            },
+            {
+              "_content": "msn",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-24030",
+              "machine_tag": 0,
+              "raw": "MSN"
+            },
+            {
+              "_content": "28698",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-47992285",
+              "machine_tag": 0,
+              "raw": "28698"
+            },
+            {
+              "_content": "ln",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-221912",
+              "machine_tag": 0,
+              "raw": "LN"
+            },
+            {
+              "_content": "87",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-72452",
+              "machine_tag": 0,
+              "raw": "87"
+            },
+            {
+              "_content": "austrian",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-106195",
+              "machine_tag": 0,
+              "raw": "AUSTRIAN"
+            },
+            {
+              "_content": "airlines",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-32533",
+              "machine_tag": 0,
+              "raw": "AIRLINES"
+            },
+            {
+              "_content": "jfk",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-10978",
+              "machine_tag": 0,
+              "raw": "JFK"
+            },
+            {
+              "_content": "airport",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-2695",
+              "machine_tag": 0,
+              "raw": "AIRPORT"
+            },
+            {
+              "_content": "777200",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-1096739",
+              "machine_tag": 0,
+              "raw": "777-200"
+            },
+            {
+              "_content": "7772z9",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16650523771-54588635",
+              "machine_tag": 0,
+              "raw": "777-2Z9"
+            }
+          ]
+        },
+        "title": {
+          "_content": "OE-LPA"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/airlines470/16650523771/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "2155",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1885,
+          "mimetype": "image/jpeg",
+          "secret": "0YJvnM5eADQIMlTzdyQNyde5fqT4j7o0dftiNW7pVbIyZmM8dFYN",
+          "width": 2829
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "pRTsBDSOZODoyG4mb1zY6Ac6vuCqvwnE4MrKvwGXHu7JYIX2xMKw",
+          "width": 640
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102534365
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534365,
+      907131691,
+      102191575,
+      85633793,
+      85977539,
+      421205767,
+      102082377,
+      85688543
     ],
-    "wof:id":1159339363,
-    "wof:lastmodified":1545868713,
-    "wof:name":"OE-LPA",
-    "wof:parent_id":102534365,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527110725,
+    "wof:depicts": [
+      102534365,
+      1159283947,
+      1159339363
+    ],
+    "wof:geomhash": "b4d4baf4a28cac1aa36f7ee81e81dd77",
+    "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "image_id": 1159339363,
+        "locality_id": 85977539,
+        "media_id": 1159339363,
+        "neighbourhood_id": 907131691,
+        "region_id": 85688543
+      }
+    ],
+    "wof:id": 1159339363,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "OE-LPA",
+    "wof:parent_id": 102534365,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.795595,
     40.644731,
     -73.795595,
     40.644731
-],
-  "geometry": {"coordinates":[-73.79559500000001,40.644731],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-73.795595,40.644731],"type":"Point"}
 }

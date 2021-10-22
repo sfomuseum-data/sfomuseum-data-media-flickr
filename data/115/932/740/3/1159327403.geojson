@@ -2,430 +2,433 @@
   "id": 1159327403,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-11-04",
-    "date:cessation_upper":"2014-11-04",
-    "date:inception_lower":"2014-11-04",
-    "date:inception_upper":"2014-11-04",
-    "edtf:cessation":"2014-11-04T12:13:03",
-    "edtf:inception":"2014-11-04T12:13:03",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.037803,32.885966,-80.037803,32.885966",
-    "geom:latitude":32.885966,
-    "geom:longitude":-80.037803,
-    "iso:country":"US",
-    "media:created":1415131983,
-    "media:fingerprint":"5a6b23cbc5171e60ea2375978357ea30a9ccc4d6",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"15618555669",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1490503514",
-                "posted":"1416162017",
-                "taken":"2014-11-04 12:13:03",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1416162017",
-            "description":{
-                "_content":"Pictures from the window seat (9A) of the Embraer E-175 regional jet from Detroit (DTW) to Charleston, SC (CHS).  Pretty cool pictures includin the Boeing plant in Charleston.  Seeing the Dreamlifter is pretty cool!"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"15618555669",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Charleston",
-                    "place_id":"Jc0dijdQUL.n.X07GA",
-                    "woeid":"12589809"
-                },
-                "latitude":"32.885966",
-                "locality":{
-                    "_content":"Charleston International Airport",
-                    "place_id":"1SI6QotQUL_AP1MaLA",
-                    "woeid":"12519142"
-                },
-                "longitude":"-80.037803",
-                "place_id":"1SI6QotQUL_AP1MaLA",
-                "region":{
-                    "_content":"South Carolina",
-                    "place_id":"J0wmj5lTUb6eTQbF",
-                    "woeid":"2347599"
-                },
-                "woeid":"12519142"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"61f6ac6873",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7167",
-                "location":"Saline, Mich., USA",
-                "nsid":"7702423@N04",
-                "path_alias":"cseeman",
-                "realname":"Corey Seeman",
-                "username":"cseeman"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"b232d4f6c1",
-            "server":"5605",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"detroitmetroairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-212001",
-                        "machine_tag":0,
-                        "raw":"Detroit Metro Airport"
-                    },
-                    {
-                        "_content":"detroit",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-7016",
-                        "machine_tag":0,
-                        "raw":"Detroit"
-                    },
-                    {
-                        "_content":"michigan",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-5272",
-                        "machine_tag":0,
-                        "raw":"Michigan"
-                    },
-                    {
-                        "_content":"dtw",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-106390",
-                        "machine_tag":0,
-                        "raw":"DTW"
-                    },
-                    {
-                        "_content":"airports",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-28698",
-                        "machine_tag":0,
-                        "raw":"Airports"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-32533",
-                        "machine_tag":0,
-                        "raw":"Airlines"
-                    },
-                    {
-                        "_content":"delta",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-8731",
-                        "machine_tag":0,
-                        "raw":"Delta"
-                    },
-                    {
-                        "_content":"deltaairways",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-3141014",
-                        "machine_tag":0,
-                        "raw":"Delta Airways"
-                    },
-                    {
-                        "_content":"airplanes",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-6603",
-                        "machine_tag":0,
-                        "raw":"Airplanes"
-                    },
-                    {
-                        "_content":"travelers",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-58465",
-                        "machine_tag":0,
-                        "raw":"Travelers"
-                    },
-                    {
-                        "_content":"hubairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-39947468",
-                        "machine_tag":0,
-                        "raw":"Hub Airport"
-                    },
-                    {
-                        "_content":"hub",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-1220",
-                        "machine_tag":0,
-                        "raw":"Hub"
-                    },
-                    {
-                        "_content":"dtw11042014",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-230444063",
-                        "machine_tag":0,
-                        "raw":"DTW11042014"
-                    },
-                    {
-                        "_content":"terminal",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-9675",
-                        "machine_tag":0,
-                        "raw":"Terminal"
-                    },
-                    {
-                        "_content":"flying",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-2317",
-                        "machine_tag":0,
-                        "raw":"Flying"
-                    },
-                    {
-                        "_content":"delta6380",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-230444073",
-                        "machine_tag":0,
-                        "raw":"Delta6380"
-                    },
-                    {
-                        "_content":"wing",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-7193",
-                        "machine_tag":0,
-                        "raw":"Wing"
-                    },
-                    {
-                        "_content":"window",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-767",
-                        "machine_tag":0,
-                        "raw":"Window"
-                    },
-                    {
-                        "_content":"windowseat",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-115511",
-                        "machine_tag":0,
-                        "raw":"Window Seat"
-                    },
-                    {
-                        "_content":"clouds",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-1223",
-                        "machine_tag":0,
-                        "raw":"Clouds"
-                    },
-                    {
-                        "_content":"photosfromthesky",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-43265556",
-                        "machine_tag":0,
-                        "raw":"Photos from the sky"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"boeingcharleston",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-226487650",
-                        "machine_tag":0,
-                        "raw":"Boeing Charleston"
-                    },
-                    {
-                        "_content":"dreamlifter",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-7645956",
-                        "machine_tag":0,
-                        "raw":"Dreamlifter"
-                    },
-                    {
-                        "_content":"boeing747dreamlifter",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-15618555669-23228878",
-                        "machine_tag":0,
-                        "raw":"Boeing 747 Dreamlifter"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Scenes from the Air: Delta Airlines Flight 6380 (Detroit to Charleston) - Tuesday November 4, 2014"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/cseeman/15618555669/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"381",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2014-11-04",
+    "date:cessation_upper": "2014-11-04",
+    "date:inception_lower": "2014-11-04",
+    "date:inception_upper": "2014-11-04",
+    "edtf:cessation": "2014-11-04T12:13:03",
+    "edtf:inception": "2014-11-04T12:13:03",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.037803,32.885966,-80.037803,32.885966",
+    "geom:latitude": 32.885966,
+    "geom:longitude": -80.037803,
+    "iso:country": "US",
+    "media:created": 1415131983,
+    "media:fingerprint": "5a6b23cbc5171e60ea2375978357ea30a9ccc4d6",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "15618555669",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
-                "width":1024
+        "dates": {
+          "lastupdate": "1490503514",
+          "posted": "1416162017",
+          "taken": "2014-11-04 12:13:03",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1416162017",
+        "description": {
+          "_content": "Pictures from the window seat (9A) of the Embraer E-175 regional jet from Detroit (DTW) to Charleston, SC (CHS).  Pretty cool pictures includin the Boeing plant in Charleston.  Seeing the Dreamlifter is pretty cool!"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "15618555669",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Charleston",
+            "place_id": "Jc0dijdQUL.n.X07GA",
+            "woeid": "12589809"
+          },
+          "latitude": "32.885966",
+          "locality": {
+            "_content": "Charleston International Airport",
+            "place_id": "1SI6QotQUL_AP1MaLA",
+            "woeid": "12519142"
+          },
+          "longitude": "-80.037803",
+          "place_id": "1SI6QotQUL_AP1MaLA",
+          "region": {
+            "_content": "South Carolina",
+            "place_id": "J0wmj5lTUb6eTQbF",
+            "woeid": "2347599"
+          },
+          "woeid": "12519142"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "61f6ac6873",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7167",
+          "location": "Saline, Mich., USA",
+          "nsid": "7702423@N04",
+          "path_alias": "cseeman",
+          "realname": "Corey Seeman",
+          "username": "cseeman"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "b232d4f6c1",
+        "server": "5605",
+        "tags": {
+          "tag": [
+            {
+              "_content": "detroitmetroairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-212001",
+              "machine_tag": 0,
+              "raw": "Detroit Metro Airport"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
-                "width":800
+            {
+              "_content": "detroit",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-7016",
+              "machine_tag": 0,
+              "raw": "Detroit"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
-                "width":320
+            {
+              "_content": "michigan",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-5272",
+              "machine_tag": 0,
+              "raw": "Michigan"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2848,
-                "mimetype":"image/jpeg",
-                "secret":"Pu7etE4EoEDvHUeI2JhmH2P8bL38aCM5yJfheZ8j18t5cyp2LbO8",
-                "width":4272
+            {
+              "_content": "dtw",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-106390",
+              "machine_tag": 0,
+              "raw": "DTW"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
-                "width":320
+            {
+              "_content": "airports",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-28698",
+              "machine_tag": 0,
+              "raw": "Airports"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
-                "width":640
+            {
+              "_content": "airlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-32533",
+              "machine_tag": 0,
+              "raw": "Airlines"
+            },
+            {
+              "_content": "delta",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-8731",
+              "machine_tag": 0,
+              "raw": "Delta"
+            },
+            {
+              "_content": "deltaairways",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-3141014",
+              "machine_tag": 0,
+              "raw": "Delta Airways"
+            },
+            {
+              "_content": "airplanes",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-6603",
+              "machine_tag": 0,
+              "raw": "Airplanes"
+            },
+            {
+              "_content": "travelers",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-58465",
+              "machine_tag": 0,
+              "raw": "Travelers"
+            },
+            {
+              "_content": "hubairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-39947468",
+              "machine_tag": 0,
+              "raw": "Hub Airport"
+            },
+            {
+              "_content": "hub",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-1220",
+              "machine_tag": 0,
+              "raw": "Hub"
+            },
+            {
+              "_content": "dtw11042014",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-230444063",
+              "machine_tag": 0,
+              "raw": "DTW11042014"
+            },
+            {
+              "_content": "terminal",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-9675",
+              "machine_tag": 0,
+              "raw": "Terminal"
+            },
+            {
+              "_content": "flying",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-2317",
+              "machine_tag": 0,
+              "raw": "Flying"
+            },
+            {
+              "_content": "delta6380",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-230444073",
+              "machine_tag": 0,
+              "raw": "Delta6380"
+            },
+            {
+              "_content": "wing",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-7193",
+              "machine_tag": 0,
+              "raw": "Wing"
+            },
+            {
+              "_content": "window",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-767",
+              "machine_tag": 0,
+              "raw": "Window"
+            },
+            {
+              "_content": "windowseat",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-115511",
+              "machine_tag": 0,
+              "raw": "Window Seat"
+            },
+            {
+              "_content": "clouds",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-1223",
+              "machine_tag": 0,
+              "raw": "Clouds"
+            },
+            {
+              "_content": "photosfromthesky",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-43265556",
+              "machine_tag": 0,
+              "raw": "Photos from the sky"
+            },
+            {
+              "_content": "boeing",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
+            },
+            {
+              "_content": "boeingcharleston",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-226487650",
+              "machine_tag": 0,
+              "raw": "Boeing Charleston"
+            },
+            {
+              "_content": "dreamlifter",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-7645956",
+              "machine_tag": 0,
+              "raw": "Dreamlifter"
+            },
+            {
+              "_content": "boeing747dreamlifter",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-15618555669-23228878",
+              "machine_tag": 0,
+              "raw": "Boeing 747 Dreamlifter"
             }
+          ]
+        },
+        "title": {
+          "_content": "Scenes from the Air: Delta Airlines Flight 6380 (Detroit to Charleston) - Tuesday November 4, 2014"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/cseeman/15618555669/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "381",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2848,
+          "mimetype": "image/jpeg",
+          "secret": "Pu7etE4EoEDvHUeI2JhmH2P8bL38aCM5yJfheZ8j18t5cyp2LbO8",
+          "width": 4272
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "68fQz4bvntStnhRSztxHjx7nV7lsCTOFSBwsuhlzfkmVXOWZaLFY",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531215,
-        85839447,
-        102191575,
-        85633793,
-        101720747,
-        102085591,
-        85688683
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531215,
+      85839447,
+      102191575,
+      85633793,
+      101720747,
+      102085591,
+      85688683
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006894,
-    "wof:depicts":[
-        102531215
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006894,
+    "wof:depicts": [
+      102531215
     ],
-    "wof:geomhash":"18b316d4843d7f4168362f588a966181",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531215,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085591,
-            "locality_id":101720747,
-            "media_id":1159327403,
-            "neighbourhood_id":85839447,
-            "region_id":85688683
-        }
+    "wof:geomhash": "18b316d4843d7f4168362f588a966181",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531215,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085591,
+        "image_id": 1159327403,
+        "locality_id": 101720747,
+        "media_id": 1159327403,
+        "neighbourhood_id": 85839447,
+        "region_id": 85688683
+      }
     ],
-    "wof:id":1159327403,
-    "wof:lastmodified":1545868668,
-    "wof:name":"Scenes from the Air: Delta Airlines Flight 6380 (Detroit to Charleston) - Tuesday November 4, 2014",
-    "wof:parent_id":102531215,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327403,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Scenes from the Air: Delta Airlines Flight 6380 (Detroit to Charleston) - Tuesday November 4, 2014",
+    "wof:parent_id": 102531215,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.037803,
     32.885966,
     -80.037803,
     32.885966
-],
+  ],
   "geometry": {"coordinates":[-80.037803,32.885966],"type":"Point"}
 }

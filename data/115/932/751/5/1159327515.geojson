@@ -2,239 +2,242 @@
   "id": 1159327515,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-03-02",
-    "date:cessation_upper":"2009-03-02",
-    "date:inception_lower":"2009-03-02",
-    "date:inception_upper":"2009-03-02",
-    "edtf:cessation":"2009-03-02T16:46:16",
-    "edtf:inception":"2009-03-02T16:46:16",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.4295,40.6515,-75.4295,40.6515",
-    "geom:latitude":40.6515,
-    "geom:longitude":-75.4295,
-    "iso:country":"US",
-    "media:created":1236041176,
-    "media:fingerprint":"1ef51a3952a0e191401dffe64d425f6f579062b4",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3323223649",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1236032558",
-                "posted":"1236030483",
-                "taken":"2009-03-02 16:46:16",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1236030483",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3323223649",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Northampton",
-                    "place_id":"u4fHzFZQUL.XfU_jlA",
-                    "woeid":"12589775"
-                },
-                "latitude":"40.651500",
-                "locality":{
-                    "_content":"Lehigh Valley International Airport",
-                    "place_id":"7DNGVytQUL8QSNNPrg",
-                    "woeid":"12518581"
-                },
-                "longitude":"-75.429500",
-                "place_id":"7DNGVytQUL8QSNNPrg",
-                "region":{
-                    "_content":"Pennsylvania",
-                    "place_id":"fGSdmohTUb6YMlQa",
-                    "woeid":"2347597"
-                },
-                "woeid":"12518581"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"b63a68d85d",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"1",
-                "location":"Menlo Park, USA",
-                "nsid":"43671133974@N01",
-                "path_alias":"samfelder",
-                "realname":"Sam Felder",
-                "username":"Sam Felder"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"7e7ed4c121",
-            "server":"3571",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"cameraphone",
-                        "author":"43671133974@N01",
-                        "authorname":"Sam Felder",
-                        "id":"19573-3323223649-17",
-                        "machine_tag":0,
-                        "raw":"cameraphone"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Refueling in Allentown, PA"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/samfelder/3323223649/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"153",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-03-02",
+    "date:cessation_upper": "2009-03-02",
+    "date:inception_lower": "2009-03-02",
+    "date:inception_upper": "2009-03-02",
+    "edtf:cessation": "2009-03-02T16:46:16",
+    "edtf:inception": "2009-03-02T16:46:16",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.429500,40.651500,-75.429500,40.651500",
+    "geom:latitude": 40.6515,
+    "geom:longitude": -75.4295,
+    "iso:country": "US",
+    "media:created": 1236041176,
+    "media:fingerprint": "1ef51a3952a0e191401dffe64d425f6f579062b4",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3323223649",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
-                "width":576
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
-                "width":450
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
-                "width":180
-            },
-            "o":{
-                "extension":"jpg",
-                "height":800,
-                "mimetype":"image/jpeg",
-                "secret":"SvmpwslvtjJgS5oNA42saQNJOzB5DjHAlrmcNnVpLszBoqx3y6kq",
-                "width":600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
-                "width":360
+        "dates": {
+          "lastupdate": "1236032558",
+          "posted": "1236030483",
+          "taken": "2009-03-02 16:46:16",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1236030483",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3323223649",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Northampton",
+            "place_id": "u4fHzFZQUL.XfU_jlA",
+            "woeid": "12589775"
+          },
+          "latitude": "40.651500",
+          "locality": {
+            "_content": "Lehigh Valley International Airport",
+            "place_id": "7DNGVytQUL8QSNNPrg",
+            "woeid": "12518581"
+          },
+          "longitude": "-75.429500",
+          "place_id": "7DNGVytQUL8QSNNPrg",
+          "region": {
+            "_content": "Pennsylvania",
+            "place_id": "fGSdmohTUb6YMlQa",
+            "woeid": "2347597"
+          },
+          "woeid": "12518581"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "b63a68d85d",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "1",
+          "location": "Menlo Park, USA",
+          "nsid": "43671133974@N01",
+          "path_alias": "samfelder",
+          "realname": "Sam Felder",
+          "username": "Sam Felder"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "7e7ed4c121",
+        "server": "3571",
+        "tags": {
+          "tag": [
+            {
+              "_content": "cameraphone",
+              "author": "43671133974@N01",
+              "authorname": "Sam Felder",
+              "id": "19573-3323223649-17",
+              "machine_tag": 0,
+              "raw": "cameraphone"
             }
+          ]
+        },
+        "title": {
+          "_content": "Refueling in Allentown, PA"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/samfelder/3323223649/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "153",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 800,
+          "mimetype": "image/jpeg",
+          "secret": "SvmpwslvtjJgS5oNA42saQNJOzB5DjHAlrmcNnVpLszBoqx3y6kq",
+          "width": 600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "Bw5q0qUH5oSwCkus9koVS73LgVdUKsUj7NnAz1WgfjH3t7LGTc3k",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102529131,
-        85838547,
-        102191575,
-        404485953,
-        85633793,
-        102081327,
-        85688481
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102529131,
+      85838547,
+      102191575,
+      404485953,
+      85633793,
+      102081327,
+      85688481
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006935,
-    "wof:depicts":[
-        102529131
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006935,
+    "wof:depicts": [
+      102529131
     ],
-    "wof:geomhash":"88b63b3af065fcd1fd7e82c54abe2f1f",
-    "wof:hierarchy":[
-        {
-            "campus_id":102529131,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081327,
-            "localadmin_id":404485953,
-            "locality_id":-1,
-            "media_id":1159327515,
-            "neighbourhood_id":85838547,
-            "region_id":85688481
-        }
+    "wof:geomhash": "88b63b3af065fcd1fd7e82c54abe2f1f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529131,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081327,
+        "image_id": 1159327515,
+        "localadmin_id": 404485953,
+        "locality_id": -1,
+        "media_id": 1159327515,
+        "neighbourhood_id": 85838547,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159327515,
-    "wof:lastmodified":1545868660,
-    "wof:name":"Refueling in Allentown, PA",
-    "wof:parent_id":102529131,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327515,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Refueling in Allentown, PA",
+    "wof:parent_id": 102529131,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.4295,
     40.6515,
     -75.4295,
     40.6515
-],
+  ],
   "geometry": {"coordinates":[-75.4295,40.6515],"type":"Point"}
 }

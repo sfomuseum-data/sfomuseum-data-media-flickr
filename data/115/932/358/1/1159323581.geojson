@@ -2,257 +2,260 @@
   "id": 1159323581,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-11-02",
-    "date:cessation_upper":"2012-11-02",
-    "date:inception_lower":"2012-11-02",
-    "date:inception_upper":"2012-11-02",
-    "edtf:cessation":"2012-11-02T14:02:26",
-    "edtf:inception":"2012-11-02T14:02:26",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.590223,38.363935,-81.590223,38.363935",
-    "geom:latitude":38.363935,
-    "geom:longitude":-81.590223,
-    "iso:country":"US",
-    "media:created":1351890146,
-    "media:fingerprint":"1c8d173821095e1a30687d901ec650f53437fdfc",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8166939436",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1500478665",
-                "posted":"1352388095",
-                "taken":"2012-11-02 14:02:26",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1352388095",
-            "description":{
-                "_content":"Charleston, WV, Nov. 2, 2012: Josh O'Connor, Division Supervisor of the Southern Area Red Type 1 Incident Management Team points to trailers of storm relief supplies at a Logistical Staging Area at Yeager Airport.  O'Connor was on a FEMA assignment with the team. Food, water, generators and other supplies were collected and distributed by the National Guard for storm victims.  About 700 pallets of water and 300 pallets of food were distributed.O'Connor is a fire management specialist  at the Atlanta, Georgia Regional Office of the U.S. Fish and Wildlife.  Credit: Catherine J. Hibbard/USFWS"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8166939436",
-            "isfavorite":0,
-            "license":"10",
-            "location":{
-                "accuracy":"13",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Kanawha",
-                    "place_id":"ERuFpexQUL.v2Zzyrw",
-                    "woeid":"12590498"
-                },
-                "latitude":"38.363935",
-                "locality":{
-                    "_content":"Yeager Airport",
-                    "place_id":"0nAtThFQUL884TQYFg",
-                    "woeid":"12522530"
-                },
-                "longitude":"-81.590223",
-                "place_id":"0nAtThFQUL884TQYFg",
-                "region":{
-                    "_content":"West Virginia",
-                    "place_id":"YSTKG8VTUb594MBg",
-                    "woeid":"2347607"
-                },
-                "woeid":"12522530"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"90996927bb",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8557",
-                "location":"",
-                "nsid":"43322816@N08",
-                "path_alias":"usfwsnortheast",
-                "realname":"U.S. Fish and Wildlife Service Northeast Region",
-                "username":"U. S. Fish and Wildlife Service - Northeast Region"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"0e228ed6b2",
-            "server":"8482",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"ssandyhurricanesandysuperstormsandyusfishandwildlifeservicesouthernarearedteamincidentmanagementteamhurricaneresponsehurricaneworkerswestvirginia",
-                        "author":"43322816@N08",
-                        "authorname":"U. S. Fish and Wildlife Service - Northeast Region",
-                        "id":"43230003-8166939436-100109896",
-                        "machine_tag":0,
-                        "raw":"SSandy Hurricane Sandy Superstorm Sandy U.S. Fish and Wildlife Service Southern Area Red Team Incident Management Team hurricane response hurricane workers West Virginia"
-                    },
-                    {
-                        "_content":"lsa",
-                        "author":"43322816@N08",
-                        "authorname":"U. S. Fish and Wildlife Service - Northeast Region",
-                        "id":"43230003-8166939436-499500",
-                        "machine_tag":0,
-                        "raw":"LSA"
-                    },
-                    {
-                        "_content":"logisticalstagingarea",
-                        "author":"43322816@N08",
-                        "authorname":"U. S. Fish and Wildlife Service - Northeast Region",
-                        "id":"43230003-8166939436-100109894",
-                        "machine_tag":0,
-                        "raw":"logistical staging area"
-                    },
-                    {
-                        "_content":"stormrelief",
-                        "author":"43322816@N08",
-                        "authorname":"U. S. Fish and Wildlife Service - Northeast Region",
-                        "id":"43230003-8166939436-21542089",
-                        "machine_tag":0,
-                        "raw":"storm relief"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Logistical Staging Area"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/usfwsnortheast/8166939436/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"5382",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-11-02",
+    "date:cessation_upper": "2012-11-02",
+    "date:inception_lower": "2012-11-02",
+    "date:inception_upper": "2012-11-02",
+    "edtf:cessation": "2012-11-02T14:02:26",
+    "edtf:inception": "2012-11-02T14:02:26",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.590223,38.363935,-81.590223,38.363935",
+    "geom:latitude": 38.363935,
+    "geom:longitude": -81.590223,
+    "iso:country": "US",
+    "media:created": 1351890146,
+    "media:fingerprint": "1c8d173821095e1a30687d901ec650f53437fdfc",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8166939436",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
-                "width":1024
+        "dates": {
+          "lastupdate": "1500478665",
+          "posted": "1352388095",
+          "taken": "2012-11-02 14:02:26",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1352388095",
+        "description": {
+          "_content": "Charleston, WV, Nov. 2, 2012: Josh O'Connor, Division Supervisor of the Southern Area Red Type 1 Incident Management Team points to trailers of storm relief supplies at a Logistical Staging Area at Yeager Airport.  O'Connor was on a FEMA assignment with the team. Food, water, generators and other supplies were collected and distributed by the National Guard for storm victims.  About 700 pallets of water and 300 pallets of food were distributed.O'Connor is a fire management specialist  at the Atlanta, Georgia Regional Office of the U.S. Fish and Wildlife.  Credit: Catherine J. Hibbard/USFWS"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8166939436",
+        "isfavorite": 0,
+        "license": "10",
+        "location": {
+          "accuracy": "13",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Kanawha",
+            "place_id": "ERuFpexQUL.v2Zzyrw",
+            "woeid": "12590498"
+          },
+          "latitude": "38.363935",
+          "locality": {
+            "_content": "Yeager Airport",
+            "place_id": "0nAtThFQUL884TQYFg",
+            "woeid": "12522530"
+          },
+          "longitude": "-81.590223",
+          "place_id": "0nAtThFQUL884TQYFg",
+          "region": {
+            "_content": "West Virginia",
+            "place_id": "YSTKG8VTUb594MBg",
+            "woeid": "2347607"
+          },
+          "woeid": "12522530"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "90996927bb",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8557",
+          "location": "",
+          "nsid": "43322816@N08",
+          "path_alias": "usfwsnortheast",
+          "realname": "U.S. Fish and Wildlife Service Northeast Region",
+          "username": "U. S. Fish and Wildlife Service - Northeast Region"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "0e228ed6b2",
+        "server": "8482",
+        "tags": {
+          "tag": [
+            {
+              "_content": "ssandyhurricanesandysuperstormsandyusfishandwildlifeservicesouthernarearedteamincidentmanagementteamhurricaneresponsehurricaneworkerswestvirginia",
+              "author": "43322816@N08",
+              "authorname": "U. S. Fish and Wildlife Service - Northeast Region",
+              "id": "43230003-8166939436-100109896",
+              "machine_tag": 0,
+              "raw": "SSandy Hurricane Sandy Superstorm Sandy U.S. Fish and Wildlife Service Southern Area Red Team Incident Management Team hurricane response hurricane workers West Virginia"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
-                "width":800
+            {
+              "_content": "lsa",
+              "author": "43322816@N08",
+              "authorname": "U. S. Fish and Wildlife Service - Northeast Region",
+              "id": "43230003-8166939436-499500",
+              "machine_tag": 0,
+              "raw": "LSA"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
-                "width":320
+            {
+              "_content": "logisticalstagingarea",
+              "author": "43322816@N08",
+              "authorname": "U. S. Fish and Wildlife Service - Northeast Region",
+              "id": "43230003-8166939436-100109894",
+              "machine_tag": 0,
+              "raw": "logistical staging area"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3000,
-                "mimetype":"image/jpeg",
-                "secret":"ajHiEa8D9eZWNpSknWd06NTX69ZaM6frdF3BBjGxb1uZJLwoKEv3",
-                "width":4000
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
-                "width":640
+            {
+              "_content": "stormrelief",
+              "author": "43322816@N08",
+              "authorname": "U. S. Fish and Wildlife Service - Northeast Region",
+              "id": "43230003-8166939436-21542089",
+              "machine_tag": 0,
+              "raw": "storm relief"
             }
+          ]
+        },
+        "title": {
+          "_content": "Logistical Staging Area"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/usfwsnortheast/8166939436/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "5382",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3000,
+          "mimetype": "image/jpeg",
+          "secret": "ajHiEa8D9eZWNpSknWd06NTX69ZaM6frdF3BBjGxb1uZJLwoKEv3",
+          "width": 4000
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "8r7BCepCkCUOzmRVtEiSe4DiojbzAVahvUsbhqTHX7qqBhADXwZZ",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102530929,
-        420549807,
-        85633793
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102530929,
+      420549807,
+      85633793
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526688512,
-    "wof:depicts":[
-        102530929
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526688512,
+    "wof:depicts": [
+      102530929
     ],
-    "wof:geomhash":"f0ba43770b25ecd254eadaffe0883f0d",
-    "wof:hierarchy":[
-        {
-            "campus_id":102530929,
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "media_id":1159323581,
-            "neighbourhood_id":420549807,
-            "region_id":-1
-        }
+    "wof:geomhash": "f0ba43770b25ecd254eadaffe0883f0d",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102530929,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "image_id": 1159323581,
+        "locality_id": -1,
+        "media_id": 1159323581,
+        "neighbourhood_id": 420549807,
+        "region_id": -1
+      }
     ],
-    "wof:id":1159323581,
-    "wof:lastmodified":1545868648,
-    "wof:name":"Logistical Staging Area",
-    "wof:parent_id":102530929,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323581,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Logistical Staging Area",
+    "wof:parent_id": 102530929,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.590223,
     38.363935,
     -81.590223,
     38.363935
-],
-  "geometry": {"coordinates":[-81.59022299999999,38.363935],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.590223,38.363935],"type":"Point"}
 }

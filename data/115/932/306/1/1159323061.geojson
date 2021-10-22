@@ -2,255 +2,259 @@
   "id": 1159323061,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-11-13",
-    "date:cessation_upper":"2016-11-13",
-    "date:inception_lower":"2016-11-13",
-    "date:inception_upper":"2016-11-13",
-    "edtf:cessation":"2016-11-13T16:43:12",
-    "edtf:inception":"2016-11-13T16:43:12",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387298,37.617641,-122.387298,37.617641",
-    "geom:latitude":37.617641,
-    "geom:longitude":-122.387298,
-    "iso:country":"US",
-    "media:created":1479084192,
-    "media:fingerprint":"c42aceebe4c4fccc39ffa1e947333b92dafd8232",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"30667172110",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1479085047",
-                "posted":"1479084625",
-                "taken":"2016-11-13 16:43:12",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1479084625",
-            "description":{
-                "_content":"Sent via iPhone"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"30667172110",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.617641",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.387298",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"c8031c19d2",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2296",
-                "location":"",
-                "nsid":"14966804@N03",
-                "path_alias":"dionhinchcliffe",
-                "realname":"Dion Hinchcliffe",
-                "username":"dionhinchcliffe"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"7f5bdf3c32",
-            "server":"5470",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"moblog",
-                        "author":"14966804@N03",
-                        "authorname":"dionhinchcliffe",
-                        "id":"14943750-30667172110-1486",
-                        "machine_tag":0,
-                        "raw":"moblog"
-                    },
-                    {
-                        "_content":"iphonepics",
-                        "author":"14966804@N03",
-                        "authorname":"dionhinchcliffe",
-                        "id":"14943750-30667172110-12941648",
-                        "machine_tag":0,
-                        "raw":"iphonepics"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"The dishes at the Centurion Lounge is much better than average lounge food"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/dionhinchcliffe/30667172110/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"155",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-11-13",
+    "date:cessation_upper": "2016-11-13",
+    "date:inception_lower": "2016-11-13",
+    "date:inception_upper": "2016-11-13",
+    "edtf:cessation": "2016-11-13T16:43:12",
+    "edtf:inception": "2016-11-13T16:43:12",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.387298,37.617641,-122.387298,37.617641",
+    "geom:latitude": 37.617641,
+    "geom:longitude": -122.387298,
+    "iso:country": "US",
+    "media:created": 1479084192,
+    "media:fingerprint": "c42aceebe4c4fccc39ffa1e947333b92dafd8232",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "30667172110",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
-                "width":1024
+        "dates": {
+          "lastupdate": "1479085047",
+          "posted": "1479084625",
+          "taken": "2016-11-13 16:43:12",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1479084625",
+        "description": {
+          "_content": "Sent via iPhone"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "30667172110",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.617641",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.387298",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "c8031c19d2",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2296",
+          "location": "",
+          "nsid": "14966804@N03",
+          "path_alias": "dionhinchcliffe",
+          "realname": "Dion Hinchcliffe",
+          "username": "dionhinchcliffe"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "7f5bdf3c32",
+        "server": "5470",
+        "tags": {
+          "tag": [
+            {
+              "_content": "moblog",
+              "author": "14966804@N03",
+              "authorname": "dionhinchcliffe",
+              "id": "14943750-30667172110-1486",
+              "machine_tag": 0,
+              "raw": "moblog"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3024,
-                "mimetype":"image/jpeg",
-                "secret":"QIwzaZ5AijrEe0AaV9Q2GumpcwkNI4BWv9vHBnqGoU1SgRPeJfMm",
-                "width":4032
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
-                "width":640
+            {
+              "_content": "iphonepics",
+              "author": "14966804@N03",
+              "authorname": "dionhinchcliffe",
+              "id": "14943750-30667172110-12941648",
+              "machine_tag": 0,
+              "raw": "iphonepics"
             }
+          ]
+        },
+        "title": {
+          "_content": "The dishes at the Centurion Lounge is much better than average lounge food"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/dionhinchcliffe/30667172110/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "155",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3024,
+          "mimetype": "image/jpeg",
+          "secret": "QIwzaZ5AijrEe0AaV9Q2GumpcwkNI4BWv9vHBnqGoU1SgRPeJfMm",
+          "width": 4032
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "J8wK7PtoBExrvkplwWklvsKO7VOGhtm4JmhrEoVNlTV0Plrd4tWD",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678746,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678746,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"a5739db5446f430e2de1521e989f6c2e",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159323061,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159323061,
-            "region_id":85688637
-        }
+    "wof:geomhash": "a5739db5446f430e2de1521e989f6c2e",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159323061,
+        "locality_id": 85922583,
+        "media_id": 1159323061,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159323061,
+        "media_id": 1159323061,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159323061,
-    "wof:lastmodified":1545868654,
-    "wof:name":"The dishes at the Centurion Lounge is much better than average lounge food",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323061,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "The dishes at the Centurion Lounge is much better than average lounge food",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.387298,
     37.617641,
     -122.387298,
     37.617641
-],
+  ],
   "geometry": {"coordinates":[-122.387298,37.617641],"type":"Point"}
 }

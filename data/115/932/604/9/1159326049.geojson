@@ -2,414 +2,417 @@
   "id": 1159326049,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-04-10",
-    "date:cessation_upper":"2018-04-10",
-    "date:inception_lower":"2018-04-10",
-    "date:inception_upper":"2018-04-10",
-    "edtf:cessation":"2018-04-10T11:18:17",
-    "edtf:inception":"2018-04-10T11:18:17",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.037117,32.885209,-80.037117,32.885209",
-    "geom:latitude":32.885209,
-    "geom:longitude":-80.037117,
-    "iso:country":"US",
-    "media:created":1523384297,
-    "media:fingerprint":"53413da1b248d13956f382de573fb40be7bdb397",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"39629066140",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1523655672",
-                "posted":"1523655504",
-                "taken":"2018-04-10 11:18:17",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1523655504",
-            "description":{
-                "_content":"On my way home from my visit with family.  At the Charleston Conference on Tuesday April 10th, 2018.  Saw an XTRA Airways 737 there - never seen that airline before.  They are a charter airlines.  "
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"39629066140",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Charleston",
-                    "place_id":"Jc0dijdQUL.n.X07GA",
-                    "woeid":"12589809"
-                },
-                "latitude":"32.885209",
-                "locality":{
-                    "_content":"Charleston International Airport",
-                    "place_id":"1SI6QotQUL_AP1MaLA",
-                    "woeid":"12519142"
-                },
-                "longitude":"-80.037117",
-                "place_id":"1SI6QotQUL_AP1MaLA",
-                "region":{
-                    "_content":"South Carolina",
-                    "place_id":"J0wmj5lTUb6eTQbF",
-                    "woeid":"2347599"
-                },
-                "woeid":"12519142"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"6c9fefe372",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7167",
-                "location":"Saline, Mich., USA",
-                "nsid":"7702423@N04",
-                "path_alias":"cseeman",
-                "realname":"Corey Seeman",
-                "username":"cseeman"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"4bf62a20cd",
-            "server":"899",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"chs",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-92326",
-                        "machine_tag":false,
-                        "raw":"CHS"
-                    },
-                    {
-                        "_content":"charlestoninternationalairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-16862675",
-                        "machine_tag":false,
-                        "raw":"Charleston International Airport"
-                    },
-                    {
-                        "_content":"charlestonairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-5056885",
-                        "machine_tag":false,
-                        "raw":"Charleston Airport"
-                    },
-                    {
-                        "_content":"airports",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-28698",
-                        "machine_tag":false,
-                        "raw":"Airports"
-                    },
-                    {
-                        "_content":"terminals",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-53629",
-                        "machine_tag":false,
-                        "raw":"Terminals"
-                    },
-                    {
-                        "_content":"southcarolina",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-7531",
-                        "machine_tag":false,
-                        "raw":"South Carolina"
-                    },
-                    {
-                        "_content":"charleston",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-11772",
-                        "machine_tag":false,
-                        "raw":"Charleston"
-                    },
-                    {
-                        "_content":"deltaairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-601971",
-                        "machine_tag":false,
-                        "raw":"Delta Airlines"
-                    },
-                    {
-                        "_content":"chs04102018",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-371700024",
-                        "machine_tag":false,
-                        "raw":"CHS04102018"
-                    },
-                    {
-                        "_content":"airplanes",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-6603",
-                        "machine_tag":false,
-                        "raw":"Airplanes"
-                    },
-                    {
-                        "_content":"passengeraircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-1602103",
-                        "machine_tag":false,
-                        "raw":"Passenger Aircraft"
-                    },
-                    {
-                        "_content":"aircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-5854",
-                        "machine_tag":false,
-                        "raw":"Aircraft"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-32533",
-                        "machine_tag":false,
-                        "raw":"Airlines"
-                    },
-                    {
-                        "_content":"southwestairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-108396",
-                        "machine_tag":false,
-                        "raw":"Southwest Airlines"
-                    },
-                    {
-                        "_content":"americanairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-35383",
-                        "machine_tag":false,
-                        "raw":"American Airlines"
-                    },
-                    {
-                        "_content":"unitedairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-109273",
-                        "machine_tag":false,
-                        "raw":"United Airlines"
-                    },
-                    {
-                        "_content":"regionaljets",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-4918325",
-                        "machine_tag":false,
-                        "raw":"Regional Jets"
-                    },
-                    {
-                        "_content":"jets",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-6343",
-                        "machine_tag":false,
-                        "raw":"Jets"
-                    },
-                    {
-                        "_content":"jetblue",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-18653",
-                        "machine_tag":false,
-                        "raw":"JetBlue"
-                    },
-                    {
-                        "_content":"xtraairways",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-3081762",
-                        "machine_tag":false,
-                        "raw":"XTRA Airways"
-                    },
-                    {
-                        "_content":"charter",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-84144",
-                        "machine_tag":false,
-                        "raw":"Charter"
-                    },
-                    {
-                        "_content":"charterairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-2083203",
-                        "machine_tag":false,
-                        "raw":"Charter Airlines"
-                    },
-                    {
-                        "_content":"charlestonapril2018",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-39629066140-371238985",
-                        "machine_tag":false,
-                        "raw":"CharlestonApril2018"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Scenes from Charleston International Airport (Charleston, S.C.) - Tuesday April 10th, 2018"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/cseeman/39629066140/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"39",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2018-04-10",
+    "date:cessation_upper": "2018-04-10",
+    "date:inception_lower": "2018-04-10",
+    "date:inception_upper": "2018-04-10",
+    "edtf:cessation": "2018-04-10T11:18:17",
+    "edtf:inception": "2018-04-10T11:18:17",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.037117,32.885209,-80.037117,32.885209",
+    "geom:latitude": 32.885209,
+    "geom:longitude": -80.037117,
+    "iso:country": "US",
+    "media:created": 1523384297,
+    "media:fingerprint": "53413da1b248d13956f382de573fb40be7bdb397",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "39629066140",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
-                "width":1024
+        "dates": {
+          "lastupdate": "1523655672",
+          "posted": "1523655504",
+          "taken": "2018-04-10 11:18:17",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1523655504",
+        "description": {
+          "_content": "On my way home from my visit with family.  At the Charleston Conference on Tuesday April 10th, 2018.  Saw an XTRA Airways 737 there - never seen that airline before.  They are a charter airlines.  "
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "39629066140",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Charleston",
+            "place_id": "Jc0dijdQUL.n.X07GA",
+            "woeid": "12589809"
+          },
+          "latitude": "32.885209",
+          "locality": {
+            "_content": "Charleston International Airport",
+            "place_id": "1SI6QotQUL_AP1MaLA",
+            "woeid": "12519142"
+          },
+          "longitude": "-80.037117",
+          "place_id": "1SI6QotQUL_AP1MaLA",
+          "region": {
+            "_content": "South Carolina",
+            "place_id": "J0wmj5lTUb6eTQbF",
+            "woeid": "2347599"
+          },
+          "woeid": "12519142"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "6c9fefe372",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7167",
+          "location": "Saline, Mich., USA",
+          "nsid": "7702423@N04",
+          "path_alias": "cseeman",
+          "realname": "Corey Seeman",
+          "username": "cseeman"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "4bf62a20cd",
+        "server": "899",
+        "tags": {
+          "tag": [
+            {
+              "_content": "chs",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-92326",
+              "machine_tag": false,
+              "raw": "CHS"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
-                "width":800
+            {
+              "_content": "charlestoninternationalairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-16862675",
+              "machine_tag": false,
+              "raw": "Charleston International Airport"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
-                "width":320
+            {
+              "_content": "charlestonairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-5056885",
+              "machine_tag": false,
+              "raw": "Charleston Airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":4000,
-                "mimetype":"image/jpeg",
-                "secret":"seUnm7H9xZP1oX2CpSa2ARmJ2c3moThZV2ZY5dU7NDe025aYTmAZ",
-                "width":6000
+            {
+              "_content": "airports",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-28698",
+              "machine_tag": false,
+              "raw": "Airports"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
-                "width":320
+            {
+              "_content": "terminals",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-53629",
+              "machine_tag": false,
+              "raw": "Terminals"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
-                "width":640
+            {
+              "_content": "southcarolina",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-7531",
+              "machine_tag": false,
+              "raw": "South Carolina"
+            },
+            {
+              "_content": "charleston",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-11772",
+              "machine_tag": false,
+              "raw": "Charleston"
+            },
+            {
+              "_content": "deltaairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-601971",
+              "machine_tag": false,
+              "raw": "Delta Airlines"
+            },
+            {
+              "_content": "chs04102018",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-371700024",
+              "machine_tag": false,
+              "raw": "CHS04102018"
+            },
+            {
+              "_content": "airplanes",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-6603",
+              "machine_tag": false,
+              "raw": "Airplanes"
+            },
+            {
+              "_content": "passengeraircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-1602103",
+              "machine_tag": false,
+              "raw": "Passenger Aircraft"
+            },
+            {
+              "_content": "aircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-5854",
+              "machine_tag": false,
+              "raw": "Aircraft"
+            },
+            {
+              "_content": "airlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-32533",
+              "machine_tag": false,
+              "raw": "Airlines"
+            },
+            {
+              "_content": "southwestairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-108396",
+              "machine_tag": false,
+              "raw": "Southwest Airlines"
+            },
+            {
+              "_content": "americanairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-35383",
+              "machine_tag": false,
+              "raw": "American Airlines"
+            },
+            {
+              "_content": "unitedairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-109273",
+              "machine_tag": false,
+              "raw": "United Airlines"
+            },
+            {
+              "_content": "regionaljets",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-4918325",
+              "machine_tag": false,
+              "raw": "Regional Jets"
+            },
+            {
+              "_content": "jets",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-6343",
+              "machine_tag": false,
+              "raw": "Jets"
+            },
+            {
+              "_content": "jetblue",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-18653",
+              "machine_tag": false,
+              "raw": "JetBlue"
+            },
+            {
+              "_content": "xtraairways",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-3081762",
+              "machine_tag": false,
+              "raw": "XTRA Airways"
+            },
+            {
+              "_content": "charter",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-84144",
+              "machine_tag": false,
+              "raw": "Charter"
+            },
+            {
+              "_content": "charterairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-2083203",
+              "machine_tag": false,
+              "raw": "Charter Airlines"
+            },
+            {
+              "_content": "charlestonapril2018",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-39629066140-371238985",
+              "machine_tag": false,
+              "raw": "CharlestonApril2018"
             }
+          ]
+        },
+        "title": {
+          "_content": "Scenes from Charleston International Airport (Charleston, S.C.) - Tuesday April 10th, 2018"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/cseeman/39629066140/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "39",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 4000,
+          "mimetype": "image/jpeg",
+          "secret": "seUnm7H9xZP1oX2CpSa2ARmJ2c3moThZV2ZY5dU7NDe025aYTmAZ",
+          "width": 6000
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "8iPF7B1VWR4n5AVurAWzrhQX1Hzoqu7XLj8BviozwzTLlbNQYOH4",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531215,
-        85839447,
-        102191575,
-        85633793,
-        101720747,
-        102085591,
-        85688683
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531215,
+      85839447,
+      102191575,
+      85633793,
+      101720747,
+      102085591,
+      85688683
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006392,
-    "wof:depicts":[
-        102531215
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006392,
+    "wof:depicts": [
+      102531215
     ],
-    "wof:geomhash":"2c93d6dba9edfc53d2f3595ba7d0ea60",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531215,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085591,
-            "locality_id":101720747,
-            "media_id":1159326049,
-            "neighbourhood_id":85839447,
-            "region_id":85688683
-        }
+    "wof:geomhash": "2c93d6dba9edfc53d2f3595ba7d0ea60",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531215,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085591,
+        "image_id": 1159326049,
+        "locality_id": 101720747,
+        "media_id": 1159326049,
+        "neighbourhood_id": 85839447,
+        "region_id": 85688683
+      }
     ],
-    "wof:id":1159326049,
-    "wof:lastmodified":1545868693,
-    "wof:name":"Scenes from Charleston International Airport (Charleston, S.C.) - Tuesday April 10th, 2018",
-    "wof:parent_id":102531215,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326049,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Scenes from Charleston International Airport (Charleston, S.C.) - Tuesday April 10th, 2018",
+    "wof:parent_id": 102531215,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.037117,
     32.885209,
     -80.037117,
     32.885209
-],
-  "geometry": {"coordinates":[-80.03711699999999,32.885209],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.037117,32.885209],"type":"Point"}
 }

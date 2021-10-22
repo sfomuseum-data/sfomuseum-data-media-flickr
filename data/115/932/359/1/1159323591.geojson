@@ -2,233 +2,236 @@
   "id": 1159323591,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-08-16",
-    "date:cessation_upper":"2009-08-16",
-    "date:inception_lower":"2009-08-16",
-    "date:inception_upper":"2009-08-16",
-    "edtf:cessation":"2009-08-16T11:05:04",
-    "edtf:inception":"2009-08-16T11:05:04",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.6,38.362833,-81.6,38.362833",
-    "geom:latitude":38.362833,
-    "geom:longitude":-81.6,
-    "iso:country":"US",
-    "media:created":1250445904,
-    "media:fingerprint":"e34154cdf5d988308d78b7cc390882eb1dd0f252",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"4763744012",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1278387404",
-                "posted":"1278328935",
-                "taken":"2009-08-16 11:05:04",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1278328935",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"4763744012",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Kanawha",
-                    "place_id":"ERuFpexQUL.v2Zzyrw",
-                    "woeid":"12590498"
-                },
-                "latitude":"38.362833",
-                "locality":{
-                    "_content":"Yeager Airport",
-                    "place_id":"0nAtThFQUL884TQYFg",
-                    "woeid":"12522530"
-                },
-                "longitude":"-81.600000",
-                "place_id":"0nAtThFQUL884TQYFg",
-                "region":{
-                    "_content":"West Virginia",
-                    "place_id":"YSTKG8VTUb594MBg",
-                    "woeid":"2347607"
-                },
-                "woeid":"12522530"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"b2dc60777f",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"72",
-                "location":"Huntington, WV, USA",
-                "nsid":"93366149@N00",
-                "path_alias":"jcummings1974",
-                "realname":"John Cummings",
-                "username":"jcummings"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"612fbc4759",
-            "server":"4073",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"laura",
-                        "author":"93366149@N00",
-                        "authorname":"jcummings",
-                        "id":"1581515-4763744012-507",
-                        "machine_tag":0,
-                        "raw":"laura"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"IMG_0112"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/jcummings1974/4763744012/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"118",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-08-16",
+    "date:cessation_upper": "2009-08-16",
+    "date:inception_lower": "2009-08-16",
+    "date:inception_upper": "2009-08-16",
+    "edtf:cessation": "2009-08-16T11:05:04",
+    "edtf:inception": "2009-08-16T11:05:04",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.600000,38.362833,-81.600000,38.362833",
+    "geom:latitude": 38.362833,
+    "geom:longitude": -81.6,
+    "iso:country": "US",
+    "media:created": 1250445904,
+    "media:fingerprint": "e34154cdf5d988308d78b7cc390882eb1dd0f252",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "4763744012",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1536,
-                "mimetype":"image/jpeg",
-                "secret":"e7Zw4IaMYEOct9mHA7yYMI0zhFH1uIMmPS7WOfY3TGSZMW6oB9wH",
-                "width":2048
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
-                "width":640
+        "dates": {
+          "lastupdate": "1278387404",
+          "posted": "1278328935",
+          "taken": "2009-08-16 11:05:04",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1278328935",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "4763744012",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Kanawha",
+            "place_id": "ERuFpexQUL.v2Zzyrw",
+            "woeid": "12590498"
+          },
+          "latitude": "38.362833",
+          "locality": {
+            "_content": "Yeager Airport",
+            "place_id": "0nAtThFQUL884TQYFg",
+            "woeid": "12522530"
+          },
+          "longitude": "-81.600000",
+          "place_id": "0nAtThFQUL884TQYFg",
+          "region": {
+            "_content": "West Virginia",
+            "place_id": "YSTKG8VTUb594MBg",
+            "woeid": "2347607"
+          },
+          "woeid": "12522530"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "b2dc60777f",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "72",
+          "location": "Huntington, WV, USA",
+          "nsid": "93366149@N00",
+          "path_alias": "jcummings1974",
+          "realname": "John Cummings",
+          "username": "jcummings"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "612fbc4759",
+        "server": "4073",
+        "tags": {
+          "tag": [
+            {
+              "_content": "laura",
+              "author": "93366149@N00",
+              "authorname": "jcummings",
+              "id": "1581515-4763744012-507",
+              "machine_tag": 0,
+              "raw": "laura"
             }
+          ]
+        },
+        "title": {
+          "_content": "IMG_0112"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/jcummings1974/4763744012/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "118",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1536,
+          "mimetype": "image/jpeg",
+          "secret": "e7Zw4IaMYEOct9mHA7yYMI0zhFH1uIMmPS7WOfY3TGSZMW6oB9wH",
+          "width": 2048
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "arDgbhsTVAoealLxt8IUoupXPYxPPezI3zmol9J2sl750bTzgitI",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102530929,
-        420549807,
-        85633793
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102530929,
+      420549807,
+      85633793
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526688514,
-    "wof:depicts":[
-        102530929
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526688514,
+    "wof:depicts": [
+      102530929
     ],
-    "wof:geomhash":"ea5da60ea889d2fbcef1cf16afac9275",
-    "wof:hierarchy":[
-        {
-            "campus_id":102530929,
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "media_id":1159323591,
-            "neighbourhood_id":420549807,
-            "region_id":-1
-        }
+    "wof:geomhash": "ea5da60ea889d2fbcef1cf16afac9275",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102530929,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "image_id": 1159323591,
+        "locality_id": -1,
+        "media_id": 1159323591,
+        "neighbourhood_id": 420549807,
+        "region_id": -1
+      }
     ],
-    "wof:id":1159323591,
-    "wof:lastmodified":1545868704,
-    "wof:name":"IMG_0112",
-    "wof:parent_id":102530929,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323591,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "IMG_0112",
+    "wof:parent_id": 102530929,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.6,
     38.362833,
     -81.6,
     38.362833
-],
-  "geometry": {"coordinates":[-81.59999999999999,38.362833],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.6,38.362833],"type":"Point"}
 }

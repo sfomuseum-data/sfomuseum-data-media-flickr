@@ -2,392 +2,395 @@
   "id": 1159334335,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-11-07",
-    "date:cessation_upper":"2015-11-07",
-    "date:inception_lower":"2015-11-07",
-    "date:inception_upper":"2015-11-07",
-    "edtf:cessation":"2015-11-07T09:40:43",
-    "edtf:inception":"2015-11-07T09:40:43",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.407534,33.941958,-118.407534,33.941958",
-    "geom:latitude":33.941958,
-    "geom:longitude":-118.407534,
-    "iso:country":"US",
-    "media:created":1446918043,
-    "media:fingerprint":"5c20367e9fa55b5fd250d5aa1d2f6b1df6e5a4a6",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"22517482768",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1520627385",
-                "posted":"1447220392",
-                "taken":"2015-11-07 09:40:43",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1447220392",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"22517482768",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.941958",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.407534",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"c1b1daae23",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7378",
-                "location":"Goleta, USA",
-                "nsid":"23089307@N02",
-                "path_alias":"n28307",
-                "realname":"Glenn Beltz",
-                "username":"beltz6"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"9db094cb96",
-            "server":"5771",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"losangeles",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-2424",
-                        "machine_tag":0,
-                        "raw":"Los Angeles"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"klax",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-1327757",
-                        "machine_tag":0,
-                        "raw":"KLAX"
-                    },
-                    {
-                        "_content":"lax2015",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-245935971",
-                        "machine_tag":0,
-                        "raw":"LAX2015"
-                    },
-                    {
-                        "_content":"laxspotters",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-264881703",
-                        "machine_tag":0,
-                        "raw":"LAXSpotters"
-                    },
-                    {
-                        "_content":"avgeek",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-2425700",
-                        "machine_tag":0,
-                        "raw":"avgeek"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"losangelesinternationalairport",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-481719",
-                        "machine_tag":0,
-                        "raw":"Los Angeles International Airport"
-                    },
-                    {
-                        "_content":"747",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-59075",
-                        "machine_tag":0,
-                        "raw":"747"
-                    },
-                    {
-                        "_content":"747f",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-1881571",
-                        "machine_tag":0,
-                        "raw":"747F"
-                    },
-                    {
-                        "_content":"singapore",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-3107",
-                        "machine_tag":0,
-                        "raw":"Singapore"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"singaporeairlinescargo",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-5849364",
-                        "machine_tag":0,
-                        "raw":"Singapore Airlines Cargo"
-                    },
-                    {
-                        "_content":"chinaairlinescargo",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-5827037",
-                        "machine_tag":0,
-                        "raw":"China Airlines Cargo"
-                    },
-                    {
-                        "_content":"boeing747",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-55342",
-                        "machine_tag":0,
-                        "raw":"Boeing 747"
-                    },
-                    {
-                        "_content":"9vsfo",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-7796972",
-                        "machine_tag":0,
-                        "raw":"9V-SFO"
-                    },
-                    {
-                        "_content":"b18711",
-                        "author":"23089307@N02",
-                        "authorname":"beltz6",
-                        "id":"23068959-22517482768-21500493",
-                        "machine_tag":0,
-                        "raw":"B-18711"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Cargo 747s at LAX"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/n28307/22517482768/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"287",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-11-07",
+    "date:cessation_upper": "2015-11-07",
+    "date:inception_lower": "2015-11-07",
+    "date:inception_upper": "2015-11-07",
+    "edtf:cessation": "2015-11-07T09:40:43",
+    "edtf:inception": "2015-11-07T09:40:43",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.407534,33.941958,-118.407534,33.941958",
+    "geom:latitude": 33.941958,
+    "geom:longitude": -118.407534,
+    "iso:country": "US",
+    "media:created": 1446918043,
+    "media:fingerprint": "5c20367e9fa55b5fd250d5aa1d2f6b1df6e5a4a6",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "22517482768",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":683,
-                "mimetype":"image/jpeg",
-                "secret":"yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
-                "width":1024
+        "dates": {
+          "lastupdate": "1520627385",
+          "posted": "1447220392",
+          "taken": "2015-11-07 09:40:43",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1447220392",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "22517482768",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.941958",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.407534",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "c1b1daae23",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7378",
+          "location": "Goleta, USA",
+          "nsid": "23089307@N02",
+          "path_alias": "n28307",
+          "realname": "Glenn Beltz",
+          "username": "beltz6"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "9db094cb96",
+        "server": "5771",
+        "tags": {
+          "tag": [
+            {
+              "_content": "losangeles",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-2424",
+              "machine_tag": 0,
+              "raw": "Los Angeles"
             },
-            "c":{
-                "extension":"jpg",
-                "height":534,
-                "mimetype":"image/jpeg",
-                "secret":"yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
-                "width":800
+            {
+              "_content": "california",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-50",
+              "machine_tag": 0,
+              "raw": "California"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
-                "width":320
+            {
+              "_content": "lax",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
             },
-            "o":{
-                "extension":"jpg",
-                "height":4016,
-                "mimetype":"image/jpeg",
-                "secret":"41MxV1ERC9YNh1UAyxMW1xzN6SbYN7Wl1aWlX7NtpBPY9xnZj9RR",
-                "width":6016
+            {
+              "_content": "klax",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-1327757",
+              "machine_tag": 0,
+              "raw": "KLAX"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
-                "width":320
+            {
+              "_content": "lax2015",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-245935971",
+              "machine_tag": 0,
+              "raw": "LAX2015"
             },
-            "z":{
-                "extension":"jpg",
-                "height":427,
-                "mimetype":"image/jpeg",
-                "secret":"yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
-                "width":640
+            {
+              "_content": "laxspotters",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-264881703",
+              "machine_tag": 0,
+              "raw": "LAXSpotters"
+            },
+            {
+              "_content": "avgeek",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-2425700",
+              "machine_tag": 0,
+              "raw": "avgeek"
+            },
+            {
+              "_content": "airplane",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
+            },
+            {
+              "_content": "aviation",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
+            },
+            {
+              "_content": "airport",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-2695",
+              "machine_tag": 0,
+              "raw": "airport"
+            },
+            {
+              "_content": "losangelesinternationalairport",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-481719",
+              "machine_tag": 0,
+              "raw": "Los Angeles International Airport"
+            },
+            {
+              "_content": "747",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-59075",
+              "machine_tag": 0,
+              "raw": "747"
+            },
+            {
+              "_content": "747f",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-1881571",
+              "machine_tag": 0,
+              "raw": "747F"
+            },
+            {
+              "_content": "singapore",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-3107",
+              "machine_tag": 0,
+              "raw": "Singapore"
+            },
+            {
+              "_content": "boeing",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
+            },
+            {
+              "_content": "singaporeairlinescargo",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-5849364",
+              "machine_tag": 0,
+              "raw": "Singapore Airlines Cargo"
+            },
+            {
+              "_content": "chinaairlinescargo",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-5827037",
+              "machine_tag": 0,
+              "raw": "China Airlines Cargo"
+            },
+            {
+              "_content": "boeing747",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-55342",
+              "machine_tag": 0,
+              "raw": "Boeing 747"
+            },
+            {
+              "_content": "9vsfo",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-7796972",
+              "machine_tag": 0,
+              "raw": "9V-SFO"
+            },
+            {
+              "_content": "b18711",
+              "author": "23089307@N02",
+              "authorname": "beltz6",
+              "id": "23068959-22517482768-21500493",
+              "machine_tag": 0,
+              "raw": "B-18711"
             }
+          ]
+        },
+        "title": {
+          "_content": "Cargo 747s at LAX"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/n28307/22517482768/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "287",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 683,
+          "mimetype": "image/jpeg",
+          "secret": "yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 534,
+          "mimetype": "image/jpeg",
+          "secret": "yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 4016,
+          "mimetype": "image/jpeg",
+          "secret": "41MxV1ERC9YNh1UAyxMW1xzN6SbYN7Wl1aWlX7NtpBPY9xnZj9RR",
+          "width": 6016
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 427,
+          "mimetype": "image/jpeg",
+          "secret": "yb8Jwgu5kw6Mkvnu9IxZMATdNwyV6sBMIh30l7Uw6zJ7laPZVEnK",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527021500,
-    "wof:depicts":[
-        102533795
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527021500,
+    "wof:depicts": [
+      102533795
     ],
-    "wof:geomhash":"485ba91b04497d2fb289c6b206eb706b",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159334335,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "485ba91b04497d2fb289c6b206eb706b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159334335,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159334335,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159334335,
-    "wof:lastmodified":1545868720,
-    "wof:name":"Cargo 747s at LAX",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159334335,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Cargo 747s at LAX",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.407534,
     33.941958,
     -118.407534,
     33.941958
-],
+  ],
   "geometry": {"coordinates":[-118.407534,33.941958],"type":"Point"}
 }

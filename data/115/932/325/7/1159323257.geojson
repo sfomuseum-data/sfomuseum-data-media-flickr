@@ -2,327 +2,331 @@
   "id": 1159323257,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-10-02",
-    "date:cessation_upper":"2016-10-02",
-    "date:inception_lower":"2016-10-02",
-    "date:inception_upper":"2016-10-02",
-    "edtf:cessation":"2016-10-02T07:16:54",
-    "edtf:inception":"2016-10-02T07:16:54",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389159,37.617294,-122.389159,37.617294",
-    "geom:latitude":37.617294,
-    "geom:longitude":-122.389159,
-    "iso:country":"US",
-    "media:created":1475417814,
-    "media:fingerprint":"5719ed1bbe6e444ce8dedbdca3495828771fe6d9",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"29657827564",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1479257006",
-                "posted":"1476310459",
-                "taken":"2016-10-02 07:16:54",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1476310459",
-            "description":{
-                "_content":"San Francisco, California"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"29657827564",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.617294",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.389159",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"b489d46cdc",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3861",
-                "location":"Bay Area, California, United States",
-                "nsid":"94599716@N06",
-                "path_alias":"photographingtravis",
-                "realname":"Travis Wise",
-                "username":"Photographing Travis"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"51a67a81ec",
-            "server":"5835",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"sfo",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-4991",
-                        "machine_tag":0,
-                        "raw":"sfo"
-                    },
-                    {
-                        "_content":"sanfrancisco",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-46",
-                        "machine_tag":0,
-                        "raw":"san francisco"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"ual",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-48261",
-                        "machine_tag":0,
-                        "raw":"ual"
-                    },
-                    {
-                        "_content":"united",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-6112",
-                        "machine_tag":0,
-                        "raw":"united"
-                    },
-                    {
-                        "_content":"club",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-1212",
-                        "machine_tag":0,
-                        "raw":"club"
-                    },
-                    {
-                        "_content":"lounge",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-6482",
-                        "machine_tag":0,
-                        "raw":"lounge"
-                    },
-                    {
-                        "_content":"sf",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-30",
-                        "machine_tag":0,
-                        "raw":"sf"
-                    },
-                    {
-                        "_content":"thecity",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-7673",
-                        "machine_tag":0,
-                        "raw":"the city"
-                    },
-                    {
-                        "_content":"frisco",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-78170",
-                        "machine_tag":0,
-                        "raw":"frisco"
-                    },
-                    {
-                        "_content":"2016",
-                        "author":"94599716@N06",
-                        "authorname":"Photographing Travis",
-                        "id":"94554394-29657827564-392175",
-                        "machine_tag":0,
-                        "raw":"2016"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"SFO UAL Lounge"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/photographingtravis/29657827564/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1813",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-10-02",
+    "date:cessation_upper": "2016-10-02",
+    "date:inception_lower": "2016-10-02",
+    "date:inception_upper": "2016-10-02",
+    "edtf:cessation": "2016-10-02T07:16:54",
+    "edtf:inception": "2016-10-02T07:16:54",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.389159,37.617294,-122.389159,37.617294",
+    "geom:latitude": 37.617294,
+    "geom:longitude": -122.389159,
+    "iso:country": "US",
+    "media:created": 1475417814,
+    "media:fingerprint": "5719ed1bbe6e444ce8dedbdca3495828771fe6d9",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "29657827564",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
-                "width":1024
+        "dates": {
+          "lastupdate": "1479257006",
+          "posted": "1476310459",
+          "taken": "2016-10-02 07:16:54",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1476310459",
+        "description": {
+          "_content": "San Francisco, California"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "29657827564",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.617294",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.389159",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "b489d46cdc",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3861",
+          "location": "Bay Area, California, United States",
+          "nsid": "94599716@N06",
+          "path_alias": "photographingtravis",
+          "realname": "Travis Wise",
+          "username": "Photographing Travis"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "51a67a81ec",
+        "server": "5835",
+        "tags": {
+          "tag": [
+            {
+              "_content": "sfo",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-4991",
+              "machine_tag": 0,
+              "raw": "sfo"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
-                "width":800
+            {
+              "_content": "sanfrancisco",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-46",
+              "machine_tag": 0,
+              "raw": "san francisco"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
-                "width":320
+            {
+              "_content": "airport",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3024,
-                "mimetype":"image/jpeg",
-                "secret":"IK4GQuBg9kOUXjnyW3pCZWMK851KIJQZrXNBvezGrcOTyT9PbmiE",
-                "width":4032
+            {
+              "_content": "ual",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-48261",
+              "machine_tag": 0,
+              "raw": "ual"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
-                "width":320
+            {
+              "_content": "united",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-6112",
+              "machine_tag": 0,
+              "raw": "united"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
-                "width":640
+            {
+              "_content": "club",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-1212",
+              "machine_tag": 0,
+              "raw": "club"
+            },
+            {
+              "_content": "lounge",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-6482",
+              "machine_tag": 0,
+              "raw": "lounge"
+            },
+            {
+              "_content": "sf",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-30",
+              "machine_tag": 0,
+              "raw": "sf"
+            },
+            {
+              "_content": "thecity",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-7673",
+              "machine_tag": 0,
+              "raw": "the city"
+            },
+            {
+              "_content": "frisco",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-78170",
+              "machine_tag": 0,
+              "raw": "frisco"
+            },
+            {
+              "_content": "2016",
+              "author": "94599716@N06",
+              "authorname": "Photographing Travis",
+              "id": "94554394-29657827564-392175",
+              "machine_tag": 0,
+              "raw": "2016"
             }
+          ]
+        },
+        "title": {
+          "_content": "SFO UAL Lounge"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/photographingtravis/29657827564/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1813",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3024,
+          "mimetype": "image/jpeg",
+          "secret": "IK4GQuBg9kOUXjnyW3pCZWMK851KIJQZrXNBvezGrcOTyT9PbmiE",
+          "width": 4032
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "sJ0zpfMsjsSV1Xv9GQXuQLXuBJQFzNXNVuOcZE9NDQGcz3JqGokp",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678797,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678797,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"7a7126e7203d68deaa26909b69d8d639",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159323257,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159323257,
-            "region_id":85688637
-        }
+    "wof:geomhash": "7a7126e7203d68deaa26909b69d8d639",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159323257,
+        "locality_id": 85922583,
+        "media_id": 1159323257,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159323257,
+        "media_id": 1159323257,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159323257,
-    "wof:lastmodified":1545868679,
-    "wof:name":"SFO UAL Lounge",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323257,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "SFO UAL Lounge",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.389159,
     37.617294,
     -122.389159,
     37.617294
-],
-  "geometry": {"coordinates":[-122.38915900000001,37.617294],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.389159,37.617294],"type":"Point"}
 }

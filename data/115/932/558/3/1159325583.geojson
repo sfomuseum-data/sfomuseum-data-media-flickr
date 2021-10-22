@@ -2,327 +2,331 @@
   "id": 1159325583,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2014-12-20",
-    "date:cessation_upper":"2014-12-20",
-    "date:inception_lower":"2014-12-20",
-    "date:inception_upper":"2014-12-20",
-    "edtf:cessation":"2014-12-20T12:14:06",
-    "edtf:inception":"2014-12-20T12:14:06",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.946153,35.216116,-80.946153,35.216116",
-    "geom:latitude":35.216116,
-    "geom:longitude":-80.946153,
-    "iso:country":"US",
-    "media:created":1419106446,
-    "media:fingerprint":"ab75b3591fc64ada803d2b7a9625230feea025eb",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"16065569215",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1420385533",
-                "posted":"1419105746",
-                "taken":"2014-12-20 12:14:06",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1419105746",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"16065569215",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.216116",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.946153",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"532c44daee",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8402",
-                "location":"Kentucky, USA",
-                "nsid":"79907828@N00",
-                "path_alias":"coyotecreek",
-                "realname":"Kevin Schraer",
-                "username":"K e v i n"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"2923b6202b",
-            "server":"7503",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"windowseat",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-115511",
-                        "machine_tag":0,
-                        "raw":"window seat"
-                    },
-                    {
-                        "_content":"airplanes",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-6603",
-                        "machine_tag":0,
-                        "raw":"airplanes"
-                    },
-                    {
-                        "_content":"planes",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-16333",
-                        "machine_tag":0,
-                        "raw":"planes"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"northcarolina",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-8419",
-                        "machine_tag":0,
-                        "raw":"North Carolina"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"hipstamatic",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-49588106",
-                        "machine_tag":0,
-                        "raw":"Hipstamatic"
-                    },
-                    {
-                        "_content":"oggl",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-92012072",
-                        "machine_tag":0,
-                        "raw":"Oggl"
-                    },
-                    {
-                        "_content":"jamesmlens",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-77592125",
-                        "machine_tag":0,
-                        "raw":"James M Lens"
-                    },
-                    {
-                        "_content":"telegraphfilm",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-238026671",
-                        "machine_tag":0,
-                        "raw":"Telegraph Film"
-                    },
-                    {
-                        "_content":"nc",
-                        "author":"79907828@N00",
-                        "authorname":"K e v i n",
-                        "id":"2571590-16065569215-2533",
-                        "machine_tag":0,
-                        "raw":"NC"
-                    }
-                ]
-            },
-            "title":{
-                "_content":""
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/coyotecreek/16065569215/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"76",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2014-12-20",
+    "date:cessation_upper": "2014-12-20",
+    "date:inception_lower": "2014-12-20",
+    "date:inception_upper": "2014-12-20",
+    "edtf:cessation": "2014-12-20T12:14:06",
+    "edtf:inception": "2014-12-20T12:14:06",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.946153,35.216116,-80.946153,35.216116",
+    "geom:latitude": 35.216116,
+    "geom:longitude": -80.946153,
+    "iso:country": "US",
+    "media:created": 1419106446,
+    "media:fingerprint": "ab75b3591fc64ada803d2b7a9625230feea025eb",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "16065569215",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
-                "width":768
+        "dates": {
+          "lastupdate": "1420385533",
+          "posted": "1419105746",
+          "taken": "2014-12-20 12:14:06",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1419105746",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "16065569215",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.216116",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.946153",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "532c44daee",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8402",
+          "location": "Kentucky, USA",
+          "nsid": "79907828@N00",
+          "path_alias": "coyotecreek",
+          "realname": "Kevin Schraer",
+          "username": "K e v i n"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "2923b6202b",
+        "server": "7503",
+        "tags": {
+          "tag": [
+            {
+              "_content": "windowseat",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-115511",
+              "machine_tag": 0,
+              "raw": "window seat"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
-                "width":600
+            {
+              "_content": "airplanes",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-6603",
+              "machine_tag": 0,
+              "raw": "airplanes"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
-                "width":240
+            {
+              "_content": "planes",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-16333",
+              "machine_tag": 0,
+              "raw": "planes"
             },
-            "o":{
-                "extension":"jpg",
-                "height":640,
-                "mimetype":"image/jpeg",
-                "secret":"c6eyVZ9XpRI8cUJlTbA8ubn5fbH6zSP8ONeYhpo4k0vXJRyNkUQT",
-                "width":640
+            {
+              "_content": "airport",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
-                "width":320
+            {
+              "_content": "northcarolina",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-8419",
+              "machine_tag": 0,
+              "raw": "North Carolina"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
-                "width":480
+            {
+              "_content": "charlotte",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
+            },
+            {
+              "_content": "hipstamatic",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-49588106",
+              "machine_tag": 0,
+              "raw": "Hipstamatic"
+            },
+            {
+              "_content": "oggl",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-92012072",
+              "machine_tag": 0,
+              "raw": "Oggl"
+            },
+            {
+              "_content": "jamesmlens",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-77592125",
+              "machine_tag": 0,
+              "raw": "James M Lens"
+            },
+            {
+              "_content": "telegraphfilm",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-238026671",
+              "machine_tag": 0,
+              "raw": "Telegraph Film"
+            },
+            {
+              "_content": "nc",
+              "author": "79907828@N00",
+              "authorname": "K e v i n",
+              "id": "2571590-16065569215-2533",
+              "machine_tag": 0,
+              "raw": "NC"
             }
+          ]
+        },
+        "title": {
+          "_content": ""
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/coyotecreek/16065569215/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "76",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 640,
+          "mimetype": "image/jpeg",
+          "secret": "c6eyVZ9XpRI8cUJlTbA8ubn5fbH6zSP8ONeYhpo4k0vXJRyNkUQT",
+          "width": 640
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "IfLD3AXbGcZwJuuz3GD5C4HB2TEKFT6vQNh1xxOl2Bo8cEK43BYx",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006232,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006232,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"3ad9b9071c83517de652b6d2a3ed1480",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159325583,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159325583,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "3ad9b9071c83517de652b6d2a3ed1480",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325583,
+        "locality_id": 85981333,
+        "media_id": 1159325583,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325583,
+        "media_id": 1159325583,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159325583,
-    "wof:lastmodified":1545868658,
-    "wof:name":"",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325583,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.946153,
     35.216116,
     -80.946153,
     35.216116
-],
+  ],
   "geometry": {"coordinates":[-80.946153,35.216116],"type":"Point"}
 }

@@ -2,416 +2,420 @@
   "id": 1159333125,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-05-28",
-    "date:cessation_upper":"2017-05-28",
-    "date:inception_lower":"2017-05-28",
-    "date:inception_upper":"2017-05-28",
-    "edtf:cessation":"2017-05-28T22:17:11",
-    "edtf:inception":"2017-05-28T22:17:11",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.391291,37.623176,-122.391291,37.623176",
-    "geom:latitude":37.623176,
-    "geom:longitude":-122.391291,
-    "iso:country":"US",
-    "media:created":1496035031,
-    "media:fingerprint":"53e69566a0d182636e78cb3ad3414ab7024fe5d0",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
+    "date:cessation_lower": "2017-05-28",
+    "date:cessation_upper": "2017-05-28",
+    "date:inception_lower": "2017-05-28",
+    "date:inception_upper": "2017-05-28",
+    "edtf:cessation": "2017-05-28T22:17:11",
+    "edtf:inception": "2017-05-28T22:17:11",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.391291,37.623176,-122.391291,37.623176",
+    "geom:latitude": 37.623176,
+    "geom:longitude": -122.391291,
+    "iso:country": "US",
+    "media:created": 1496035031,
+    "media:fingerprint": "53e69566a0d182636e78cb3ad3414ab7024fe5d0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "closest": [
             {
-                "closest":[
-                    {
-                        "hex":"#17806d",
-                        "name":"Tropical Rain Forest",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2e8b57",
-                        "name":"seagreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#0f9753",
-                "name":"#0f9753",
-                "reference":"vibrant"
+              "hex": "#17806d",
+              "name": "Tropical Rain Forest",
+              "reference": "crayola"
             },
             {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#924235",
-                "name":"#924235",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#6699cc",
-                        "name":"Blue Gray",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#5f9ea0",
-                        "name":"cadetblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#668da5",
-                "name":"#668da5",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c1cccf",
-                "name":"#c1cccf",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#31493d",
-                "name":"#31493d",
-                "reference":"vibrant"
+              "hex": "#2e8b57",
+              "name": "seagreen",
+              "reference": "css4"
             }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"35704637972",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1526000804",
-                "posted":"1499849837",
-                "taken":"2017-05-28 22:17:11",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1499849837",
-            "description":{
-                "_content":"B-16731 Boeing 777-300ER Eva Air San Francisco 28-05-2017"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"35704637972",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.623176",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.391291",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"151e5908a0",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5330",
-                "location":"",
-                "nsid":"131806380@N05",
-                "path_alias":null,
-                "realname":"Rob Hodgkins",
-                "username":"cvtperson"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"7210d2c342",
-            "server":"4266",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"b16731",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-305595792",
-                        "machine_tag":0,
-                        "raw":"B-16731"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"777300",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-1126538",
-                        "machine_tag":0,
-                        "raw":"777-300"
-                    },
-                    {
-                        "_content":"eva",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-3245",
-                        "machine_tag":0,
-                        "raw":"Eva"
-                    },
-                    {
-                        "_content":"air",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-5982",
-                        "machine_tag":0,
-                        "raw":"Air"
-                    },
-                    {
-                        "_content":"san",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-3130",
-                        "machine_tag":0,
-                        "raw":"San"
-                    },
-                    {
-                        "_content":"francisco",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-3133",
-                        "machine_tag":0,
-                        "raw":"Francisco"
-                    },
-                    {
-                        "_content":"sfo",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-4991",
-                        "machine_tag":0,
-                        "raw":"SFO"
-                    },
-                    {
-                        "_content":"ksfo",
-                        "author":"131806380@N05",
-                        "authorname":"cvtperson",
-                        "id":"131801040-35704637972-414203",
-                        "machine_tag":0,
-                        "raw":"KSFO"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"B-16731 Boeing 777-300ER Eva Air SFO 28-05-2017"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/131806380@N05/35704637972/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"442",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+          ],
+          "hex": "#0f9753",
+          "name": "#0f9753",
+          "reference": "vibrant"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
-                "width":1023
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3369,
-                "mimetype":"image/jpeg",
-                "secret":"c3cEB8LI0sTZKkjNmA6lsWdLKQZEHAAiXtrfYte0iREP9Q9HMofA",
-                "width":5053
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
-                "width":640
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
             }
+          ],
+          "hex": "#924235",
+          "name": "#924235",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#6699cc",
+              "name": "Blue Gray",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#5f9ea0",
+              "name": "cadetblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#668da5",
+          "name": "#668da5",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c1cccf",
+          "name": "#c1cccf",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#31493d",
+          "name": "#31493d",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "35704637972",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1526000804",
+          "posted": "1499849837",
+          "taken": "2017-05-28 22:17:11",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1499849837",
+        "description": {
+          "_content": "B-16731 Boeing 777-300ER Eva Air San Francisco 28-05-2017"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "35704637972",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.623176",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.391291",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "151e5908a0",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5330",
+          "location": "",
+          "nsid": "131806380@N05",
+          "path_alias": null,
+          "realname": "Rob Hodgkins",
+          "username": "cvtperson"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "7210d2c342",
+        "server": "4266",
+        "tags": {
+          "tag": [
+            {
+              "_content": "b16731",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-305595792",
+              "machine_tag": 0,
+              "raw": "B-16731"
+            },
+            {
+              "_content": "boeing",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
+            },
+            {
+              "_content": "777300",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-1126538",
+              "machine_tag": 0,
+              "raw": "777-300"
+            },
+            {
+              "_content": "eva",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-3245",
+              "machine_tag": 0,
+              "raw": "Eva"
+            },
+            {
+              "_content": "air",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-5982",
+              "machine_tag": 0,
+              "raw": "Air"
+            },
+            {
+              "_content": "san",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-3130",
+              "machine_tag": 0,
+              "raw": "San"
+            },
+            {
+              "_content": "francisco",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-3133",
+              "machine_tag": 0,
+              "raw": "Francisco"
+            },
+            {
+              "_content": "sfo",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-4991",
+              "machine_tag": 0,
+              "raw": "SFO"
+            },
+            {
+              "_content": "ksfo",
+              "author": "131806380@N05",
+              "authorname": "cvtperson",
+              "id": "131801040-35704637972-414203",
+              "machine_tag": 0,
+              "raw": "KSFO"
+            }
+          ]
+        },
+        "title": {
+          "_content": "B-16731 Boeing 777-300ER Eva Air SFO 28-05-2017"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/131806380@N05/35704637972/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "442",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3369,
+          "mimetype": "image/jpeg",
+          "secret": "c3cEB8LI0sTZKkjNmA6lsWdLKQZEHAAiXtrfYte0iREP9Q9HMofA",
+          "width": 5053
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "MUCkzwngq5UxuGXkP6kXuv7QRy3w33hg9CEAz8JZSkj19SKFzlcW",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527020625,
-    "wof:depicts":[
-        102527513,
-        1159288125,
-        1159289979,
-        1159289993,
-        1159293593
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527020625,
+    "wof:depicts": [
+      102527513,
+      1159288125,
+      1159289979,
+      1159289993,
+      1159293593
     ],
-    "wof:geomhash":"944e2d7b0b3b39941e2bf2bea5cb754a",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159333125,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159333125,
-            "region_id":85688637
-        }
+    "wof:geomhash": "944e2d7b0b3b39941e2bf2bea5cb754a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159333125,
+        "locality_id": 85922583,
+        "media_id": 1159333125,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159333125,
+        "media_id": 1159333125,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159333125,
-    "wof:lastmodified":1545868729,
-    "wof:name":"B-16731 Boeing 777-300ER Eva Air SFO 28-05-2017",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159333125,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "B-16731 Boeing 777-300ER Eva Air SFO 28-05-2017",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.391291,
     37.623176,
     -122.391291,
     37.623176
-],
+  ],
   "geometry": {"coordinates":[-122.391291,37.623176],"type":"Point"}
 }

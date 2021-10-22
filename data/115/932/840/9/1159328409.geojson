@@ -2,302 +2,305 @@
   "id": 1159328409,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-10",
-    "date:cessation_upper":"2015-04-10",
-    "date:inception_lower":"2015-04-10",
-    "date:inception_upper":"2015-04-10",
-    "edtf:cessation":"2015-04-10T12:51:53",
-    "edtf:inception":"2015-04-10T12:51:53",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.304005,47.532052,-122.304005,47.532052",
-    "geom:latitude":47.532052,
-    "geom:longitude":-122.304005,
-    "iso:country":"US",
-    "media:created":1428695513,
-    "media:fingerprint":"0fc1f40ee2a35ec94a3507a7c4159bbcebdb13c4",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"16532783653",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1476731788",
-                "posted":"1429066666",
-                "taken":"2015-04-10 12:51:53",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1429066666",
-            "description":{
-                "_content":"MSN 40692  LN 3\nB787-881\nBOEING\nBFI MUSEUM OF FLIGHT"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"16532783653",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"King",
-                    "place_id":"e4JdbCFQUL8iSf0rtg",
-                    "woeid":"12590456"
-                },
-                "latitude":"47.532052",
-                "locality":{
-                    "_content":"King County International Airport-Boeing Field",
-                    "place_id":"3ojMGppQUL9TpjoCCA",
-                    "woeid":"12518877"
-                },
-                "longitude":"-122.304005",
-                "place_id":"3ojMGppQUL9TpjoCCA",
-                "region":{
-                    "_content":"Washington",
-                    "place_id":"jyADg3RTUb65Hnbj",
-                    "woeid":"2347606"
-                },
-                "woeid":"12518877"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"1dc3277420",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8279",
-                "location":"PARIS, FRANCE",
-                "nsid":"16103393@N05",
-                "path_alias":"airlines470",
-                "realname":"ERIC  SALARD",
-                "username":"airlines470"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"4928853c8f",
-            "server":"7602",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"787881",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-41119187",
-                        "machine_tag":0,
-                        "raw":"787-881"
-                    },
-                    {
-                        "_content":"787800",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-17639857",
-                        "machine_tag":0,
-                        "raw":"787-800"
-                    },
-                    {
-                        "_content":"museumofflight",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-15509",
-                        "machine_tag":0,
-                        "raw":"MUSEUM OF flight"
-                    },
-                    {
-                        "_content":"bfiairport",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-248396232",
-                        "machine_tag":0,
-                        "raw":"BFI airport"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-24467",
-                        "machine_tag":0,
-                        "raw":"boeing"
-                    },
-                    {
-                        "_content":"ln3",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-12622637",
-                        "machine_tag":0,
-                        "raw":"LN 3"
-                    },
-                    {
-                        "_content":"msn40692",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-100277625",
-                        "machine_tag":0,
-                        "raw":"MSN 40692"
-                    },
-                    {
-                        "_content":"787",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-322398",
-                        "machine_tag":0,
-                        "raw":"787"
-                    },
-                    {
-                        "_content":"n787bx",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-16532783653-45363483",
-                        "machine_tag":0,
-                        "raw":"N787BX"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"N787BX   BFI  MUSEUM OF FLIGHT"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/airlines470/16532783653/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1206",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-04-10",
+    "date:cessation_upper": "2015-04-10",
+    "date:inception_lower": "2015-04-10",
+    "date:inception_upper": "2015-04-10",
+    "edtf:cessation": "2015-04-10T12:51:53",
+    "edtf:inception": "2015-04-10T12:51:53",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.304005,47.532052,-122.304005,47.532052",
+    "geom:latitude": 47.532052,
+    "geom:longitude": -122.304005,
+    "iso:country": "US",
+    "media:created": 1428695513,
+    "media:fingerprint": "0fc1f40ee2a35ec94a3507a7c4159bbcebdb13c4",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "16532783653",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":680,
-                "mimetype":"image/jpeg",
-                "secret":"J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
-                "width":1024
+        "dates": {
+          "lastupdate": "1476731788",
+          "posted": "1429066666",
+          "taken": "2015-04-10 12:51:53",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1429066666",
+        "description": {
+          "_content": "MSN 40692  LN 3\nB787-881\nBOEING\nBFI MUSEUM OF FLIGHT"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "16532783653",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "King",
+            "place_id": "e4JdbCFQUL8iSf0rtg",
+            "woeid": "12590456"
+          },
+          "latitude": "47.532052",
+          "locality": {
+            "_content": "King County International Airport-Boeing Field",
+            "place_id": "3ojMGppQUL9TpjoCCA",
+            "woeid": "12518877"
+          },
+          "longitude": "-122.304005",
+          "place_id": "3ojMGppQUL9TpjoCCA",
+          "region": {
+            "_content": "Washington",
+            "place_id": "jyADg3RTUb65Hnbj",
+            "woeid": "2347606"
+          },
+          "woeid": "12518877"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "1dc3277420",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8279",
+          "location": "PARIS, FRANCE",
+          "nsid": "16103393@N05",
+          "path_alias": "airlines470",
+          "realname": "ERIC  SALARD",
+          "username": "airlines470"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "4928853c8f",
+        "server": "7602",
+        "tags": {
+          "tag": [
+            {
+              "_content": "787881",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-41119187",
+              "machine_tag": 0,
+              "raw": "787-881"
             },
-            "c":{
-                "extension":"jpg",
-                "height":531,
-                "mimetype":"image/jpeg",
-                "secret":"J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
-                "width":800
+            {
+              "_content": "787800",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-17639857",
+              "machine_tag": 0,
+              "raw": "787-800"
             },
-            "n":{
-                "extension":"jpg",
-                "height":212,
-                "mimetype":"image/jpeg",
-                "secret":"J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
-                "width":320
+            {
+              "_content": "museumofflight",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-15509",
+              "machine_tag": 0,
+              "raw": "MUSEUM OF flight"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2848,
-                "mimetype":"image/jpeg",
-                "secret":"9XqSrXhvxH9p2Q0vgmLXRIFnXr1AtmbYNkarbbKi9zZXKzkwCQgj",
-                "width":4288
+            {
+              "_content": "bfiairport",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-248396232",
+              "machine_tag": 0,
+              "raw": "BFI airport"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
-                "width":320
+            {
+              "_content": "boeing",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-24467",
+              "machine_tag": 0,
+              "raw": "boeing"
             },
-            "z":{
-                "extension":"jpg",
-                "height":425,
-                "mimetype":"image/jpeg",
-                "secret":"J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
-                "width":640
+            {
+              "_content": "ln3",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-12622637",
+              "machine_tag": 0,
+              "raw": "LN 3"
+            },
+            {
+              "_content": "msn40692",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-100277625",
+              "machine_tag": 0,
+              "raw": "MSN 40692"
+            },
+            {
+              "_content": "787",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-322398",
+              "machine_tag": 0,
+              "raw": "787"
+            },
+            {
+              "_content": "n787bx",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-16532783653-45363483",
+              "machine_tag": 0,
+              "raw": "N787BX"
             }
+          ]
+        },
+        "title": {
+          "_content": "N787BX   BFI  MUSEUM OF FLIGHT"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/airlines470/16532783653/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1206",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 680,
+          "mimetype": "image/jpeg",
+          "secret": "J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 531,
+          "mimetype": "image/jpeg",
+          "secret": "J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 212,
+          "mimetype": "image/jpeg",
+          "secret": "J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2848,
+          "mimetype": "image/jpeg",
+          "secret": "9XqSrXhvxH9p2Q0vgmLXRIFnXr1AtmbYNkarbbKi9zZXKzkwCQgj",
+          "width": 4288
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 425,
+          "mimetype": "image/jpeg",
+          "secret": "J5WIXSCTrWoiPTKIt2t7Elv4Ko8oCnVhaX3PSF2Sn9XuJwO2PbXZ",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527671,
-        85821315,
-        102191575,
-        85633793,
-        101730401,
-        102086191,
-        85688623
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527671,
+      85821315,
+      102191575,
+      85633793,
+      101730401,
+      102086191,
+      85688623
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007630,
-    "wof:depicts":[
-        102527671
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007630,
+    "wof:depicts": [
+      102527671
     ],
-    "wof:geomhash":"65f0ed3e3505386aac5b50ccb6b0dc26",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527671,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "media_id":1159328409,
-            "neighbourhood_id":85821315,
-            "region_id":85688623
-        }
+    "wof:geomhash": "65f0ed3e3505386aac5b50ccb6b0dc26",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527671,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "image_id": 1159328409,
+        "locality_id": 101730401,
+        "media_id": 1159328409,
+        "neighbourhood_id": 85821315,
+        "region_id": 85688623
+      }
     ],
-    "wof:id":1159328409,
-    "wof:lastmodified":1545868648,
-    "wof:name":"N787BX   BFI  MUSEUM OF FLIGHT",
-    "wof:parent_id":102527671,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328409,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "N787BX   BFI  MUSEUM OF FLIGHT",
+    "wof:parent_id": 102527671,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.304005,
     47.532052,
     -122.304005,
     47.532052
-],
+  ],
   "geometry": {"coordinates":[-122.304005,47.532052],"type":"Point"}
 }

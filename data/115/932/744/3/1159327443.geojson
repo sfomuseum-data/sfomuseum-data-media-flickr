@@ -2,246 +2,249 @@
   "id": 1159327443,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-08-13",
-    "date:cessation_upper":"2013-08-13",
-    "date:inception_lower":"2013-08-13",
-    "date:inception_upper":"2013-08-13",
-    "edtf:cessation":"2013-08-13T09:10:58",
-    "edtf:inception":"2013-08-13T09:10:58",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.03847,32.885836,-80.03847,32.885836",
-    "geom:latitude":32.885836,
-    "geom:longitude":-80.03847,
-    "iso:country":"US",
-    "media:created":1376410258,
-    "media:fingerprint":"26d14748a1eef9300b6fda373bce654c418448b8",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"9518574864",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1376585790",
-                "posted":"1376585750",
-                "taken":"2013-08-13 09:10:58",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1376585750",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"9518574864",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Charleston",
-                    "place_id":"Jc0dijdQUL.n.X07GA",
-                    "woeid":"12589809"
-                },
-                "latitude":"32.885836",
-                "locality":{
-                    "_content":"Charleston International Airport",
-                    "place_id":"1SI6QotQUL_AP1MaLA",
-                    "woeid":"12519142"
-                },
-                "longitude":"-80.038470",
-                "place_id":"1SI6QotQUL_AP1MaLA",
-                "region":{
-                    "_content":"South Carolina",
-                    "place_id":"J0wmj5lTUb6eTQbF",
-                    "woeid":"2347599"
-                },
-                "woeid":"12519142"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"9b43d8de97",
-            "owner":{
-                "iconfarm":0,
-                "iconserver":"0",
-                "location":"Berlin, Germany",
-                "nsid":"21051491@N02",
-                "path_alias":"qubodup",
-                "realname":"Iwan Gabovitch",
-                "username":"Iwan Gabovitch"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"46a5369720",
-            "server":"3801",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"miami",
-                        "author":"21051491@N02",
-                        "authorname":"Iwan Gabovitch",
-                        "id":"21031143-9518574864-4861",
-                        "machine_tag":0,
-                        "raw":"miami"
-                    },
-                    {
-                        "_content":"mia",
-                        "author":"21051491@N02",
-                        "authorname":"Iwan Gabovitch",
-                        "id":"21031143-9518574864-15419",
-                        "machine_tag":0,
-                        "raw":"mia"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"AA3468 landed in Miami MIA"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/qubodup/9518574864/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"164",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-08-13",
+    "date:cessation_upper": "2013-08-13",
+    "date:inception_lower": "2013-08-13",
+    "date:inception_upper": "2013-08-13",
+    "edtf:cessation": "2013-08-13T09:10:58",
+    "edtf:inception": "2013-08-13T09:10:58",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.038470,32.885836,-80.038470,32.885836",
+    "geom:latitude": 32.885836,
+    "geom:longitude": -80.03847,
+    "iso:country": "US",
+    "media:created": 1376410258,
+    "media:fingerprint": "26d14748a1eef9300b6fda373bce654c418448b8",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "9518574864",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":576,
-                "mimetype":"image/jpeg",
-                "secret":"MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
-                "width":1024
+        "dates": {
+          "lastupdate": "1376585790",
+          "posted": "1376585750",
+          "taken": "2013-08-13 09:10:58",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1376585750",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "9518574864",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Charleston",
+            "place_id": "Jc0dijdQUL.n.X07GA",
+            "woeid": "12589809"
+          },
+          "latitude": "32.885836",
+          "locality": {
+            "_content": "Charleston International Airport",
+            "place_id": "1SI6QotQUL_AP1MaLA",
+            "woeid": "12519142"
+          },
+          "longitude": "-80.038470",
+          "place_id": "1SI6QotQUL_AP1MaLA",
+          "region": {
+            "_content": "South Carolina",
+            "place_id": "J0wmj5lTUb6eTQbF",
+            "woeid": "2347599"
+          },
+          "woeid": "12519142"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "9b43d8de97",
+        "owner": {
+          "iconfarm": 0,
+          "iconserver": "0",
+          "location": "Berlin, Germany",
+          "nsid": "21051491@N02",
+          "path_alias": "qubodup",
+          "realname": "Iwan Gabovitch",
+          "username": "Iwan Gabovitch"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "46a5369720",
+        "server": "3801",
+        "tags": {
+          "tag": [
+            {
+              "_content": "miami",
+              "author": "21051491@N02",
+              "authorname": "Iwan Gabovitch",
+              "id": "21031143-9518574864-4861",
+              "machine_tag": 0,
+              "raw": "miami"
             },
-            "c":{
-                "extension":"jpg",
-                "height":450,
-                "mimetype":"image/jpeg",
-                "secret":"MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":180,
-                "mimetype":"image/jpeg",
-                "secret":"MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2000,
-                "mimetype":"image/jpeg",
-                "secret":"4MyFpfkW5Tp2zBsGTcSLJIi5oAUv5vm9ULd9HhyhiWreZufbjXoz",
-                "width":3552
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":360,
-                "mimetype":"image/jpeg",
-                "secret":"MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
-                "width":640
+            {
+              "_content": "mia",
+              "author": "21051491@N02",
+              "authorname": "Iwan Gabovitch",
+              "id": "21031143-9518574864-15419",
+              "machine_tag": 0,
+              "raw": "mia"
             }
+          ]
+        },
+        "title": {
+          "_content": "AA3468 landed in Miami MIA"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/qubodup/9518574864/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "164",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 576,
+          "mimetype": "image/jpeg",
+          "secret": "MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 450,
+          "mimetype": "image/jpeg",
+          "secret": "MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 180,
+          "mimetype": "image/jpeg",
+          "secret": "MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2000,
+          "mimetype": "image/jpeg",
+          "secret": "4MyFpfkW5Tp2zBsGTcSLJIi5oAUv5vm9ULd9HhyhiWreZufbjXoz",
+          "width": 3552
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 360,
+          "mimetype": "image/jpeg",
+          "secret": "MYvDpEUttW1TsEAgGCkx1pwgL3eecMRS93pKCujTpEtoWawLv5Uw",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531215,
-        85839447,
-        102191575,
-        85633793,
-        101720747,
-        102085591,
-        85688683
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531215,
+      85839447,
+      102191575,
+      85633793,
+      101720747,
+      102085591,
+      85688683
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006909,
-    "wof:depicts":[
-        102531215
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006909,
+    "wof:depicts": [
+      102531215
     ],
-    "wof:geomhash":"f83a1b6c572e081efc7151561aeb1467",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531215,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085591,
-            "locality_id":101720747,
-            "media_id":1159327443,
-            "neighbourhood_id":85839447,
-            "region_id":85688683
-        }
+    "wof:geomhash": "f83a1b6c572e081efc7151561aeb1467",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531215,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085591,
+        "image_id": 1159327443,
+        "locality_id": 101720747,
+        "media_id": 1159327443,
+        "neighbourhood_id": 85839447,
+        "region_id": 85688683
+      }
     ],
-    "wof:id":1159327443,
-    "wof:lastmodified":1545868666,
-    "wof:name":"AA3468 landed in Miami MIA",
-    "wof:parent_id":102531215,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327443,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "AA3468 landed in Miami MIA",
+    "wof:parent_id": 102531215,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.03847,
     32.885836,
     -80.03847,
     32.885836
-],
+  ],
   "geometry": {"coordinates":[-80.03847,32.885836],"type":"Point"}
 }

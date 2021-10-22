@@ -2,279 +2,283 @@
   "id": 1159328197,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2010-11-11",
-    "date:cessation_upper":"2010-11-11",
-    "date:inception_lower":"2010-11-11",
-    "date:inception_upper":"2010-11-11",
-    "edtf:cessation":"2010-11-11T06:16:19",
-    "edtf:inception":"2010-11-11T06:16:19",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.947523,35.22017,-80.947523,35.22017",
-    "geom:latitude":35.22017,
-    "geom:longitude":-80.947523,
-    "iso:country":"US",
-    "media:created":1289484979,
-    "media:fingerprint":"f3178366dddd3a14b6b48c464f9cdee24b0e0f47",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"5166596822",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1289474182",
-                "posted":"1289474179",
-                "taken":"2010-11-11 06:16:19",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1289474179",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":2,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"5166596822",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220170",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.947523",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"cb7563a779",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2085",
-                "location":"Charleston, SC, United States",
-                "nsid":"7238578@N05",
-                "path_alias":"anthropolemic",
-                "realname":"Jared Smith",
-                "username":"Jared W. Smith"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"33cf74fb01",
-            "server":"1413",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"7238578@N05",
-                        "authorname":"Jared W. Smith",
-                        "id":"7233238-5166596822-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"7238578@N05",
-                        "authorname":"Jared W. Smith",
-                        "id":"7233238-5166596822-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"7238578@N05",
-                        "authorname":"Jared W. Smith",
-                        "id":"7233238-5166596822-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"7238578@N05",
-                        "authorname":"Jared W. Smith",
-                        "id":"7233238-5166596822-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"7238578@N05",
-                        "authorname":"Jared W. Smith",
-                        "id":"7233238-5166596822-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"My view for the next couple hours."
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/anthropolemic/5166596822/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"87",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2010-11-11",
+    "date:cessation_upper": "2010-11-11",
+    "date:inception_lower": "2010-11-11",
+    "date:inception_upper": "2010-11-11",
+    "edtf:cessation": "2010-11-11T06:16:19",
+    "edtf:inception": "2010-11-11T06:16:19",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.947523,35.220170,-80.947523,35.220170",
+    "geom:latitude": 35.22017,
+    "geom:longitude": -80.947523,
+    "iso:country": "US",
+    "media:created": 1289484979,
+    "media:fingerprint": "f3178366dddd3a14b6b48c464f9cdee24b0e0f47",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "5166596822",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
-                "width":768
+        "dates": {
+          "lastupdate": "1289474182",
+          "posted": "1289474179",
+          "taken": "2010-11-11 06:16:19",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1289474179",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 2,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "5166596822",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220170",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.947523",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "cb7563a779",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2085",
+          "location": "Charleston, SC, United States",
+          "nsid": "7238578@N05",
+          "path_alias": "anthropolemic",
+          "realname": "Jared Smith",
+          "username": "Jared W. Smith"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "33cf74fb01",
+        "server": "1413",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "7238578@N05",
+              "authorname": "Jared W. Smith",
+              "id": "7233238-5166596822-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
-                "width":600
+            {
+              "_content": "square",
+              "author": "7238578@N05",
+              "authorname": "Jared W. Smith",
+              "id": "7233238-5166596822-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
-                "width":240
+            {
+              "_content": "squareformat",
+              "author": "7238578@N05",
+              "authorname": "Jared W. Smith",
+              "id": "7233238-5166596822-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "o":{
-                "extension":"jpg",
-                "height":612,
-                "mimetype":"image/jpeg",
-                "secret":"XHKsZ31ko8ZWJTSQH2dCHgpkPGH3A8FD4TI5JvPxJR942EUK5ms6",
-                "width":612
+            {
+              "_content": "iphoneography",
+              "author": "7238578@N05",
+              "authorname": "Jared W. Smith",
+              "id": "7233238-5166596822-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
-                "width":480
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "7238578@N05",
+              "authorname": "Jared W. Smith",
+              "id": "7233238-5166596822-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             }
+          ]
+        },
+        "title": {
+          "_content": "My view for the next couple hours."
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/anthropolemic/5166596822/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "87",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 612,
+          "mimetype": "image/jpeg",
+          "secret": "XHKsZ31ko8ZWJTSQH2dCHgpkPGH3A8FD4TI5JvPxJR942EUK5ms6",
+          "width": 612
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "Dun0q2jNe1wmCJdbH1WsEC0crAUrJ3vN2c7VQ1uiPVR0fXdXmt1N",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007404,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007404,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"c89a361dc699ab2445a5ab8c8cf10294",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328197,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328197,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "c89a361dc699ab2445a5ab8c8cf10294",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328197,
+        "locality_id": 85981333,
+        "media_id": 1159328197,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328197,
+        "media_id": 1159328197,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328197,
-    "wof:lastmodified":1545868692,
-    "wof:name":"My view for the next couple hours.",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328197,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "My view for the next couple hours.",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.947523,
     35.22017,
     -80.947523,
     35.22017
-],
+  ],
   "geometry": {"coordinates":[-80.947523,35.22017],"type":"Point"}
 }

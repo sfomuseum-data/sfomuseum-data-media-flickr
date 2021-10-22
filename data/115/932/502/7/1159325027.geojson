@@ -2,360 +2,363 @@
   "id": 1159325027,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-02-14",
-    "date:cessation_upper":"2013-02-14",
-    "date:inception_lower":"2013-02-14",
-    "date:inception_upper":"2013-02-14",
-    "edtf:cessation":"2013-02-14T15:40:40",
-    "edtf:inception":"2013-02-14T15:40:40",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.206846,39.905542,-84.206846,39.905542",
-    "geom:latitude":39.905542,
-    "geom:longitude":-84.206846,
-    "iso:country":"US",
-    "media:created":1360885240,
-    "media:fingerprint":"eeabcc09a12d5c0f8a0e1be53d0a44ef234c1449",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8474765778",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1360879046",
-                "posted":"1360878194",
-                "taken":"2013-02-14 15:40:40",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1360878194",
-            "description":{
-                "_content":"Ameristar Jet Charter McDonnell Douglas MD-83\n\nJames M. Cox Dayton International Airport"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8474765778",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Montgomery",
-                    "place_id":"6bZemIVQUL8LSYoWJg",
-                    "woeid":"12589583"
-                },
-                "latitude":"39.905542",
-                "locality":{
-                    "_content":"James M Cox Dayton International Airport",
-                    "place_id":"BSnRH65QUL8Ww2N8Jw",
-                    "woeid":"12520347"
-                },
-                "longitude":"-84.206846",
-                "place_id":"BSnRH65QUL8Ww2N8Jw",
-                "region":{
-                    "_content":"Ohio",
-                    "place_id":"UUU.pnpTUb7KHEfH",
-                    "woeid":"2347594"
-                },
-                "woeid":"12520347"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"38ecf07ed6",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2593",
-                "location":"Vandalia, OH, United States",
-                "nsid":"42603028@N05",
-                "path_alias":"redlegsfan21",
-                "realname":"",
-                "username":"redlegsfan21"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"4b53ab8974",
-            "server":"8382",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"n786tw",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-18561508",
-                        "machine_tag":0,
-                        "raw":"N786TW"
-                    },
-                    {
-                        "_content":"ameristar",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-453575",
-                        "machine_tag":0,
-                        "raw":"Ameristar"
-                    },
-                    {
-                        "_content":"jet",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-7212",
-                        "machine_tag":0,
-                        "raw":"Jet"
-                    },
-                    {
-                        "_content":"charter",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-84144",
-                        "machine_tag":0,
-                        "raw":"Charter"
-                    },
-                    {
-                        "_content":"mcdonnell",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-187961",
-                        "machine_tag":0,
-                        "raw":"McDonnell"
-                    },
-                    {
-                        "_content":"douglas",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-31653",
-                        "machine_tag":0,
-                        "raw":"Douglas"
-                    },
-                    {
-                        "_content":"md83",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-650828",
-                        "machine_tag":0,
-                        "raw":"MD-83"
-                    },
-                    {
-                        "_content":"james",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-2094",
-                        "machine_tag":0,
-                        "raw":"James"
-                    },
-                    {
-                        "_content":"m",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-10821",
-                        "machine_tag":0,
-                        "raw":"M."
-                    },
-                    {
-                        "_content":"cox",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-17246",
-                        "machine_tag":0,
-                        "raw":"Cox"
-                    },
-                    {
-                        "_content":"dayton",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-63106",
-                        "machine_tag":0,
-                        "raw":"Dayton"
-                    },
-                    {
-                        "_content":"international",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-12495",
-                        "machine_tag":0,
-                        "raw":"International"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"aji",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-60917",
-                        "machine_tag":0,
-                        "raw":"AJI"
-                    },
-                    {
-                        "_content":"day",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-3511",
-                        "machine_tag":0,
-                        "raw":"DAY"
-                    },
-                    {
-                        "_content":"kday",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8474765778-265840",
-                        "machine_tag":0,
-                        "raw":"KDAY"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"N786TW"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/redlegsfan21/8474765778/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"296",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-02-14",
+    "date:cessation_upper": "2013-02-14",
+    "date:inception_lower": "2013-02-14",
+    "date:inception_upper": "2013-02-14",
+    "edtf:cessation": "2013-02-14T15:40:40",
+    "edtf:inception": "2013-02-14T15:40:40",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.206846,39.905542,-84.206846,39.905542",
+    "geom:latitude": 39.905542,
+    "geom:longitude": -84.206846,
+    "iso:country": "US",
+    "media:created": 1360885240,
+    "media:fingerprint": "eeabcc09a12d5c0f8a0e1be53d0a44ef234c1449",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8474765778",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
-                "width":1024
+        "dates": {
+          "lastupdate": "1360879046",
+          "posted": "1360878194",
+          "taken": "2013-02-14 15:40:40",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1360878194",
+        "description": {
+          "_content": "Ameristar Jet Charter McDonnell Douglas MD-83\n\nJames M. Cox Dayton International Airport"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8474765778",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Montgomery",
+            "place_id": "6bZemIVQUL8LSYoWJg",
+            "woeid": "12589583"
+          },
+          "latitude": "39.905542",
+          "locality": {
+            "_content": "James M Cox Dayton International Airport",
+            "place_id": "BSnRH65QUL8Ww2N8Jw",
+            "woeid": "12520347"
+          },
+          "longitude": "-84.206846",
+          "place_id": "BSnRH65QUL8Ww2N8Jw",
+          "region": {
+            "_content": "Ohio",
+            "place_id": "UUU.pnpTUb7KHEfH",
+            "woeid": "2347594"
+          },
+          "woeid": "12520347"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "38ecf07ed6",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2593",
+          "location": "Vandalia, OH, United States",
+          "nsid": "42603028@N05",
+          "path_alias": "redlegsfan21",
+          "realname": "",
+          "username": "redlegsfan21"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "4b53ab8974",
+        "server": "8382",
+        "tags": {
+          "tag": [
+            {
+              "_content": "n786tw",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-18561508",
+              "machine_tag": 0,
+              "raw": "N786TW"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
-                "width":800
+            {
+              "_content": "ameristar",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-453575",
+              "machine_tag": 0,
+              "raw": "Ameristar"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
-                "width":320
+            {
+              "_content": "jet",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-7212",
+              "machine_tag": 0,
+              "raw": "Jet"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3000,
-                "mimetype":"image/jpeg",
-                "secret":"gBP2Rbm0R3t0PDFpEdG3Q3yTJaTkGEJUMvGT945dO5cgo68QSj7V",
-                "width":4000
+            {
+              "_content": "charter",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-84144",
+              "machine_tag": 0,
+              "raw": "Charter"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
-                "width":320
+            {
+              "_content": "mcdonnell",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-187961",
+              "machine_tag": 0,
+              "raw": "McDonnell"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
-                "width":640
+            {
+              "_content": "douglas",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-31653",
+              "machine_tag": 0,
+              "raw": "Douglas"
+            },
+            {
+              "_content": "md83",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-650828",
+              "machine_tag": 0,
+              "raw": "MD-83"
+            },
+            {
+              "_content": "james",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-2094",
+              "machine_tag": 0,
+              "raw": "James"
+            },
+            {
+              "_content": "m",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-10821",
+              "machine_tag": 0,
+              "raw": "M."
+            },
+            {
+              "_content": "cox",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-17246",
+              "machine_tag": 0,
+              "raw": "Cox"
+            },
+            {
+              "_content": "dayton",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-63106",
+              "machine_tag": 0,
+              "raw": "Dayton"
+            },
+            {
+              "_content": "international",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-12495",
+              "machine_tag": 0,
+              "raw": "International"
+            },
+            {
+              "_content": "airport",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
+            },
+            {
+              "_content": "aji",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-60917",
+              "machine_tag": 0,
+              "raw": "AJI"
+            },
+            {
+              "_content": "day",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-3511",
+              "machine_tag": 0,
+              "raw": "DAY"
+            },
+            {
+              "_content": "kday",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8474765778-265840",
+              "machine_tag": 0,
+              "raw": "KDAY"
             }
+          ]
+        },
+        "title": {
+          "_content": "N786TW"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/redlegsfan21/8474765778/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "296",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3000,
+          "mimetype": "image/jpeg",
+          "secret": "gBP2Rbm0R3t0PDFpEdG3Q3yTJaTkGEJUMvGT945dO5cgo68QSj7V",
+          "width": 4000
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "WxM2mJhibwpQuRkcUyo5kx0AZHtAY9Nr9uzkhb6PoREqrh01yp3C",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534301,
-        85833935,
-        102191575,
-        404526925,
-        85633793,
-        101712189,
-        102083667,
-        85688485
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534301,
+      85833935,
+      102191575,
+      404526925,
+      85633793,
+      101712189,
+      102083667,
+      85688485
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006053,
-    "wof:depicts":[
-        102534301
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006053,
+    "wof:depicts": [
+      102534301
     ],
-    "wof:geomhash":"1fbfeea1860b2bfc37df1c77dd5bfa7f",
-    "wof:hierarchy":[
-        {
-            "campus_id":102534301,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083667,
-            "localadmin_id":404526925,
-            "locality_id":101712189,
-            "media_id":1159325027,
-            "neighbourhood_id":85833935,
-            "region_id":85688485
-        }
+    "wof:geomhash": "1fbfeea1860b2bfc37df1c77dd5bfa7f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102534301,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083667,
+        "image_id": 1159325027,
+        "localadmin_id": 404526925,
+        "locality_id": 101712189,
+        "media_id": 1159325027,
+        "neighbourhood_id": 85833935,
+        "region_id": 85688485
+      }
     ],
-    "wof:id":1159325027,
-    "wof:lastmodified":1545868693,
-    "wof:name":"N786TW",
-    "wof:parent_id":102534301,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325027,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "N786TW",
+    "wof:parent_id": 102534301,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.206846,
     39.905542,
     -84.206846,
     39.905542
-],
+  ],
   "geometry": {"coordinates":[-84.206846,39.905542],"type":"Point"}
 }

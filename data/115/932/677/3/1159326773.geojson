@@ -2,246 +2,249 @@
   "id": 1159326773,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-01-01",
-    "date:cessation_upper":"2013-01-01",
-    "date:inception_lower":"2013-01-01",
-    "date:inception_upper":"2013-01-01",
-    "edtf:cessation":"2013-01-01T14:24:18",
-    "edtf:inception":"2013-01-01T14:24:18",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.656167,39.055666,-84.656167,39.055666",
-    "geom:latitude":39.055666,
-    "geom:longitude":-84.656167,
-    "iso:country":"US",
-    "media:created":1357079058,
-    "media:fingerprint":"40cbb49ce30146b16677efe5a3338ee8c2f0dded",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8335110832",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1357409459",
-                "posted":"1357072187",
-                "taken":"2013-01-01 14:24:18",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1357072187",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8335110832",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.055666",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.656167",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"3976f27d69",
-            "owner":{
-                "iconfarm":5,
-                "iconserver":"4526",
-                "location":"",
-                "nsid":"14662121@N00",
-                "path_alias":"dewmike",
-                "realname":"",
-                "username":"temporarySPASTIC"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"c148dcd730",
-            "server":"8078",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"mammothfilter",
-                        "author":"14662121@N00",
-                        "authorname":"temporarySPASTIC",
-                        "id":"1461679-8335110832-101497757",
-                        "machine_tag":0,
-                        "raw":"Mammoth filter"
-                    },
-                    {
-                        "_content":"flickriosapp:filter=mammoth",
-                        "author":"14662121@N00",
-                        "authorname":"temporarySPASTIC",
-                        "id":"1461679-8335110832-100973154",
-                        "machine_tag":1,
-                        "raw":"flickriosapp:filter=Mammoth"
-                    },
-                    {
-                        "_content":"uploaded:by=flickrmobile",
-                        "author":"14662121@N00",
-                        "authorname":"temporarySPASTIC",
-                        "id":"1461679-8335110832-97692397",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=flickr_mobile"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"cvg"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/dewmike/8335110832/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"117",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-01-01",
+    "date:cessation_upper": "2013-01-01",
+    "date:inception_lower": "2013-01-01",
+    "date:inception_upper": "2013-01-01",
+    "edtf:cessation": "2013-01-01T14:24:18",
+    "edtf:inception": "2013-01-01T14:24:18",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.656167,39.055666,-84.656167,39.055666",
+    "geom:latitude": 39.055666,
+    "geom:longitude": -84.656167,
+    "iso:country": "US",
+    "media:created": 1357079058,
+    "media:fingerprint": "40cbb49ce30146b16677efe5a3338ee8c2f0dded",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8335110832",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
-                "width":576
+        "dates": {
+          "lastupdate": "1357409459",
+          "posted": "1357072187",
+          "taken": "2013-01-01 14:24:18",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1357072187",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8335110832",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.055666",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.656167",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "3976f27d69",
+        "owner": {
+          "iconfarm": 5,
+          "iconserver": "4526",
+          "location": "",
+          "nsid": "14662121@N00",
+          "path_alias": "dewmike",
+          "realname": "",
+          "username": "temporarySPASTIC"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "c148dcd730",
+        "server": "8078",
+        "tags": {
+          "tag": [
+            {
+              "_content": "mammothfilter",
+              "author": "14662121@N00",
+              "authorname": "temporarySPASTIC",
+              "id": "1461679-8335110832-101497757",
+              "machine_tag": 0,
+              "raw": "Mammoth filter"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
-                "width":450
+            {
+              "_content": "flickriosapp:filter=mammoth",
+              "author": "14662121@N00",
+              "authorname": "temporarySPASTIC",
+              "id": "1461679-8335110832-100973154",
+              "machine_tag": 1,
+              "raw": "flickriosapp:filter=Mammoth"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
-                "width":180
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3264,
-                "mimetype":"image/jpeg",
-                "secret":"YoC8Z7PE2ncvhLc8qvCDfah7zleMRjKSUBEbE0twgiodSR34mWjp",
-                "width":2448
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
-                "width":360
+            {
+              "_content": "uploaded:by=flickrmobile",
+              "author": "14662121@N00",
+              "authorname": "temporarySPASTIC",
+              "id": "1461679-8335110832-97692397",
+              "machine_tag": 1,
+              "raw": "uploaded:by=flickr_mobile"
             }
+          ]
+        },
+        "title": {
+          "_content": "cvg"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/dewmike/8335110832/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "117",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3264,
+          "mimetype": "image/jpeg",
+          "secret": "YoC8Z7PE2ncvhLc8qvCDfah7zleMRjKSUBEbE0twgiodSR34mWjp",
+          "width": 2448
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "0S3tmGrqLwc9e1SO9Po9Jcgnw7VfquPB43ZUDPWEffm5MF2o0mbn",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006686,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006686,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"3613ec5d4145909d16885e187aa91666",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326773,
-            "region_id":85688641
-        }
+    "wof:geomhash": "3613ec5d4145909d16885e187aa91666",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326773,
+        "media_id": 1159326773,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326773,
-    "wof:lastmodified":1545868685,
-    "wof:name":"cvg",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326773,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "cvg",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.656167,
     39.055666,
     -84.656167,
     39.055666
-],
+  ],
   "geometry": {"coordinates":[-84.656167,39.055666],"type":"Point"}
 }

@@ -2,238 +2,242 @@
   "id": 1159328155,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-06-02",
-    "date:cessation_upper":"2011-06-02",
-    "date:inception_lower":"2011-06-02",
-    "date:inception_upper":"2011-06-02",
-    "edtf:cessation":"2011-06-02T16:16:15",
-    "edtf:inception":"2011-06-02T16:16:15",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.9405,35.22,-80.9405,35.22",
-    "geom:latitude":35.22,
-    "geom:longitude":-80.9405,
-    "iso:country":"US",
-    "media:created":1307056575,
-    "media:fingerprint":"5eefa2db4f86ac351b93bb49de0bfa5caa51a041",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"5814290635",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1377467193",
-                "posted":"1307615206",
-                "taken":"2011-06-02 16:16:15",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1307615206",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"5814290635",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220000",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.940500",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"81b7fc5b87",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7337",
-                "location":"USA",
-                "nsid":"63159068@N00",
-                "path_alias":"brevort",
-                "realname":"",
-                "username":"Brevort"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"894c0e282b",
-            "server":"3194",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Jim Martin Boarding Flight To Paris (6-2-11)"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/brevort/5814290635/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"252",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2011-06-02",
+    "date:cessation_upper": "2011-06-02",
+    "date:inception_lower": "2011-06-02",
+    "date:inception_upper": "2011-06-02",
+    "edtf:cessation": "2011-06-02T16:16:15",
+    "edtf:inception": "2011-06-02T16:16:15",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.940500,35.220000,-80.940500,35.220000",
+    "geom:latitude": 35.22,
+    "geom:longitude": -80.9405,
+    "iso:country": "US",
+    "media:created": 1307056575,
+    "media:fingerprint": "5eefa2db4f86ac351b93bb49de0bfa5caa51a041",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "5814290635",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
-                "width":573
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
-                "width":448
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
-                "width":179
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2592,
-                "mimetype":"image/jpeg",
-                "secret":"AKeNom75BakoDgzvdTR4U5tyR51B7qy7wPlvIZ2zOdb5LrE3KQe4",
-                "width":1936
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
-                "width":358
+        "dates": {
+          "lastupdate": "1377467193",
+          "posted": "1307615206",
+          "taken": "2011-06-02 16:16:15",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1307615206",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "5814290635",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220000",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.940500",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "81b7fc5b87",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7337",
+          "location": "USA",
+          "nsid": "63159068@N00",
+          "path_alias": "brevort",
+          "realname": "",
+          "username": "Brevort"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "894c0e282b",
+        "server": "3194",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Jim Martin Boarding Flight To Paris (6-2-11)"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/brevort/5814290635/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "252",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
+          "width": 573
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
+          "width": 448
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
+          "width": 179
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2592,
+          "mimetype": "image/jpeg",
+          "secret": "AKeNom75BakoDgzvdTR4U5tyR51B7qy7wPlvIZ2zOdb5LrE3KQe4",
+          "width": 1936
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "izy3rNg5bjsQkWglI22isnD8Uka42vcrJerGiXzVyFPGFaIZ0o0Z",
+          "width": 358
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007392,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007392,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"1793fa024e064750ce24039a4f9244f8",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328155,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328155,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "1793fa024e064750ce24039a4f9244f8",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328155,
+        "locality_id": 85981333,
+        "media_id": 1159328155,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328155,
+        "media_id": 1159328155,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328155,
-    "wof:lastmodified":1545868673,
-    "wof:name":"Jim Martin Boarding Flight To Paris (6-2-11)",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328155,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Jim Martin Boarding Flight To Paris (6-2-11)",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.9405,
     35.22,
     -80.9405,
     35.22
-],
+  ],
   "geometry": {"coordinates":[-80.9405,35.22],"type":"Point"}
 }

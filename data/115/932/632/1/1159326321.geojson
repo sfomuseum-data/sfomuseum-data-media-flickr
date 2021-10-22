@@ -2,311 +2,314 @@
   "id": 1159326321,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2008-04-25",
-    "date:cessation_upper":"2008-04-25",
-    "date:inception_lower":"2008-04-25",
-    "date:inception_upper":"2008-04-25",
-    "edtf:cessation":"2008-04-25T06:15:20",
-    "edtf:inception":"2008-04-25T06:15:20",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.44157,40.651894,-75.44157,40.651894",
-    "geom:latitude":40.651894,
-    "geom:longitude":-75.44157,
-    "iso:country":"US",
-    "media:created":1209129320,
-    "media:fingerprint":"4ebb37092c9233c86928025a73c78397bb539da0",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"2469218089",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1226863103",
-                "posted":"1210044250",
-                "taken":"2008-04-25 06:15:20",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1210044250",
-            "description":{
-                "_content":"Getting ready to depart for NV/UT/AZ for a weekend adventure!"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":3,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"2469218089",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Northampton",
-                    "place_id":"u4fHzFZQUL.XfU_jlA",
-                    "woeid":"12589775"
-                },
-                "latitude":"40.651894",
-                "locality":{
-                    "_content":"Lehigh Valley International Airport",
-                    "place_id":"7DNGVytQUL8QSNNPrg",
-                    "woeid":"12518581"
-                },
-                "longitude":"-75.441570",
-                "place_id":"7DNGVytQUL8QSNNPrg",
-                "region":{
-                    "_content":"Pennsylvania",
-                    "place_id":"fGSdmohTUb6YMlQa",
-                    "woeid":"2347597"
-                },
-                "woeid":"12518581"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"b101883615",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7420",
-                "location":"Somerset, NJ, USA",
-                "nsid":"12693197@N06",
-                "path_alias":"robotbrainz",
-                "realname":"Robot Brainz",
-                "username":"robotbrainz"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"d693e65c0e",
-            "server":"2401",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"bychristine",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-1595978",
-                        "machine_tag":0,
-                        "raw":"By Christine"
-                    },
-                    {
-                        "_content":"flight",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-7097",
-                        "machine_tag":0,
-                        "raw":"flight"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"sunrise",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-1370",
-                        "machine_tag":0,
-                        "raw":"sunrise"
-                    },
-                    {
-                        "_content":"lvia",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-15812443",
-                        "machine_tag":0,
-                        "raw":"LVIA"
-                    },
-                    {
-                        "_content":"lehighvalley",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-65443",
-                        "machine_tag":0,
-                        "raw":"Lehigh Valley"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"pa",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-12153",
-                        "machine_tag":0,
-                        "raw":"PA"
-                    },
-                    {
-                        "_content":"printyyayzor",
-                        "author":"12693197@N06",
-                        "authorname":"robotbrainz",
-                        "id":"12647875-2469218089-31729474",
-                        "machine_tag":0,
-                        "raw":"printyyayzor!"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Sunrise at LVIA"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/robotbrainz/2469218089/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"214",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2008-04-25",
+    "date:cessation_upper": "2008-04-25",
+    "date:inception_lower": "2008-04-25",
+    "date:inception_upper": "2008-04-25",
+    "edtf:cessation": "2008-04-25T06:15:20",
+    "edtf:inception": "2008-04-25T06:15:20",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.441570,40.651894,-75.441570,40.651894",
+    "geom:latitude": 40.651894,
+    "geom:longitude": -75.44157,
+    "iso:country": "US",
+    "media:created": 1209129320,
+    "media:fingerprint": "4ebb37092c9233c86928025a73c78397bb539da0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "2469218089",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
-                "width":1024
+        "dates": {
+          "lastupdate": "1226863103",
+          "posted": "1210044250",
+          "taken": "2008-04-25 06:15:20",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1210044250",
+        "description": {
+          "_content": "Getting ready to depart for NV/UT/AZ for a weekend adventure!"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 3,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "2469218089",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Northampton",
+            "place_id": "u4fHzFZQUL.XfU_jlA",
+            "woeid": "12589775"
+          },
+          "latitude": "40.651894",
+          "locality": {
+            "_content": "Lehigh Valley International Airport",
+            "place_id": "7DNGVytQUL8QSNNPrg",
+            "woeid": "12518581"
+          },
+          "longitude": "-75.441570",
+          "place_id": "7DNGVytQUL8QSNNPrg",
+          "region": {
+            "_content": "Pennsylvania",
+            "place_id": "fGSdmohTUb6YMlQa",
+            "woeid": "2347597"
+          },
+          "woeid": "12518581"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "b101883615",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7420",
+          "location": "Somerset, NJ, USA",
+          "nsid": "12693197@N06",
+          "path_alias": "robotbrainz",
+          "realname": "Robot Brainz",
+          "username": "robotbrainz"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "d693e65c0e",
+        "server": "2401",
+        "tags": {
+          "tag": [
+            {
+              "_content": "bychristine",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-1595978",
+              "machine_tag": 0,
+              "raw": "By Christine"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
-                "width":800
+            {
+              "_content": "flight",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-7097",
+              "machine_tag": 0,
+              "raw": "flight"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
-                "width":320
+            {
+              "_content": "aviation",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2448,
-                "mimetype":"image/jpeg",
-                "secret":"eXUURWGAu0O9n4BO7UUoFnT6VUS8AjeT10lZx7wjWe5BNkWXCtmW",
-                "width":3264
+            {
+              "_content": "airplane",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
-                "width":320
+            {
+              "_content": "sunrise",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-1370",
+              "machine_tag": 0,
+              "raw": "sunrise"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
-                "width":640
+            {
+              "_content": "lvia",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-15812443",
+              "machine_tag": 0,
+              "raw": "LVIA"
+            },
+            {
+              "_content": "lehighvalley",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-65443",
+              "machine_tag": 0,
+              "raw": "Lehigh Valley"
+            },
+            {
+              "_content": "airport",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-2695",
+              "machine_tag": 0,
+              "raw": "airport"
+            },
+            {
+              "_content": "pa",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-12153",
+              "machine_tag": 0,
+              "raw": "PA"
+            },
+            {
+              "_content": "printyyayzor",
+              "author": "12693197@N06",
+              "authorname": "robotbrainz",
+              "id": "12647875-2469218089-31729474",
+              "machine_tag": 0,
+              "raw": "printyyayzor!"
             }
+          ]
+        },
+        "title": {
+          "_content": "Sunrise at LVIA"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/robotbrainz/2469218089/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "214",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2448,
+          "mimetype": "image/jpeg",
+          "secret": "eXUURWGAu0O9n4BO7UUoFnT6VUS8AjeT10lZx7wjWe5BNkWXCtmW",
+          "width": 3264
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "MedNtc8RZxe5qhdqBsIRzLcRqkntNFn5aDalu12kWTNbLMGzcqkP",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102529131,
-        85838547,
-        102191575,
-        404485953,
-        85633793,
-        102081327,
-        85688481
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102529131,
+      85838547,
+      102191575,
+      404485953,
+      85633793,
+      102081327,
+      85688481
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006482,
-    "wof:depicts":[
-        102529131
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006482,
+    "wof:depicts": [
+      102529131
     ],
-    "wof:geomhash":"830fac675ccea9e3c3ac277bd95a524a",
-    "wof:hierarchy":[
-        {
-            "campus_id":102529131,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081327,
-            "localadmin_id":404485953,
-            "locality_id":-1,
-            "media_id":1159326321,
-            "neighbourhood_id":85838547,
-            "region_id":85688481
-        }
+    "wof:geomhash": "830fac675ccea9e3c3ac277bd95a524a",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102529131,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081327,
+        "image_id": 1159326321,
+        "localadmin_id": 404485953,
+        "locality_id": -1,
+        "media_id": 1159326321,
+        "neighbourhood_id": 85838547,
+        "region_id": 85688481
+      }
     ],
-    "wof:id":1159326321,
-    "wof:lastmodified":1545868671,
-    "wof:name":"Sunrise at LVIA",
-    "wof:parent_id":102529131,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326321,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Sunrise at LVIA",
+    "wof:parent_id": 102529131,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.44157,
     40.651894,
     -75.44157,
     40.651894
-],
+  ],
   "geometry": {"coordinates":[-75.44157,40.651894],"type":"Point"}
 }

@@ -2,281 +2,285 @@
   "id": 1159322605,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2006-12-03",
-    "date:cessation_upper":"2006-12-03",
-    "date:inception_lower":"2006-12-03",
-    "date:inception_upper":"2006-12-03",
-    "edtf:cessation":"2006-12-03T20:57:09",
-    "edtf:inception":"2006-12-03T20:57:09",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-79.613628,43.675383,-79.613628,43.675383",
-    "geom:latitude":43.675383,
-    "geom:longitude":-79.613628,
-    "iso:country":"US",
-    "media:created":1165208229,
-    "media:fingerprint":"9a91385f779e085733ea90be6976e635c57671d0",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"313493339",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1455214806",
-                "posted":"1165197429",
-                "taken":"2006-12-03 20:57:09",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1165197429",
-            "description":{
-                "_content":"Sculpture by Richard Serra in Terminal 1 Pier F at YYZ Toronto.  The piece is over 12 metres long."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"313493339",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"12",
-                "context":"0",
-                "country":{
-                    "_content":"Canada",
-                    "place_id":"b9iFoOpTUb6KZ3MPGQ",
-                    "woeid":"23424775"
-                },
-                "county":{
-                    "_content":"Toronto",
-                    "place_id":"PvbFVUxTW7kikudbuA",
-                    "woeid":"29375205"
-                },
-                "latitude":"43.675383",
-                "locality":{
-                    "_content":"Toronto",
-                    "place_id":"6SULVp5VU7vq",
-                    "woeid":"4118"
-                },
-                "longitude":"-79.613628",
-                "neighbourhood":{
-                    "_content":"Etobicoke",
-                    "place_id":"5pZ0eZ1VVbM",
-                    "woeid":"479"
-                },
-                "place_id":"5pZ0eZ1VVbM",
-                "region":{
-                    "_content":"Ontario",
-                    "place_id":"KAOZv3VTUb6vc1Fc",
-                    "woeid":"2344922"
-                },
-                "woeid":"479"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"c4f31ba99b",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3912",
-                "location":"Brampton, Canada",
-                "nsid":"37996606796@N01",
-                "path_alias":"eyeno",
-                "realname":"Ken Mist",
-                "username":"Ken Mist"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"c4f31ba99b",
-            "server":"100",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"yyz",
-                        "author":"37996606796@N01",
-                        "authorname":"Ken Mist",
-                        "id":"13859-313493339-106387",
-                        "machine_tag":0,
-                        "raw":"YYZ"
-                    },
-                    {
-                        "_content":"toronto",
-                        "author":"37996606796@N01",
-                        "authorname":"Ken Mist",
-                        "id":"13859-313493339-449",
-                        "machine_tag":0,
-                        "raw":"Toronto"
-                    },
-                    {
-                        "_content":"terminal1",
-                        "author":"37996606796@N01",
-                        "authorname":"Ken Mist",
-                        "id":"13859-313493339-217641",
-                        "machine_tag":0,
-                        "raw":"Terminal 1"
-                    },
-                    {
-                        "_content":"pierf",
-                        "author":"37996606796@N01",
-                        "authorname":"Ken Mist",
-                        "id":"13859-313493339-7471845",
-                        "machine_tag":0,
-                        "raw":"Pier F"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Tilted Spheres"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/eyeno/313493339/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"671",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2006-12-03",
+    "date:cessation_upper": "2006-12-03",
+    "date:inception_lower": "2006-12-03",
+    "date:inception_upper": "2006-12-03",
+    "edtf:cessation": "2006-12-03T20:57:09",
+    "edtf:inception": "2006-12-03T20:57:09",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-79.613628,43.675383,-79.613628,43.675383",
+    "geom:latitude": 43.675383,
+    "geom:longitude": -79.613628,
+    "iso:country": "US",
+    "media:created": 1165208229,
+    "media:fingerprint": "9a91385f779e085733ea90be6976e635c57671d0",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "313493339",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
-                "width":802
+        "dates": {
+          "lastupdate": "1455214806",
+          "posted": "1165197429",
+          "taken": "2006-12-03 20:57:09",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1165197429",
+        "description": {
+          "_content": "Sculpture by Richard Serra in Terminal 1 Pier F at YYZ Toronto.  The piece is over 12 metres long."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "313493339",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "12",
+          "context": "0",
+          "country": {
+            "_content": "Canada",
+            "place_id": "b9iFoOpTUb6KZ3MPGQ",
+            "woeid": "23424775"
+          },
+          "county": {
+            "_content": "Toronto",
+            "place_id": "PvbFVUxTW7kikudbuA",
+            "woeid": "29375205"
+          },
+          "latitude": "43.675383",
+          "locality": {
+            "_content": "Toronto",
+            "place_id": "6SULVp5VU7vq",
+            "woeid": "4118"
+          },
+          "longitude": "-79.613628",
+          "neighbourhood": {
+            "_content": "Etobicoke",
+            "place_id": "5pZ0eZ1VVbM",
+            "woeid": "479"
+          },
+          "place_id": "5pZ0eZ1VVbM",
+          "region": {
+            "_content": "Ontario",
+            "place_id": "KAOZv3VTUb6vc1Fc",
+            "woeid": "2344922"
+          },
+          "woeid": "479"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "c4f31ba99b",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3912",
+          "location": "Brampton, Canada",
+          "nsid": "37996606796@N01",
+          "path_alias": "eyeno",
+          "realname": "Ken Mist",
+          "username": "Ken Mist"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "c4f31ba99b",
+        "server": "100",
+        "tags": {
+          "tag": [
+            {
+              "_content": "yyz",
+              "author": "37996606796@N01",
+              "authorname": "Ken Mist",
+              "id": "13859-313493339-106387",
+              "machine_tag": 0,
+              "raw": "YYZ"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
-                "width":626
+            {
+              "_content": "toronto",
+              "author": "37996606796@N01",
+              "authorname": "Ken Mist",
+              "id": "13859-313493339-449",
+              "machine_tag": 0,
+              "raw": "Toronto"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
-                "width":250
+            {
+              "_content": "terminal1",
+              "author": "37996606796@N01",
+              "authorname": "Ken Mist",
+              "id": "13859-313493339-217641",
+              "machine_tag": 0,
+              "raw": "Terminal 1"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1960,
-                "mimetype":"image/jpeg",
-                "secret":"BrLAxVLoESnrZ99x6DhJX0ctPXEDmTGzejw1aIi57tapyPA7GtrV",
-                "width":2048
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
-                "width":501
+            {
+              "_content": "pierf",
+              "author": "37996606796@N01",
+              "authorname": "Ken Mist",
+              "id": "13859-313493339-7471845",
+              "machine_tag": 0,
+              "raw": "Pier F"
             }
+          ]
+        },
+        "title": {
+          "_content": "Tilted Spheres"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/eyeno/313493339/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "671",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
+          "width": 802
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
+          "width": 626
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
+          "width": 250
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1960,
+          "mimetype": "image/jpeg",
+          "secret": "BrLAxVLoESnrZ99x6DhJX0ctPXEDmTGzejw1aIi57tapyPA7GtrV",
+          "width": 2048
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "ZY65Uwjj4C80tGwtcbjOexeDpuW1Wmi39RHKRqJqClcRSpKyxVQt",
+          "width": 501
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        1108905413,
-        102555091,
-        85895633,
-        102191575,
-        85633041,
-        101740755,
-        890456343,
-        85682057,
-        101735893
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      1108905413,
+      102555091,
+      85895633,
+      102191575,
+      85633041,
+      101740755,
+      890456343,
+      85682057,
+      101735893
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526669575,
-    "wof:depicts":[
-        102555091
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526669575,
+    "wof:depicts": [
+      102555091
     ],
-    "wof:geomhash":"aea42e70e047d3b8a2a1826c80062d65",
-    "wof:hierarchy":[
-        {
-            "campus_id":102555091,
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456343,
-            "locality_id":101740755,
-            "media_id":1159322605,
-            "microhood_id":1108905413,
-            "neighbourhood_id":85895633,
-            "region_id":85682057
-        },
-        {
-            "campus_id":102555091,
-            "continent_id":102191575,
-            "country_id":85633041,
-            "county_id":890456343,
-            "locality_id":101735893,
-            "media_id":1159322605,
-            "microhood_id":1108905413,
-            "neighbourhood_id":85895633,
-            "region_id":85682057
-        }
+    "wof:geomhash": "aea42e70e047d3b8a2a1826c80062d65",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102555091,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890456343,
+        "image_id": 1159322605,
+        "locality_id": 101740755,
+        "media_id": 1159322605,
+        "microhood_id": 1108905413,
+        "neighbourhood_id": 85895633,
+        "region_id": 85682057
+      },
+      {
+        "campus_id": 102555091,
+        "continent_id": 102191575,
+        "country_id": 85633041,
+        "county_id": 890456343,
+        "image_id": 1159322605,
+        "locality_id": 101735893,
+        "media_id": 1159322605,
+        "microhood_id": 1108905413,
+        "neighbourhood_id": 85895633,
+        "region_id": 85682057
+      }
     ],
-    "wof:id":1159322605,
-    "wof:lastmodified":1545868653,
-    "wof:name":"Tilted Spheres",
-    "wof:parent_id":102555091,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322605,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Tilted Spheres",
+    "wof:parent_id": 102555091,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -79.613628,
     43.675383,
     -79.613628,
     43.675383
-],
-  "geometry": {"coordinates":[-79.61362800000001,43.675383],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-79.613628,43.675383],"type":"Point"}
 }

@@ -2,338 +2,341 @@
   "id": 1159334911,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-08-06",
-    "date:cessation_upper":"2015-08-06",
-    "date:inception_lower":"2015-08-06",
-    "date:inception_upper":"2015-08-06",
-    "edtf:cessation":"2015-08-06T15:15:30",
-    "edtf:inception":"2015-08-06T15:15:30",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.396745,33.953655,-118.396745,33.953655",
-    "geom:latitude":33.953655,
-    "geom:longitude":-118.396745,
-    "iso:country":"US",
-    "media:created":1438899330,
-    "media:fingerprint":"d66447d2f089405c7cc04cafd8d6ce55ea609ca3",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#2e5894",
-                        "name":"B'dazzled Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#4682b4",
-                        "name":"steelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#41749f",
-                "name":"#41749f",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9aceeb",
-                        "name":"Cornflower",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#add8e6",
-                        "name":"lightblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a1dae1",
-                "name":"#a1dae1",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#505225",
-                "name":"#505225",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#6699cc",
-                        "name":"Blue Gray",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#5f9ea0",
-                        "name":"cadetblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#649ab3",
-                "name":"#649ab3",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a2add0",
-                        "name":"Wild Blue Yonder",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#87ceeb",
-                        "name":"skyblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#89c2cb",
-                "name":"#89c2cb",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"21166059416",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1441566186",
-                "posted":"1441553804",
-                "taken":"2015-08-06 15:15:30",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1441553804",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"21166059416",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.953655",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.396745",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"62d34d640d",
-            "owner":{
-                "iconfarm":5,
-                "iconserver":"4801",
-                "location":"",
-                "nsid":"23837366@N00",
-                "path_alias":"hendelopticon",
-                "realname":"Hendel Thistletop",
-                "username":"Hendel"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"1a759b2826",
-            "server":"593",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":""
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/hendelopticon/21166059416/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"40",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
-                "width":576
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
-                "width":450
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
-                "width":450
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
-                "width":180
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3264,
-                "mimetype":"image/jpeg",
-                "secret":"ikp3SnRGiICuH5o3RfUpwoAntZMLDcrqprvVHyjx1C0BZm9CFEvG",
-                "width":2448
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
-                "width":360
-            }
-        },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102533795
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527023091,
-    "wof:depicts":[
-        102533795,
-        1159284127,
-        1159286837,
-        1159334911
-    ],
-    "wof:geomhash":"7627c331b034fb2cb2997d9654c58894",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2015-08-06",
+    "date:cessation_upper": "2015-08-06",
+    "date:inception_lower": "2015-08-06",
+    "date:inception_upper": "2015-08-06",
+    "edtf:cessation": "2015-08-06T15:15:30",
+    "edtf:inception": "2015-08-06T15:15:30",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.396745,33.953655,-118.396745,33.953655",
+    "geom:latitude": 33.953655,
+    "geom:longitude": -118.396745,
+    "iso:country": "US",
+    "media:created": 1438899330,
+    "media:fingerprint": "d66447d2f089405c7cc04cafd8d6ce55ea609ca3",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159334911,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#2e5894",
+              "name": "B'dazzled Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#4682b4",
+              "name": "steelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#41749f",
+          "name": "#41749f",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#9aceeb",
+              "name": "Cornflower",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#add8e6",
+              "name": "lightblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a1dae1",
+          "name": "#a1dae1",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#505225",
+          "name": "#505225",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#6699cc",
+              "name": "Blue Gray",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#5f9ea0",
+              "name": "cadetblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#649ab3",
+          "name": "#649ab3",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#a2add0",
+              "name": "Wild Blue Yonder",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#87ceeb",
+              "name": "skyblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#89c2cb",
+          "name": "#89c2cb",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "21166059416",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1441566186",
+          "posted": "1441553804",
+          "taken": "2015-08-06 15:15:30",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1441553804",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "21166059416",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.953655",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.396745",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "62d34d640d",
+        "owner": {
+          "iconfarm": 5,
+          "iconserver": "4801",
+          "location": "",
+          "nsid": "23837366@N00",
+          "path_alias": "hendelopticon",
+          "realname": "Hendel Thistletop",
+          "username": "Hendel"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "1a759b2826",
+        "server": "593",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": ""
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/hendelopticon/21166059416/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "40",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
+          "width": 450
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3264,
+          "mimetype": "image/jpeg",
+          "secret": "ikp3SnRGiICuH5o3RfUpwoAntZMLDcrqprvVHyjx1C0BZm9CFEvG",
+          "width": 2448
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "kndAdJgq1Bre9A79iNLH7z14xmcMMkFtUiGgSupn7MQ4vPwiUMFP",
+          "width": 360
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102533795
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159334911,
-    "wof:lastmodified":1545868720,
-    "wof:name":"",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527023091,
+    "wof:depicts": [
+      102533795,
+      1159284127,
+      1159286837,
+      1159334911
+    ],
+    "wof:geomhash": "7627c331b034fb2cb2997d9654c58894",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159334911,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159334911,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159334911,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.396745,
     33.953655,
     -118.396745,
     33.953655
-],
+  ],
   "geometry": {"coordinates":[-118.396745,33.953655],"type":"Point"}
 }

@@ -2,357 +2,360 @@
   "id": 1159334473,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-07-03",
-    "date:cessation_upper":"2015-07-03",
-    "date:inception_lower":"2015-07-03",
-    "date:inception_upper":"2015-07-03",
-    "edtf:cessation":"2015-07-03T11:11:33",
-    "edtf:inception":"2015-07-03T11:11:33",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.402533,33.943998,-118.402533,33.943998",
-    "geom:latitude":33.943998,
-    "geom:longitude":-118.402533,
-    "iso:country":"US",
-    "media:created":1435947093,
-    "media:fingerprint":"9fbc2d01d7ae935463e623114a8eed4806d1af90",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a68961",
-                "name":"#a68961",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#deaa88",
-                        "name":"Tumbleweed",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c8b699",
-                "name":"#c8b699",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#4d443e",
-                "name":"#4d443e",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"19198446068",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1435947096",
-                "posted":"1435947093",
-                "taken":"2015-07-03 11:11:33",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1435947093",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"19198446068",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.943998",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.402533",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"33eb0d7c21",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8395",
-                "location":"",
-                "nsid":"44244096@N00",
-                "path_alias":null,
-                "realname":"",
-                "username":"irishscott"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"65ce9e5dc7",
-            "server":"410",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"44244096@N00",
-                        "authorname":"irishscott",
-                        "id":"1238233-19198446068-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"44244096@N00",
-                        "authorname":"irishscott",
-                        "id":"1238233-19198446068-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"44244096@N00",
-                        "authorname":"irishscott",
-                        "id":"1238233-19198446068-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"44244096@N00",
-                        "authorname":"irishscott",
-                        "id":"1238233-19198446068-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"44244096@N00",
-                        "authorname":"irishscott",
-                        "id":"1238233-19198446068-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    },
-                    {
-                        "_content":"lark",
-                        "author":"44244096@N00",
-                        "authorname":"irishscott",
-                        "id":"1238233-19198446068-110342",
-                        "machine_tag":0,
-                        "raw":"Lark"
-                    },
-                    {
-                        "_content":"foursquare:venue=439ec330f964a520102c1fe3",
-                        "author":"44244096@N00",
-                        "authorname":"irishscott",
-                        "id":"1238233-19198446068-65565520",
-                        "machine_tag":1,
-                        "raw":"foursquare:venue=439ec330f964a520102c1fe3"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Goodbye #naesp15 and thanks for the learning and connecting."
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/44244096@N00/19198446068/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"99",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
-                "width":768
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
-                "width":600
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
-                "width":600
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
-                "width":240
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1080,
-                "mimetype":"image/jpeg",
-                "secret":"f9P92W1K3ajD53S1hsRrUR0tvSCc1waAnymhje0PRgRNX3OXYFyU",
-                "width":1080
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
-                "width":480
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527021541,
-    "wof:depicts":[
-        102533795,
-        1159285413,
-        1159288779
-    ],
-    "wof:geomhash":"8ed3f0e7d57aec14d9d73dce41de7872",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2015-07-03",
+    "date:cessation_upper": "2015-07-03",
+    "date:inception_lower": "2015-07-03",
+    "date:inception_upper": "2015-07-03",
+    "edtf:cessation": "2015-07-03T11:11:33",
+    "edtf:inception": "2015-07-03T11:11:33",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.402533,33.943998,-118.402533,33.943998",
+    "geom:latitude": 33.943998,
+    "geom:longitude": -118.402533,
+    "iso:country": "US",
+    "media:created": 1435947093,
+    "media:fingerprint": "9fbc2d01d7ae935463e623114a8eed4806d1af90",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159334473,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a68961",
+          "name": "#a68961",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#deaa88",
+              "name": "Tumbleweed",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c8b699",
+          "name": "#c8b699",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#4d443e",
+          "name": "#4d443e",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "19198446068",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1435947096",
+          "posted": "1435947093",
+          "taken": "2015-07-03 11:11:33",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1435947093",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "19198446068",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.943998",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.402533",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "33eb0d7c21",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8395",
+          "location": "",
+          "nsid": "44244096@N00",
+          "path_alias": null,
+          "realname": "",
+          "username": "irishscott"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "65ce9e5dc7",
+        "server": "410",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "44244096@N00",
+              "authorname": "irishscott",
+              "id": "1238233-19198446068-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
+            },
+            {
+              "_content": "square",
+              "author": "44244096@N00",
+              "authorname": "irishscott",
+              "id": "1238233-19198446068-1628",
+              "machine_tag": 0,
+              "raw": "square"
+            },
+            {
+              "_content": "squareformat",
+              "author": "44244096@N00",
+              "authorname": "irishscott",
+              "id": "1238233-19198446068-14976",
+              "machine_tag": 0,
+              "raw": "square format"
+            },
+            {
+              "_content": "iphoneography",
+              "author": "44244096@N00",
+              "authorname": "irishscott",
+              "id": "1238233-19198446068-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
+            },
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "44244096@N00",
+              "authorname": "irishscott",
+              "id": "1238233-19198446068-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
+            },
+            {
+              "_content": "lark",
+              "author": "44244096@N00",
+              "authorname": "irishscott",
+              "id": "1238233-19198446068-110342",
+              "machine_tag": 0,
+              "raw": "Lark"
+            },
+            {
+              "_content": "foursquare:venue=439ec330f964a520102c1fe3",
+              "author": "44244096@N00",
+              "authorname": "irishscott",
+              "id": "1238233-19198446068-65565520",
+              "machine_tag": 1,
+              "raw": "foursquare:venue=439ec330f964a520102c1fe3"
+            }
+          ]
+        },
+        "title": {
+          "_content": "Goodbye #naesp15 and thanks for the learning and connecting."
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/44244096@N00/19198446068/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "99",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
+          "width": 600
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1080,
+          "mimetype": "image/jpeg",
+          "secret": "f9P92W1K3ajD53S1hsRrUR0tvSCc1waAnymhje0PRgRNX3OXYFyU",
+          "width": 1080
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "kvjf87ni6FI6fPVAqVKObUApVigNcsIrJ8gSnu2LWDo3GrawUvve",
+          "width": 480
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159334473,
-    "wof:lastmodified":1545868723,
-    "wof:name":"Goodbye #naesp15 and thanks for the learning and connecting.",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527021541,
+    "wof:depicts": [
+      102533795,
+      1159285413,
+      1159288779
+    ],
+    "wof:geomhash": "8ed3f0e7d57aec14d9d73dce41de7872",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159334473,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159334473,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159334473,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Goodbye #naesp15 and thanks for the learning and connecting.",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.402533,
     33.943998,
     -118.402533,
     33.943998
-],
-  "geometry": {"coordinates":[-118.40253300000001,33.943998],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.402533,33.943998],"type":"Point"}
 }

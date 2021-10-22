@@ -2,229 +2,232 @@
   "id": 1159324859,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-03-05",
-    "date:cessation_upper":"2016-03-05",
-    "date:inception_lower":"2016-03-05",
-    "date:inception_upper":"2016-03-05",
-    "edtf:cessation":"2016-03-05T17:24:13",
-    "edtf:inception":"2016-03-05T17:24:13",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-149.977037,61.172241,-149.977037,61.172241",
-    "geom:latitude":61.172241,
-    "geom:longitude":-149.977037,
-    "iso:country":"US",
-    "media:created":1457227453,
-    "media:fingerprint":"97370e21b13f70547c427ea149f06fbc93b45022",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"24942715673",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1457305983",
-                "posted":"1457305981",
-                "taken":"2016-03-05 17:24:13",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1457305981",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":2,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"24942715673",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Municipality of Anchorage",
-                    "place_id":"gQNrKuBQUL8RyRbJsA",
-                    "woeid":"12587556"
-                },
-                "latitude":"61.172241",
-                "locality":{
-                    "_content":"Anchorage International Airport",
-                    "place_id":"jN3Fd_5QUL8qRX_4CQ",
-                    "woeid":"12518613"
-                },
-                "longitude":"-149.977037",
-                "place_id":"jN3Fd_5QUL8qRX_4CQ",
-                "region":{
-                    "_content":"Alaska",
-                    "place_id":"b_WIPQFTUb5YM9kc",
-                    "woeid":"2347560"
-                },
-                "woeid":"12518613"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"257b490705",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7753",
-                "location":"",
-                "nsid":"7451276@N08",
-                "path_alias":null,
-                "realname":"",
-                "username":"neverbutterfly"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"7ed413c57f",
-            "server":"1579",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Anchorage"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/7451276@N08/24942715673/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"58",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-03-05",
+    "date:cessation_upper": "2016-03-05",
+    "date:inception_lower": "2016-03-05",
+    "date:inception_upper": "2016-03-05",
+    "edtf:cessation": "2016-03-05T17:24:13",
+    "edtf:inception": "2016-03-05T17:24:13",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-149.977037,61.172241,-149.977037,61.172241",
+    "geom:latitude": 61.172241,
+    "geom:longitude": -149.977037,
+    "iso:country": "US",
+    "media:created": 1457227453,
+    "media:fingerprint": "97370e21b13f70547c427ea149f06fbc93b45022",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "24942715673",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2448,
-                "mimetype":"image/jpeg",
-                "secret":"yymum5YHbQonzCLIF442ftIkUfjz2EruOWqPnt2YyOndEvUTC9KF",
-                "width":3264
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
-                "width":640
+        "dates": {
+          "lastupdate": "1457305983",
+          "posted": "1457305981",
+          "taken": "2016-03-05 17:24:13",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1457305981",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 2,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "24942715673",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Municipality of Anchorage",
+            "place_id": "gQNrKuBQUL8RyRbJsA",
+            "woeid": "12587556"
+          },
+          "latitude": "61.172241",
+          "locality": {
+            "_content": "Anchorage International Airport",
+            "place_id": "jN3Fd_5QUL8qRX_4CQ",
+            "woeid": "12518613"
+          },
+          "longitude": "-149.977037",
+          "place_id": "jN3Fd_5QUL8qRX_4CQ",
+          "region": {
+            "_content": "Alaska",
+            "place_id": "b_WIPQFTUb5YM9kc",
+            "woeid": "2347560"
+          },
+          "woeid": "12518613"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "257b490705",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7753",
+          "location": "",
+          "nsid": "7451276@N08",
+          "path_alias": null,
+          "realname": "",
+          "username": "neverbutterfly"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "7ed413c57f",
+        "server": "1579",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Anchorage"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/7451276@N08/24942715673/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "58",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2448,
+          "mimetype": "image/jpeg",
+          "secret": "yymum5YHbQonzCLIF442ftIkUfjz2EruOWqPnt2YyOndEvUTC9KF",
+          "width": 3264
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "vhsGPHwZTqZhnQQFHUOKKDOnc2H3WgpT8yx0E1u8FY5hh7EIg56j",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531979,
-        85850461,
-        102191575,
-        85633793,
-        85915707,
-        102085881,
-        85688573
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531979,
+      85850461,
+      102191575,
+      85633793,
+      85915707,
+      102085881,
+      85688573
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005990,
-    "wof:depicts":[
-        102531979
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005990,
+    "wof:depicts": [
+      102531979
     ],
-    "wof:geomhash":"4047ee3daf5f6ab63b76cbd55b3bb539",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531979,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085881,
-            "locality_id":85915707,
-            "media_id":1159324859,
-            "neighbourhood_id":85850461,
-            "region_id":85688573
-        }
+    "wof:geomhash": "4047ee3daf5f6ab63b76cbd55b3bb539",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531979,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085881,
+        "image_id": 1159324859,
+        "locality_id": 85915707,
+        "media_id": 1159324859,
+        "neighbourhood_id": 85850461,
+        "region_id": 85688573
+      }
     ],
-    "wof:id":1159324859,
-    "wof:lastmodified":1545868698,
-    "wof:name":"Anchorage",
-    "wof:parent_id":102531979,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324859,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Anchorage",
+    "wof:parent_id": 102531979,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -149.977037,
     61.172241,
     -149.977037,
     61.172241
-],
+  ],
   "geometry": {"coordinates":[-149.977037,61.172241],"type":"Point"}
 }

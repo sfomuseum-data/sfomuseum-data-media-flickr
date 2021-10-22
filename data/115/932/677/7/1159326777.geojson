@@ -2,278 +2,281 @@
   "id": 1159326777,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-12-27",
-    "date:cessation_upper":"2012-12-27",
-    "date:inception_lower":"2012-12-27",
-    "date:inception_upper":"2012-12-27",
-    "edtf:cessation":"2012-12-27T05:57:28",
-    "edtf:inception":"2012-12-27T05:57:28",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.656181,39.055217,-84.656181,39.055217",
-    "geom:latitude":39.055217,
-    "geom:longitude":-84.656181,
-    "iso:country":"US",
-    "media:created":1356616648,
-    "media:fingerprint":"de037c8b0f3904e3d239eca031fcbe2e65a0c524",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8313613455",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1502685605",
-                "posted":"1356616648",
-                "taken":"2012-12-27 05:57:28",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1356616648",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8313613455",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.055217",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.656181",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"9bb610c538",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3161",
-                "location":"cincinnati, US",
-                "nsid":"11302986@N08",
-                "path_alias":"fergy08",
-                "realname":"matt",
-                "username":"fujimatt"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"0ef198c702",
-            "server":"8362",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"11302986@N08",
-                        "authorname":"fujimatt",
-                        "id":"11210173-8313613455-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"11302986@N08",
-                        "authorname":"fujimatt",
-                        "id":"11210173-8313613455-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"11302986@N08",
-                        "authorname":"fujimatt",
-                        "id":"11210173-8313613455-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"11302986@N08",
-                        "authorname":"fujimatt",
-                        "id":"11210173-8313613455-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"11302986@N08",
-                        "authorname":"fujimatt",
-                        "id":"11210173-8313613455-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    },
-                    {
-                        "_content":"amaro",
-                        "author":"11302986@N08",
-                        "authorname":"fujimatt",
-                        "id":"11210173-8313613455-348109",
-                        "machine_tag":0,
-                        "raw":"Amaro"
-                    },
-                    {
-                        "_content":"foursquare:venue=4ad5300af964a520480221e3",
-                        "author":"11302986@N08",
-                        "authorname":"fujimatt",
-                        "id":"11210173-8313613455-65487740",
-                        "machine_tag":1,
-                        "raw":"foursquare:venue=4ad5300af964a520480221e3"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Heading to Charlotte for the Belk bowl! Lets go Bearcats!"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/fergy08/8313613455/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"199",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-12-27",
+    "date:cessation_upper": "2012-12-27",
+    "date:inception_lower": "2012-12-27",
+    "date:inception_upper": "2012-12-27",
+    "edtf:cessation": "2012-12-27T05:57:28",
+    "edtf:inception": "2012-12-27T05:57:28",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.656181,39.055217,-84.656181,39.055217",
+    "geom:latitude": 39.055217,
+    "geom:longitude": -84.656181,
+    "iso:country": "US",
+    "media:created": 1356616648,
+    "media:fingerprint": "de037c8b0f3904e3d239eca031fcbe2e65a0c524",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8313613455",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
-                "width":768
+        "dates": {
+          "lastupdate": "1502685605",
+          "posted": "1356616648",
+          "taken": "2012-12-27 05:57:28",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1356616648",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8313613455",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.055217",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.656181",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "9bb610c538",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3161",
+          "location": "cincinnati, US",
+          "nsid": "11302986@N08",
+          "path_alias": "fergy08",
+          "realname": "matt",
+          "username": "fujimatt"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "0ef198c702",
+        "server": "8362",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "11302986@N08",
+              "authorname": "fujimatt",
+              "id": "11210173-8313613455-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
-                "width":600
+            {
+              "_content": "square",
+              "author": "11302986@N08",
+              "authorname": "fujimatt",
+              "id": "11210173-8313613455-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
-                "width":240
+            {
+              "_content": "squareformat",
+              "author": "11302986@N08",
+              "authorname": "fujimatt",
+              "id": "11210173-8313613455-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "o":{
-                "extension":"jpg",
-                "height":612,
-                "mimetype":"image/jpeg",
-                "secret":"CzFVe2JpvB95JlCtZEwWXJCWb3qtDQLIuVuXJ22aoe4InJe3GDxk",
-                "width":612
+            {
+              "_content": "iphoneography",
+              "author": "11302986@N08",
+              "authorname": "fujimatt",
+              "id": "11210173-8313613455-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
-                "width":320
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "11302986@N08",
+              "authorname": "fujimatt",
+              "id": "11210173-8313613455-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
-                "width":480
+            {
+              "_content": "amaro",
+              "author": "11302986@N08",
+              "authorname": "fujimatt",
+              "id": "11210173-8313613455-348109",
+              "machine_tag": 0,
+              "raw": "Amaro"
+            },
+            {
+              "_content": "foursquare:venue=4ad5300af964a520480221e3",
+              "author": "11302986@N08",
+              "authorname": "fujimatt",
+              "id": "11210173-8313613455-65487740",
+              "machine_tag": 1,
+              "raw": "foursquare:venue=4ad5300af964a520480221e3"
             }
+          ]
+        },
+        "title": {
+          "_content": "Heading to Charlotte for the Belk bowl! Lets go Bearcats!"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/fergy08/8313613455/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "199",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 612,
+          "mimetype": "image/jpeg",
+          "secret": "CzFVe2JpvB95JlCtZEwWXJCWb3qtDQLIuVuXJ22aoe4InJe3GDxk",
+          "width": 612
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "H25e0RunkHU2IrraclWYGpODB68hfTwsyeYtEA4rXrZlmnBVzQ2H",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006688,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006688,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"80329b3b83c5bb0dca5dde518ec8e118",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326777,
-            "region_id":85688641
-        }
+    "wof:geomhash": "80329b3b83c5bb0dca5dde518ec8e118",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326777,
+        "media_id": 1159326777,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326777,
-    "wof:lastmodified":1545868685,
-    "wof:name":"Heading to Charlotte for the Belk bowl! Lets go Bearcats!",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326777,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Heading to Charlotte for the Belk bowl! Lets go Bearcats!",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.656181,
     39.055217,
     -84.656181,
     39.055217
-],
+  ],
   "geometry": {"coordinates":[-84.656181,39.055217],"type":"Point"}
 }

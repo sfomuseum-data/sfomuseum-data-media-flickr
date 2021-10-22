@@ -2,232 +2,235 @@
   "id": 1159329887,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-01-15",
-    "date:cessation_upper":"2018-01-15",
-    "date:inception_lower":"2018-01-15",
-    "date:inception_upper":"2018-01-15",
-    "edtf:cessation":"2018-01-15T08:38:39",
-    "edtf:inception":"2018-01-15T08:38:39",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.39292,33.946388,-118.39292,33.946388",
-    "geom:latitude":33.946388,
-    "geom:longitude":-118.39292,
-    "iso:country":"US",
-    "media:created":1516034319,
-    "media:fingerprint":"ef3ce72ddb4f90bc380d5ceba1f3b7b4fcc99633",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"27065696857",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1525962572",
-                "posted":"1525636268",
-                "taken":"2018-01-15 08:38:39",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1525636268",
-            "description":{
-                "_content":"Cathay Pacific B777-300 B-KQU LAX 20180115 seen with Century City in the background"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"27065696857",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.946388",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.392920",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"74bb845074",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7513",
-                "location":"Otelfingen, Switzerland",
-                "nsid":"102981093@N04",
-                "path_alias":"brunogeiger",
-                "realname":"Bruno Geiger Airplane Pictures and Collection",
-                "username":"BrunoGeiger"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"890f9c6702",
-            "server":"944",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Cathay Pacific_B773_B-KQU__LAX_20180115_Approach_sun_MG_5667_Colormailer_Flickr"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/brunogeiger/27065696857/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"383",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2018-01-15",
+    "date:cessation_upper": "2018-01-15",
+    "date:inception_lower": "2018-01-15",
+    "date:inception_upper": "2018-01-15",
+    "edtf:cessation": "2018-01-15T08:38:39",
+    "edtf:inception": "2018-01-15T08:38:39",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.392920,33.946388,-118.392920,33.946388",
+    "geom:latitude": 33.946388,
+    "geom:longitude": -118.39292,
+    "iso:country": "US",
+    "media:created": 1516034319,
+    "media:fingerprint": "ef3ce72ddb4f90bc380d5ceba1f3b7b4fcc99633",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "27065696857",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1666,
-                "mimetype":"image/jpeg",
-                "secret":"9QEj2YrW6bmAxqXctt2ZlwomE2l32SodNBoCK2FRrARm9wnbLwXl",
-                "width":2500
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
-                "width":640
+        "dates": {
+          "lastupdate": "1525962572",
+          "posted": "1525636268",
+          "taken": "2018-01-15 08:38:39",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1525636268",
+        "description": {
+          "_content": "Cathay Pacific B777-300 B-KQU LAX 20180115 seen with Century City in the background"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "27065696857",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.946388",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.392920",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "74bb845074",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7513",
+          "location": "Otelfingen, Switzerland",
+          "nsid": "102981093@N04",
+          "path_alias": "brunogeiger",
+          "realname": "Bruno Geiger Airplane Pictures and Collection",
+          "username": "BrunoGeiger"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "890f9c6702",
+        "server": "944",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Cathay Pacific_B773_B-KQU__LAX_20180115_Approach_sun_MG_5667_Colormailer_Flickr"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/brunogeiger/27065696857/",
+              "type": "photopage"
             }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "383",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1666,
+          "mimetype": "image/jpeg",
+          "secret": "9QEj2YrW6bmAxqXctt2ZlwomE2l32SodNBoCK2FRrARm9wnbLwXl",
+          "width": 2500
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "Mk1K2KQdbg3IfwFpEJd7qB7R2Ezus1ixoJgFpBruajbBmq6ETE24",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527017193,
-    "wof:depicts":[
-        102533795,
-        1159284127
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527017193,
+    "wof:depicts": [
+      102533795,
+      1159284127
     ],
-    "wof:geomhash":"1c9ab86bb49e42d7b2573f40835d3f21",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159329887,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "1c9ab86bb49e42d7b2573f40835d3f21",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159329887,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159329887,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159329887,
-    "wof:lastmodified":1545868692,
-    "wof:name":"Cathay Pacific_B773_B-KQU__LAX_20180115_Approach_sun_MG_5667_Colormailer_Flickr",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159329887,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Cathay Pacific_B773_B-KQU__LAX_20180115_Approach_sun_MG_5667_Colormailer_Flickr",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.39292,
     33.946388,
     -118.39292,
     33.946388
-],
+  ],
   "geometry": {"coordinates":[-118.39292,33.946388],"type":"Point"}
 }

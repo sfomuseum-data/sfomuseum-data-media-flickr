@@ -2,383 +2,387 @@
   "id": 1159327139,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2007-01-31",
-    "date:cessation_upper":"2007-01-31",
-    "date:inception_lower":"2007-01-31",
-    "date:inception_upper":"2007-01-31",
-    "edtf:cessation":"2007-01-31T16:01:47",
-    "edtf:inception":"2007-01-31T16:01:47",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.95587,35.225314,-80.95587,35.225314",
-    "geom:latitude":35.225314,
-    "geom:longitude":-80.95587,
-    "iso:country":"US",
-    "media:created":1170288107,
-    "media:fingerprint":"1b2136f8f34bbce8f52dc754e5766da3d8e1eeb6",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3243574568",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1391402713",
-                "posted":"1233470259",
-                "taken":"2007-01-31 16:01:47",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1233470259",
-            "description":{
-                "_content":"US Airways Airbus A330-323X "
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3243574568",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.225314",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.955870",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e849bc9f65",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2858",
-                "location":"Raleigh, NC, USA",
-                "nsid":"81464596@N00",
-                "path_alias":"bz3rk",
-                "realname":"",
-                "username":"James Willamor"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"e334203fd5",
-            "server":"3503",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"usairways",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-132281",
-                        "machine_tag":0,
-                        "raw":"US Airways"
-                    },
-                    {
-                        "_content":"airbus",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-16434",
-                        "machine_tag":0,
-                        "raw":"Airbus"
-                    },
-                    {
-                        "_content":"a330",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-62442",
-                        "machine_tag":0,
-                        "raw":"A330"
-                    },
-                    {
-                        "_content":"323x",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-15485464",
-                        "machine_tag":0,
-                        "raw":"323X"
-                    },
-                    {
-                        "_content":"airline",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-15019",
-                        "machine_tag":0,
-                        "raw":"airline"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"aircraft",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-5854",
-                        "machine_tag":0,
-                        "raw":"aircraft"
-                    },
-                    {
-                        "_content":"airliner",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-73548",
-                        "machine_tag":0,
-                        "raw":"airliner"
-                    },
-                    {
-                        "_content":"jet",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-7212",
-                        "machine_tag":0,
-                        "raw":"jet"
-                    },
-                    {
-                        "_content":"jetliner",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-214309",
-                        "machine_tag":0,
-                        "raw":"jetliner"
-                    },
-                    {
-                        "_content":"plane",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-1369",
-                        "machine_tag":0,
-                        "raw":"plane"
-                    },
-                    {
-                        "_content":"spotting",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-66038",
-                        "machine_tag":0,
-                        "raw":"spotting"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"douglas",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-31653",
-                        "machine_tag":0,
-                        "raw":"Douglas"
-                    },
-                    {
-                        "_content":"clt",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-830168",
-                        "machine_tag":0,
-                        "raw":"CLT"
-                    },
-                    {
-                        "_content":"kcltairport",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-35252945",
-                        "machine_tag":0,
-                        "raw":"KCLTairport"
-                    },
-                    {
-                        "_content":"landing",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-11499",
-                        "machine_tag":0,
-                        "raw":"landing"
-                    },
-                    {
-                        "_content":"aviation",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3243574568-5867",
-                        "machine_tag":0,
-                        "raw":"aviation"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"CLT 1-31-09 N276AY"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/bz3rk/3243574568/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"245",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2007-01-31",
+    "date:cessation_upper": "2007-01-31",
+    "date:inception_lower": "2007-01-31",
+    "date:inception_upper": "2007-01-31",
+    "edtf:cessation": "2007-01-31T16:01:47",
+    "edtf:inception": "2007-01-31T16:01:47",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.955870,35.225314,-80.955870,35.225314",
+    "geom:latitude": 35.225314,
+    "geom:longitude": -80.95587,
+    "iso:country": "US",
+    "media:created": 1170288107,
+    "media:fingerprint": "1b2136f8f34bbce8f52dc754e5766da3d8e1eeb6",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3243574568",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":711,
-                "mimetype":"image/jpeg",
-                "secret":"iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
-                "width":1024
+        "dates": {
+          "lastupdate": "1391402713",
+          "posted": "1233470259",
+          "taken": "2007-01-31 16:01:47",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1233470259",
+        "description": {
+          "_content": "US Airways Airbus A330-323X "
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3243574568",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.225314",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.955870",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e849bc9f65",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2858",
+          "location": "Raleigh, NC, USA",
+          "nsid": "81464596@N00",
+          "path_alias": "bz3rk",
+          "realname": "",
+          "username": "James Willamor"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "e334203fd5",
+        "server": "3503",
+        "tags": {
+          "tag": [
+            {
+              "_content": "usairways",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-132281",
+              "machine_tag": 0,
+              "raw": "US Airways"
             },
-            "c":{
-                "extension":"jpg",
-                "height":555,
-                "mimetype":"image/jpeg",
-                "secret":"iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
-                "width":800
+            {
+              "_content": "airbus",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-16434",
+              "machine_tag": 0,
+              "raw": "Airbus"
             },
-            "n":{
-                "extension":"jpg",
-                "height":222,
-                "mimetype":"image/jpeg",
-                "secret":"iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
-                "width":320
+            {
+              "_content": "a330",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-62442",
+              "machine_tag": 0,
+              "raw": "A330"
             },
-            "o":{
-                "extension":"jpg",
-                "height":711,
-                "mimetype":"image/jpeg",
-                "secret":"G0NtK55T0vt6MiLRScnhTLZQ6F8hUl2ou4qnIbJWXM0bRpaBZAV7",
-                "width":1024
+            {
+              "_content": "323x",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-15485464",
+              "machine_tag": 0,
+              "raw": "323X"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
-                "width":320
+            {
+              "_content": "airline",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-15019",
+              "machine_tag": 0,
+              "raw": "airline"
             },
-            "z":{
-                "extension":"jpg",
-                "height":444,
-                "mimetype":"image/jpeg",
-                "secret":"iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
-                "width":640
+            {
+              "_content": "airplane",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
+            },
+            {
+              "_content": "aircraft",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-5854",
+              "machine_tag": 0,
+              "raw": "aircraft"
+            },
+            {
+              "_content": "airliner",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-73548",
+              "machine_tag": 0,
+              "raw": "airliner"
+            },
+            {
+              "_content": "jet",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-7212",
+              "machine_tag": 0,
+              "raw": "jet"
+            },
+            {
+              "_content": "jetliner",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-214309",
+              "machine_tag": 0,
+              "raw": "jetliner"
+            },
+            {
+              "_content": "plane",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-1369",
+              "machine_tag": 0,
+              "raw": "plane"
+            },
+            {
+              "_content": "spotting",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-66038",
+              "machine_tag": 0,
+              "raw": "spotting"
+            },
+            {
+              "_content": "charlotte",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
+            },
+            {
+              "_content": "douglas",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-31653",
+              "machine_tag": 0,
+              "raw": "Douglas"
+            },
+            {
+              "_content": "clt",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-830168",
+              "machine_tag": 0,
+              "raw": "CLT"
+            },
+            {
+              "_content": "kcltairport",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-35252945",
+              "machine_tag": 0,
+              "raw": "KCLTairport"
+            },
+            {
+              "_content": "landing",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-11499",
+              "machine_tag": 0,
+              "raw": "landing"
+            },
+            {
+              "_content": "aviation",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3243574568-5867",
+              "machine_tag": 0,
+              "raw": "aviation"
             }
+          ]
+        },
+        "title": {
+          "_content": "CLT 1-31-09 N276AY"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/bz3rk/3243574568/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "245",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 711,
+          "mimetype": "image/jpeg",
+          "secret": "iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 555,
+          "mimetype": "image/jpeg",
+          "secret": "iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 222,
+          "mimetype": "image/jpeg",
+          "secret": "iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 711,
+          "mimetype": "image/jpeg",
+          "secret": "G0NtK55T0vt6MiLRScnhTLZQ6F8hUl2ou4qnIbJWXM0bRpaBZAV7",
+          "width": 1024
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 444,
+          "mimetype": "image/jpeg",
+          "secret": "iKYQe5b9UzVb97Zf9w6ktehSMaIVHM8rGpzeFHygcJ19xaT84ce5",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006807,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006807,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"6f2c54df7d6208c53f2003c43f96f22f",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159327139,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159327139,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "6f2c54df7d6208c53f2003c43f96f22f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327139,
+        "locality_id": 85981333,
+        "media_id": 1159327139,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327139,
+        "media_id": 1159327139,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159327139,
-    "wof:lastmodified":1545868710,
-    "wof:name":"CLT 1-31-09 N276AY",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327139,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "CLT 1-31-09 N276AY",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.95587,
     35.225314,
     -80.95587,
     35.225314
-],
+  ],
   "geometry": {"coordinates":[-80.95587,35.225314],"type":"Point"}
 }

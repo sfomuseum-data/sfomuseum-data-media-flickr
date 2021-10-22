@@ -2,464 +2,467 @@
   "id": 1159325081,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-10-23",
-    "date:cessation_upper":"2012-10-23",
-    "date:inception_lower":"2012-10-23",
-    "date:inception_upper":"2012-10-23",
-    "edtf:cessation":"2012-10-23T17:39:38",
-    "edtf:inception":"2012-10-23T17:39:38",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.219431,39.898724,-84.219431,39.898724",
-    "geom:latitude":39.898724,
-    "geom:longitude":-84.219431,
-    "iso:country":"US",
-    "media:created":1351039178,
-    "media:fingerprint":"e7af59be2b2e0d4983af4f9872ebf4fbb43b3eb1",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#ff2b2b",
-                        "name":"Orange Red",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b22222",
-                        "name":"firebrick",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ce1b15",
-                "name":"#ce1b15",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a2add0",
-                        "name":"Wild Blue Yonder",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#97b3d1",
-                "name":"#97b3d1",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a52a2a",
-                        "name":"brown",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#981d21",
-                "name":"#981d21",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#757575",
-                        "name":"Sonic Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#7a8187",
-                "name":"#7a8187",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b3c4d2",
-                "name":"#b3c4d2",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8117631959",
-        "photo_info":{
-            "comments":{
-                "_content":"3"
-            },
-            "dates":{
-                "lastupdate":"1353447192",
-                "posted":"1351039601",
-                "taken":"2012-10-23 17:39:38",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1351039601",
-            "description":{
-                "_content":"American Airlines McDonnell Douglas MD-83\n\nJames M. Cox Dayton International Airport"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8117631959",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Montgomery",
-                    "place_id":"6bZemIVQUL8LSYoWJg",
-                    "woeid":"12589583"
-                },
-                "latitude":"39.898724",
-                "locality":{
-                    "_content":"James M Cox Dayton International Airport",
-                    "place_id":"BSnRH65QUL8Ww2N8Jw",
-                    "woeid":"12520347"
-                },
-                "longitude":"-84.219431",
-                "place_id":"BSnRH65QUL8Ww2N8Jw",
-                "region":{
-                    "_content":"Ohio",
-                    "place_id":"UUU.pnpTUb7KHEfH",
-                    "woeid":"2347594"
-                },
-                "woeid":"12520347"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"dbf1772b6f",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2593",
-                "location":"Vandalia, OH, United States",
-                "nsid":"42603028@N05",
-                "path_alias":"redlegsfan21",
-                "realname":"",
-                "username":"redlegsfan21"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"f94f362ae0",
-            "server":"8327",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"n967tw",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-51080249",
-                        "machine_tag":0,
-                        "raw":"N967TW"
-                    },
-                    {
-                        "_content":"american",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-13824",
-                        "machine_tag":0,
-                        "raw":"American"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-32533",
-                        "machine_tag":0,
-                        "raw":"Airlines"
-                    },
-                    {
-                        "_content":"mcdonnell",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-187961",
-                        "machine_tag":0,
-                        "raw":"McDonnell"
-                    },
-                    {
-                        "_content":"douglas",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-31653",
-                        "machine_tag":0,
-                        "raw":"Douglas"
-                    },
-                    {
-                        "_content":"md83",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-650828",
-                        "machine_tag":0,
-                        "raw":"MD-83"
-                    },
-                    {
-                        "_content":"james",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-2094",
-                        "machine_tag":0,
-                        "raw":"James"
-                    },
-                    {
-                        "_content":"m",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-10821",
-                        "machine_tag":0,
-                        "raw":"M."
-                    },
-                    {
-                        "_content":"cox",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-17246",
-                        "machine_tag":0,
-                        "raw":"Cox"
-                    },
-                    {
-                        "_content":"dayton",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-63106",
-                        "machine_tag":0,
-                        "raw":"Dayton"
-                    },
-                    {
-                        "_content":"international",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-12495",
-                        "machine_tag":0,
-                        "raw":"International"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"aa",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-58482",
-                        "machine_tag":0,
-                        "raw":"AA"
-                    },
-                    {
-                        "_content":"aal",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-157582",
-                        "machine_tag":0,
-                        "raw":"AAL"
-                    },
-                    {
-                        "_content":"day",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-3511",
-                        "machine_tag":0,
-                        "raw":"DAY"
-                    },
-                    {
-                        "_content":"kday",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-8117631959-265840",
-                        "machine_tag":0,
-                        "raw":"KDAY"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"N967TW"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/redlegsfan21/8117631959/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1420",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3000,
-                "mimetype":"image/jpeg",
-                "secret":"MgSjOgcjziHUIfgB1Ax0t2FMzHgZksomC3rV6yxVO3kX4ojPzX2t",
-                "width":4000
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
-                "width":640
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534301,
-        85833935,
-        102191575,
-        404526925,
-        85633793,
-        101712189,
-        102083667,
-        85688485
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006071,
-    "wof:depicts":[
-        102534301,
-        1159283849,
-        1159291285,
-        1159293561
-    ],
-    "wof:geomhash":"2977efa6fa71f98caa073960b07cb1f4",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2012-10-23",
+    "date:cessation_upper": "2012-10-23",
+    "date:inception_lower": "2012-10-23",
+    "date:inception_upper": "2012-10-23",
+    "edtf:cessation": "2012-10-23T17:39:38",
+    "edtf:inception": "2012-10-23T17:39:38",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.219431,39.898724,-84.219431,39.898724",
+    "geom:latitude": 39.898724,
+    "geom:longitude": -84.219431,
+    "iso:country": "US",
+    "media:created": 1351039178,
+    "media:fingerprint": "e7af59be2b2e0d4983af4f9872ebf4fbb43b3eb1",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102534301,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083667,
-            "localadmin_id":404526925,
-            "locality_id":101712189,
-            "media_id":1159325081,
-            "neighbourhood_id":85833935,
-            "region_id":85688485
+          "closest": [
+            {
+              "hex": "#ff2b2b",
+              "name": "Orange Red",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b22222",
+              "name": "firebrick",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#ce1b15",
+          "name": "#ce1b15",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#a2add0",
+              "name": "Wild Blue Yonder",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#97b3d1",
+          "name": "#97b3d1",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#a52a2a",
+              "name": "brown",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#981d21",
+          "name": "#981d21",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#757575",
+              "name": "Sonic Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#7a8187",
+          "name": "#7a8187",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b3c4d2",
+          "name": "#b3c4d2",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8117631959",
+      "photo_info": {
+        "comments": {
+          "_content": "3"
+        },
+        "dates": {
+          "lastupdate": "1353447192",
+          "posted": "1351039601",
+          "taken": "2012-10-23 17:39:38",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1351039601",
+        "description": {
+          "_content": "American Airlines McDonnell Douglas MD-83\n\nJames M. Cox Dayton International Airport"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8117631959",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Montgomery",
+            "place_id": "6bZemIVQUL8LSYoWJg",
+            "woeid": "12589583"
+          },
+          "latitude": "39.898724",
+          "locality": {
+            "_content": "James M Cox Dayton International Airport",
+            "place_id": "BSnRH65QUL8Ww2N8Jw",
+            "woeid": "12520347"
+          },
+          "longitude": "-84.219431",
+          "place_id": "BSnRH65QUL8Ww2N8Jw",
+          "region": {
+            "_content": "Ohio",
+            "place_id": "UUU.pnpTUb7KHEfH",
+            "woeid": "2347594"
+          },
+          "woeid": "12520347"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "dbf1772b6f",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2593",
+          "location": "Vandalia, OH, United States",
+          "nsid": "42603028@N05",
+          "path_alias": "redlegsfan21",
+          "realname": "",
+          "username": "redlegsfan21"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "f94f362ae0",
+        "server": "8327",
+        "tags": {
+          "tag": [
+            {
+              "_content": "n967tw",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-51080249",
+              "machine_tag": 0,
+              "raw": "N967TW"
+            },
+            {
+              "_content": "american",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-13824",
+              "machine_tag": 0,
+              "raw": "American"
+            },
+            {
+              "_content": "airlines",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-32533",
+              "machine_tag": 0,
+              "raw": "Airlines"
+            },
+            {
+              "_content": "mcdonnell",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-187961",
+              "machine_tag": 0,
+              "raw": "McDonnell"
+            },
+            {
+              "_content": "douglas",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-31653",
+              "machine_tag": 0,
+              "raw": "Douglas"
+            },
+            {
+              "_content": "md83",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-650828",
+              "machine_tag": 0,
+              "raw": "MD-83"
+            },
+            {
+              "_content": "james",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-2094",
+              "machine_tag": 0,
+              "raw": "James"
+            },
+            {
+              "_content": "m",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-10821",
+              "machine_tag": 0,
+              "raw": "M."
+            },
+            {
+              "_content": "cox",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-17246",
+              "machine_tag": 0,
+              "raw": "Cox"
+            },
+            {
+              "_content": "dayton",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-63106",
+              "machine_tag": 0,
+              "raw": "Dayton"
+            },
+            {
+              "_content": "international",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-12495",
+              "machine_tag": 0,
+              "raw": "International"
+            },
+            {
+              "_content": "airport",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
+            },
+            {
+              "_content": "aa",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-58482",
+              "machine_tag": 0,
+              "raw": "AA"
+            },
+            {
+              "_content": "aal",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-157582",
+              "machine_tag": 0,
+              "raw": "AAL"
+            },
+            {
+              "_content": "day",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-3511",
+              "machine_tag": 0,
+              "raw": "DAY"
+            },
+            {
+              "_content": "kday",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-8117631959-265840",
+              "machine_tag": 0,
+              "raw": "KDAY"
+            }
+          ]
+        },
+        "title": {
+          "_content": "N967TW"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/redlegsfan21/8117631959/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1420",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3000,
+          "mimetype": "image/jpeg",
+          "secret": "MgSjOgcjziHUIfgB1Ax0t2FMzHgZksomC3rV6yxVO3kX4ojPzX2t",
+          "width": 4000
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "k0Plaw1qtYAuscQVgKqiD5bDFP2T2T77B6xev0O6BuprzRaQiRHP",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534301,
+      85833935,
+      102191575,
+      404526925,
+      85633793,
+      101712189,
+      102083667,
+      85688485
     ],
-    "wof:id":1159325081,
-    "wof:lastmodified":1545868699,
-    "wof:name":"N967TW",
-    "wof:parent_id":102534301,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006071,
+    "wof:depicts": [
+      102534301,
+      1159283849,
+      1159291285,
+      1159293561
+    ],
+    "wof:geomhash": "2977efa6fa71f98caa073960b07cb1f4",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102534301,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083667,
+        "image_id": 1159325081,
+        "localadmin_id": 404526925,
+        "locality_id": 101712189,
+        "media_id": 1159325081,
+        "neighbourhood_id": 85833935,
+        "region_id": 85688485
+      }
+    ],
+    "wof:id": 1159325081,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "N967TW",
+    "wof:parent_id": 102534301,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.219431,
     39.898724,
     -84.219431,
     39.898724
-],
+  ],
   "geometry": {"coordinates":[-84.219431,39.898724],"type":"Point"}
 }

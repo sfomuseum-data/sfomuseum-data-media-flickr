@@ -2,305 +2,309 @@
   "id": 1159322793,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-10-06",
-    "date:cessation_upper":"2017-10-06",
-    "date:inception_lower":"2017-10-06",
-    "date:inception_upper":"2017-10-06",
-    "edtf:cessation":"2017-10-06T00:33:16",
-    "edtf:inception":"2017-10-06T00:33:16",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382974,37.622389,-122.382974,37.622389",
-    "geom:latitude":37.622389,
-    "geom:longitude":-122.382974,
-    "iso:country":"US",
-    "media:created":1507275196,
-    "media:fingerprint":"529913d5c77e5f0036546acf643e6b2e3a5b8dfc",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"37681288532",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1518934414",
-                "posted":"1508082356",
-                "taken":"2017-10-06 00:33:16",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1508082356",
-            "description":{
-                "_content":"San Francisco - International (SFO / KSFO)\nCalifornia, USA  10.2017"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"37681288532",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.622389",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.382974",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"ed5db8f7bf",
-            "owner":{
-                "iconfarm":5,
-                "iconserver":"4583",
-                "location":"Bern, Schweiz ",
-                "nsid":"136038106@N05",
-                "path_alias":"kambui",
-                "realname":"M.Oertle",
-                "username":"Kambui"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"9638dab186",
-            "server":"4507",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"china",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37681288532-49",
-                        "machine_tag":0,
-                        "raw":"China"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37681288532-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"74789l",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37681288532-218378274",
-                        "machine_tag":0,
-                        "raw":"747-89L"
-                    },
-                    {
-                        "_content":"b2487",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37681288532-58858346",
-                        "machine_tag":0,
-                        "raw":"B-2487"
-                    },
-                    {
-                        "_content":"sfo",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37681288532-4991",
-                        "machine_tag":0,
-                        "raw":"SFO"
-                    },
-                    {
-                        "_content":"moertle",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37681288532-320986811",
-                        "machine_tag":0,
-                        "raw":"M.Oertle"
-                    },
-                    {
-                        "_content":"kambui",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37681288532-6246275",
-                        "machine_tag":0,
-                        "raw":"Kambui"
-                    },
-                    {
-                        "_content":"airchina",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-37681288532-628849",
-                        "machine_tag":0,
-                        "raw":"Air China"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Air China Boeing 747-89L B-2487"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/kambui/37681288532/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"511",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-10-06",
+    "date:cessation_upper": "2017-10-06",
+    "date:inception_lower": "2017-10-06",
+    "date:inception_upper": "2017-10-06",
+    "edtf:cessation": "2017-10-06T00:33:16",
+    "edtf:inception": "2017-10-06T00:33:16",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382974,37.622389,-122.382974,37.622389",
+    "geom:latitude": 37.622389,
+    "geom:longitude": -122.382974,
+    "iso:country": "US",
+    "media:created": 1507275196,
+    "media:fingerprint": "529913d5c77e5f0036546acf643e6b2e3a5b8dfc",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "37681288532",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
-                "width":1024
+        "dates": {
+          "lastupdate": "1518934414",
+          "posted": "1508082356",
+          "taken": "2017-10-06 00:33:16",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1508082356",
+        "description": {
+          "_content": "San Francisco - International (SFO / KSFO)\nCalifornia, USA  10.2017"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "37681288532",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.622389",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.382974",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "ed5db8f7bf",
+        "owner": {
+          "iconfarm": 5,
+          "iconserver": "4583",
+          "location": "Bern, Schweiz ",
+          "nsid": "136038106@N05",
+          "path_alias": "kambui",
+          "realname": "M.Oertle",
+          "username": "Kambui"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "9638dab186",
+        "server": "4507",
+        "tags": {
+          "tag": [
+            {
+              "_content": "china",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37681288532-49",
+              "machine_tag": 0,
+              "raw": "China"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
-                "width":800
+            {
+              "_content": "boeing",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37681288532-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
-                "width":320
+            {
+              "_content": "74789l",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37681288532-218378274",
+              "machine_tag": 0,
+              "raw": "747-89L"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1067,
-                "mimetype":"image/jpeg",
-                "secret":"E7nHN31UEqJkqjOzx54hsjEYbVL0Ci56SKRmE8rNoHSop83oMuV4",
-                "width":1600
+            {
+              "_content": "b2487",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37681288532-58858346",
+              "machine_tag": 0,
+              "raw": "B-2487"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
-                "width":320
+            {
+              "_content": "sfo",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37681288532-4991",
+              "machine_tag": 0,
+              "raw": "SFO"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
-                "width":640
+            {
+              "_content": "moertle",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37681288532-320986811",
+              "machine_tag": 0,
+              "raw": "M.Oertle"
+            },
+            {
+              "_content": "kambui",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37681288532-6246275",
+              "machine_tag": 0,
+              "raw": "Kambui"
+            },
+            {
+              "_content": "airchina",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-37681288532-628849",
+              "machine_tag": 0,
+              "raw": "Air China"
             }
+          ]
+        },
+        "title": {
+          "_content": "Air China Boeing 747-89L B-2487"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/kambui/37681288532/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "511",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1067,
+          "mimetype": "image/jpeg",
+          "secret": "E7nHN31UEqJkqjOzx54hsjEYbVL0Ci56SKRmE8rNoHSop83oMuV4",
+          "width": 1600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "qIKFGspCic7OWq3G8Zt1czIJCVreHgyzUj1Q5ux4A0M1X019afJb",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678688,
-    "wof:depicts":[
-        102527513,
-        1159283605,
-        1159289873
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678688,
+    "wof:depicts": [
+      102527513,
+      1159283605,
+      1159289873
     ],
-    "wof:geomhash":"ea66f4541a4684fadc9f096d21be7ebd",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322793,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322793,
-            "region_id":85688637
-        }
+    "wof:geomhash": "ea66f4541a4684fadc9f096d21be7ebd",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322793,
+        "locality_id": 85922583,
+        "media_id": 1159322793,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322793,
+        "media_id": 1159322793,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322793,
-    "wof:lastmodified":1545868686,
-    "wof:name":"Air China Boeing 747-89L B-2487",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322793,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Air China Boeing 747-89L B-2487",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.382974,
     37.622389,
     -122.382974,
     37.622389
-],
+  ],
   "geometry": {"coordinates":[-122.382974,37.622389],"type":"Point"}
 }

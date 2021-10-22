@@ -2,432 +2,435 @@
   "id": 1159333381,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-16",
-    "date:cessation_upper":"2015-04-16",
-    "date:inception_lower":"2015-04-16",
-    "date:inception_upper":"2015-04-16",
-    "edtf:cessation":"2015-04-16T10:58:39",
-    "edtf:inception":"2015-04-16T10:58:39",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.408584,33.943359,-118.408584,33.943359",
-    "geom:latitude":33.943359,
-    "geom:longitude":-118.408584,
-    "iso:country":"US",
-    "media:created":1429207119,
-    "media:fingerprint":"d19297afe74754c857eb6a7e2a9f50895a4c9f0d",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#1dacd6",
-                        "name":"Cerulean",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#6495ed",
-                        "name":"cornflowerblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#49b1f6",
-                "name":"#49b1f6",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#6699cc",
-                        "name":"Blue Gray",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#6495ed",
-                        "name":"cornflowerblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#55a4ce",
-                "name":"#55a4ce",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#1164b4",
-                        "name":"Green Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#008b8b",
-                        "name":"darkcyan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#1162b0",
-                "name":"#1162b0",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#5d76cb",
-                        "name":"Indigo",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#4682b4",
-                        "name":"steelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#5c82a9",
-                "name":"#5c82a9",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#979aaa",
-                        "name":"Manatee",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a9a9a9",
-                        "name":"darkgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#98a4b8",
-                "name":"#98a4b8",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"28581566135",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1473819660",
-                "posted":"1469608543",
-                "taken":"2015-04-16 10:58:39",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1469608543",
-            "description":{
-                "_content":"MSN 438\nA340-313X\nAIR TAHITIT NUI\nLAX AIRPORT"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"28581566135",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"12",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.943359",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.408584",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"622c924cbe",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8279",
-                "location":"PARIS, FRANCE",
-                "nsid":"16103393@N05",
-                "path_alias":"airlines470",
-                "realname":"ERIC  SALARD",
-                "username":"airlines470"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"82d6f060b1",
-            "server":"7538",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"fosea",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-3561935",
-                        "machine_tag":0,
-                        "raw":"F-OSEA"
-                    },
-                    {
-                        "_content":"a340",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-91706",
-                        "machine_tag":0,
-                        "raw":"A340"
-                    },
-                    {
-                        "_content":"msn",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-24030",
-                        "machine_tag":0,
-                        "raw":"MSN"
-                    },
-                    {
-                        "_content":"438",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-894280",
-                        "machine_tag":0,
-                        "raw":"438"
-                    },
-                    {
-                        "_content":"air",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-5982",
-                        "machine_tag":0,
-                        "raw":"AIR"
-                    },
-                    {
-                        "_content":"tahiti",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-24494",
-                        "machine_tag":0,
-                        "raw":"TAHITI"
-                    },
-                    {
-                        "_content":"nui",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-360089",
-                        "machine_tag":0,
-                        "raw":"NUI"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-2695",
-                        "machine_tag":0,
-                        "raw":"AIRPORT"
-                    },
-                    {
-                        "_content":"a340300",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-605292",
-                        "machine_tag":0,
-                        "raw":"A340-300"
-                    },
-                    {
-                        "_content":"a340313",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-3686994",
-                        "machine_tag":0,
-                        "raw":"A340-313"
-                    },
-                    {
-                        "_content":"a340313x",
-                        "author":"16103393@N05",
-                        "authorname":"airlines470",
-                        "id":"16098053-28581566135-1195751",
-                        "machine_tag":0,
-                        "raw":"A340-313X"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"F-OSEA  LAX"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/airlines470/28581566135/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1029",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":665,
-                "mimetype":"image/jpeg",
-                "secret":"ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":519,
-                "mimetype":"image/jpeg",
-                "secret":"ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":519,
-                "mimetype":"image/jpeg",
-                "secret":"ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":207,
-                "mimetype":"image/jpeg",
-                "secret":"ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2715,
-                "mimetype":"image/jpeg",
-                "secret":"yizPQnkC5uptKn7xBji7ZuVuldoVKYEu5X3jBXZbDAj0B45w2LTG",
-                "width":4178
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":415,
-                "mimetype":"image/jpeg",
-                "secret":"ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
-                "width":640
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527020708,
-    "wof:depicts":[
-        102533795,
-        1159289425,
-        1159292985,
-        1159293829
-    ],
-    "wof:geomhash":"8b6f0bd5628e99aac6fc57fca2b92680",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2015-04-16",
+    "date:cessation_upper": "2015-04-16",
+    "date:inception_lower": "2015-04-16",
+    "date:inception_upper": "2015-04-16",
+    "edtf:cessation": "2015-04-16T10:58:39",
+    "edtf:inception": "2015-04-16T10:58:39",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.408584,33.943359,-118.408584,33.943359",
+    "geom:latitude": 33.943359,
+    "geom:longitude": -118.408584,
+    "iso:country": "US",
+    "media:created": 1429207119,
+    "media:fingerprint": "d19297afe74754c857eb6a7e2a9f50895a4c9f0d",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159333381,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#1dacd6",
+              "name": "Cerulean",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#6495ed",
+              "name": "cornflowerblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#49b1f6",
+          "name": "#49b1f6",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#6699cc",
+              "name": "Blue Gray",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#6495ed",
+              "name": "cornflowerblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#55a4ce",
+          "name": "#55a4ce",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#1164b4",
+              "name": "Green Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#008b8b",
+              "name": "darkcyan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#1162b0",
+          "name": "#1162b0",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#5d76cb",
+              "name": "Indigo",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#4682b4",
+              "name": "steelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#5c82a9",
+          "name": "#5c82a9",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#979aaa",
+              "name": "Manatee",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#a9a9a9",
+              "name": "darkgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#98a4b8",
+          "name": "#98a4b8",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "28581566135",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1473819660",
+          "posted": "1469608543",
+          "taken": "2015-04-16 10:58:39",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1469608543",
+        "description": {
+          "_content": "MSN 438\nA340-313X\nAIR TAHITIT NUI\nLAX AIRPORT"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "28581566135",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "12",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.943359",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.408584",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "622c924cbe",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8279",
+          "location": "PARIS, FRANCE",
+          "nsid": "16103393@N05",
+          "path_alias": "airlines470",
+          "realname": "ERIC  SALARD",
+          "username": "airlines470"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "82d6f060b1",
+        "server": "7538",
+        "tags": {
+          "tag": [
+            {
+              "_content": "fosea",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-3561935",
+              "machine_tag": 0,
+              "raw": "F-OSEA"
+            },
+            {
+              "_content": "a340",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-91706",
+              "machine_tag": 0,
+              "raw": "A340"
+            },
+            {
+              "_content": "msn",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-24030",
+              "machine_tag": 0,
+              "raw": "MSN"
+            },
+            {
+              "_content": "438",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-894280",
+              "machine_tag": 0,
+              "raw": "438"
+            },
+            {
+              "_content": "air",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-5982",
+              "machine_tag": 0,
+              "raw": "AIR"
+            },
+            {
+              "_content": "tahiti",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-24494",
+              "machine_tag": 0,
+              "raw": "TAHITI"
+            },
+            {
+              "_content": "nui",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-360089",
+              "machine_tag": 0,
+              "raw": "NUI"
+            },
+            {
+              "_content": "lax",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "airport",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-2695",
+              "machine_tag": 0,
+              "raw": "AIRPORT"
+            },
+            {
+              "_content": "a340300",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-605292",
+              "machine_tag": 0,
+              "raw": "A340-300"
+            },
+            {
+              "_content": "a340313",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-3686994",
+              "machine_tag": 0,
+              "raw": "A340-313"
+            },
+            {
+              "_content": "a340313x",
+              "author": "16103393@N05",
+              "authorname": "airlines470",
+              "id": "16098053-28581566135-1195751",
+              "machine_tag": 0,
+              "raw": "A340-313X"
+            }
+          ]
+        },
+        "title": {
+          "_content": "F-OSEA  LAX"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/airlines470/28581566135/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1029",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 665,
+          "mimetype": "image/jpeg",
+          "secret": "ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 519,
+          "mimetype": "image/jpeg",
+          "secret": "ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 519,
+          "mimetype": "image/jpeg",
+          "secret": "ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 207,
+          "mimetype": "image/jpeg",
+          "secret": "ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2715,
+          "mimetype": "image/jpeg",
+          "secret": "yizPQnkC5uptKn7xBji7ZuVuldoVKYEu5X3jBXZbDAj0B45w2LTG",
+          "width": 4178
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 415,
+          "mimetype": "image/jpeg",
+          "secret": "ZMynqYHXKapgcDdWvD6p8WmCxO3EjzjM0BlRZCTCx9NwRhR9KHtI",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159333381,
-    "wof:lastmodified":1545868720,
-    "wof:name":"F-OSEA  LAX",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527020708,
+    "wof:depicts": [
+      102533795,
+      1159289425,
+      1159292985,
+      1159293829
+    ],
+    "wof:geomhash": "8b6f0bd5628e99aac6fc57fca2b92680",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159333381,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159333381,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159333381,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "F-OSEA  LAX",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.408584,
     33.943359,
     -118.408584,
     33.943359
-],
+  ],
   "geometry": {"coordinates":[-118.408584,33.943359],"type":"Point"}
 }

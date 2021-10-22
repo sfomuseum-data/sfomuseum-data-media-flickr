@@ -2,236 +2,239 @@
   "id": 1159324833,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2010-03-19",
-    "date:cessation_upper":"2010-03-19",
-    "date:inception_lower":"2010-03-19",
-    "date:inception_upper":"2010-03-19",
-    "edtf:cessation":"2010-03-19T12:54:20",
-    "edtf:inception":"2010-03-19T12:54:20",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-147.868914,64.817961,-147.868914,64.817961",
-    "geom:latitude":64.817961,
-    "geom:longitude":-147.868914,
-    "iso:country":"US",
-    "media:created":1269028460,
-    "media:fingerprint":"bda94f9c0ba19727652a66e2690513b1619c6da3",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"4452752450",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1505464917",
-                "posted":"1269218236",
-                "taken":"2010-03-19 12:54:20",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1269218236",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"4452752450",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Fairbanks North Star Borough",
-                    "place_id":"1r8T18dQUL_K3F8dvg",
-                    "woeid":"12587561"
-                },
-                "latitude":"64.817961",
-                "locality":{
-                    "_content":"Fairbanks International Airport",
-                    "place_id":"K8DW2PBQUL.I.VBbbw",
-                    "woeid":"12519682"
-                },
-                "longitude":"-147.868914",
-                "place_id":"K8DW2PBQUL.I.VBbbw",
-                "region":{
-                    "_content":"Alaska",
-                    "place_id":"b_WIPQFTUb5YM9kc",
-                    "woeid":"2347560"
-                },
-                "woeid":"12519682"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e7a9e4b33f",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3276",
-                "location":"",
-                "nsid":"59365110@N00",
-                "path_alias":"youngj523",
-                "realname":"Young Juan",
-                "username":"YoungJ523"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"622a812ce0",
-            "server":"4041",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"fairbanks",
-                        "author":"59365110@N00",
-                        "authorname":"YoungJ523",
-                        "id":"4665011-4452752450-66840",
-                        "machine_tag":0,
-                        "raw":"Fairbanks"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Fairbanks Airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/youngj523/4452752450/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"358",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2010-03-19",
+    "date:cessation_upper": "2010-03-19",
+    "date:inception_lower": "2010-03-19",
+    "date:inception_upper": "2010-03-19",
+    "edtf:cessation": "2010-03-19T12:54:20",
+    "edtf:inception": "2010-03-19T12:54:20",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-147.868914,64.817961,-147.868914,64.817961",
+    "geom:latitude": 64.817961,
+    "geom:longitude": -147.868914,
+    "iso:country": "US",
+    "media:created": 1269028460,
+    "media:fingerprint": "bda94f9c0ba19727652a66e2690513b1619c6da3",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "4452752450",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":960,
-                "mimetype":"image/jpeg",
-                "secret":"QDHkTOISR2lGmVrSub4ueuSBVZTFdtewgkfRRijLNd0P3HrjxFgk",
-                "width":1280
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
-                "width":640
+        "dates": {
+          "lastupdate": "1505464917",
+          "posted": "1269218236",
+          "taken": "2010-03-19 12:54:20",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1269218236",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "4452752450",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Fairbanks North Star Borough",
+            "place_id": "1r8T18dQUL_K3F8dvg",
+            "woeid": "12587561"
+          },
+          "latitude": "64.817961",
+          "locality": {
+            "_content": "Fairbanks International Airport",
+            "place_id": "K8DW2PBQUL.I.VBbbw",
+            "woeid": "12519682"
+          },
+          "longitude": "-147.868914",
+          "place_id": "K8DW2PBQUL.I.VBbbw",
+          "region": {
+            "_content": "Alaska",
+            "place_id": "b_WIPQFTUb5YM9kc",
+            "woeid": "2347560"
+          },
+          "woeid": "12519682"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e7a9e4b33f",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3276",
+          "location": "",
+          "nsid": "59365110@N00",
+          "path_alias": "youngj523",
+          "realname": "Young Juan",
+          "username": "YoungJ523"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "622a812ce0",
+        "server": "4041",
+        "tags": {
+          "tag": [
+            {
+              "_content": "fairbanks",
+              "author": "59365110@N00",
+              "authorname": "YoungJ523",
+              "id": "4665011-4452752450-66840",
+              "machine_tag": 0,
+              "raw": "Fairbanks"
             }
+          ]
+        },
+        "title": {
+          "_content": "Fairbanks Airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/youngj523/4452752450/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "358",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 960,
+          "mimetype": "image/jpeg",
+          "secret": "QDHkTOISR2lGmVrSub4ueuSBVZTFdtewgkfRRijLNd0P3HrjxFgk",
+          "width": 1280
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "esDawVv2Qslewi04DAlC1CeETRQpBiKqS2q5TQ7k15d66i04RCbw",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102524911,
-        85688573,
-        102191575,
-        85633793,
-        85916551,
-        102081397
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102524911,
+      85688573,
+      102191575,
+      85633793,
+      85916551,
+      102081397
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527005982,
-    "wof:depicts":[
-        102524911
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527005982,
+    "wof:depicts": [
+      102524911
     ],
-    "wof:geomhash":"4ebeb4fdf489b83afa654a5c8608b4c7",
-    "wof:hierarchy":[
-        {
-            "campus_id":102524911,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081397,
-            "locality_id":85916551,
-            "media_id":1159324833,
-            "region_id":85688573
-        }
+    "wof:geomhash": "4ebeb4fdf489b83afa654a5c8608b4c7",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102524911,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081397,
+        "image_id": 1159324833,
+        "locality_id": 85916551,
+        "media_id": 1159324833,
+        "region_id": 85688573
+      }
     ],
-    "wof:id":1159324833,
-    "wof:lastmodified":1545868651,
-    "wof:name":"Fairbanks Airport",
-    "wof:parent_id":102524911,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159324833,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Fairbanks Airport",
+    "wof:parent_id": 102524911,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -147.868914,
     64.817961,
     -147.868914,
     64.817961
-],
-  "geometry": {"coordinates":[-147.86891399999999,64.817961],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-147.868914,64.817961],"type":"Point"}
 }

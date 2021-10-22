@@ -2,264 +2,267 @@
   "id": 1159331657,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-05-07",
-    "date:cessation_upper":"2016-05-07",
-    "date:inception_lower":"2016-05-07",
-    "date:inception_upper":"2016-05-07",
-    "edtf:cessation":"2016-05-07T14:39:37",
-    "edtf:inception":"2016-05-07T14:39:37",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.410292,33.941022,-118.410292,33.941022",
-    "geom:latitude":33.941022,
-    "geom:longitude":-118.410292,
-    "iso:country":"US",
-    "media:created":1462657177,
-    "media:fingerprint":"db71295767fd546aba712102b998c3b250ceded4",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"27117833481",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1463981202",
-                "posted":"1463981201",
-                "taken":"2016-05-07 14:39:37",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1463981201",
-            "description":{
-                "_content":"Big plane will take me to London and then Amsterdam!"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"27117833481",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.941022",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.410292",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"a3b79fbf61",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7555",
-                "location":"Oxnard, CA, USA",
-                "nsid":"9986207@N02",
-                "path_alias":"etnlnight",
-                "realname":"Justin Cheung",
-                "username":"Justy.C"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"6459aa9e34",
-            "server":"7488",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airbusa380",
-                        "author":"9986207@N02",
-                        "authorname":"Justy.C",
-                        "id":"9965859-27117833481-413147",
-                        "machine_tag":0,
-                        "raw":"Airbus A380"
-                    },
-                    {
-                        "_content":"britishairways",
-                        "author":"9986207@N02",
-                        "authorname":"Justy.C",
-                        "id":"9965859-27117833481-41522",
-                        "machine_tag":0,
-                        "raw":"British Airways"
-                    },
-                    {
-                        "_content":"passengeraircraftphotography",
-                        "author":"9986207@N02",
-                        "authorname":"Justy.C",
-                        "id":"9965859-27117833481-293599325",
-                        "machine_tag":0,
-                        "raw":"Passenger Aircraft Photography"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"9986207@N02",
-                        "authorname":"Justy.C",
-                        "id":"9965859-27117833481-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"A380 to London"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/etnlnight/27117833481/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"117",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2016-05-07",
+    "date:cessation_upper": "2016-05-07",
+    "date:inception_lower": "2016-05-07",
+    "date:inception_upper": "2016-05-07",
+    "edtf:cessation": "2016-05-07T14:39:37",
+    "edtf:inception": "2016-05-07T14:39:37",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.410292,33.941022,-118.410292,33.941022",
+    "geom:latitude": 33.941022,
+    "geom:longitude": -118.410292,
+    "iso:country": "US",
+    "media:created": 1462657177,
+    "media:fingerprint": "db71295767fd546aba712102b998c3b250ceded4",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "27117833481",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":683,
-                "mimetype":"image/jpeg",
-                "secret":"ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
-                "width":1024
+        "dates": {
+          "lastupdate": "1463981202",
+          "posted": "1463981201",
+          "taken": "2016-05-07 14:39:37",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1463981201",
+        "description": {
+          "_content": "Big plane will take me to London and then Amsterdam!"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "27117833481",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.941022",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.410292",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "a3b79fbf61",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7555",
+          "location": "Oxnard, CA, USA",
+          "nsid": "9986207@N02",
+          "path_alias": "etnlnight",
+          "realname": "Justin Cheung",
+          "username": "Justy.C"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "6459aa9e34",
+        "server": "7488",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airbusa380",
+              "author": "9986207@N02",
+              "authorname": "Justy.C",
+              "id": "9965859-27117833481-413147",
+              "machine_tag": 0,
+              "raw": "Airbus A380"
             },
-            "c":{
-                "extension":"jpg",
-                "height":534,
-                "mimetype":"image/jpeg",
-                "secret":"ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
-                "width":800
+            {
+              "_content": "britishairways",
+              "author": "9986207@N02",
+              "authorname": "Justy.C",
+              "id": "9965859-27117833481-41522",
+              "machine_tag": 0,
+              "raw": "British Airways"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
-                "width":320
+            {
+              "_content": "passengeraircraftphotography",
+              "author": "9986207@N02",
+              "authorname": "Justy.C",
+              "id": "9965859-27117833481-293599325",
+              "machine_tag": 0,
+              "raw": "Passenger Aircraft Photography"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1709,
-                "mimetype":"image/jpeg",
-                "secret":"o2lUBSMQTIti6SFsMg4FsCeersDX7lyifGWuJkOmeUZH7l7RtcpE",
-                "width":2560
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":427,
-                "mimetype":"image/jpeg",
-                "secret":"ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
-                "width":640
+            {
+              "_content": "lax",
+              "author": "9986207@N02",
+              "authorname": "Justy.C",
+              "id": "9965859-27117833481-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
             }
+          ]
+        },
+        "title": {
+          "_content": "A380 to London"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/etnlnight/27117833481/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "117",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 683,
+          "mimetype": "image/jpeg",
+          "secret": "ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 534,
+          "mimetype": "image/jpeg",
+          "secret": "ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1709,
+          "mimetype": "image/jpeg",
+          "secret": "o2lUBSMQTIti6SFsMg4FsCeersDX7lyifGWuJkOmeUZH7l7RtcpE",
+          "width": 2560
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 427,
+          "mimetype": "image/jpeg",
+          "secret": "ZbYArYrcGsAvXw4UPWCMOMadzucV18F13iBbnkl2O31EVvkD9ZKf",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018473,
-    "wof:depicts":[
-        102533795
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018473,
+    "wof:depicts": [
+      102533795
     ],
-    "wof:geomhash":"ffaaa34f655102a07a84ec43891b35f6",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159331657,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "ffaaa34f655102a07a84ec43891b35f6",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159331657,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159331657,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159331657,
-    "wof:lastmodified":1545868720,
-    "wof:name":"A380 to London",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159331657,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "A380 to London",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.410292,
     33.941022,
     -118.410292,
     33.941022
-],
+  ],
   "geometry": {"coordinates":[-118.410292,33.941022],"type":"Point"}
 }

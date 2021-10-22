@@ -2,287 +2,291 @@
   "id": 1159325507,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-06-08",
-    "date:cessation_upper":"2017-06-08",
-    "date:inception_lower":"2017-06-08",
-    "date:inception_upper":"2017-06-08",
-    "edtf:cessation":"2017-06-08T13:41:02",
-    "edtf:inception":"2017-06-08T13:41:02",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.956234,35.22513,-80.956234,35.22513",
-    "geom:latitude":35.22513,
-    "geom:longitude":-80.956234,
-    "iso:country":"US",
-    "media:created":1496954462,
-    "media:fingerprint":"1111f60b4ba36f7a40144c678da973626f59c88d",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"34819925500",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1497058604",
-                "posted":"1497058110",
-                "taken":"2017-06-08 13:41:02",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1497058110",
-            "description":{
-                "_content":"Taken at Charlotte June 8 2017"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"34819925500",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.225130",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.956234",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"08971fa148",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3677",
-                "location":"Louisville, US",
-                "nsid":"88322185@N00",
-                "path_alias":"laserbub",
-                "realname":"",
-                "username":"laserbub"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"d7594bd260",
-            "server":"4229",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"clt",
-                        "author":"88322185@N00",
-                        "authorname":"laserbub",
-                        "id":"3234631-34819925500-830168",
-                        "machine_tag":0,
-                        "raw":"CLT"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"88322185@N00",
-                        "authorname":"laserbub",
-                        "id":"3234631-34819925500-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"88322185@N00",
-                        "authorname":"laserbub",
-                        "id":"3234631-34819925500-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"aviationmuseum",
-                        "author":"88322185@N00",
-                        "authorname":"laserbub",
-                        "id":"3234631-34819925500-599126",
-                        "machine_tag":0,
-                        "raw":"aviation museum"
-                    },
-                    {
-                        "_content":"americanairlines",
-                        "author":"88322185@N00",
-                        "authorname":"laserbub",
-                        "id":"3234631-34819925500-35383",
-                        "machine_tag":0,
-                        "raw":"american airlines"
-                    },
-                    {
-                        "_content":"piedmontairlines",
-                        "author":"88322185@N00",
-                        "authorname":"laserbub",
-                        "id":"3234631-34819925500-5463491",
-                        "machine_tag":0,
-                        "raw":"Piedmont airlines"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"CLT airport_museum-6"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/laserbub/34819925500/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"55",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-06-08",
+    "date:cessation_upper": "2017-06-08",
+    "date:inception_lower": "2017-06-08",
+    "date:inception_upper": "2017-06-08",
+    "edtf:cessation": "2017-06-08T13:41:02",
+    "edtf:inception": "2017-06-08T13:41:02",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.956234,35.225130,-80.956234,35.225130",
+    "geom:latitude": 35.22513,
+    "geom:longitude": -80.956234,
+    "iso:country": "US",
+    "media:created": 1496954462,
+    "media:fingerprint": "1111f60b4ba36f7a40144c678da973626f59c88d",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "34819925500",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":766,
-                "mimetype":"image/jpeg",
-                "secret":"U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
-                "width":1024
+        "dates": {
+          "lastupdate": "1497058604",
+          "posted": "1497058110",
+          "taken": "2017-06-08 13:41:02",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1497058110",
+        "description": {
+          "_content": "Taken at Charlotte June 8 2017"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "34819925500",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.225130",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.956234",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "08971fa148",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3677",
+          "location": "Louisville, US",
+          "nsid": "88322185@N00",
+          "path_alias": "laserbub",
+          "realname": "",
+          "username": "laserbub"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "d7594bd260",
+        "server": "4229",
+        "tags": {
+          "tag": [
+            {
+              "_content": "clt",
+              "author": "88322185@N00",
+              "authorname": "laserbub",
+              "id": "3234631-34819925500-830168",
+              "machine_tag": 0,
+              "raw": "CLT"
             },
-            "c":{
-                "extension":"jpg",
-                "height":599,
-                "mimetype":"image/jpeg",
-                "secret":"U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
-                "width":800
+            {
+              "_content": "charlotte",
+              "author": "88322185@N00",
+              "authorname": "laserbub",
+              "id": "3234631-34819925500-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
             },
-            "n":{
-                "extension":"jpg",
-                "height":239,
-                "mimetype":"image/jpeg",
-                "secret":"U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
-                "width":320
+            {
+              "_content": "airport",
+              "author": "88322185@N00",
+              "authorname": "laserbub",
+              "id": "3234631-34819925500-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2478,
-                "mimetype":"image/jpeg",
-                "secret":"WCsRdhu252WcSvLtvBasK9IaqGjk8IXGSZt71qq9zppdsqxOeCi4",
-                "width":3309
+            {
+              "_content": "aviationmuseum",
+              "author": "88322185@N00",
+              "authorname": "laserbub",
+              "id": "3234631-34819925500-599126",
+              "machine_tag": 0,
+              "raw": "aviation museum"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
-                "width":320
+            {
+              "_content": "americanairlines",
+              "author": "88322185@N00",
+              "authorname": "laserbub",
+              "id": "3234631-34819925500-35383",
+              "machine_tag": 0,
+              "raw": "american airlines"
             },
-            "z":{
-                "extension":"jpg",
-                "height":479,
-                "mimetype":"image/jpeg",
-                "secret":"U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
-                "width":640
+            {
+              "_content": "piedmontairlines",
+              "author": "88322185@N00",
+              "authorname": "laserbub",
+              "id": "3234631-34819925500-5463491",
+              "machine_tag": 0,
+              "raw": "Piedmont airlines"
             }
+          ]
+        },
+        "title": {
+          "_content": "CLT airport_museum-6"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/laserbub/34819925500/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "55",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 766,
+          "mimetype": "image/jpeg",
+          "secret": "U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 599,
+          "mimetype": "image/jpeg",
+          "secret": "U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 239,
+          "mimetype": "image/jpeg",
+          "secret": "U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2478,
+          "mimetype": "image/jpeg",
+          "secret": "WCsRdhu252WcSvLtvBasK9IaqGjk8IXGSZt71qq9zppdsqxOeCi4",
+          "width": 3309
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 479,
+          "mimetype": "image/jpeg",
+          "secret": "U0NvZPp7Qcg9c7RKAYpbWw0AhSyCZacauRgdj2PuBH8fqWmVJy22",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006212,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006212,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"8275648319f4629c77911b8c2a6a4edb",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159325507,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159325507,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "8275648319f4629c77911b8c2a6a4edb",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325507,
+        "locality_id": 85981333,
+        "media_id": 1159325507,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325507,
+        "media_id": 1159325507,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159325507,
-    "wof:lastmodified":1545868702,
-    "wof:name":"CLT airport_museum-6",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325507,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "CLT airport_museum-6",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.956234,
     35.22513,
     -80.956234,
     35.22513
-],
-  "geometry": {"coordinates":[-80.95623399999999,35.22513],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.956234,35.22513],"type":"Point"}
 }

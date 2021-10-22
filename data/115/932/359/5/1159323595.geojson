@@ -2,338 +2,345 @@
   "id": 1159323595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2009-01-01T23:57:57",
-    "edtf:inception":"2009-01-01T23:57:57",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.596145,38.375736,-81.596145,38.375736",
-    "geom:latitude":38.375736,
-    "geom:longitude":-81.596145,
-    "iso:country":"US",
-    "media:created":1230883077,
-    "media:fingerprint":"381b14b8e2711134a5be06bc87353b4044dfe407",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3183345914",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1291481303",
-                "posted":"1231536682",
-                "taken":"2009-01-01 23:57:57",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1231536682",
-            "description":{
-                "_content":"Waiting to fly to Michigan. Jessica had her ticket."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3183345914",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Kanawha",
-                    "place_id":"ERuFpexQUL.v2Zzyrw",
-                    "woeid":"12590498"
-                },
-                "latitude":"38.375736",
-                "locality":{
-                    "_content":"Yeager Airport",
-                    "place_id":"0nAtThFQUL884TQYFg",
-                    "woeid":"12522530"
-                },
-                "longitude":"-81.596145",
-                "place_id":"0nAtThFQUL884TQYFg",
-                "region":{
-                    "_content":"West Virginia",
-                    "place_id":"YSTKG8VTUb594MBg",
-                    "woeid":"2347607"
-                },
-                "woeid":"12522530"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[
-                    {
-                        "_content":"ring by theweekendstore.com",
-                        "author":"21042063@N05",
-                        "authorispro":0,
-                        "authorname":"waysideviolet",
-                        "authorrealname":"",
-                        "h":"50",
-                        "id":"72157612448124681",
-                        "w":"50",
-                        "x":"41",
-                        "y":"267"
-                    }
-                ]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"84143a8b0e",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"489",
-                "location":"Austin, USA",
-                "nsid":"38061758@N00",
-                "path_alias":"asilentthing",
-                "realname":"Joel G Goodman",
-                "username":"joelgoodman"
-            },
-            "people":{
-                "haspeople":1
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"262ff77469",
-            "server":"3530",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airline",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-15019",
-                        "machine_tag":0,
-                        "raw":"airline"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"boardingpass",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-222930",
-                        "machine_tag":0,
-                        "raw":"boardingpass"
-                    },
-                    {
-                        "_content":"flight",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-7097",
-                        "machine_tag":0,
-                        "raw":"flight"
-                    },
-                    {
-                        "_content":"fly",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-2278",
-                        "machine_tag":0,
-                        "raw":"fly"
-                    },
-                    {
-                        "_content":"jessica",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-4478",
-                        "machine_tag":0,
-                        "raw":"jessica"
-                    },
-                    {
-                        "_content":"newyears",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-21488",
-                        "machine_tag":0,
-                        "raw":"newyears"
-                    },
-                    {
-                        "_content":"portrait",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-278",
-                        "machine_tag":0,
-                        "raw":"portrait"
-                    },
-                    {
-                        "_content":"travel",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-121",
-                        "machine_tag":0,
-                        "raw":"travel"
-                    },
-                    {
-                        "_content":"westvirginia",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-13776",
-                        "machine_tag":0,
-                        "raw":"westvirginia"
-                    },
-                    {
-                        "_content":"wife",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-18150",
-                        "machine_tag":0,
-                        "raw":"wife"
-                    },
-                    {
-                        "_content":"yeager",
-                        "author":"38061758@N00",
-                        "authorname":"joelgoodman",
-                        "id":"236872-3183345914-169134",
-                        "machine_tag":0,
-                        "raw":"yeager"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Jessica Will Fly"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/asilentthing/3183345914/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"2276",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-01-01",
+    "date:cessation_upper": "2009-01-01",
+    "date:inception_lower": "2009-01-01",
+    "date:inception_upper": "2009-01-01",
+    "edtf:cessation": "2009-01-01T23:57:57",
+    "edtf:inception": "2009-01-01T23:57:57",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.596145,38.375736,-81.596145,38.375736",
+    "geom:latitude": 38.375736,
+    "geom:longitude": -81.596145,
+    "iso:country": "US",
+    "media:created": 1230883077,
+    "media:fingerprint": "381b14b8e2711134a5be06bc87353b4044dfe407",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3183345914",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":685,
-                "mimetype":"image/jpeg",
-                "secret":"aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":535,
-                "mimetype":"image/jpeg",
-                "secret":"aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":214,
-                "mimetype":"image/jpeg",
-                "secret":"aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2592,
-                "mimetype":"image/jpeg",
-                "secret":"GLJcFUmxDeKlUJ0CIODvqLNWBaSKmweTsIOl3kh1QXcyUwMAG6gI",
-                "width":3872
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":428,
-                "mimetype":"image/jpeg",
-                "secret":"aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
-                "width":640
+        "dates": {
+          "lastupdate": "1291481303",
+          "posted": "1231536682",
+          "taken": "2009-01-01 23:57:57",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1231536682",
+        "description": {
+          "_content": "Waiting to fly to Michigan. Jessica had her ticket."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3183345914",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Kanawha",
+            "place_id": "ERuFpexQUL.v2Zzyrw",
+            "woeid": "12590498"
+          },
+          "latitude": "38.375736",
+          "locality": {
+            "_content": "Yeager Airport",
+            "place_id": "0nAtThFQUL884TQYFg",
+            "woeid": "12522530"
+          },
+          "longitude": "-81.596145",
+          "place_id": "0nAtThFQUL884TQYFg",
+          "region": {
+            "_content": "West Virginia",
+            "place_id": "YSTKG8VTUb594MBg",
+            "woeid": "2347607"
+          },
+          "woeid": "12522530"
+        },
+        "media": "photo",
+        "notes": {
+          "note": [
+            {
+              "_content": "ring by theweekendstore.com",
+              "author": "21042063@N05",
+              "authorispro": 0,
+              "authorname": "waysideviolet",
+              "authorrealname": "",
+              "h": "50",
+              "id": "72157612448124681",
+              "w": "50",
+              "x": "41",
+              "y": "267"
             }
+          ]
+        },
+        "originalformat": "jpg",
+        "originalsecret": "84143a8b0e",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "489",
+          "location": "Austin, USA",
+          "nsid": "38061758@N00",
+          "path_alias": "asilentthing",
+          "realname": "Joel G Goodman",
+          "username": "joelgoodman"
+        },
+        "people": {
+          "haspeople": 1
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "262ff77469",
+        "server": "3530",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airline",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-15019",
+              "machine_tag": 0,
+              "raw": "airline"
+            },
+            {
+              "_content": "airplane",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
+            },
+            {
+              "_content": "airport",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-2695",
+              "machine_tag": 0,
+              "raw": "airport"
+            },
+            {
+              "_content": "boardingpass",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-222930",
+              "machine_tag": 0,
+              "raw": "boardingpass"
+            },
+            {
+              "_content": "flight",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-7097",
+              "machine_tag": 0,
+              "raw": "flight"
+            },
+            {
+              "_content": "fly",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-2278",
+              "machine_tag": 0,
+              "raw": "fly"
+            },
+            {
+              "_content": "jessica",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-4478",
+              "machine_tag": 0,
+              "raw": "jessica"
+            },
+            {
+              "_content": "newyears",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-21488",
+              "machine_tag": 0,
+              "raw": "newyears"
+            },
+            {
+              "_content": "portrait",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-278",
+              "machine_tag": 0,
+              "raw": "portrait"
+            },
+            {
+              "_content": "travel",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-121",
+              "machine_tag": 0,
+              "raw": "travel"
+            },
+            {
+              "_content": "westvirginia",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-13776",
+              "machine_tag": 0,
+              "raw": "westvirginia"
+            },
+            {
+              "_content": "wife",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-18150",
+              "machine_tag": 0,
+              "raw": "wife"
+            },
+            {
+              "_content": "yeager",
+              "author": "38061758@N00",
+              "authorname": "joelgoodman",
+              "id": "236872-3183345914-169134",
+              "machine_tag": 0,
+              "raw": "yeager"
+            }
+          ]
+        },
+        "title": {
+          "_content": "Jessica Will Fly"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/asilentthing/3183345914/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "2276",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 685,
+          "mimetype": "image/jpeg",
+          "secret": "aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 535,
+          "mimetype": "image/jpeg",
+          "secret": "aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 214,
+          "mimetype": "image/jpeg",
+          "secret": "aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2592,
+          "mimetype": "image/jpeg",
+          "secret": "GLJcFUmxDeKlUJ0CIODvqLNWBaSKmweTsIOl3kh1QXcyUwMAG6gI",
+          "width": 3872
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 428,
+          "mimetype": "image/jpeg",
+          "secret": "aBBSBH9C33oR2dUbGBXxkNdSpWjRcto3g2zre6b5CLPpQWbAiMs4",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102530929,
-        420549807,
-        85633793
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102530929,
+      420549807,
+      85633793
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526688515,
-    "wof:depicts":[
-        102530929
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526688515,
+    "wof:depicts": [
+      102530929
     ],
-    "wof:geomhash":"6782af0ff443958690ae1028920ac04b",
-    "wof:hierarchy":[
-        {
-            "campus_id":102530929,
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "media_id":1159323595,
-            "neighbourhood_id":420549807,
-            "region_id":-1
-        }
+    "wof:geomhash": "6782af0ff443958690ae1028920ac04b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102530929,
+        "continent_id": -1,
+        "country_id": 85633793,
+        "image_id": 1159323595,
+        "locality_id": -1,
+        "media_id": 1159323595,
+        "neighbourhood_id": 420549807,
+        "region_id": -1
+      }
     ],
-    "wof:id":1159323595,
-    "wof:lastmodified":1545868704,
-    "wof:name":"Jessica Will Fly",
-    "wof:parent_id":102530929,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323595,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Jessica Will Fly",
+    "wof:parent_id": 102530929,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.596145,
     38.375736,
     -81.596145,
     38.375736
-],
-  "geometry": {"coordinates":[-81.59614500000001,38.375736],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.596145,38.375736],"type":"Point"}
 }

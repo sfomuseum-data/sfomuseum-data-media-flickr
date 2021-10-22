@@ -2,343 +2,347 @@
   "id": 1159327131,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2009-02-08",
-    "date:cessation_upper":"2009-02-08",
-    "date:inception_lower":"2009-02-08",
-    "date:inception_upper":"2009-02-08",
-    "edtf:cessation":"2009-02-08T17:05:53",
-    "edtf:inception":"2009-02-08T17:05:53",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.955737,35.224699,-80.955737,35.224699",
-    "geom:latitude":35.224699,
-    "geom:longitude":-80.955737,
-    "iso:country":"US",
-    "media:created":1234141553,
-    "media:fingerprint":"e9501aad38343c84fde4d5b5de9c2b467b7f2abe",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3270056791",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1269204286",
-                "posted":"1234313521",
-                "taken":"2009-02-08 17:05:53",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1234313521",
-            "description":{
-                "_content":"Airbus A320 on climb out from 36C.  Beautiful Carolina blue sky!\n\n<a href=\"http://loc.alize.us/#/flickr:3270056791\" rel=\"nofollow\">See where this picture was taken.</a> <a href=\"http://www.flickr.com/groups/geotagging/discuss/72157594165549916/\">[?]</a>"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3270056791",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.224699",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.955737",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"17d97b0848",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5533",
-                "location":"Belmont, NC, USA",
-                "nsid":"34486561@N03",
-                "path_alias":"carolinadoug",
-                "realname":"Douglas Johnson",
-                "username":"Carolinadoug"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"b4e9e1eff2",
-            "server":"3478",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airbus",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-16434",
-                        "machine_tag":0,
-                        "raw":"airbus"
-                    },
-                    {
-                        "_content":"clt",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-830168",
-                        "machine_tag":0,
-                        "raw":"clt"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-4733",
-                        "machine_tag":0,
-                        "raw":"charlotte"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"usairways",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-132281",
-                        "machine_tag":0,
-                        "raw":"USAirways"
-                    },
-                    {
-                        "_content":"a320",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-109960",
-                        "machine_tag":0,
-                        "raw":"A320"
-                    },
-                    {
-                        "_content":"d80",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-2498017",
-                        "machine_tag":0,
-                        "raw":"D80"
-                    },
-                    {
-                        "_content":"nikon",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-2994",
-                        "machine_tag":0,
-                        "raw":"Nikon"
-                    },
-                    {
-                        "_content":"geo:lat=35224699",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-44199644",
-                        "machine_tag":1,
-                        "raw":"geo:lat=35.224699"
-                    },
-                    {
-                        "_content":"geo:lon=80955737",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-44199824",
-                        "machine_tag":1,
-                        "raw":"geo:lon=-80.955737"
-                    },
-                    {
-                        "_content":"geotagged",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-1700",
-                        "machine_tag":0,
-                        "raw":"geotagged"
-                    },
-                    {
-                        "_content":"dougjohnson",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-5318848",
-                        "machine_tag":0,
-                        "raw":"Doug Johnson"
-                    },
-                    {
-                        "_content":"bigjohnsonphotoblogspotcom",
-                        "author":"34486561@N03",
-                        "authorname":"Carolinadoug",
-                        "id":"34463507-3270056791-49569848",
-                        "machine_tag":0,
-                        "raw":"bigjohnsonphoto.blogspot.com"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"A320 Departing CLT"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/carolinadoug/3270056791/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"330",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2009-02-08",
+    "date:cessation_upper": "2009-02-08",
+    "date:inception_lower": "2009-02-08",
+    "date:inception_upper": "2009-02-08",
+    "edtf:cessation": "2009-02-08T17:05:53",
+    "edtf:inception": "2009-02-08T17:05:53",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.955737,35.224699,-80.955737,35.224699",
+    "geom:latitude": 35.224699,
+    "geom:longitude": -80.955737,
+    "iso:country": "US",
+    "media:created": 1234141553,
+    "media:fingerprint": "e9501aad38343c84fde4d5b5de9c2b467b7f2abe",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3270056791",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":685,
-                "mimetype":"image/jpeg",
-                "secret":"jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
-                "width":1024
+        "dates": {
+          "lastupdate": "1269204286",
+          "posted": "1234313521",
+          "taken": "2009-02-08 17:05:53",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1234313521",
+        "description": {
+          "_content": "Airbus A320 on climb out from 36C.  Beautiful Carolina blue sky!\n\n\u003ca href=\"http://loc.alize.us/#/flickr:3270056791\" rel=\"nofollow\"\u003eSee where this picture was taken.\u003c/a\u003e \u003ca href=\"http://www.flickr.com/groups/geotagging/discuss/72157594165549916/\"\u003e[?]\u003c/a\u003e"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3270056791",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.224699",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.955737",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "17d97b0848",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5533",
+          "location": "Belmont, NC, USA",
+          "nsid": "34486561@N03",
+          "path_alias": "carolinadoug",
+          "realname": "Douglas Johnson",
+          "username": "Carolinadoug"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "b4e9e1eff2",
+        "server": "3478",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airbus",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-16434",
+              "machine_tag": 0,
+              "raw": "airbus"
             },
-            "c":{
-                "extension":"jpg",
-                "height":535,
-                "mimetype":"image/jpeg",
-                "secret":"jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
-                "width":799
+            {
+              "_content": "clt",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-830168",
+              "machine_tag": 0,
+              "raw": "clt"
             },
-            "n":{
-                "extension":"jpg",
-                "height":214,
-                "mimetype":"image/jpeg",
-                "secret":"jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
-                "width":320
+            {
+              "_content": "charlotte",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-4733",
+              "machine_tag": 0,
+              "raw": "charlotte"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1534,
-                "mimetype":"image/jpeg",
-                "secret":"tSjo19b92nWf3EWQmbYYJ0kLsS0xLdA7JFmqa9YPk55Fk8rOp73v",
-                "width":2293
+            {
+              "_content": "airplane",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
-                "width":320
+            {
+              "_content": "usairways",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-132281",
+              "machine_tag": 0,
+              "raw": "USAirways"
             },
-            "z":{
-                "extension":"jpg",
-                "height":428,
-                "mimetype":"image/jpeg",
-                "secret":"jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
-                "width":640
+            {
+              "_content": "a320",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-109960",
+              "machine_tag": 0,
+              "raw": "A320"
+            },
+            {
+              "_content": "d80",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-2498017",
+              "machine_tag": 0,
+              "raw": "D80"
+            },
+            {
+              "_content": "nikon",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-2994",
+              "machine_tag": 0,
+              "raw": "Nikon"
+            },
+            {
+              "_content": "geo:lat=35224699",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-44199644",
+              "machine_tag": 1,
+              "raw": "geo:lat=35.224699"
+            },
+            {
+              "_content": "geo:lon=80955737",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-44199824",
+              "machine_tag": 1,
+              "raw": "geo:lon=-80.955737"
+            },
+            {
+              "_content": "geotagged",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-1700",
+              "machine_tag": 0,
+              "raw": "geotagged"
+            },
+            {
+              "_content": "dougjohnson",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-5318848",
+              "machine_tag": 0,
+              "raw": "Doug Johnson"
+            },
+            {
+              "_content": "bigjohnsonphotoblogspotcom",
+              "author": "34486561@N03",
+              "authorname": "Carolinadoug",
+              "id": "34463507-3270056791-49569848",
+              "machine_tag": 0,
+              "raw": "bigjohnsonphoto.blogspot.com"
             }
+          ]
+        },
+        "title": {
+          "_content": "A320 Departing CLT"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/carolinadoug/3270056791/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "330",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 685,
+          "mimetype": "image/jpeg",
+          "secret": "jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 535,
+          "mimetype": "image/jpeg",
+          "secret": "jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
+          "width": 799
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 214,
+          "mimetype": "image/jpeg",
+          "secret": "jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1534,
+          "mimetype": "image/jpeg",
+          "secret": "tSjo19b92nWf3EWQmbYYJ0kLsS0xLdA7JFmqa9YPk55Fk8rOp73v",
+          "width": 2293
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 428,
+          "mimetype": "image/jpeg",
+          "secret": "jRlrAqP7WPIn4Z1TWk5bh7Z28wVyua5CPIA67hUFjLNdwypbcIGu",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006801,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006801,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"0bb4c695706a7d0baa7aa200c4d4b890",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159327131,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159327131,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "0bb4c695706a7d0baa7aa200c4d4b890",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327131,
+        "locality_id": 85981333,
+        "media_id": 1159327131,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327131,
+        "media_id": 1159327131,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159327131,
-    "wof:lastmodified":1545868710,
-    "wof:name":"A320 Departing CLT",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327131,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "A320 Departing CLT",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.955737,
     35.224699,
     -80.955737,
     35.224699
-],
+  ],
   "geometry": {"coordinates":[-80.955737,35.224699],"type":"Point"}
 }

@@ -2,366 +2,369 @@
   "id": 1159327343,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-11-07",
-    "date:cessation_upper":"2015-11-07",
-    "date:inception_lower":"2015-11-07",
-    "date:inception_upper":"2015-11-07",
-    "edtf:cessation":"2015-11-07T09:25:56",
-    "edtf:inception":"2015-11-07T09:25:56",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.036687,32.886722,-80.036687,32.886722",
-    "geom:latitude":32.886722,
-    "geom:longitude":-80.036687,
-    "iso:country":"US",
-    "media:created":1446917156,
-    "media:fingerprint":"3b07ac4968988bfae2fc7eaea67a3f24975a4766",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"25536159565",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1457213719",
-                "posted":"1457213263",
-                "taken":"2015-11-07 09:25:56",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1457213263",
-            "description":{
-                "_content":"On my way to NYC from the Charleston Conference on Saturday morning November 7, 2015.  The new terminal is mostly finished - but there is still work to do.  Originally, I was scheduled to fly to LGA, but delays and opportunity sent me to JFK.  My green bag was pulled and put on the new flight.  "
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":2,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"25536159565",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"13",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Charleston",
-                    "place_id":"Jc0dijdQUL.n.X07GA",
-                    "woeid":"12589809"
-                },
-                "latitude":"32.886722",
-                "locality":{
-                    "_content":"Charleston International Airport",
-                    "place_id":"1SI6QotQUL_AP1MaLA",
-                    "woeid":"12519142"
-                },
-                "longitude":"-80.036687",
-                "place_id":"1SI6QotQUL_AP1MaLA",
-                "region":{
-                    "_content":"South Carolina",
-                    "place_id":"J0wmj5lTUb6eTQbF",
-                    "woeid":"2347599"
-                },
-                "woeid":"12519142"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"0a62e17276",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7167",
-                "location":"Saline, Mich., USA",
-                "nsid":"7702423@N04",
-                "path_alias":"cseeman",
-                "realname":"Corey Seeman",
-                "username":"cseeman"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"d7fe7231ab",
-            "server":"1717",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"chs",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-92326",
-                        "machine_tag":false,
-                        "raw":"CHS"
-                    },
-                    {
-                        "_content":"chalrestoninternationalairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-155186685",
-                        "machine_tag":false,
-                        "raw":"Chalreston International Airport"
-                    },
-                    {
-                        "_content":"charlestonairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-5056885",
-                        "machine_tag":false,
-                        "raw":"Charleston Airport"
-                    },
-                    {
-                        "_content":"airports",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-28698",
-                        "machine_tag":false,
-                        "raw":"Airports"
-                    },
-                    {
-                        "_content":"terminals",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-53629",
-                        "machine_tag":false,
-                        "raw":"Terminals"
-                    },
-                    {
-                        "_content":"southcarolina",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-7531",
-                        "machine_tag":false,
-                        "raw":"South Carolina"
-                    },
-                    {
-                        "_content":"charleston",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-11772",
-                        "machine_tag":false,
-                        "raw":"Charleston"
-                    },
-                    {
-                        "_content":"deltaairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-601971",
-                        "machine_tag":false,
-                        "raw":"Delta Airlines"
-                    },
-                    {
-                        "_content":"chs11072015",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-277190384",
-                        "machine_tag":false,
-                        "raw":"CHS11072015"
-                    },
-                    {
-                        "_content":"airplanes",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-6603",
-                        "machine_tag":false,
-                        "raw":"Airplanes"
-                    },
-                    {
-                        "_content":"passengeraircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-1602103",
-                        "machine_tag":false,
-                        "raw":"Passenger Aircraft"
-                    },
-                    {
-                        "_content":"aircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-5854",
-                        "machine_tag":false,
-                        "raw":"Aircraft"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-32533",
-                        "machine_tag":false,
-                        "raw":"Airlines"
-                    },
-                    {
-                        "_content":"morning",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-120",
-                        "machine_tag":false,
-                        "raw":"Morning"
-                    },
-                    {
-                        "_content":"americanairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-35383",
-                        "machine_tag":false,
-                        "raw":"American Airlines"
-                    },
-                    {
-                        "_content":"unitedairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-109273",
-                        "machine_tag":false,
-                        "raw":"United Airlines"
-                    },
-                    {
-                        "_content":"jetblue",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-25536159565-18653",
-                        "machine_tag":false,
-                        "raw":"JetBlue"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Scenes from Charleston International Airport (Charleston, S.C.) - Saturday November 7, 2015"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/cseeman/25536159565/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"100",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-11-07",
+    "date:cessation_upper": "2015-11-07",
+    "date:inception_lower": "2015-11-07",
+    "date:inception_upper": "2015-11-07",
+    "edtf:cessation": "2015-11-07T09:25:56",
+    "edtf:inception": "2015-11-07T09:25:56",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.036687,32.886722,-80.036687,32.886722",
+    "geom:latitude": 32.886722,
+    "geom:longitude": -80.036687,
+    "iso:country": "US",
+    "media:created": 1446917156,
+    "media:fingerprint": "3b07ac4968988bfae2fc7eaea67a3f24975a4766",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "25536159565",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
-                "width":1024
+        "dates": {
+          "lastupdate": "1457213719",
+          "posted": "1457213263",
+          "taken": "2015-11-07 09:25:56",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1457213263",
+        "description": {
+          "_content": "On my way to NYC from the Charleston Conference on Saturday morning November 7, 2015.  The new terminal is mostly finished - but there is still work to do.  Originally, I was scheduled to fly to LGA, but delays and opportunity sent me to JFK.  My green bag was pulled and put on the new flight.  "
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 2,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "25536159565",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "13",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Charleston",
+            "place_id": "Jc0dijdQUL.n.X07GA",
+            "woeid": "12589809"
+          },
+          "latitude": "32.886722",
+          "locality": {
+            "_content": "Charleston International Airport",
+            "place_id": "1SI6QotQUL_AP1MaLA",
+            "woeid": "12519142"
+          },
+          "longitude": "-80.036687",
+          "place_id": "1SI6QotQUL_AP1MaLA",
+          "region": {
+            "_content": "South Carolina",
+            "place_id": "J0wmj5lTUb6eTQbF",
+            "woeid": "2347599"
+          },
+          "woeid": "12519142"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "0a62e17276",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7167",
+          "location": "Saline, Mich., USA",
+          "nsid": "7702423@N04",
+          "path_alias": "cseeman",
+          "realname": "Corey Seeman",
+          "username": "cseeman"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "d7fe7231ab",
+        "server": "1717",
+        "tags": {
+          "tag": [
+            {
+              "_content": "chs",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-92326",
+              "machine_tag": false,
+              "raw": "CHS"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
-                "width":800
+            {
+              "_content": "chalrestoninternationalairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-155186685",
+              "machine_tag": false,
+              "raw": "Chalreston International Airport"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
-                "width":320
+            {
+              "_content": "charlestonairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-5056885",
+              "machine_tag": false,
+              "raw": "Charleston Airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2848,
-                "mimetype":"image/jpeg",
-                "secret":"5HUmZPwMmBY7WWBozLW2UnsAauclc6oftKGTXbFqVrKxkE9ymq1q",
-                "width":4272
+            {
+              "_content": "airports",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-28698",
+              "machine_tag": false,
+              "raw": "Airports"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
-                "width":320
+            {
+              "_content": "terminals",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-53629",
+              "machine_tag": false,
+              "raw": "Terminals"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
-                "width":640
+            {
+              "_content": "southcarolina",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-7531",
+              "machine_tag": false,
+              "raw": "South Carolina"
+            },
+            {
+              "_content": "charleston",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-11772",
+              "machine_tag": false,
+              "raw": "Charleston"
+            },
+            {
+              "_content": "deltaairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-601971",
+              "machine_tag": false,
+              "raw": "Delta Airlines"
+            },
+            {
+              "_content": "chs11072015",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-277190384",
+              "machine_tag": false,
+              "raw": "CHS11072015"
+            },
+            {
+              "_content": "airplanes",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-6603",
+              "machine_tag": false,
+              "raw": "Airplanes"
+            },
+            {
+              "_content": "passengeraircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-1602103",
+              "machine_tag": false,
+              "raw": "Passenger Aircraft"
+            },
+            {
+              "_content": "aircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-5854",
+              "machine_tag": false,
+              "raw": "Aircraft"
+            },
+            {
+              "_content": "airlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-32533",
+              "machine_tag": false,
+              "raw": "Airlines"
+            },
+            {
+              "_content": "morning",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-120",
+              "machine_tag": false,
+              "raw": "Morning"
+            },
+            {
+              "_content": "americanairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-35383",
+              "machine_tag": false,
+              "raw": "American Airlines"
+            },
+            {
+              "_content": "unitedairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-109273",
+              "machine_tag": false,
+              "raw": "United Airlines"
+            },
+            {
+              "_content": "jetblue",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-25536159565-18653",
+              "machine_tag": false,
+              "raw": "JetBlue"
             }
+          ]
+        },
+        "title": {
+          "_content": "Scenes from Charleston International Airport (Charleston, S.C.) - Saturday November 7, 2015"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/cseeman/25536159565/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "100",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2848,
+          "mimetype": "image/jpeg",
+          "secret": "5HUmZPwMmBY7WWBozLW2UnsAauclc6oftKGTXbFqVrKxkE9ymq1q",
+          "width": 4272
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "3zob2teSSmxGOV8JG9pjUqoHnO0w0eFezPuEmwVc8Bt5JNbQMT39",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531215,
-        85839447,
-        102191575,
-        85633793,
-        101720747,
-        102085591,
-        85688683
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531215,
+      85839447,
+      102191575,
+      85633793,
+      101720747,
+      102085591,
+      85688683
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006873,
-    "wof:depicts":[
-        102531215
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006873,
+    "wof:depicts": [
+      102531215
     ],
-    "wof:geomhash":"4b9d810500f20cabb9cfccca4869d7aa",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531215,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085591,
-            "locality_id":101720747,
-            "media_id":1159327343,
-            "neighbourhood_id":85839447,
-            "region_id":85688683
-        }
+    "wof:geomhash": "4b9d810500f20cabb9cfccca4869d7aa",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531215,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085591,
+        "image_id": 1159327343,
+        "locality_id": 101720747,
+        "media_id": 1159327343,
+        "neighbourhood_id": 85839447,
+        "region_id": 85688683
+      }
     ],
-    "wof:id":1159327343,
-    "wof:lastmodified":1545868698,
-    "wof:name":"Scenes from Charleston International Airport (Charleston, S.C.) - Saturday November 7, 2015",
-    "wof:parent_id":102531215,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327343,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Scenes from Charleston International Airport (Charleston, S.C.) - Saturday November 7, 2015",
+    "wof:parent_id": 102531215,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.036687,
     32.886722,
     -80.036687,
     32.886722
-],
+  ],
   "geometry": {"coordinates":[-80.036687,32.886722],"type":"Point"}
 }

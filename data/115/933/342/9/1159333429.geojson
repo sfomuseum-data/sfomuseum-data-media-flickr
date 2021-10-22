@@ -2,455 +2,458 @@
   "id": 1159333429,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2016-06-24",
-    "date:cessation_upper":"2016-06-24",
-    "date:inception_lower":"2016-06-24",
-    "date:inception_upper":"2016-06-24",
-    "edtf:cessation":"2016-06-24T02:44:06",
-    "edtf:inception":"2016-06-24T02:44:06",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.404443,33.940191,-118.404443,33.940191",
-    "geom:latitude":33.940191,
-    "geom:longitude":-118.404443,
-    "iso:country":"US",
-    "media:created":1466761446,
-    "media:fingerprint":"2b2294154990066a7059099e712eecc6f546260c",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b22222",
-                        "name":"firebrick",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c60812",
-                "name":"#c60812",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#a0522d",
-                        "name":"sienna",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#885239",
-                "name":"#885239",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#b59164",
-                "name":"#b59164",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d8bfd8",
-                        "name":"thistle",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#cdc3cd",
-                "name":"#cdc3cd",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#414142",
-                "name":"#414142",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"27939393222",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1467484855",
-                "posted":"1467483299",
-                "taken":"2016-06-24 02:44:06",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1467483299",
-            "description":{
-                "_content":"On my way home from California on Thursday night, June 23, 2016.  I connected at MSP after my overnight flight from Los Angeles (LAX).  These were taken at Terminal 5 where Delta has part of their operations.  Very long day and a late night."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"27939393222",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.940191",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.404443",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"9b6b189afb",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7167",
-                "location":"Saline, Mich., USA",
-                "nsid":"7702423@N04",
-                "path_alias":"cseeman",
-                "realname":"Corey Seeman",
-                "username":"cseeman"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"a17489d8a6",
-            "server":"7229",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"hubairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-39947468",
-                        "machine_tag":0,
-                        "raw":"Hub Airport"
-                    },
-                    {
-                        "_content":"airports",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-28698",
-                        "machine_tag":0,
-                        "raw":"Airports"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-32533",
-                        "machine_tag":0,
-                        "raw":"Airlines"
-                    },
-                    {
-                        "_content":"deltaairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-601971",
-                        "machine_tag":0,
-                        "raw":"Delta Airlines"
-                    },
-                    {
-                        "_content":"airplanes",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-6603",
-                        "machine_tag":0,
-                        "raw":"Airplanes"
-                    },
-                    {
-                        "_content":"commercialaircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-3119654",
-                        "machine_tag":0,
-                        "raw":"Commercial Aircraft"
-                    },
-                    {
-                        "_content":"lax06232016",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-299086185",
-                        "machine_tag":0,
-                        "raw":"LAX06232016"
-                    },
-                    {
-                        "_content":"gate",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-3127",
-                        "machine_tag":0,
-                        "raw":"Gate"
-                    },
-                    {
-                        "_content":"evening",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-2117",
-                        "machine_tag":0,
-                        "raw":"Evening"
-                    },
-                    {
-                        "_content":"night",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-1213",
-                        "machine_tag":0,
-                        "raw":"Night"
-                    },
-                    {
-                        "_content":"latenight",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-10881",
-                        "machine_tag":0,
-                        "raw":"Late Night"
-                    },
-                    {
-                        "_content":"laxterminal5",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-158113544",
-                        "machine_tag":0,
-                        "raw":"LAX Terminal 5"
-                    },
-                    {
-                        "_content":"losangelesinternationalairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-481719",
-                        "machine_tag":0,
-                        "raw":"Los Angeles International Airport"
-                    },
-                    {
-                        "_content":"lax",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-25249",
-                        "machine_tag":0,
-                        "raw":"LAX"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-27939393222-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Scenes from LAX (Los Angeles International Airport) - June 23, 2016"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/cseeman/27939393222/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"79",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3648,
-                "mimetype":"image/jpeg",
-                "secret":"txhFJDnQ427oY1sMfme4PaU6XANvzz7TnDFl77luHJDGrvMcPnUw",
-                "width":5472
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
-                "width":640
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527020721,
-    "wof:depicts":[
-        102533795,
-        1159284261,
-        1159287931
-    ],
-    "wof:geomhash":"e880026264642998be822727ac67766c",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2016-06-24",
+    "date:cessation_upper": "2016-06-24",
+    "date:inception_lower": "2016-06-24",
+    "date:inception_upper": "2016-06-24",
+    "edtf:cessation": "2016-06-24T02:44:06",
+    "edtf:inception": "2016-06-24T02:44:06",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.404443,33.940191,-118.404443,33.940191",
+    "geom:latitude": 33.940191,
+    "geom:longitude": -118.404443,
+    "iso:country": "US",
+    "media:created": 1466761446,
+    "media:fingerprint": "2b2294154990066a7059099e712eecc6f546260c",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159333429,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b22222",
+              "name": "firebrick",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c60812",
+          "name": "#c60812",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#a0522d",
+              "name": "sienna",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#885239",
+          "name": "#885239",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#b59164",
+          "name": "#b59164",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#d8bfd8",
+              "name": "thistle",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#cdc3cd",
+          "name": "#cdc3cd",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#414142",
+          "name": "#414142",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "27939393222",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1467484855",
+          "posted": "1467483299",
+          "taken": "2016-06-24 02:44:06",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1467483299",
+        "description": {
+          "_content": "On my way home from California on Thursday night, June 23, 2016.  I connected at MSP after my overnight flight from Los Angeles (LAX).  These were taken at Terminal 5 where Delta has part of their operations.  Very long day and a late night."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "27939393222",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.940191",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.404443",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "9b6b189afb",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7167",
+          "location": "Saline, Mich., USA",
+          "nsid": "7702423@N04",
+          "path_alias": "cseeman",
+          "realname": "Corey Seeman",
+          "username": "cseeman"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "a17489d8a6",
+        "server": "7229",
+        "tags": {
+          "tag": [
+            {
+              "_content": "hubairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-39947468",
+              "machine_tag": 0,
+              "raw": "Hub Airport"
+            },
+            {
+              "_content": "airports",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-28698",
+              "machine_tag": 0,
+              "raw": "Airports"
+            },
+            {
+              "_content": "airlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-32533",
+              "machine_tag": 0,
+              "raw": "Airlines"
+            },
+            {
+              "_content": "deltaairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-601971",
+              "machine_tag": 0,
+              "raw": "Delta Airlines"
+            },
+            {
+              "_content": "airplanes",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-6603",
+              "machine_tag": 0,
+              "raw": "Airplanes"
+            },
+            {
+              "_content": "commercialaircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-3119654",
+              "machine_tag": 0,
+              "raw": "Commercial Aircraft"
+            },
+            {
+              "_content": "lax06232016",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-299086185",
+              "machine_tag": 0,
+              "raw": "LAX06232016"
+            },
+            {
+              "_content": "gate",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-3127",
+              "machine_tag": 0,
+              "raw": "Gate"
+            },
+            {
+              "_content": "evening",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-2117",
+              "machine_tag": 0,
+              "raw": "Evening"
+            },
+            {
+              "_content": "night",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-1213",
+              "machine_tag": 0,
+              "raw": "Night"
+            },
+            {
+              "_content": "latenight",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-10881",
+              "machine_tag": 0,
+              "raw": "Late Night"
+            },
+            {
+              "_content": "laxterminal5",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-158113544",
+              "machine_tag": 0,
+              "raw": "LAX Terminal 5"
+            },
+            {
+              "_content": "losangelesinternationalairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-481719",
+              "machine_tag": 0,
+              "raw": "Los Angeles International Airport"
+            },
+            {
+              "_content": "lax",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-25249",
+              "machine_tag": 0,
+              "raw": "LAX"
+            },
+            {
+              "_content": "california",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-27939393222-50",
+              "machine_tag": 0,
+              "raw": "California"
+            }
+          ]
+        },
+        "title": {
+          "_content": "Scenes from LAX (Los Angeles International Airport) - June 23, 2016"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/cseeman/27939393222/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "79",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3648,
+          "mimetype": "image/jpeg",
+          "secret": "txhFJDnQ427oY1sMfme4PaU6XANvzz7TnDFl77luHJDGrvMcPnUw",
+          "width": 5472
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "ebV69vzTKejm92XJgqnOzvlqcvcDjiUyRHavBSn69990Pj0m5Swm",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159333429,
-    "wof:lastmodified":1545868718,
-    "wof:name":"Scenes from LAX (Los Angeles International Airport) - June 23, 2016",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527020721,
+    "wof:depicts": [
+      102533795,
+      1159284261,
+      1159287931
+    ],
+    "wof:geomhash": "e880026264642998be822727ac67766c",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159333429,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159333429,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159333429,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Scenes from LAX (Los Angeles International Airport) - June 23, 2016",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.404443,
     33.940191,
     -118.404443,
     33.940191
-],
+  ],
   "geometry": {"coordinates":[-118.404443,33.940191],"type":"Point"}
 }

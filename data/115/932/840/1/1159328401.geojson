@@ -2,238 +2,241 @@
   "id": 1159328401,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-04-17",
-    "date:cessation_upper":"2015-04-17",
-    "date:inception_lower":"2015-04-17",
-    "date:inception_upper":"2015-04-17",
-    "edtf:cessation":"2015-04-17T12:03:57",
-    "edtf:inception":"2015-04-17T12:03:57",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.296768,47.518649,-122.296768,47.518649",
-    "geom:latitude":47.518649,
-    "geom:longitude":-122.296768,
-    "iso:country":"US",
-    "media:created":1429297437,
-    "media:fingerprint":"0bc8c2df3f0e4a98598b25f76e7993ac687c7a90",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"16597560924",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1429852319",
-                "posted":"1429593405",
-                "taken":"2015-04-17 12:03:57",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1429593405",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"16597560924",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"King",
-                    "place_id":"e4JdbCFQUL8iSf0rtg",
-                    "woeid":"12590456"
-                },
-                "latitude":"47.518649",
-                "locality":{
-                    "_content":"King County International Airport-Boeing Field",
-                    "place_id":"3ojMGppQUL9TpjoCCA",
-                    "woeid":"12518877"
-                },
-                "longitude":"-122.296768",
-                "place_id":"3ojMGppQUL9TpjoCCA",
-                "region":{
-                    "_content":"Washington",
-                    "place_id":"jyADg3RTUb65Hnbj",
-                    "woeid":"2347606"
-                },
-                "woeid":"12518877"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"9f752bb847",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3517",
-                "location":"",
-                "nsid":"35423702@N08",
-                "path_alias":null,
-                "realname":"Kirk & Barb Nelson",
-                "username":"kirknelson"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"6a00a12994",
-            "server":"7675",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"museumofflight",
-                        "author":"35423702@N08",
-                        "authorname":"kirknelson",
-                        "id":"35330889-16597560924-15509",
-                        "machine_tag":0,
-                        "raw":"Museum of Flight"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"IMG_9629"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/35423702@N08/16597560924/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"75",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-04-17",
+    "date:cessation_upper": "2015-04-17",
+    "date:inception_lower": "2015-04-17",
+    "date:inception_upper": "2015-04-17",
+    "edtf:cessation": "2015-04-17T12:03:57",
+    "edtf:inception": "2015-04-17T12:03:57",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.296768,47.518649,-122.296768,47.518649",
+    "geom:latitude": 47.518649,
+    "geom:longitude": -122.296768,
+    "iso:country": "US",
+    "media:created": 1429297437,
+    "media:fingerprint": "0bc8c2df3f0e4a98598b25f76e7993ac687c7a90",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "16597560924",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3456,
-                "mimetype":"image/jpeg",
-                "secret":"UYPWiDKRVdZte6uTILk0bpILFq3FH342iy3E6goumcObTVVjVqqo",
-                "width":5184
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
-                "width":640
+        "dates": {
+          "lastupdate": "1429852319",
+          "posted": "1429593405",
+          "taken": "2015-04-17 12:03:57",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1429593405",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "16597560924",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "King",
+            "place_id": "e4JdbCFQUL8iSf0rtg",
+            "woeid": "12590456"
+          },
+          "latitude": "47.518649",
+          "locality": {
+            "_content": "King County International Airport-Boeing Field",
+            "place_id": "3ojMGppQUL9TpjoCCA",
+            "woeid": "12518877"
+          },
+          "longitude": "-122.296768",
+          "place_id": "3ojMGppQUL9TpjoCCA",
+          "region": {
+            "_content": "Washington",
+            "place_id": "jyADg3RTUb65Hnbj",
+            "woeid": "2347606"
+          },
+          "woeid": "12518877"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "9f752bb847",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3517",
+          "location": "",
+          "nsid": "35423702@N08",
+          "path_alias": null,
+          "realname": "Kirk \u0026 Barb Nelson",
+          "username": "kirknelson"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "6a00a12994",
+        "server": "7675",
+        "tags": {
+          "tag": [
+            {
+              "_content": "museumofflight",
+              "author": "35423702@N08",
+              "authorname": "kirknelson",
+              "id": "35330889-16597560924-15509",
+              "machine_tag": 0,
+              "raw": "Museum of Flight"
             }
+          ]
+        },
+        "title": {
+          "_content": "IMG_9629"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/35423702@N08/16597560924/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "75",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3456,
+          "mimetype": "image/jpeg",
+          "secret": "UYPWiDKRVdZte6uTILk0bpILFq3FH342iy3E6goumcObTVVjVqqo",
+          "width": 5184
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "wMKldQy1HWH7G71qM3lYkeNbQHnjiFijAxEtRKG9I0PRUc3QlsAg",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527671,
-        85821315,
-        102191575,
-        85633793,
-        101730401,
-        102086191,
-        85688623
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527671,
+      85821315,
+      102191575,
+      85633793,
+      101730401,
+      102086191,
+      85688623
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007627,
-    "wof:depicts":[
-        102527671
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007627,
+    "wof:depicts": [
+      102527671
     ],
-    "wof:geomhash":"de805d257d1b837a10d53447fec8dd88",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527671,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086191,
-            "locality_id":101730401,
-            "media_id":1159328401,
-            "neighbourhood_id":85821315,
-            "region_id":85688623
-        }
+    "wof:geomhash": "de805d257d1b837a10d53447fec8dd88",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527671,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086191,
+        "image_id": 1159328401,
+        "locality_id": 101730401,
+        "media_id": 1159328401,
+        "neighbourhood_id": 85821315,
+        "region_id": 85688623
+      }
     ],
-    "wof:id":1159328401,
-    "wof:lastmodified":1545868648,
-    "wof:name":"IMG_9629",
-    "wof:parent_id":102527671,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328401,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "IMG_9629",
+    "wof:parent_id": 102527671,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.296768,
     47.518649,
     -122.296768,
     47.518649
-],
+  ],
   "geometry": {"coordinates":[-122.296768,47.518649],"type":"Point"}
 }

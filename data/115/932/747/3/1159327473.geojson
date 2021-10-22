@@ -2,374 +2,377 @@
   "id": 1159327473,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-30",
-    "date:cessation_upper":"2012-01-30",
-    "date:inception_lower":"2012-01-30",
-    "date:inception_upper":"2012-01-30",
-    "edtf:cessation":"2012-01-30T15:43:45",
-    "edtf:inception":"2012-01-30T15:43:45",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.044223,32.887468,-80.044223,32.887468",
-    "geom:latitude":32.887468,
-    "geom:longitude":-80.044223,
-    "iso:country":"US",
-    "media:created":1327967025,
-    "media:fingerprint":"eae9662008260ff1386366dcf8a3aa888b02c16c",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"6802875161",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1340485262",
-                "posted":"1328126186",
-                "taken":"2012-01-30 15:43:45",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1328126186",
-            "description":{
-                "_content":"Air Wisconsin Airlines Bombardier CRJ-200\n\nCharleston International Airport"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"6802875161",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Charleston",
-                    "place_id":"Jc0dijdQUL.n.X07GA",
-                    "woeid":"12589809"
-                },
-                "latitude":"32.887468",
-                "locality":{
-                    "_content":"Charleston International Airport",
-                    "place_id":"1SI6QotQUL_AP1MaLA",
-                    "woeid":"12519142"
-                },
-                "longitude":"-80.044223",
-                "place_id":"1SI6QotQUL_AP1MaLA",
-                "region":{
-                    "_content":"South Carolina",
-                    "place_id":"J0wmj5lTUb6eTQbF",
-                    "woeid":"2347599"
-                },
-                "woeid":"12519142"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"b691533b3c",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2593",
-                "location":"Vandalia, OH, United States",
-                "nsid":"42603028@N05",
-                "path_alias":"redlegsfan21",
-                "realname":"",
-                "username":"redlegsfan21"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"949d7964b2",
-            "server":"7018",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"n436aw",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-10673794",
-                        "machine_tag":0,
-                        "raw":"N436AW"
-                    },
-                    {
-                        "_content":"air",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-5982",
-                        "machine_tag":0,
-                        "raw":"Air"
-                    },
-                    {
-                        "_content":"wisconsin",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-1173",
-                        "machine_tag":0,
-                        "raw":"Wisconsin"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-32533",
-                        "machine_tag":0,
-                        "raw":"Airlines"
-                    },
-                    {
-                        "_content":"bombardier",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-172943",
-                        "machine_tag":0,
-                        "raw":"Bombardier"
-                    },
-                    {
-                        "_content":"crj200",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-973552",
-                        "machine_tag":0,
-                        "raw":"CRJ-200"
-                    },
-                    {
-                        "_content":"charleston",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-11772",
-                        "machine_tag":0,
-                        "raw":"Charleston"
-                    },
-                    {
-                        "_content":"international",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-12495",
-                        "machine_tag":0,
-                        "raw":"International"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"us",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-2296",
-                        "machine_tag":0,
-                        "raw":"US"
-                    },
-                    {
-                        "_content":"airways",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-28279",
-                        "machine_tag":0,
-                        "raw":"Airways"
-                    },
-                    {
-                        "_content":"express",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-22738",
-                        "machine_tag":0,
-                        "raw":"Express"
-                    },
-                    {
-                        "_content":"zw",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-188615",
-                        "machine_tag":0,
-                        "raw":"ZW"
-                    },
-                    {
-                        "_content":"awi",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-1765466",
-                        "machine_tag":0,
-                        "raw":"AWI"
-                    },
-                    {
-                        "_content":"chs",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-92326",
-                        "machine_tag":0,
-                        "raw":"CHS"
-                    },
-                    {
-                        "_content":"kchs",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-509758",
-                        "machine_tag":0,
-                        "raw":"KCHS"
-                    },
-                    {
-                        "_content":"south",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-5992",
-                        "machine_tag":0,
-                        "raw":"South"
-                    },
-                    {
-                        "_content":"carolina",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6802875161-17629",
-                        "machine_tag":0,
-                        "raw":"Carolina"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"N436AW"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/redlegsfan21/6802875161/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"328",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-01-30",
+    "date:cessation_upper": "2012-01-30",
+    "date:inception_lower": "2012-01-30",
+    "date:inception_upper": "2012-01-30",
+    "edtf:cessation": "2012-01-30T15:43:45",
+    "edtf:inception": "2012-01-30T15:43:45",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.044223,32.887468,-80.044223,32.887468",
+    "geom:latitude": 32.887468,
+    "geom:longitude": -80.044223,
+    "iso:country": "US",
+    "media:created": 1327967025,
+    "media:fingerprint": "eae9662008260ff1386366dcf8a3aa888b02c16c",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "6802875161",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
-                "width":1024
+        "dates": {
+          "lastupdate": "1340485262",
+          "posted": "1328126186",
+          "taken": "2012-01-30 15:43:45",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1328126186",
+        "description": {
+          "_content": "Air Wisconsin Airlines Bombardier CRJ-200\n\nCharleston International Airport"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "6802875161",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Charleston",
+            "place_id": "Jc0dijdQUL.n.X07GA",
+            "woeid": "12589809"
+          },
+          "latitude": "32.887468",
+          "locality": {
+            "_content": "Charleston International Airport",
+            "place_id": "1SI6QotQUL_AP1MaLA",
+            "woeid": "12519142"
+          },
+          "longitude": "-80.044223",
+          "place_id": "1SI6QotQUL_AP1MaLA",
+          "region": {
+            "_content": "South Carolina",
+            "place_id": "J0wmj5lTUb6eTQbF",
+            "woeid": "2347599"
+          },
+          "woeid": "12519142"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "b691533b3c",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2593",
+          "location": "Vandalia, OH, United States",
+          "nsid": "42603028@N05",
+          "path_alias": "redlegsfan21",
+          "realname": "",
+          "username": "redlegsfan21"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "949d7964b2",
+        "server": "7018",
+        "tags": {
+          "tag": [
+            {
+              "_content": "n436aw",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-10673794",
+              "machine_tag": 0,
+              "raw": "N436AW"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
-                "width":800
+            {
+              "_content": "air",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-5982",
+              "machine_tag": 0,
+              "raw": "Air"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
-                "width":320
+            {
+              "_content": "wisconsin",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-1173",
+              "machine_tag": 0,
+              "raw": "Wisconsin"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2400,
-                "mimetype":"image/jpeg",
-                "secret":"liTgnuti40XHWemJc8UxonygExDuysgY6tjnm0tndktncuy7I67H",
-                "width":3200
+            {
+              "_content": "airlines",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-32533",
+              "machine_tag": 0,
+              "raw": "Airlines"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
-                "width":320
+            {
+              "_content": "bombardier",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-172943",
+              "machine_tag": 0,
+              "raw": "Bombardier"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
-                "width":640
+            {
+              "_content": "crj200",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-973552",
+              "machine_tag": 0,
+              "raw": "CRJ-200"
+            },
+            {
+              "_content": "charleston",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-11772",
+              "machine_tag": 0,
+              "raw": "Charleston"
+            },
+            {
+              "_content": "international",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-12495",
+              "machine_tag": 0,
+              "raw": "International"
+            },
+            {
+              "_content": "airport",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
+            },
+            {
+              "_content": "us",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-2296",
+              "machine_tag": 0,
+              "raw": "US"
+            },
+            {
+              "_content": "airways",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-28279",
+              "machine_tag": 0,
+              "raw": "Airways"
+            },
+            {
+              "_content": "express",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-22738",
+              "machine_tag": 0,
+              "raw": "Express"
+            },
+            {
+              "_content": "zw",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-188615",
+              "machine_tag": 0,
+              "raw": "ZW"
+            },
+            {
+              "_content": "awi",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-1765466",
+              "machine_tag": 0,
+              "raw": "AWI"
+            },
+            {
+              "_content": "chs",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-92326",
+              "machine_tag": 0,
+              "raw": "CHS"
+            },
+            {
+              "_content": "kchs",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-509758",
+              "machine_tag": 0,
+              "raw": "KCHS"
+            },
+            {
+              "_content": "south",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-5992",
+              "machine_tag": 0,
+              "raw": "South"
+            },
+            {
+              "_content": "carolina",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6802875161-17629",
+              "machine_tag": 0,
+              "raw": "Carolina"
             }
+          ]
+        },
+        "title": {
+          "_content": "N436AW"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/redlegsfan21/6802875161/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "328",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2400,
+          "mimetype": "image/jpeg",
+          "secret": "liTgnuti40XHWemJc8UxonygExDuysgY6tjnm0tndktncuy7I67H",
+          "width": 3200
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "6zpjooz8n7zzuMmMxxlML0EWC0SS3zpnRIDfXXLxSyV43NKez3oc",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531215,
-        85839447,
-        102191575,
-        85633793,
-        101720747,
-        102085591,
-        85688683
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531215,
+      85839447,
+      102191575,
+      85633793,
+      101720747,
+      102085591,
+      85688683
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006921,
-    "wof:depicts":[
-        102531215
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006921,
+    "wof:depicts": [
+      102531215
     ],
-    "wof:geomhash":"6ed0d0c0260811e979a672e650d89130",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531215,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085591,
-            "locality_id":101720747,
-            "media_id":1159327473,
-            "neighbourhood_id":85839447,
-            "region_id":85688683
-        }
+    "wof:geomhash": "6ed0d0c0260811e979a672e650d89130",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531215,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085591,
+        "image_id": 1159327473,
+        "locality_id": 101720747,
+        "media_id": 1159327473,
+        "neighbourhood_id": 85839447,
+        "region_id": 85688683
+      }
     ],
-    "wof:id":1159327473,
-    "wof:lastmodified":1545868690,
-    "wof:name":"N436AW",
-    "wof:parent_id":102531215,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327473,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "N436AW",
+    "wof:parent_id": 102531215,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.044223,
     32.887468,
     -80.044223,
     32.887468
-],
+  ],
   "geometry": {"coordinates":[-80.044223,32.887468],"type":"Point"}
 }

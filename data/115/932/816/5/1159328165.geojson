@@ -2,327 +2,331 @@
   "id": 1159328165,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2006-06-23",
-    "date:cessation_upper":"2006-06-23",
-    "date:inception_lower":"2006-06-23",
-    "date:inception_upper":"2006-06-23",
-    "edtf:cessation":"2006-06-23T09:03:04",
-    "edtf:inception":"2006-06-23T09:03:04",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.945629,35.219604,-80.945629,35.219604",
-    "geom:latitude":35.219604,
-    "geom:longitude":-80.945629,
-    "iso:country":"US",
-    "media:created":1151078584,
-    "media:fingerprint":"a164b2852f9f135a68ae2b9be41dc55ad42910c5",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"5538153135",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1300495140",
-                "posted":"1300494355",
-                "taken":"2006-06-23 09:03:04",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1300494355",
-            "description":{
-                "_content":"2006"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":6,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"5538153135",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.219604",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.945629",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"02df39b0ef",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7668",
-                "location":"",
-                "nsid":"12341760@N00",
-                "path_alias":"madbuster75",
-                "realname":"Ryan Keene",
-                "username":"Madbuster75"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"957dd2fa3c",
-            "server":"5291",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"wallpaper",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-260",
-                        "machine_tag":0,
-                        "raw":"Wallpaper"
-                    },
-                    {
-                        "_content":"aorlines",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-68254043",
-                        "machine_tag":0,
-                        "raw":"Aorlines"
-                    },
-                    {
-                        "_content":"usairways",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-132281",
-                        "machine_tag":0,
-                        "raw":"US Airways"
-                    },
-                    {
-                        "_content":"airbus",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-16434",
-                        "machine_tag":0,
-                        "raw":"Airbus"
-                    },
-                    {
-                        "_content":"a319",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-295647",
-                        "machine_tag":0,
-                        "raw":"A319"
-                    },
-                    {
-                        "_content":"piedmont",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-48195",
-                        "machine_tag":0,
-                        "raw":"Piedmont"
-                    },
-                    {
-                        "_content":"piedmontpacemaker",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-18779024",
-                        "machine_tag":0,
-                        "raw":"Piedmont Pacemaker"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"douglas",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-31653",
-                        "machine_tag":0,
-                        "raw":"Douglas"
-                    },
-                    {
-                        "_content":"international",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-12495",
-                        "machine_tag":0,
-                        "raw":"International"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"12341760@N00",
-                        "authorname":"Madbuster75",
-                        "id":"5264950-5538153135-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"US Airways - Airbus A319 Piedmont \"Piedmont Pacemaker\""
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/madbuster75/5538153135/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"417",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2006-06-23",
+    "date:cessation_upper": "2006-06-23",
+    "date:inception_lower": "2006-06-23",
+    "date:inception_upper": "2006-06-23",
+    "edtf:cessation": "2006-06-23T09:03:04",
+    "edtf:inception": "2006-06-23T09:03:04",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.945629,35.219604,-80.945629,35.219604",
+    "geom:latitude": 35.219604,
+    "geom:longitude": -80.945629,
+    "iso:country": "US",
+    "media:created": 1151078584,
+    "media:fingerprint": "a164b2852f9f135a68ae2b9be41dc55ad42910c5",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "5538153135",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":645,
-                "mimetype":"image/jpeg",
-                "secret":"gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
-                "width":1024
+        "dates": {
+          "lastupdate": "1300495140",
+          "posted": "1300494355",
+          "taken": "2006-06-23 09:03:04",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1300494355",
+        "description": {
+          "_content": "2006"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 6,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "5538153135",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.219604",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.945629",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "02df39b0ef",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7668",
+          "location": "",
+          "nsid": "12341760@N00",
+          "path_alias": "madbuster75",
+          "realname": "Ryan Keene",
+          "username": "Madbuster75"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "957dd2fa3c",
+        "server": "5291",
+        "tags": {
+          "tag": [
+            {
+              "_content": "wallpaper",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-260",
+              "machine_tag": 0,
+              "raw": "Wallpaper"
             },
-            "c":{
-                "extension":"jpg",
-                "height":504,
-                "mimetype":"image/jpeg",
-                "secret":"gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
-                "width":800
+            {
+              "_content": "aorlines",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-68254043",
+              "machine_tag": 0,
+              "raw": "Aorlines"
             },
-            "n":{
-                "extension":"jpg",
-                "height":201,
-                "mimetype":"image/jpeg",
-                "secret":"gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
-                "width":320
+            {
+              "_content": "usairways",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-132281",
+              "machine_tag": 0,
+              "raw": "US Airways"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1210,
-                "mimetype":"image/jpeg",
-                "secret":"daadwVpM3OYowqu30pbPa5ErnPOQiPjfm8lMT5i0JiJXFTtH3uoU",
-                "width":1920
+            {
+              "_content": "airbus",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-16434",
+              "machine_tag": 0,
+              "raw": "Airbus"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
-                "width":320
+            {
+              "_content": "a319",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-295647",
+              "machine_tag": 0,
+              "raw": "A319"
             },
-            "z":{
-                "extension":"jpg",
-                "height":403,
-                "mimetype":"image/jpeg",
-                "secret":"gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
-                "width":640
+            {
+              "_content": "piedmont",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-48195",
+              "machine_tag": 0,
+              "raw": "Piedmont"
+            },
+            {
+              "_content": "piedmontpacemaker",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-18779024",
+              "machine_tag": 0,
+              "raw": "Piedmont Pacemaker"
+            },
+            {
+              "_content": "charlotte",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
+            },
+            {
+              "_content": "douglas",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-31653",
+              "machine_tag": 0,
+              "raw": "Douglas"
+            },
+            {
+              "_content": "international",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-12495",
+              "machine_tag": 0,
+              "raw": "International"
+            },
+            {
+              "_content": "airport",
+              "author": "12341760@N00",
+              "authorname": "Madbuster75",
+              "id": "5264950-5538153135-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
             }
+          ]
+        },
+        "title": {
+          "_content": "US Airways - Airbus A319 Piedmont \"Piedmont Pacemaker\""
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/madbuster75/5538153135/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "417",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 645,
+          "mimetype": "image/jpeg",
+          "secret": "gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 504,
+          "mimetype": "image/jpeg",
+          "secret": "gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 201,
+          "mimetype": "image/jpeg",
+          "secret": "gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1210,
+          "mimetype": "image/jpeg",
+          "secret": "daadwVpM3OYowqu30pbPa5ErnPOQiPjfm8lMT5i0JiJXFTtH3uoU",
+          "width": 1920
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 403,
+          "mimetype": "image/jpeg",
+          "secret": "gBlPhz10kMYTx5HuRMGEkdMfGApMjIQxCGlRteVxV9h4JachzCI6",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007395,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007395,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"0691170dd8f730530473b704151b46fa",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328165,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328165,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "0691170dd8f730530473b704151b46fa",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328165,
+        "locality_id": 85981333,
+        "media_id": 1159328165,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328165,
+        "media_id": 1159328165,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328165,
-    "wof:lastmodified":1545868653,
-    "wof:name":"US Airways - Airbus A319 Piedmont \"Piedmont Pacemaker\"",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328165,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "US Airways - Airbus A319 Piedmont \"Piedmont Pacemaker\"",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.945629,
     35.219604,
     -80.945629,
     35.219604
-],
+  ],
   "geometry": {"coordinates":[-80.945629,35.219604],"type":"Point"}
 }

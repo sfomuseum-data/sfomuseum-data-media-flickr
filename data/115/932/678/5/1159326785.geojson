@@ -2,278 +2,281 @@
   "id": 1159326785,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-04-16",
-    "date:cessation_upper":"2012-04-16",
-    "date:inception_lower":"2012-04-16",
-    "date:inception_upper":"2012-04-16",
-    "edtf:cessation":"2012-04-16T08:00:53",
-    "edtf:inception":"2012-04-16T08:00:53",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.656334,39.050333,-84.656334,39.050333",
-    "geom:latitude":39.050333,
-    "geom:longitude":-84.656334,
-    "iso:country":"US",
-    "media:created":1334588453,
-    "media:fingerprint":"cf6b008a1b3a5f123bc479c871cb600329949113",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8079818444",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1350051754",
-                "posted":"1350051743",
-                "taken":"2012-04-16 08:00:53",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1350051743",
-            "description":{
-                "_content":"Seen in the Cincinnati Delta Sky Club."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8079818444",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.050333",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.656334",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"6b4a8b8fed",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"899",
-                "location":"Cincinnati, Ohio, USA",
-                "nsid":"35807342@N00",
-                "path_alias":"taestell",
-                "realname":"Travis Estell",
-                "username":"Travis Estell"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"a879ac388d",
-            "server":"8051",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"jack",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8079818444-1736",
-                        "machine_tag":0,
-                        "raw":"jack"
-                    },
-                    {
-                        "_content":"telephonejack",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8079818444-6121910",
-                        "machine_tag":0,
-                        "raw":"telephone.jack"
-                    },
-                    {
-                        "_content":"phonejack",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8079818444-150360",
-                        "machine_tag":0,
-                        "raw":"phone.jack"
-                    },
-                    {
-                        "_content":"modem",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8079818444-15548",
-                        "machine_tag":0,
-                        "raw":"modem"
-                    },
-                    {
-                        "_content":"modemport",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8079818444-98891185",
-                        "machine_tag":0,
-                        "raw":"modem.port"
-                    },
-                    {
-                        "_content":"deltaskyclub",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8079818444-38554439",
-                        "machine_tag":0,
-                        "raw":"delta.sky.club"
-                    },
-                    {
-                        "_content":"cvg",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8079818444-118891",
-                        "machine_tag":0,
-                        "raw":"cvg"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Modem Port"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/taestell/8079818444/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"241",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-04-16",
+    "date:cessation_upper": "2012-04-16",
+    "date:inception_lower": "2012-04-16",
+    "date:inception_upper": "2012-04-16",
+    "edtf:cessation": "2012-04-16T08:00:53",
+    "edtf:inception": "2012-04-16T08:00:53",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.656334,39.050333,-84.656334,39.050333",
+    "geom:latitude": 39.050333,
+    "geom:longitude": -84.656334,
+    "iso:country": "US",
+    "media:created": 1334588453,
+    "media:fingerprint": "cf6b008a1b3a5f123bc479c871cb600329949113",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8079818444",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
-                "width":576
+        "dates": {
+          "lastupdate": "1350051754",
+          "posted": "1350051743",
+          "taken": "2012-04-16 08:00:53",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1350051743",
+        "description": {
+          "_content": "Seen in the Cincinnati Delta Sky Club."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8079818444",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.050333",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.656334",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "6b4a8b8fed",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "899",
+          "location": "Cincinnati, Ohio, USA",
+          "nsid": "35807342@N00",
+          "path_alias": "taestell",
+          "realname": "Travis Estell",
+          "username": "Travis Estell"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "a879ac388d",
+        "server": "8051",
+        "tags": {
+          "tag": [
+            {
+              "_content": "jack",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8079818444-1736",
+              "machine_tag": 0,
+              "raw": "jack"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
-                "width":450
+            {
+              "_content": "telephonejack",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8079818444-6121910",
+              "machine_tag": 0,
+              "raw": "telephone.jack"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
-                "width":180
+            {
+              "_content": "phonejack",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8079818444-150360",
+              "machine_tag": 0,
+              "raw": "phone.jack"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3131,
-                "mimetype":"image/jpeg",
-                "secret":"WmGrUZtSyfKqEwhGEZCcTp2AL2B3Vk4EKJ9v2owrYp9kx7YBJzLG",
-                "width":2349
+            {
+              "_content": "modem",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8079818444-15548",
+              "machine_tag": 0,
+              "raw": "modem"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
-                "width":320
+            {
+              "_content": "modemport",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8079818444-98891185",
+              "machine_tag": 0,
+              "raw": "modem.port"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
-                "width":360
+            {
+              "_content": "deltaskyclub",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8079818444-38554439",
+              "machine_tag": 0,
+              "raw": "delta.sky.club"
+            },
+            {
+              "_content": "cvg",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8079818444-118891",
+              "machine_tag": 0,
+              "raw": "cvg"
             }
+          ]
+        },
+        "title": {
+          "_content": "Modem Port"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/taestell/8079818444/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "241",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3131,
+          "mimetype": "image/jpeg",
+          "secret": "WmGrUZtSyfKqEwhGEZCcTp2AL2B3Vk4EKJ9v2owrYp9kx7YBJzLG",
+          "width": 2349
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "ajnMJ4UOitn7k0ygUtln6pRlnWgTG6AVUkHVXj5QWshs0ZLfA5On",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006690,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006690,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"5d37932cf32f79806406d4b5f38dfa9e",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326785,
-            "region_id":85688641
-        }
+    "wof:geomhash": "5d37932cf32f79806406d4b5f38dfa9e",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326785,
+        "media_id": 1159326785,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326785,
-    "wof:lastmodified":1545868697,
-    "wof:name":"Modem Port",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326785,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Modem Port",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.656334,
     39.050333,
     -84.656334,
     39.050333
-],
+  ],
   "geometry": {"coordinates":[-84.656334,39.050333],"type":"Point"}
 }

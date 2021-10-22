@@ -2,284 +2,287 @@
   "id": 1159331177,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-02-16",
-    "date:cessation_upper":"2018-02-16",
-    "date:inception_lower":"2018-02-16",
-    "date:inception_upper":"2018-02-16",
-    "edtf:cessation":"2018-02-16T11:35:22",
-    "edtf:inception":"2018-02-16T11:35:22",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.406539,33.946872,-118.406539,33.946872",
-    "geom:latitude":33.946872,
-    "geom:longitude":-118.406539,
-    "iso:country":"US",
-    "media:created":1518809722,
-    "media:fingerprint":"f61117770ab6a5cc6bc01c0292c4559f1c181a92",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"38792387090",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1520125513",
-                "posted":"1520125484",
-                "taken":"2018-02-16 11:35:22",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1520125484",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"38792387090",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.946872",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.406539",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"7c83e08a4e",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8384",
-                "location":"Berkeley, CA",
-                "nsid":"56142061@N08",
-                "path_alias":"bayareaag",
-                "realname":"Daniel Gillaspia",
-                "username":"Daniel Gillaspia"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"b2a5bc7cd0",
-            "server":"4783",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"korean",
-                        "author":"56142061@N08",
-                        "authorname":"Daniel Gillaspia",
-                        "id":"56049248-38792387090-12850",
-                        "machine_tag":0,
-                        "raw":"Korean"
-                    },
-                    {
-                        "_content":"air",
-                        "author":"56142061@N08",
-                        "authorname":"Daniel Gillaspia",
-                        "id":"56049248-38792387090-5982",
-                        "machine_tag":0,
-                        "raw":"Air"
-                    },
-                    {
-                        "_content":"a380",
-                        "author":"56142061@N08",
-                        "authorname":"Daniel Gillaspia",
-                        "id":"56049248-38792387090-16435",
-                        "machine_tag":0,
-                        "raw":"A380"
-                    },
-                    {
-                        "_content":"first",
-                        "author":"56142061@N08",
-                        "authorname":"Daniel Gillaspia",
-                        "id":"56049248-38792387090-8159",
-                        "machine_tag":0,
-                        "raw":"First"
-                    },
-                    {
-                        "_content":"class",
-                        "author":"56142061@N08",
-                        "authorname":"Daniel Gillaspia",
-                        "id":"56049248-38792387090-10326",
-                        "machine_tag":0,
-                        "raw":"Class"
-                    },
-                    {
-                        "_content":"koreanaira380firstclass",
-                        "author":"56142061@N08",
-                        "authorname":"Daniel Gillaspia",
-                        "id":"56049248-38792387090-331945800",
-                        "machine_tag":0,
-                        "raw":"Korean Air A380 First Class"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Korean Air A380 First Class 36"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/bayareaag/38792387090/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"53",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2018-02-16",
+    "date:cessation_upper": "2018-02-16",
+    "date:inception_lower": "2018-02-16",
+    "date:inception_upper": "2018-02-16",
+    "edtf:cessation": "2018-02-16T11:35:22",
+    "edtf:inception": "2018-02-16T11:35:22",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.406539,33.946872,-118.406539,33.946872",
+    "geom:latitude": 33.946872,
+    "geom:longitude": -118.406539,
+    "iso:country": "US",
+    "media:created": 1518809722,
+    "media:fingerprint": "f61117770ab6a5cc6bc01c0292c4559f1c181a92",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "38792387090",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
-                "width":1024
+        "dates": {
+          "lastupdate": "1520125513",
+          "posted": "1520125484",
+          "taken": "2018-02-16 11:35:22",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1520125484",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "38792387090",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.946872",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.406539",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "7c83e08a4e",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8384",
+          "location": "Berkeley, CA",
+          "nsid": "56142061@N08",
+          "path_alias": "bayareaag",
+          "realname": "Daniel Gillaspia",
+          "username": "Daniel Gillaspia"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "b2a5bc7cd0",
+        "server": "4783",
+        "tags": {
+          "tag": [
+            {
+              "_content": "korean",
+              "author": "56142061@N08",
+              "authorname": "Daniel Gillaspia",
+              "id": "56049248-38792387090-12850",
+              "machine_tag": 0,
+              "raw": "Korean"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
-                "width":800
+            {
+              "_content": "air",
+              "author": "56142061@N08",
+              "authorname": "Daniel Gillaspia",
+              "id": "56049248-38792387090-5982",
+              "machine_tag": 0,
+              "raw": "Air"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
-                "width":320
+            {
+              "_content": "a380",
+              "author": "56142061@N08",
+              "authorname": "Daniel Gillaspia",
+              "id": "56049248-38792387090-16435",
+              "machine_tag": 0,
+              "raw": "A380"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3024,
-                "mimetype":"image/jpeg",
-                "secret":"8ZNO5oIw1vfNPxG35q5iBi9qRVc6Mi899VjnsiwFV3LOYwqA7pLs",
-                "width":4032
+            {
+              "_content": "first",
+              "author": "56142061@N08",
+              "authorname": "Daniel Gillaspia",
+              "id": "56049248-38792387090-8159",
+              "machine_tag": 0,
+              "raw": "First"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
-                "width":320
+            {
+              "_content": "class",
+              "author": "56142061@N08",
+              "authorname": "Daniel Gillaspia",
+              "id": "56049248-38792387090-10326",
+              "machine_tag": 0,
+              "raw": "Class"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
-                "width":640
+            {
+              "_content": "koreanaira380firstclass",
+              "author": "56142061@N08",
+              "authorname": "Daniel Gillaspia",
+              "id": "56049248-38792387090-331945800",
+              "machine_tag": 0,
+              "raw": "Korean Air A380 First Class"
             }
+          ]
+        },
+        "title": {
+          "_content": "Korean Air A380 First Class 36"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/bayareaag/38792387090/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "53",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3024,
+          "mimetype": "image/jpeg",
+          "secret": "8ZNO5oIw1vfNPxG35q5iBi9qRVc6Mi899VjnsiwFV3LOYwqA7pLs",
+          "width": 4032
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "NJD6dhErDO1mYSN96m9UlJQfSLm3YorcqIpUkwkMBmbHhCvanpld",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018323,
-    "wof:depicts":[
-        102533795,
-        1159284625,
-        1159287567,
-        1159289437,
-        1159293829
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018323,
+    "wof:depicts": [
+      102533795,
+      1159284625,
+      1159287567,
+      1159289437,
+      1159293829
     ],
-    "wof:geomhash":"cbfe96354f703b1cb62ab961fe6a14f3",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159331177,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "cbfe96354f703b1cb62ab961fe6a14f3",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159331177,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159331177,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159331177,
-    "wof:lastmodified":1545868717,
-    "wof:name":"Korean Air A380 First Class 36",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159331177,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Korean Air A380 First Class 36",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.406539,
     33.946872,
     -118.406539,
     33.946872
-],
+  ],
   "geometry": {"coordinates":[-118.406539,33.946872],"type":"Point"}
 }

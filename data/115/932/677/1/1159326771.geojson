@@ -2,286 +2,289 @@
   "id": 1159326771,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-02-02",
-    "date:cessation_upper":"2013-02-02",
-    "date:inception_lower":"2013-02-02",
-    "date:inception_upper":"2013-02-02",
-    "edtf:cessation":"2013-02-02T21:38:18",
-    "edtf:inception":"2013-02-02T21:38:18",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.655167,39.053333,-84.655167,39.053333",
-    "geom:latitude":39.053333,
-    "geom:longitude":-84.655167,
-    "iso:country":"US",
-    "media:created":1359869898,
-    "media:fingerprint":"8318d2078bd685d2cd509e76d32c74040a953338",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"8442226840",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1421532626",
-                "posted":"1359916454",
-                "taken":"2013-02-02 21:38:18",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1359916454",
-            "description":{
-                "_content":"In Concourse A of CVG, which no longer houses any Delta gates."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":9,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"8442226840",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Boone",
-                    "place_id":"e.ayCZJQUL.Mtk5_qw",
-                    "woeid":"12588483"
-                },
-                "latitude":"39.053333",
-                "locality":{
-                    "_content":"Greater Cincinnati International Airport",
-                    "place_id":"zhNmEWdQUL9Z4H5gOA",
-                    "woeid":"12519978"
-                },
-                "longitude":"-84.655167",
-                "place_id":"zhNmEWdQUL9Z4H5gOA",
-                "region":{
-                    "_content":"Kentucky",
-                    "place_id":"9zJxV1BTUb5NXNmZ",
-                    "woeid":"2347576"
-                },
-                "woeid":"12519978"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"ab6fc4ee97",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"899",
-                "location":"Cincinnati, Ohio, USA",
-                "nsid":"35807342@N00",
-                "path_alias":"taestell",
-                "realname":"Travis Estell",
-                "username":"Travis Estell"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"08c86faab0",
-            "server":"8472",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"abandoned",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8442226840-636",
-                        "machine_tag":0,
-                        "raw":"abandoned"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8442226840-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"concoursea",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8442226840-5453638",
-                        "machine_tag":0,
-                        "raw":"concourse a"
-                    },
-                    {
-                        "_content":"crownroom",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8442226840-571776",
-                        "machine_tag":0,
-                        "raw":"crown room"
-                    },
-                    {
-                        "_content":"cvg",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8442226840-118891",
-                        "machine_tag":0,
-                        "raw":"cvg"
-                    },
-                    {
-                        "_content":"delta",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8442226840-8731",
-                        "machine_tag":0,
-                        "raw":"delta"
-                    },
-                    {
-                        "_content":"deltacrownroom",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8442226840-1455381",
-                        "machine_tag":0,
-                        "raw":"delta crown room"
-                    },
-                    {
-                        "_content":"northernkentucky",
-                        "author":"35807342@N00",
-                        "authorname":"Travis Estell",
-                        "id":"386127-8442226840-617736",
-                        "machine_tag":0,
-                        "raw":"northern kentucky"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Abandoned Delta Crown Room"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/taestell/8442226840/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"719",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-02-02",
+    "date:cessation_upper": "2013-02-02",
+    "date:inception_lower": "2013-02-02",
+    "date:inception_upper": "2013-02-02",
+    "edtf:cessation": "2013-02-02T21:38:18",
+    "edtf:inception": "2013-02-02T21:38:18",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.655167,39.053333,-84.655167,39.053333",
+    "geom:latitude": 39.053333,
+    "geom:longitude": -84.655167,
+    "iso:country": "US",
+    "media:created": 1359869898,
+    "media:fingerprint": "8318d2078bd685d2cd509e76d32c74040a953338",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "8442226840",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":767,
-                "mimetype":"image/jpeg",
-                "secret":"CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
-                "width":1024
+        "dates": {
+          "lastupdate": "1421532626",
+          "posted": "1359916454",
+          "taken": "2013-02-02 21:38:18",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1359916454",
+        "description": {
+          "_content": "In Concourse A of CVG, which no longer houses any Delta gates."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 9,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "8442226840",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Boone",
+            "place_id": "e.ayCZJQUL.Mtk5_qw",
+            "woeid": "12588483"
+          },
+          "latitude": "39.053333",
+          "locality": {
+            "_content": "Greater Cincinnati International Airport",
+            "place_id": "zhNmEWdQUL9Z4H5gOA",
+            "woeid": "12519978"
+          },
+          "longitude": "-84.655167",
+          "place_id": "zhNmEWdQUL9Z4H5gOA",
+          "region": {
+            "_content": "Kentucky",
+            "place_id": "9zJxV1BTUb5NXNmZ",
+            "woeid": "2347576"
+          },
+          "woeid": "12519978"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "ab6fc4ee97",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "899",
+          "location": "Cincinnati, Ohio, USA",
+          "nsid": "35807342@N00",
+          "path_alias": "taestell",
+          "realname": "Travis Estell",
+          "username": "Travis Estell"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "08c86faab0",
+        "server": "8472",
+        "tags": {
+          "tag": [
+            {
+              "_content": "abandoned",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8442226840-636",
+              "machine_tag": 0,
+              "raw": "abandoned"
             },
-            "c":{
-                "extension":"jpg",
-                "height":599,
-                "mimetype":"image/jpeg",
-                "secret":"CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
-                "width":800
+            {
+              "_content": "airport",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8442226840-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "n":{
-                "extension":"jpg",
-                "height":239,
-                "mimetype":"image/jpeg",
-                "secret":"CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
-                "width":320
+            {
+              "_content": "concoursea",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8442226840-5453638",
+              "machine_tag": 0,
+              "raw": "concourse a"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2431,
-                "mimetype":"image/jpeg",
-                "secret":"dCXsSljaDmZOWnNsmAwqUkr5DsoAVD4xQQbCDjH1w0EFd2v2bfia",
-                "width":3242
+            {
+              "_content": "crownroom",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8442226840-571776",
+              "machine_tag": 0,
+              "raw": "crown room"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
-                "width":320
+            {
+              "_content": "cvg",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8442226840-118891",
+              "machine_tag": 0,
+              "raw": "cvg"
             },
-            "z":{
-                "extension":"jpg",
-                "height":479,
-                "mimetype":"image/jpeg",
-                "secret":"CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
-                "width":640
+            {
+              "_content": "delta",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8442226840-8731",
+              "machine_tag": 0,
+              "raw": "delta"
+            },
+            {
+              "_content": "deltacrownroom",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8442226840-1455381",
+              "machine_tag": 0,
+              "raw": "delta crown room"
+            },
+            {
+              "_content": "northernkentucky",
+              "author": "35807342@N00",
+              "authorname": "Travis Estell",
+              "id": "386127-8442226840-617736",
+              "machine_tag": 0,
+              "raw": "northern kentucky"
             }
+          ]
+        },
+        "title": {
+          "_content": "Abandoned Delta Crown Room"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/taestell/8442226840/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "719",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 767,
+          "mimetype": "image/jpeg",
+          "secret": "CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 599,
+          "mimetype": "image/jpeg",
+          "secret": "CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 239,
+          "mimetype": "image/jpeg",
+          "secret": "CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2431,
+          "mimetype": "image/jpeg",
+          "secret": "dCXsSljaDmZOWnNsmAwqUkr5DsoAVD4xQQbCDjH1w0EFd2v2bfia",
+          "width": 3242
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 479,
+          "mimetype": "image/jpeg",
+          "secret": "CTS0MpSloHoA6QHHLWOscOUyGgcPm2SX9eNbwzII2ohRp04Aov52",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        85633793,
-        102528187,
-        85688641
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      85633793,
+      102528187,
+      85688641
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006686,
-    "wof:depicts":[
-        102528187
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006686,
+    "wof:depicts": [
+      102528187
     ],
-    "wof:geomhash":"06ec52841c34ecec59c14bb1e1372614",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528187,
-            "country_id":85633793,
-            "media_id":1159326771,
-            "region_id":85688641
-        }
+    "wof:geomhash": "06ec52841c34ecec59c14bb1e1372614",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528187,
+        "country_id": 85633793,
+        "image_id": 1159326771,
+        "media_id": 1159326771,
+        "region_id": 85688641
+      }
     ],
-    "wof:id":1159326771,
-    "wof:lastmodified":1545868685,
-    "wof:name":"Abandoned Delta Crown Room",
-    "wof:parent_id":102528187,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159326771,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Abandoned Delta Crown Room",
+    "wof:parent_id": 102528187,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.655167,
     39.053333,
     -84.655167,
     39.053333
-],
-  "geometry": {"coordinates":[-84.65516700000001,39.053333],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.655167,39.053333],"type":"Point"}
 }

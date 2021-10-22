@@ -2,270 +2,273 @@
   "id": 1159327447,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2013-07-01",
-    "date:cessation_upper":"2013-07-01",
-    "date:inception_lower":"2013-07-01",
-    "date:inception_upper":"2013-07-01",
-    "edtf:cessation":"2013-07-01T06:53:08",
-    "edtf:inception":"2013-07-01T06:53:08",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.03643,32.884308,-80.03643,32.884308",
-    "geom:latitude":32.884308,
-    "geom:longitude":-80.03643,
-    "iso:country":"US",
-    "media:created":1372686788,
-    "media:fingerprint":"6f64155157ac77bbe98a5a23294268d318939190",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"9181562023",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1382398884",
-                "posted":"1372679789",
-                "taken":"2013-07-01 06:53:08",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1372679789",
-            "description":{
-                "_content":"Missed Sunday, but this feels early enough to still count :)"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"9181562023",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Charleston",
-                    "place_id":"Jc0dijdQUL.n.X07GA",
-                    "woeid":"12589809"
-                },
-                "latitude":"32.884308",
-                "locality":{
-                    "_content":"Charleston International Airport",
-                    "place_id":"1SI6QotQUL_AP1MaLA",
-                    "woeid":"12519142"
-                },
-                "longitude":"-80.036430",
-                "place_id":"1SI6QotQUL_AP1MaLA",
-                "region":{
-                    "_content":"South Carolina",
-                    "place_id":"J0wmj5lTUb6eTQbF",
-                    "woeid":"2347599"
-                },
-                "woeid":"12519142"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"b4b1133e4e",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5651",
-                "location":"Charleston, South Carolina, USA",
-                "nsid":"27581793@N07",
-                "path_alias":"scpetrel",
-                "realname":"",
-                "username":"scpetrel"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"9f9125cae3",
-            "server":"3776",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"flickrandroidapp:filter=none",
-                        "author":"27581793@N07",
-                        "authorname":"scpetrel",
-                        "id":"27560463-9181562023-75696943",
-                        "machine_tag":1,
-                        "raw":"flickrandroidapp:filter=none"
-                    },
-                    {
-                        "_content":"365project",
-                        "author":"27581793@N07",
-                        "authorname":"scpetrel",
-                        "id":"27560463-9181562023-5570038",
-                        "machine_tag":0,
-                        "raw":"365project"
-                    },
-                    {
-                        "_content":"photoaday",
-                        "author":"27581793@N07",
-                        "authorname":"scpetrel",
-                        "id":"27560463-9181562023-16049",
-                        "machine_tag":0,
-                        "raw":"photoaday"
-                    },
-                    {
-                        "_content":"travel",
-                        "author":"27581793@N07",
-                        "authorname":"scpetrel",
-                        "id":"27560463-9181562023-121",
-                        "machine_tag":0,
-                        "raw":"travel"
-                    },
-                    {
-                        "_content":"charlestoninternationalairportchs",
-                        "author":"27581793@N07",
-                        "authorname":"scpetrel",
-                        "id":"27560463-9181562023-102950742",
-                        "machine_tag":0,
-                        "raw":"Charleston International Airport (CHS)"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Early airport morning"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/scpetrel/9181562023/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"241",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2013-07-01",
+    "date:cessation_upper": "2013-07-01",
+    "date:inception_lower": "2013-07-01",
+    "date:inception_upper": "2013-07-01",
+    "edtf:cessation": "2013-07-01T06:53:08",
+    "edtf:inception": "2013-07-01T06:53:08",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.036430,32.884308,-80.036430,32.884308",
+    "geom:latitude": 32.884308,
+    "geom:longitude": -80.03643,
+    "iso:country": "US",
+    "media:created": 1372686788,
+    "media:fingerprint": "6f64155157ac77bbe98a5a23294268d318939190",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "9181562023",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
-                "width":1024
+        "dates": {
+          "lastupdate": "1382398884",
+          "posted": "1372679789",
+          "taken": "2013-07-01 06:53:08",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1372679789",
+        "description": {
+          "_content": "Missed Sunday, but this feels early enough to still count :)"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "9181562023",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Charleston",
+            "place_id": "Jc0dijdQUL.n.X07GA",
+            "woeid": "12589809"
+          },
+          "latitude": "32.884308",
+          "locality": {
+            "_content": "Charleston International Airport",
+            "place_id": "1SI6QotQUL_AP1MaLA",
+            "woeid": "12519142"
+          },
+          "longitude": "-80.036430",
+          "place_id": "1SI6QotQUL_AP1MaLA",
+          "region": {
+            "_content": "South Carolina",
+            "place_id": "J0wmj5lTUb6eTQbF",
+            "woeid": "2347599"
+          },
+          "woeid": "12519142"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "b4b1133e4e",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5651",
+          "location": "Charleston, South Carolina, USA",
+          "nsid": "27581793@N07",
+          "path_alias": "scpetrel",
+          "realname": "",
+          "username": "scpetrel"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "9f9125cae3",
+        "server": "3776",
+        "tags": {
+          "tag": [
+            {
+              "_content": "flickrandroidapp:filter=none",
+              "author": "27581793@N07",
+              "authorname": "scpetrel",
+              "id": "27560463-9181562023-75696943",
+              "machine_tag": 1,
+              "raw": "flickrandroidapp:filter=none"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
-                "width":800
+            {
+              "_content": "365project",
+              "author": "27581793@N07",
+              "authorname": "scpetrel",
+              "id": "27560463-9181562023-5570038",
+              "machine_tag": 0,
+              "raw": "365project"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
-                "width":320
+            {
+              "_content": "photoaday",
+              "author": "27581793@N07",
+              "authorname": "scpetrel",
+              "id": "27560463-9181562023-16049",
+              "machine_tag": 0,
+              "raw": "photoaday"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1944,
-                "mimetype":"image/jpeg",
-                "secret":"1uZ3jFUVXp6VlihjK36E8oupvvvCQBnluqK7Y4lXj32uxd3Z0rUn",
-                "width":2592
+            {
+              "_content": "travel",
+              "author": "27581793@N07",
+              "authorname": "scpetrel",
+              "id": "27560463-9181562023-121",
+              "machine_tag": 0,
+              "raw": "travel"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
-                "width":640
+            {
+              "_content": "charlestoninternationalairportchs",
+              "author": "27581793@N07",
+              "authorname": "scpetrel",
+              "id": "27560463-9181562023-102950742",
+              "machine_tag": 0,
+              "raw": "Charleston International Airport (CHS)"
             }
+          ]
+        },
+        "title": {
+          "_content": "Early airport morning"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/scpetrel/9181562023/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "241",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1944,
+          "mimetype": "image/jpeg",
+          "secret": "1uZ3jFUVXp6VlihjK36E8oupvvvCQBnluqK7Y4lXj32uxd3Z0rUn",
+          "width": 2592
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "uGad7F2phByy1hcqzdtcBylfs7Z5RqgeSv3MSW7TH3R1RBA6kgNM",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531215,
-        85839447,
-        102191575,
-        85633793,
-        101720747,
-        102085591,
-        85688683
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531215,
+      85839447,
+      102191575,
+      85633793,
+      101720747,
+      102085591,
+      85688683
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006910,
-    "wof:depicts":[
-        102531215
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006910,
+    "wof:depicts": [
+      102531215
     ],
-    "wof:geomhash":"ca16f8009274e4e07c37bdd046eaf1fc",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531215,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085591,
-            "locality_id":101720747,
-            "media_id":1159327447,
-            "neighbourhood_id":85839447,
-            "region_id":85688683
-        }
+    "wof:geomhash": "ca16f8009274e4e07c37bdd046eaf1fc",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531215,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085591,
+        "image_id": 1159327447,
+        "locality_id": 101720747,
+        "media_id": 1159327447,
+        "neighbourhood_id": 85839447,
+        "region_id": 85688683
+      }
     ],
-    "wof:id":1159327447,
-    "wof:lastmodified":1545868666,
-    "wof:name":"Early airport morning",
-    "wof:parent_id":102531215,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327447,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Early airport morning",
+    "wof:parent_id": 102531215,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.03643,
     32.884308,
     -80.03643,
     32.884308
-],
+  ],
   "geometry": {"coordinates":[-80.03643,32.884308],"type":"Point"}
 }

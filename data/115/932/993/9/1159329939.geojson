@@ -2,241 +2,244 @@
   "id": 1159329939,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-02-28",
-    "date:cessation_upper":"2018-02-28",
-    "date:inception_lower":"2018-02-28",
-    "date:inception_upper":"2018-02-28",
-    "edtf:cessation":"2018-02-28T22:27:16",
-    "edtf:inception":"2018-02-28T22:27:16",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.404123,33.946388,-118.404123,33.946388",
-    "geom:latitude":33.946388,
-    "geom:longitude":-118.404123,
-    "iso:country":"US",
-    "media:created":1519885636,
-    "media:fingerprint":"c10b6cda0ce2b2f866851731640ed15b8be81449",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"40042533155",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1521631757",
-                "posted":"1521631730",
-                "taken":"2018-02-28 22:27:16",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1521631730",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"40042533155",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.946388",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.404123",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e018669c8f",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8384",
-                "location":"Berkeley, CA",
-                "nsid":"56142061@N08",
-                "path_alias":"bayareaag",
-                "realname":"Daniel Gillaspia",
-                "username":"Daniel Gillaspia"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"3db0f29d26",
-            "server":"793",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"virginatlanticupperclass787",
-                        "author":"56142061@N08",
-                        "authorname":"Daniel Gillaspia",
-                        "id":"56049248-40042533155-369069775",
-                        "machine_tag":0,
-                        "raw":"Virgin Atlantic Upper Class 787"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Virgin Atlantic Upper Class 20"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/bayareaag/40042533155/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"60",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2018-02-28",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-28",
+    "date:inception_upper": "2018-02-28",
+    "edtf:cessation": "2018-02-28T22:27:16",
+    "edtf:inception": "2018-02-28T22:27:16",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.404123,33.946388,-118.404123,33.946388",
+    "geom:latitude": 33.946388,
+    "geom:longitude": -118.404123,
+    "iso:country": "US",
+    "media:created": 1519885636,
+    "media:fingerprint": "c10b6cda0ce2b2f866851731640ed15b8be81449",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "40042533155",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":3024,
-                "mimetype":"image/jpeg",
-                "secret":"L43pZZRYAeomigWpH8s6Co3uoeLPUSbu6K97WccYq9mChjS5f1j9",
-                "width":4032
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
-                "width":640
+        "dates": {
+          "lastupdate": "1521631757",
+          "posted": "1521631730",
+          "taken": "2018-02-28 22:27:16",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1521631730",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "40042533155",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.946388",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.404123",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e018669c8f",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8384",
+          "location": "Berkeley, CA",
+          "nsid": "56142061@N08",
+          "path_alias": "bayareaag",
+          "realname": "Daniel Gillaspia",
+          "username": "Daniel Gillaspia"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "3db0f29d26",
+        "server": "793",
+        "tags": {
+          "tag": [
+            {
+              "_content": "virginatlanticupperclass787",
+              "author": "56142061@N08",
+              "authorname": "Daniel Gillaspia",
+              "id": "56049248-40042533155-369069775",
+              "machine_tag": 0,
+              "raw": "Virgin Atlantic Upper Class 787"
             }
+          ]
+        },
+        "title": {
+          "_content": "Virgin Atlantic Upper Class 20"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/bayareaag/40042533155/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "60",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3024,
+          "mimetype": "image/jpeg",
+          "secret": "L43pZZRYAeomigWpH8s6Co3uoeLPUSbu6K97WccYq9mChjS5f1j9",
+          "width": 4032
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "SBGU29GAGPAdNnKqxMY0RWO0bpUaysru5eIc7CgcSoEghWMtThgP",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527017214,
-    "wof:depicts":[
-        102533795,
-        1159285483
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527017214,
+    "wof:depicts": [
+      102533795,
+      1159285483
     ],
-    "wof:geomhash":"1806368aae088d8fff91a540e28666ed",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159329939,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "1806368aae088d8fff91a540e28666ed",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159329939,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159329939,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159329939,
-    "wof:lastmodified":1545868677,
-    "wof:name":"Virgin Atlantic Upper Class 20",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159329939,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Virgin Atlantic Upper Class 20",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.404123,
     33.946388,
     -118.404123,
     33.946388
-],
+  ],
   "geometry": {"coordinates":[-118.404123,33.946388],"type":"Point"}
 }

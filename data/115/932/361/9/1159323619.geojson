@@ -2,287 +2,290 @@
   "id": 1159323619,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-03-10",
-    "date:cessation_upper":"2017-03-10",
-    "date:inception_lower":"2017-03-10",
-    "date:inception_upper":"2017-03-10",
-    "edtf:cessation":"2017-03-10T11:46:22",
-    "edtf:inception":"2017-03-10T11:46:22",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-75.98215,42.20847,-75.98215,42.20847",
-    "geom:latitude":42.20847,
-    "geom:longitude":-75.98215,
-    "iso:country":"US",
-    "media:created":1489175182,
-    "media:fingerprint":"2876c961c924ff7ebb5953d405303612de5ecbfa",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"33229789882",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1489346231",
-                "posted":"1489276492",
-                "taken":"2017-03-10 11:46:22",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1489276492",
-            "description":{
-                "_content":"Edwin A. Link built the first effective ground-based flight trainers, beginning in the late 1920s. By the time of the second World War, he had developed a trainer that could teach instrument flying safely, on the ground, in any kind of weather. At peak war time production, Link factories in Binghamton and Canada were producing 80 trainers a week and the &quot;blue box&quot; and become a central feature of pilot training.\n\nExhibit at Greater Binghamton Airport.\n"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"33229789882",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Broome",
-                    "place_id":"nuDD0iFQUL9Hds31aw",
-                    "woeid":"12589315"
-                },
-                "latitude":"42.208470",
-                "locality":{
-                    "_content":"Greater Binghamton Edwin A Link Field Airport",
-                    "place_id":"jTvYx1BQUL_RrlrjhQ",
-                    "woeid":"12519598"
-                },
-                "longitude":"-75.982150",
-                "place_id":"jTvYx1BQUL_RrlrjhQ",
-                "region":{
-                    "_content":"New York",
-                    "place_id":"ODHTuIhTUb75gdBu",
-                    "woeid":"2347591"
-                },
-                "woeid":"12519598"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"85f5cc1a31",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7390",
-                "location":"Vestal, New York, USA",
-                "nsid":"29261037@N02",
-                "path_alias":null,
-                "realname":"Paul Cooper",
-                "username":"pecooper98362"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"a97801aa0a",
-            "server":"3702",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"binghamton",
-                        "author":"29261037@N02",
-                        "authorname":"pecooper98362",
-                        "id":"29240689-33229789882-91144",
-                        "machine_tag":0,
-                        "raw":"Binghamton"
-                    },
-                    {
-                        "_content":"newyork",
-                        "author":"29261037@N02",
-                        "authorname":"pecooper98362",
-                        "id":"29240689-33229789882-440",
-                        "machine_tag":0,
-                        "raw":"New York"
-                    },
-                    {
-                        "_content":"greaterbinghamtonairport",
-                        "author":"29261037@N02",
-                        "authorname":"pecooper98362",
-                        "id":"29240689-33229789882-257090999",
-                        "machine_tag":0,
-                        "raw":"Greater Binghamton Airport"
-                    },
-                    {
-                        "_content":"exhibit",
-                        "author":"29261037@N02",
-                        "authorname":"pecooper98362",
-                        "id":"29240689-33229789882-9401",
-                        "machine_tag":0,
-                        "raw":"Exhibit"
-                    },
-                    {
-                        "_content":"linktrainer",
-                        "author":"29261037@N02",
-                        "authorname":"pecooper98362",
-                        "id":"29240689-33229789882-2005714",
-                        "machine_tag":0,
-                        "raw":"Link Trainer"
-                    },
-                    {
-                        "_content":"flightsimulator",
-                        "author":"29261037@N02",
-                        "authorname":"pecooper98362",
-                        "id":"29240689-33229789882-229316",
-                        "machine_tag":0,
-                        "raw":"Flight Simulator"
-                    },
-                    {
-                        "_content":"worldwarii",
-                        "author":"29261037@N02",
-                        "authorname":"pecooper98362",
-                        "id":"29240689-33229789882-12987",
-                        "machine_tag":0,
-                        "raw":"World War II"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Link Trainer"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/29261037@N02/33229789882/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"113",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2017-03-10",
+    "date:cessation_upper": "2017-03-10",
+    "date:inception_lower": "2017-03-10",
+    "date:inception_upper": "2017-03-10",
+    "edtf:cessation": "2017-03-10T11:46:22",
+    "edtf:inception": "2017-03-10T11:46:22",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-75.982150,42.208470,-75.982150,42.208470",
+    "geom:latitude": 42.20847,
+    "geom:longitude": -75.98215,
+    "iso:country": "US",
+    "media:created": 1489175182,
+    "media:fingerprint": "2876c961c924ff7ebb5953d405303612de5ecbfa",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "33229789882",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
-                "width":1024
+        "dates": {
+          "lastupdate": "1489346231",
+          "posted": "1489276492",
+          "taken": "2017-03-10 11:46:22",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1489276492",
+        "description": {
+          "_content": "Edwin A. Link built the first effective ground-based flight trainers, beginning in the late 1920s. By the time of the second World War, he had developed a trainer that could teach instrument flying safely, on the ground, in any kind of weather. At peak war time production, Link factories in Binghamton and Canada were producing 80 trainers a week and the \u0026quot;blue box\u0026quot; and become a central feature of pilot training.\n\nExhibit at Greater Binghamton Airport.\n"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "33229789882",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Broome",
+            "place_id": "nuDD0iFQUL9Hds31aw",
+            "woeid": "12589315"
+          },
+          "latitude": "42.208470",
+          "locality": {
+            "_content": "Greater Binghamton Edwin A Link Field Airport",
+            "place_id": "jTvYx1BQUL_RrlrjhQ",
+            "woeid": "12519598"
+          },
+          "longitude": "-75.982150",
+          "place_id": "jTvYx1BQUL_RrlrjhQ",
+          "region": {
+            "_content": "New York",
+            "place_id": "ODHTuIhTUb75gdBu",
+            "woeid": "2347591"
+          },
+          "woeid": "12519598"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "85f5cc1a31",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7390",
+          "location": "Vestal, New York, USA",
+          "nsid": "29261037@N02",
+          "path_alias": null,
+          "realname": "Paul Cooper",
+          "username": "pecooper98362"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "a97801aa0a",
+        "server": "3702",
+        "tags": {
+          "tag": [
+            {
+              "_content": "binghamton",
+              "author": "29261037@N02",
+              "authorname": "pecooper98362",
+              "id": "29240689-33229789882-91144",
+              "machine_tag": 0,
+              "raw": "Binghamton"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
-                "width":800
+            {
+              "_content": "newyork",
+              "author": "29261037@N02",
+              "authorname": "pecooper98362",
+              "id": "29240689-33229789882-440",
+              "machine_tag": 0,
+              "raw": "New York"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
-                "width":320
+            {
+              "_content": "greaterbinghamtonairport",
+              "author": "29261037@N02",
+              "authorname": "pecooper98362",
+              "id": "29240689-33229789882-257090999",
+              "machine_tag": 0,
+              "raw": "Greater Binghamton Airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":853,
-                "mimetype":"image/jpeg",
-                "secret":"b96JDsXyRUJI6XaGj8cwqxxEcteXVs1IQ8zhya88zhdt0pP8Hyxi",
-                "width":1280
+            {
+              "_content": "exhibit",
+              "author": "29261037@N02",
+              "authorname": "pecooper98362",
+              "id": "29240689-33229789882-9401",
+              "machine_tag": 0,
+              "raw": "Exhibit"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
-                "width":320
+            {
+              "_content": "linktrainer",
+              "author": "29261037@N02",
+              "authorname": "pecooper98362",
+              "id": "29240689-33229789882-2005714",
+              "machine_tag": 0,
+              "raw": "Link Trainer"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
-                "width":640
+            {
+              "_content": "flightsimulator",
+              "author": "29261037@N02",
+              "authorname": "pecooper98362",
+              "id": "29240689-33229789882-229316",
+              "machine_tag": 0,
+              "raw": "Flight Simulator"
+            },
+            {
+              "_content": "worldwarii",
+              "author": "29261037@N02",
+              "authorname": "pecooper98362",
+              "id": "29240689-33229789882-12987",
+              "machine_tag": 0,
+              "raw": "World War II"
             }
+          ]
+        },
+        "title": {
+          "_content": "Link Trainer"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/29261037@N02/33229789882/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "113",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 853,
+          "mimetype": "image/jpeg",
+          "secret": "b96JDsXyRUJI6XaGj8cwqxxEcteXVs1IQ8zhya88zhdt0pP8Hyxi",
+          "width": 1280
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "UUoedQYzseTUplnwnrkr7vCAnQ8JVVpjbXUpYIWLpIf8gRQ8daA5",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528741,
-        420528103,
-        102191575,
-        404521629,
-        85633793,
-        102081755,
-        85688543
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528741,
+      420528103,
+      102191575,
+      404521629,
+      85633793,
+      102081755,
+      85688543
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526688519,
-    "wof:depicts":[
-        102528741
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526688519,
+    "wof:depicts": [
+      102528741
     ],
-    "wof:geomhash":"a5f715363918829be6c0cbffbdc153d7",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528741,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081755,
-            "localadmin_id":404521629,
-            "locality_id":-1,
-            "media_id":1159323619,
-            "neighbourhood_id":420528103,
-            "region_id":85688543
-        }
+    "wof:geomhash": "a5f715363918829be6c0cbffbdc153d7",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528741,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081755,
+        "image_id": 1159323619,
+        "localadmin_id": 404521629,
+        "locality_id": -1,
+        "media_id": 1159323619,
+        "neighbourhood_id": 420528103,
+        "region_id": 85688543
+      }
     ],
-    "wof:id":1159323619,
-    "wof:lastmodified":1545868699,
-    "wof:name":"Link Trainer",
-    "wof:parent_id":102528741,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159323619,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Link Trainer",
+    "wof:parent_id": 102528741,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -75.98215,
     42.20847,
     -75.98215,
     42.20847
-],
+  ],
   "geometry": {"coordinates":[-75.98215,42.20847],"type":"Point"}
 }

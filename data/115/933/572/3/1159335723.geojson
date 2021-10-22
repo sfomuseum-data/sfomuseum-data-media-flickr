@@ -2,247 +2,251 @@
   "id": 1159335723,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-01-08",
-    "date:cessation_upper":"2012-01-08",
-    "date:inception_lower":"2012-01-08",
-    "date:inception_upper":"2012-01-08",
-    "edtf:cessation":"2012-01-08T10:46:43",
-    "edtf:inception":"2012-01-08T10:46:43",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.923833,37.365,-121.923833,37.365",
-    "geom:latitude":37.365,
-    "geom:longitude":-121.923833,
-    "iso:country":"US",
-    "media:created":1326048403,
-    "media:fingerprint":"decb13789792a7102c1ac0cf9c5192a326245fc9",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"6664065255",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1326079311",
-                "posted":"1326077324",
-                "taken":"2012-01-08 10:46:43",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1326077324",
-            "description":{
-                "_content":"at SJC, Southwest check-in."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"6664065255",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Santa Clara",
-                    "place_id":"b3n8i7RQUL_rtDiYCQ",
-                    "woeid":"12587712"
-                },
-                "latitude":"37.365000",
-                "locality":{
-                    "_content":"Norman Y Mineta San Jose International Airport",
-                    "place_id":"u2FFS25QUL9w2dKkeg",
-                    "woeid":"12521722"
-                },
-                "longitude":"-121.923833",
-                "place_id":"u2FFS25QUL9w2dKkeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521722"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"dd9949998f",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3902",
-                "location":"San Jose, U.S.A.",
-                "nsid":"19452106@N00",
-                "path_alias":"naotoj",
-                "realname":"Naoto Sato",
-                "username":"naotoj"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"153fbc0d9a",
-            "server":"7009",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":"Long line"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/naotoj/6664065255/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"187",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
+    "date:cessation_lower": "2012-01-08",
+    "date:cessation_upper": "2012-01-08",
+    "date:inception_lower": "2012-01-08",
+    "date:inception_upper": "2012-01-08",
+    "edtf:cessation": "2012-01-08T10:46:43",
+    "edtf:inception": "2012-01-08T10:46:43",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.923833,37.365000,-121.923833,37.365000",
+    "geom:latitude": 37.365,
+    "geom:longitude": -121.923833,
+    "iso:country": "US",
+    "media:created": 1326048403,
+    "media:fingerprint": "decb13789792a7102c1ac0cf9c5192a326245fc9",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "6664065255",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1326079311",
+          "posted": "1326077324",
+          "taken": "2012-01-08 10:46:43",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1326077324",
+        "description": {
+          "_content": "at SJC, Southwest check-in."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "6664065255",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Santa Clara",
+            "place_id": "b3n8i7RQUL_rtDiYCQ",
+            "woeid": "12587712"
+          },
+          "latitude": "37.365000",
+          "locality": {
+            "_content": "Norman Y Mineta San Jose International Airport",
+            "place_id": "u2FFS25QUL9w2dKkeg",
+            "woeid": "12521722"
+          },
+          "longitude": "-121.923833",
+          "place_id": "u2FFS25QUL9w2dKkeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521722"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "dd9949998f",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3902",
+          "location": "San Jose, U.S.A.",
+          "nsid": "19452106@N00",
+          "path_alias": "naotoj",
+          "realname": "Naoto Sato",
+          "username": "naotoj"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "153fbc0d9a",
+        "server": "7009",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": "Long line"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/naotoj/6664065255/",
+              "type": "photopage"
             }
+          ]
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":764,
-                "mimetype":"image/jpeg",
-                "secret":"l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":597,
-                "mimetype":"image/jpeg",
-                "secret":"l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":239,
-                "mimetype":"image/jpeg",
-                "secret":"l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1936,
-                "mimetype":"image/jpeg",
-                "secret":"oC4N1GrV1FaF2x5f8ROx83yrH5KGly3Wt9kC3MYJim5rhWepsmG3",
-                "width":2592
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":478,
-                "mimetype":"image/jpeg",
-                "secret":"l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
-                "width":640
-            }
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
         },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102527529
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527529,
-        85869525,
-        102191575,
-        85633793,
-        85922341,
-        102081673,
-        85688637,
-        1108779019,
-        1108782553,
-        85922347
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527027363,
-    "wof:depicts":[
-        102527529,
-        1159335723
-    ],
-    "wof:geomhash":"d3c44959bf292c5dbcc1ebe50dbbba05",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922341,
-            "media_id":1159335723,
-            "neighbourhood_id":85869525,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782553,
-            "media_id":1159335723,
-            "neighbourhood_id":1108779019,
-            "region_id":85688637
+        "views": "187",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 764,
+          "mimetype": "image/jpeg",
+          "secret": "l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 597,
+          "mimetype": "image/jpeg",
+          "secret": "l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 239,
+          "mimetype": "image/jpeg",
+          "secret": "l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1936,
+          "mimetype": "image/jpeg",
+          "secret": "oC4N1GrV1FaF2x5f8ROx83yrH5KGly3Wt9kC3MYJim5rhWepsmG3",
+          "width": 2592
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 478,
+          "mimetype": "image/jpeg",
+          "secret": "l1Nb5pArjmIFd4wUvT0Z2EdomfLfXeFAG4HEFxUJaQkYv3Glnl4d",
+          "width": 640
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102527529
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527529,
+      85869525,
+      102191575,
+      85633793,
+      85922341,
+      102081673,
+      85688637,
+      1108779019,
+      1108782553,
+      85922347
     ],
-    "wof:id":1159335723,
-    "wof:lastmodified":1545868724,
-    "wof:name":"Long line",
-    "wof:parent_id":102527529,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527027363,
+    "wof:depicts": [
+      102527529,
+      1159335723
+    ],
+    "wof:geomhash": "d3c44959bf292c5dbcc1ebe50dbbba05",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "image_id": 1159335723,
+        "locality_id": 85922341,
+        "media_id": 1159335723,
+        "neighbourhood_id": 85869525,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "image_id": 1159335723,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782553,
+        "media_id": 1159335723,
+        "neighbourhood_id": 1108779019,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159335723,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Long line",
+    "wof:parent_id": 102527529,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.923833,
     37.365,
     -121.923833,
     37.365
-],
+  ],
   "geometry": {"coordinates":[-121.923833,37.365],"type":"Point"}
 }

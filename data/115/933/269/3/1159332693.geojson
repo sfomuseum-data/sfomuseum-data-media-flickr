@@ -2,399 +2,402 @@
   "id": 1159332693,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-07-29",
-    "date:cessation_upper":"2015-07-29",
-    "date:inception_lower":"2015-07-29",
-    "date:inception_upper":"2015-07-29",
-    "edtf:cessation":"2015-07-29T12:54:18",
-    "edtf:inception":"2015-07-29T12:54:18",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.411256,33.94103,-118.411256,33.94103",
-    "geom:latitude":33.94103,
-    "geom:longitude":-118.411256,
-    "iso:country":"US",
-    "media:created":1438199658,
-    "media:fingerprint":"dc67afc37cc6864735596a229ed3c347212c87ac",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#c8385a",
-                        "name":"Maroon",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd5c5c",
-                        "name":"indianred",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c4354d",
-                "name":"#c4354d",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#2e5894",
-                        "name":"B'dazzled Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#483d8b",
-                        "name":"darkslateblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#354e88",
-                "name":"#354e88",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#2e5894",
-                        "name":"B'dazzled Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#4682b4",
-                        "name":"steelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#50709f",
-                "name":"#50709f",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#b0b7c6",
-                        "name":"Cadet Blue",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bdbcbc",
-                "name":"#bdbcbc",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#414a4c",
-                        "name":"Outer Space",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#2f4f4f",
-                        "name":"darkslategrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#2b3245",
-                "name":"#2b3245",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"20011319928",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1438981339",
-                "posted":"1438437645",
-                "taken":"2015-07-29 12:54:18",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1438437645",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"20011319928",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.941030",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.411256",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"7536308ae1",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7382",
-                "location":"",
-                "nsid":"106015479@N08",
-                "path_alias":"vessokolev",
-                "realname":"Vesselin Kolev",
-                "username":"vesso.kolev"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"951bdc4fc7",
-            "server":"447",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"us",
-                        "author":"106015479@N08",
-                        "authorname":"vesso.kolev",
-                        "id":"105922666-20011319928-2296",
-                        "machine_tag":0,
-                        "raw":"US"
-                    },
-                    {
-                        "_content":"losangeles",
-                        "author":"106015479@N08",
-                        "authorname":"vesso.kolev",
-                        "id":"105922666-20011319928-2424",
-                        "machine_tag":0,
-                        "raw":"Los Angeles"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"106015479@N08",
-                        "authorname":"vesso.kolev",
-                        "id":"105922666-20011319928-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"airbus",
-                        "author":"106015479@N08",
-                        "authorname":"vesso.kolev",
-                        "id":"105922666-20011319928-16434",
-                        "machine_tag":0,
-                        "raw":"Airbus"
-                    },
-                    {
-                        "_content":"a380",
-                        "author":"106015479@N08",
-                        "authorname":"vesso.kolev",
-                        "id":"105922666-20011319928-16435",
-                        "machine_tag":0,
-                        "raw":"A380"
-                    },
-                    {
-                        "_content":"a380841",
-                        "author":"106015479@N08",
-                        "authorname":"vesso.kolev",
-                        "id":"105922666-20011319928-7400108",
-                        "machine_tag":0,
-                        "raw":"A380-841"
-                    },
-                    {
-                        "_content":"britishairways",
-                        "author":"106015479@N08",
-                        "authorname":"vesso.kolev",
-                        "id":"105922666-20011319928-41522",
-                        "machine_tag":0,
-                        "raw":"British Airways"
-                    },
-                    {
-                        "_content":"gxleg",
-                        "author":"106015479@N08",
-                        "authorname":"vesso.kolev",
-                        "id":"105922666-20011319928-215062866",
-                        "machine_tag":0,
-                        "raw":"G-XLEG"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"British Airways' A380-841 with registration ID G-XLEG at Los Angeles Airport (US)"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/vessokolev/20011319928/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"453",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":576,
-                "mimetype":"image/jpeg",
-                "secret":"iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
-                "width":1024
-            },
-            "c":{
-                "extension":"jpg",
-                "height":450,
-                "mimetype":"image/jpeg",
-                "secret":"iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":450,
-                "mimetype":"image/jpeg",
-                "secret":"iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":180,
-                "mimetype":"image/jpeg",
-                "secret":"iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2322,
-                "mimetype":"image/jpeg",
-                "secret":"taceW0i96SHiG98vqfnivwNbAtjIkUrOxALZRbOz6Uqh637VvFMS",
-                "width":4128
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":360,
-                "mimetype":"image/jpeg",
-                "secret":"iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
-                "width":640
-            }
-        }
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018802,
-    "wof:depicts":[
-        102533795,
-        1159284021,
-        1159289437
-    ],
-    "wof:geomhash":"ad92acea86381c340c9285975080ca11",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2015-07-29",
+    "date:cessation_upper": "2015-07-29",
+    "date:inception_lower": "2015-07-29",
+    "date:inception_upper": "2015-07-29",
+    "edtf:cessation": "2015-07-29T12:54:18",
+    "edtf:inception": "2015-07-29T12:54:18",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.411256,33.941030,-118.411256,33.941030",
+    "geom:latitude": 33.94103,
+    "geom:longitude": -118.411256,
+    "iso:country": "US",
+    "media:created": 1438199658,
+    "media:fingerprint": "dc67afc37cc6864735596a229ed3c347212c87ac",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159332693,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
+          "closest": [
+            {
+              "hex": "#c8385a",
+              "name": "Maroon",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#cd5c5c",
+              "name": "indianred",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c4354d",
+          "name": "#c4354d",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#2e5894",
+              "name": "B'dazzled Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#483d8b",
+              "name": "darkslateblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#354e88",
+          "name": "#354e88",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#2e5894",
+              "name": "B'dazzled Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#4682b4",
+              "name": "steelblue",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#50709f",
+          "name": "#50709f",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#b0b7c6",
+              "name": "Cadet Blue",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bdbcbc",
+          "name": "#bdbcbc",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#414a4c",
+              "name": "Outer Space",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#2f4f4f",
+              "name": "darkslategrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#2b3245",
+          "name": "#2b3245",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "20011319928",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1438981339",
+          "posted": "1438437645",
+          "taken": "2015-07-29 12:54:18",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1438437645",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "20011319928",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.941030",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.411256",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "7536308ae1",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7382",
+          "location": "",
+          "nsid": "106015479@N08",
+          "path_alias": "vessokolev",
+          "realname": "Vesselin Kolev",
+          "username": "vesso.kolev"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "951bdc4fc7",
+        "server": "447",
+        "tags": {
+          "tag": [
+            {
+              "_content": "us",
+              "author": "106015479@N08",
+              "authorname": "vesso.kolev",
+              "id": "105922666-20011319928-2296",
+              "machine_tag": 0,
+              "raw": "US"
+            },
+            {
+              "_content": "losangeles",
+              "author": "106015479@N08",
+              "authorname": "vesso.kolev",
+              "id": "105922666-20011319928-2424",
+              "machine_tag": 0,
+              "raw": "Los Angeles"
+            },
+            {
+              "_content": "airport",
+              "author": "106015479@N08",
+              "authorname": "vesso.kolev",
+              "id": "105922666-20011319928-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
+            },
+            {
+              "_content": "airbus",
+              "author": "106015479@N08",
+              "authorname": "vesso.kolev",
+              "id": "105922666-20011319928-16434",
+              "machine_tag": 0,
+              "raw": "Airbus"
+            },
+            {
+              "_content": "a380",
+              "author": "106015479@N08",
+              "authorname": "vesso.kolev",
+              "id": "105922666-20011319928-16435",
+              "machine_tag": 0,
+              "raw": "A380"
+            },
+            {
+              "_content": "a380841",
+              "author": "106015479@N08",
+              "authorname": "vesso.kolev",
+              "id": "105922666-20011319928-7400108",
+              "machine_tag": 0,
+              "raw": "A380-841"
+            },
+            {
+              "_content": "britishairways",
+              "author": "106015479@N08",
+              "authorname": "vesso.kolev",
+              "id": "105922666-20011319928-41522",
+              "machine_tag": 0,
+              "raw": "British Airways"
+            },
+            {
+              "_content": "gxleg",
+              "author": "106015479@N08",
+              "authorname": "vesso.kolev",
+              "id": "105922666-20011319928-215062866",
+              "machine_tag": 0,
+              "raw": "G-XLEG"
+            }
+          ]
+        },
+        "title": {
+          "_content": "British Airways' A380-841 with registration ID G-XLEG at Los Angeles Airport (US)"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/vessokolev/20011319928/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "453",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 576,
+          "mimetype": "image/jpeg",
+          "secret": "iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 450,
+          "mimetype": "image/jpeg",
+          "secret": "iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 450,
+          "mimetype": "image/jpeg",
+          "secret": "iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 180,
+          "mimetype": "image/jpeg",
+          "secret": "iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2322,
+          "mimetype": "image/jpeg",
+          "secret": "taceW0i96SHiG98vqfnivwNbAtjIkUrOxALZRbOz6Uqh637VvFMS",
+          "width": 4128
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 360,
+          "mimetype": "image/jpeg",
+          "secret": "iqLBGUlmuQtWL3sxqKtpoAlAV5K9Hpa6lUqOlgXD4qVqXNm2VTll",
+          "width": 640
+        }
+      }
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:id":1159332693,
-    "wof:lastmodified":1545868717,
-    "wof:name":"British Airways' A380-841 with registration ID G-XLEG at Los Angeles Airport (US)",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018802,
+    "wof:depicts": [
+      102533795,
+      1159284021,
+      1159289437
+    ],
+    "wof:geomhash": "ad92acea86381c340c9285975080ca11",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159332693,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159332693,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159332693,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "British Airways' A380-841 with registration ID G-XLEG at Los Angeles Airport (US)",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.411256,
     33.94103,
     -118.411256,
     33.94103
-],
-  "geometry": {"coordinates":[-118.41125599999999,33.94103],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.411256,33.94103],"type":"Point"}
 }

@@ -2,319 +2,323 @@
   "id": 1159325769,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2010-03-04",
-    "date:cessation_upper":"2010-03-04",
-    "date:inception_lower":"2010-03-04",
-    "date:inception_upper":"2010-03-04",
-    "edtf:cessation":"2010-03-04T11:46:47",
-    "edtf:inception":"2010-03-04T11:46:47",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.946167,35.220666,-80.946167,35.220666",
-    "geom:latitude":35.220666,
-    "geom:longitude":-80.946167,
-    "iso:country":"US",
-    "media:created":1267732007,
-    "media:fingerprint":"c1777da0b56d01820299d6f5d9a2b11b8f8648fe",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"4410310409",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1268016400",
-                "posted":"1267884049",
-                "taken":"2010-03-04 11:46:47",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1267884049",
-            "description":{
-                "_content":"Sent from iPhone"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"4410310409",
-            "isfavorite":0,
-            "license":"2",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220666",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.946167",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"8792a8a1e7",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2704",
-                "location":"Richmond, USA",
-                "nsid":"14901386@N00",
-                "path_alias":"peterbaldes",
-                "realname":"Peter Baldes",
-                "username":"pjbaldes"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"172d8c9001",
-            "server":"4058",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"cellphonecamera",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-169630",
-                        "machine_tag":0,
-                        "raw":"cellphone camera"
-                    },
-                    {
-                        "_content":"wing",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-7193",
-                        "machine_tag":0,
-                        "raw":"wing"
-                    },
-                    {
-                        "_content":"tower",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-604",
-                        "machine_tag":0,
-                        "raw":"tower"
-                    },
-                    {
-                        "_content":"tarmac",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-958",
-                        "machine_tag":0,
-                        "raw":"tarmac"
-                    },
-                    {
-                        "_content":"flight",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-7097",
-                        "machine_tag":0,
-                        "raw":"flight"
-                    },
-                    {
-                        "_content":"dirty",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-10078",
-                        "machine_tag":0,
-                        "raw":"dirty"
-                    },
-                    {
-                        "_content":"plane",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-1369",
-                        "machine_tag":0,
-                        "raw":"plane"
-                    },
-                    {
-                        "_content":"window",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-767",
-                        "machine_tag":0,
-                        "raw":"window"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"rightbeforeandafteryoucanturnyourphoneonoroff",
-                        "author":"14901386@N00",
-                        "authorname":"pjbaldes",
-                        "id":"1128769-4410310409-53150580",
-                        "machine_tag":0,
-                        "raw":"right before and after you can turn your phone on or off"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Nassau tarmac"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/peterbaldes/4410310409/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"176",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2010-03-04",
+    "date:cessation_upper": "2010-03-04",
+    "date:inception_lower": "2010-03-04",
+    "date:inception_upper": "2010-03-04",
+    "edtf:cessation": "2010-03-04T11:46:47",
+    "edtf:inception": "2010-03-04T11:46:47",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.946167,35.220666,-80.946167,35.220666",
+    "geom:latitude": 35.220666,
+    "geom:longitude": -80.946167,
+    "iso:country": "US",
+    "media:created": 1267732007,
+    "media:fingerprint": "c1777da0b56d01820299d6f5d9a2b11b8f8648fe",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "4410310409",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
-                "width":576
+        "dates": {
+          "lastupdate": "1268016400",
+          "posted": "1267884049",
+          "taken": "2010-03-04 11:46:47",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1267884049",
+        "description": {
+          "_content": "Sent from iPhone"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "4410310409",
+        "isfavorite": 0,
+        "license": "2",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220666",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.946167",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "8792a8a1e7",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2704",
+          "location": "Richmond, USA",
+          "nsid": "14901386@N00",
+          "path_alias": "peterbaldes",
+          "realname": "Peter Baldes",
+          "username": "pjbaldes"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "172d8c9001",
+        "server": "4058",
+        "tags": {
+          "tag": [
+            {
+              "_content": "cellphonecamera",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-169630",
+              "machine_tag": 0,
+              "raw": "cellphone camera"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
-                "width":450
+            {
+              "_content": "wing",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-7193",
+              "machine_tag": 0,
+              "raw": "wing"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
-                "width":180
+            {
+              "_content": "tower",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-604",
+              "machine_tag": 0,
+              "raw": "tower"
             },
-            "o":{
-                "extension":"jpg",
-                "height":800,
-                "mimetype":"image/jpeg",
-                "secret":"VUBOQkdBsljpZ3A1BWA0qjRzy5ifKDGyeYHuinnFic5P7ZdvI9Wv",
-                "width":600
+            {
+              "_content": "tarmac",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-958",
+              "machine_tag": 0,
+              "raw": "tarmac"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
-                "width":320
+            {
+              "_content": "flight",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-7097",
+              "machine_tag": 0,
+              "raw": "flight"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
-                "width":360
+            {
+              "_content": "dirty",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-10078",
+              "machine_tag": 0,
+              "raw": "dirty"
+            },
+            {
+              "_content": "plane",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-1369",
+              "machine_tag": 0,
+              "raw": "plane"
+            },
+            {
+              "_content": "window",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-767",
+              "machine_tag": 0,
+              "raw": "window"
+            },
+            {
+              "_content": "airport",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-2695",
+              "machine_tag": 0,
+              "raw": "airport"
+            },
+            {
+              "_content": "rightbeforeandafteryoucanturnyourphoneonoroff",
+              "author": "14901386@N00",
+              "authorname": "pjbaldes",
+              "id": "1128769-4410310409-53150580",
+              "machine_tag": 0,
+              "raw": "right before and after you can turn your phone on or off"
             }
+          ]
+        },
+        "title": {
+          "_content": "Nassau tarmac"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/peterbaldes/4410310409/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "176",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
+          "width": 576
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
+          "width": 450
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
+          "width": 180
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 800,
+          "mimetype": "image/jpeg",
+          "secret": "VUBOQkdBsljpZ3A1BWA0qjRzy5ifKDGyeYHuinnFic5P7ZdvI9Wv",
+          "width": 600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "UW3kF08XXdzej8z5ppdk2EZwr1Zd8Fu36T7FBxlVKxI73oXyPOpQ",
+          "width": 360
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006299,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006299,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"2b4b9f5e8a83353d25b56e02d13c9948",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159325769,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159325769,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "2b4b9f5e8a83353d25b56e02d13c9948",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325769,
+        "locality_id": 85981333,
+        "media_id": 1159325769,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325769,
+        "media_id": 1159325769,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159325769,
-    "wof:lastmodified":1545868666,
-    "wof:name":"Nassau tarmac",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325769,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "Nassau tarmac",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.946167,
     35.220666,
     -80.946167,
     35.220666
-],
+  ],
   "geometry": {"coordinates":[-80.946167,35.220666],"type":"Point"}
 }

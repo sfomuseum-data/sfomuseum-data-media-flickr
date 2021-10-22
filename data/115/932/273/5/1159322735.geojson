@@ -2,393 +2,397 @@
   "id": 1159322735,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2017-10-06",
-    "date:cessation_upper":"2017-10-06",
-    "date:inception_lower":"2017-10-06",
-    "date:inception_upper":"2017-10-06",
-    "edtf:cessation":"2017-10-06T02:45:50",
-    "edtf:inception":"2017-10-06T02:45:50",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382974,37.622389,-122.382974,37.622389",
-    "geom:latitude":37.622389,
-    "geom:longitude":-122.382974,
-    "iso:country":"US",
-    "media:created":1507283150,
-    "media:fingerprint":"cadbf4d38d91582ab20fc29d90ff8467cc82cc08",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
+    "date:cessation_lower": "2017-10-06",
+    "date:cessation_upper": "2017-10-06",
+    "date:inception_lower": "2017-10-06",
+    "date:inception_upper": "2017-10-06",
+    "edtf:cessation": "2017-10-06T02:45:50",
+    "edtf:inception": "2017-10-06T02:45:50",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382974,37.622389,-122.382974,37.622389",
+    "geom:latitude": 37.622389,
+    "geom:longitude": -122.382974,
+    "iso:country": "US",
+    "media:created": 1507283150,
+    "media:fingerprint": "cadbf4d38d91582ab20fc29d90ff8467cc82cc08",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "closest": [
             {
-                "closest":[
-                    {
-                        "hex":"#ff2b2b",
-                        "name":"Orange Red",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#ff4500",
-                        "name":"orangered",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ef2c0f",
-                "name":"#ef2c0f",
-                "reference":"vibrant"
+              "hex": "#ff2b2b",
+              "name": "Orange Red",
+              "reference": "crayola"
             },
             {
-                "closest":[
-                    {
-                        "hex":"#9aceeb",
-                        "name":"Cornflower",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b0c4de",
-                        "name":"lightsteelblue",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a2c2db",
-                "name":"#a2c2db",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9c2542",
-                        "name":"Big Dip O' Ruby",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#b22222",
-                        "name":"firebrick",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#bd1a06",
-                "name":"#bd1a06",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#a57164",
-                        "name":"Blast Off Bronze",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#cd5c5c",
-                        "name":"indianred",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a76461",
-                "name":"#a76461",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#c5d0e6",
-                        "name":"Periwinkle",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d3d3d3",
-                        "name":"lightgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c3d2df",
-                "name":"#c3d2df",
-                "reference":"vibrant"
+              "hex": "#ff4500",
+              "name": "orangered",
+              "reference": "css4"
             }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"38183809272",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1511289251",
-                "posted":"1509982336",
-                "taken":"2017-10-06 02:45:50",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1509982336",
-            "description":{
-                "_content":"San Francisco - International (SFO / KSFO)\nCalifornia, USA  10.2017"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"38183809272",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.622389",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.382974",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"a8661f0f2f",
-            "owner":{
-                "iconfarm":5,
-                "iconserver":"4583",
-                "location":"Bern, Schweiz ",
-                "nsid":"136038106@N05",
-                "path_alias":"kambui",
-                "realname":"M.Oertle",
-                "username":"Kambui"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"83d1aed60f",
-            "server":"4482",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"scandinavianairlines",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-38183809272-224749",
-                        "machine_tag":0,
-                        "raw":"Scandinavian Airlines"
-                    },
-                    {
-                        "_content":"sas",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-38183809272-31575",
-                        "machine_tag":0,
-                        "raw":"SAS"
-                    },
-                    {
-                        "_content":"airbus",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-38183809272-16434",
-                        "machine_tag":0,
-                        "raw":"Airbus"
-                    },
-                    {
-                        "_content":"a340313",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-38183809272-3686994",
-                        "machine_tag":0,
-                        "raw":"A340-313"
-                    },
-                    {
-                        "_content":"lnrkg",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-38183809272-28978233",
-                        "machine_tag":0,
-                        "raw":"LN-RKG"
-                    },
-                    {
-                        "_content":"gudrodviking",
-                        "author":"136038106@N05",
-                        "authorname":"Kambui",
-                        "id":"136032766-38183809272-30283808",
-                        "machine_tag":0,
-                        "raw":"Gudrod Viking"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Scandinavian Airlines - SAS Airbus A340-313 LN-RKG  \"Gudrod Viking\""
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/kambui/38183809272/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"570",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+          ],
+          "hex": "#ef2c0f",
+          "name": "#ef2c0f",
+          "reference": "vibrant"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
-                "width":1024
+        {
+          "closest": [
+            {
+              "hex": "#9aceeb",
+              "name": "Cornflower",
+              "reference": "crayola"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":1200,
-                "mimetype":"image/jpeg",
-                "secret":"ZtNtqQPM3j5gtRJdcvkxygiKMZMJXYEy0a2Si0hmmVKe1QbPalYP",
-                "width":1800
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
-                "width":640
+            {
+              "hex": "#b0c4de",
+              "name": "lightsteelblue",
+              "reference": "css4"
             }
+          ],
+          "hex": "#a2c2db",
+          "name": "#a2c2db",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#9c2542",
+              "name": "Big Dip O' Ruby",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#b22222",
+              "name": "firebrick",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#bd1a06",
+          "name": "#bd1a06",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#a57164",
+              "name": "Blast Off Bronze",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#cd5c5c",
+              "name": "indianred",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a76461",
+          "name": "#a76461",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#c5d0e6",
+              "name": "Periwinkle",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#d3d3d3",
+              "name": "lightgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#c3d2df",
+          "name": "#c3d2df",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "38183809272",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1511289251",
+          "posted": "1509982336",
+          "taken": "2017-10-06 02:45:50",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1509982336",
+        "description": {
+          "_content": "San Francisco - International (SFO / KSFO)\nCalifornia, USA  10.2017"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "38183809272",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.622389",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.382974",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "a8661f0f2f",
+        "owner": {
+          "iconfarm": 5,
+          "iconserver": "4583",
+          "location": "Bern, Schweiz ",
+          "nsid": "136038106@N05",
+          "path_alias": "kambui",
+          "realname": "M.Oertle",
+          "username": "Kambui"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "83d1aed60f",
+        "server": "4482",
+        "tags": {
+          "tag": [
+            {
+              "_content": "scandinavianairlines",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-38183809272-224749",
+              "machine_tag": 0,
+              "raw": "Scandinavian Airlines"
+            },
+            {
+              "_content": "sas",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-38183809272-31575",
+              "machine_tag": 0,
+              "raw": "SAS"
+            },
+            {
+              "_content": "airbus",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-38183809272-16434",
+              "machine_tag": 0,
+              "raw": "Airbus"
+            },
+            {
+              "_content": "a340313",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-38183809272-3686994",
+              "machine_tag": 0,
+              "raw": "A340-313"
+            },
+            {
+              "_content": "lnrkg",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-38183809272-28978233",
+              "machine_tag": 0,
+              "raw": "LN-RKG"
+            },
+            {
+              "_content": "gudrodviking",
+              "author": "136038106@N05",
+              "authorname": "Kambui",
+              "id": "136032766-38183809272-30283808",
+              "machine_tag": 0,
+              "raw": "Gudrod Viking"
+            }
+          ]
+        },
+        "title": {
+          "_content": "Scandinavian Airlines - SAS Airbus A340-313 LN-RKG  \"Gudrod Viking\""
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/kambui/38183809272/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "570",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1200,
+          "mimetype": "image/jpeg",
+          "secret": "ZtNtqQPM3j5gtRJdcvkxygiKMZMJXYEy0a2Si0hmmVKe1QbPalYP",
+          "width": 1800
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "IvBePU4sLOQBgAlkRmku1ZY4Rz00xQzAv4ThCanSBeF3G1vLDCl5",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678673,
-    "wof:depicts":[
-        102527513,
-        1159285129,
-        1159287667,
-        1159289425,
-        1159292985,
-        1159293829
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678673,
+    "wof:depicts": [
+      102527513,
+      1159285129,
+      1159287667,
+      1159289425,
+      1159292985,
+      1159293829
     ],
-    "wof:geomhash":"ea66f4541a4684fadc9f096d21be7ebd",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322735,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322735,
-            "region_id":85688637
-        }
+    "wof:geomhash": "ea66f4541a4684fadc9f096d21be7ebd",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322735,
+        "locality_id": 85922583,
+        "media_id": 1159322735,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322735,
+        "media_id": 1159322735,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322735,
-    "wof:lastmodified":1545868702,
-    "wof:name":"Scandinavian Airlines - SAS Airbus A340-313 LN-RKG  \"Gudrod Viking\"",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322735,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Scandinavian Airlines - SAS Airbus A340-313 LN-RKG  \"Gudrod Viking\"",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.382974,
     37.622389,
     -122.382974,
     37.622389
-],
+  ],
   "geometry": {"coordinates":[-122.382974,37.622389],"type":"Point"}
 }

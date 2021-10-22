@@ -2,471 +2,475 @@
   "id": 1159322673,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-04-29",
-    "date:cessation_upper":"2018-04-29",
-    "date:inception_lower":"2018-04-29",
-    "date:inception_upper":"2018-04-29",
-    "edtf:cessation":"2018-04-29T20:51:20",
-    "edtf:inception":"2018-04-29T20:51:20",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38392,37.617086,-122.38392,37.617086",
-    "geom:latitude":37.617086,
-    "geom:longitude":-122.38392,
-    "iso:country":"US",
-    "media:created":1525060280,
-    "media:fingerprint":"b150e8b210703efd9c18f364cb27e8d9f420a8cc",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"40996513595",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1525507520",
-                "posted":"1525476805",
-                "taken":"2018-04-29 20:51:20",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1525476805",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"40996513595",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.617086",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.383920",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"cea59c68f6",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3286",
-                "location":"Germany",
-                "nsid":"28577026@N02",
-                "path_alias":"wm_archiv",
-                "realname":"",
-                "username":"Allie_Caulfield"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"80d37f8dd5",
-            "server":"945",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"foto",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-3721",
-                        "machine_tag":0,
-                        "raw":"Foto"
-                    },
-                    {
-                        "_content":"photo",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-2326",
-                        "machine_tag":0,
-                        "raw":"photo"
-                    },
-                    {
-                        "_content":"image",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-4350",
-                        "machine_tag":0,
-                        "raw":"image"
-                    },
-                    {
-                        "_content":"picture",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-7503",
-                        "machine_tag":0,
-                        "raw":"picture"
-                    },
-                    {
-                        "_content":"bild",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-30691",
-                        "machine_tag":0,
-                        "raw":"Bild"
-                    },
-                    {
-                        "_content":"flickr",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-3314",
-                        "machine_tag":0,
-                        "raw":"flickr"
-                    },
-                    {
-                        "_content":"high",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-2664",
-                        "machine_tag":0,
-                        "raw":"high"
-                    },
-                    {
-                        "_content":"resolution",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-18638",
-                        "machine_tag":0,
-                        "raw":"resolution"
-                    },
-                    {
-                        "_content":"hires",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-11602",
-                        "machine_tag":0,
-                        "raw":"hi-res"
-                    },
-                    {
-                        "_content":"jpg",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-23472",
-                        "machine_tag":0,
-                        "raw":"jpg"
-                    },
-                    {
-                        "_content":"jpeg",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-36229",
-                        "machine_tag":0,
-                        "raw":"jpeg"
-                    },
-                    {
-                        "_content":"geotagged",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-1700",
-                        "machine_tag":0,
-                        "raw":"geotagged"
-                    },
-                    {
-                        "_content":"geo",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-37974",
-                        "machine_tag":0,
-                        "raw":"geo"
-                    },
-                    {
-                        "_content":"stockphoto",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-126169",
-                        "machine_tag":0,
-                        "raw":"Stockphoto"
-                    },
-                    {
-                        "_content":"cc",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-11976",
-                        "machine_tag":0,
-                        "raw":"cc"
-                    },
-                    {
-                        "_content":"sony",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-5969",
-                        "machine_tag":0,
-                        "raw":"Sony"
-                    },
-                    {
-                        "_content":"rx100",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-3503021",
-                        "machine_tag":0,
-                        "raw":"RX100"
-                    },
-                    {
-                        "_content":"iv",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-43612",
-                        "machine_tag":0,
-                        "raw":"IV"
-                    },
-                    {
-                        "_content":"4",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-6363",
-                        "machine_tag":0,
-                        "raw":"4"
-                    },
-                    {
-                        "_content":"2018",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-271370",
-                        "machine_tag":false,
-                        "raw":"2018"
-                    },
-                    {
-                        "_content":"usa",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-351",
-                        "machine_tag":false,
-                        "raw":"USA"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-50",
-                        "machine_tag":false,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"kalifornien",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-120109",
-                        "machine_tag":0,
-                        "raw":"Kalifornien"
-                    },
-                    {
-                        "_content":"san",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-3130",
-                        "machine_tag":false,
-                        "raw":"San"
-                    },
-                    {
-                        "_content":"francisco",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-3133",
-                        "machine_tag":false,
-                        "raw":"Francisco"
-                    },
-                    {
-                        "_content":"highway",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-3004",
-                        "machine_tag":0,
-                        "raw":"Highway"
-                    },
-                    {
-                        "_content":"no",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-5492",
-                        "machine_tag":0,
-                        "raw":"No"
-                    },
-                    {
-                        "_content":"1",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-2096",
-                        "machine_tag":0,
-                        "raw":"1"
-                    },
-                    {
-                        "_content":"n1",
-                        "author":"28577026@N02",
-                        "authorname":"Allie_Caulfield",
-                        "id":"28556678-40996513595-80057",
-                        "machine_tag":0,
-                        "raw":"N1"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"2018-04-22 04-28 Kalifornien 296 San Francisco, Airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/wm_archiv/40996513595/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"139",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2018-04-29",
+    "date:cessation_upper": "2018-04-29",
+    "date:inception_lower": "2018-04-29",
+    "date:inception_upper": "2018-04-29",
+    "edtf:cessation": "2018-04-29T20:51:20",
+    "edtf:inception": "2018-04-29T20:51:20",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.383920,37.617086,-122.383920,37.617086",
+    "geom:latitude": 37.617086,
+    "geom:longitude": -122.38392,
+    "iso:country": "US",
+    "media:created": 1525060280,
+    "media:fingerprint": "b150e8b210703efd9c18f364cb27e8d9f420a8cc",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "40996513595",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
-                "width":1024
+        "dates": {
+          "lastupdate": "1525507520",
+          "posted": "1525476805",
+          "taken": "2018-04-29 20:51:20",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1525476805",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "40996513595",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.617086",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.383920",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "cea59c68f6",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3286",
+          "location": "Germany",
+          "nsid": "28577026@N02",
+          "path_alias": "wm_archiv",
+          "realname": "",
+          "username": "Allie_Caulfield"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "80d37f8dd5",
+        "server": "945",
+        "tags": {
+          "tag": [
+            {
+              "_content": "foto",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-3721",
+              "machine_tag": 0,
+              "raw": "Foto"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
-                "width":800
+            {
+              "_content": "photo",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-2326",
+              "machine_tag": 0,
+              "raw": "photo"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
-                "width":320
+            {
+              "_content": "image",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-4350",
+              "machine_tag": 0,
+              "raw": "image"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3648,
-                "mimetype":"image/jpeg",
-                "secret":"69slEacaa8G5iY42WPyLdmzqlvBb4xXll5U1fMpQtv3e8HsSSdEw",
-                "width":5472
+            {
+              "_content": "picture",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-7503",
+              "machine_tag": 0,
+              "raw": "picture"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
-                "width":320
+            {
+              "_content": "bild",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-30691",
+              "machine_tag": 0,
+              "raw": "Bild"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
-                "width":640
+            {
+              "_content": "flickr",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-3314",
+              "machine_tag": 0,
+              "raw": "flickr"
+            },
+            {
+              "_content": "high",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-2664",
+              "machine_tag": 0,
+              "raw": "high"
+            },
+            {
+              "_content": "resolution",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-18638",
+              "machine_tag": 0,
+              "raw": "resolution"
+            },
+            {
+              "_content": "hires",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-11602",
+              "machine_tag": 0,
+              "raw": "hi-res"
+            },
+            {
+              "_content": "jpg",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-23472",
+              "machine_tag": 0,
+              "raw": "jpg"
+            },
+            {
+              "_content": "jpeg",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-36229",
+              "machine_tag": 0,
+              "raw": "jpeg"
+            },
+            {
+              "_content": "geotagged",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-1700",
+              "machine_tag": 0,
+              "raw": "geotagged"
+            },
+            {
+              "_content": "geo",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-37974",
+              "machine_tag": 0,
+              "raw": "geo"
+            },
+            {
+              "_content": "stockphoto",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-126169",
+              "machine_tag": 0,
+              "raw": "Stockphoto"
+            },
+            {
+              "_content": "cc",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-11976",
+              "machine_tag": 0,
+              "raw": "cc"
+            },
+            {
+              "_content": "sony",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-5969",
+              "machine_tag": 0,
+              "raw": "Sony"
+            },
+            {
+              "_content": "rx100",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-3503021",
+              "machine_tag": 0,
+              "raw": "RX100"
+            },
+            {
+              "_content": "iv",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-43612",
+              "machine_tag": 0,
+              "raw": "IV"
+            },
+            {
+              "_content": "4",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-6363",
+              "machine_tag": 0,
+              "raw": "4"
+            },
+            {
+              "_content": "2018",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-271370",
+              "machine_tag": false,
+              "raw": "2018"
+            },
+            {
+              "_content": "usa",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-351",
+              "machine_tag": false,
+              "raw": "USA"
+            },
+            {
+              "_content": "california",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-50",
+              "machine_tag": false,
+              "raw": "California"
+            },
+            {
+              "_content": "kalifornien",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-120109",
+              "machine_tag": 0,
+              "raw": "Kalifornien"
+            },
+            {
+              "_content": "san",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-3130",
+              "machine_tag": false,
+              "raw": "San"
+            },
+            {
+              "_content": "francisco",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-3133",
+              "machine_tag": false,
+              "raw": "Francisco"
+            },
+            {
+              "_content": "highway",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-3004",
+              "machine_tag": 0,
+              "raw": "Highway"
+            },
+            {
+              "_content": "no",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-5492",
+              "machine_tag": 0,
+              "raw": "No"
+            },
+            {
+              "_content": "1",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-2096",
+              "machine_tag": 0,
+              "raw": "1"
+            },
+            {
+              "_content": "n1",
+              "author": "28577026@N02",
+              "authorname": "Allie_Caulfield",
+              "id": "28556678-40996513595-80057",
+              "machine_tag": 0,
+              "raw": "N1"
             }
+          ]
+        },
+        "title": {
+          "_content": "2018-04-22 04-28 Kalifornien 296 San Francisco, Airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/wm_archiv/40996513595/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "139",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3648,
+          "mimetype": "image/jpeg",
+          "secret": "69slEacaa8G5iY42WPyLdmzqlvBb4xXll5U1fMpQtv3e8HsSSdEw",
+          "width": 5472
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "UNXhfDAuBkWTmiDhCIbVzo962EJo3YthSgM9RkmJfvZL2QEoaE4s",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678660,
-    "wof:depicts":[
-        102527513
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678660,
+    "wof:depicts": [
+      102527513
     ],
-    "wof:geomhash":"6a8f0b91d8f78d6efa8cb1db7ed60a54",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322673,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322673,
-            "region_id":85688637
-        }
+    "wof:geomhash": "6a8f0b91d8f78d6efa8cb1db7ed60a54",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322673,
+        "locality_id": 85922583,
+        "media_id": 1159322673,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322673,
+        "media_id": 1159322673,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322673,
-    "wof:lastmodified":1545868701,
-    "wof:name":"2018-04-22 04-28 Kalifornien 296 San Francisco, Airport",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322673,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "2018-04-22 04-28 Kalifornien 296 San Francisco, Airport",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.38392,
     37.617086,
     -122.38392,
     37.617086
-],
+  ],
   "geometry": {"coordinates":[-122.38392,37.617086],"type":"Point"}
 }

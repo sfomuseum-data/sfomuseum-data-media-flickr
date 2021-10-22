@@ -2,359 +2,362 @@
   "id": 1159330989,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2012-04-21",
-    "date:cessation_upper":"2012-04-21",
-    "date:inception_lower":"2012-04-21",
-    "date:inception_upper":"2012-04-21",
-    "edtf:cessation":"2012-04-21T20:43:51",
-    "edtf:inception":"2012-04-21T20:43:51",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.214692,37.713947,-122.214692,37.713947",
-    "geom:latitude":37.713947,
-    "geom:longitude":-122.214692,
-    "iso:country":"US",
-    "media:created":1335066231,
-    "media:fingerprint":"710cfffb6e97dc8d70f0685a02c1a313277c0035",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"7119993347",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1358772829",
-                "posted":"1335573744",
-                "taken":"2012-04-21 20:43:51",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1335573744",
-            "description":{
-                "_content":"On my way home from California on US Airways on April 21, 2012.  These were all taken in the afternoon at Oakland International Airport - mostly Terminal 1 (all the airlines not named Southwest Airlines)."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":8,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"7119993347",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"14",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Alameda",
-                    "place_id":"1IvHpmpQUL8ZId.pmA",
-                    "woeid":"12587670"
-                },
-                "latitude":"37.713947",
-                "locality":{
-                    "_content":"Oakland International Airport",
-                    "place_id":"XGeMqQpQUL_SI70Kxw",
-                    "woeid":"12520917"
-                },
-                "longitude":"-122.214692",
-                "place_id":"XGeMqQpQUL_SI70Kxw",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12520917"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"e82541701c",
-            "owner":{
-                "iconfarm":8,
-                "iconserver":"7167",
-                "location":"Saline, Mich., USA",
-                "nsid":"7702423@N04",
-                "path_alias":"cseeman",
-                "realname":"Corey Seeman",
-                "username":"cseeman"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"9c13e29835",
-            "server":"7101",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"oak",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-2813",
-                        "machine_tag":0,
-                        "raw":"OAK"
-                    },
-                    {
-                        "_content":"oakland",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-2086",
-                        "machine_tag":0,
-                        "raw":"Oakland"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"terminal",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-9675",
-                        "machine_tag":0,
-                        "raw":"Terminal"
-                    },
-                    {
-                        "_content":"airports",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-28698",
-                        "machine_tag":0,
-                        "raw":"Airports"
-                    },
-                    {
-                        "_content":"terminals",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-53629",
-                        "machine_tag":0,
-                        "raw":"Terminals"
-                    },
-                    {
-                        "_content":"oaklandinternationalairport",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-2359894",
-                        "machine_tag":0,
-                        "raw":"Oakland International Airport"
-                    },
-                    {
-                        "_content":"southwestairlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-108396",
-                        "machine_tag":0,
-                        "raw":"Southwest Airlines"
-                    },
-                    {
-                        "_content":"afternoon",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-3707",
-                        "machine_tag":0,
-                        "raw":"Afternoon"
-                    },
-                    {
-                        "_content":"southwest",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-521",
-                        "machine_tag":0,
-                        "raw":"Southwest"
-                    },
-                    {
-                        "_content":"usairways",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-132281",
-                        "machine_tag":0,
-                        "raw":"US Airways"
-                    },
-                    {
-                        "_content":"oak04212012",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-85716976",
-                        "machine_tag":0,
-                        "raw":"OAK04212012"
-                    },
-                    {
-                        "_content":"airplanes",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-6603",
-                        "machine_tag":0,
-                        "raw":"Airplanes"
-                    },
-                    {
-                        "_content":"passengeraircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-1602103",
-                        "machine_tag":0,
-                        "raw":"Passenger Aircraft"
-                    },
-                    {
-                        "_content":"aircraft",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-5854",
-                        "machine_tag":0,
-                        "raw":"Aircraft"
-                    },
-                    {
-                        "_content":"airlines",
-                        "author":"7702423@N04",
-                        "authorname":"cseeman",
-                        "id":"7670284-7119993347-32533",
-                        "machine_tag":0,
-                        "raw":"Airlines"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Scenes from Oakland International Airport (Oakland, California)"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/cseeman/7119993347/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"171",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2012-04-21",
+    "date:cessation_upper": "2012-04-21",
+    "date:inception_lower": "2012-04-21",
+    "date:inception_upper": "2012-04-21",
+    "edtf:cessation": "2012-04-21T20:43:51",
+    "edtf:inception": "2012-04-21T20:43:51",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.214692,37.713947,-122.214692,37.713947",
+    "geom:latitude": 37.713947,
+    "geom:longitude": -122.214692,
+    "iso:country": "US",
+    "media:created": 1335066231,
+    "media:fingerprint": "710cfffb6e97dc8d70f0685a02c1a313277c0035",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "7119993347",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":682,
-                "mimetype":"image/jpeg",
-                "secret":"0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
-                "width":1024
+        "dates": {
+          "lastupdate": "1358772829",
+          "posted": "1335573744",
+          "taken": "2012-04-21 20:43:51",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1335573744",
+        "description": {
+          "_content": "On my way home from California on US Airways on April 21, 2012.  These were all taken in the afternoon at Oakland International Airport - mostly Terminal 1 (all the airlines not named Southwest Airlines)."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 8,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "7119993347",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "14",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Alameda",
+            "place_id": "1IvHpmpQUL8ZId.pmA",
+            "woeid": "12587670"
+          },
+          "latitude": "37.713947",
+          "locality": {
+            "_content": "Oakland International Airport",
+            "place_id": "XGeMqQpQUL_SI70Kxw",
+            "woeid": "12520917"
+          },
+          "longitude": "-122.214692",
+          "place_id": "XGeMqQpQUL_SI70Kxw",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12520917"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "e82541701c",
+        "owner": {
+          "iconfarm": 8,
+          "iconserver": "7167",
+          "location": "Saline, Mich., USA",
+          "nsid": "7702423@N04",
+          "path_alias": "cseeman",
+          "realname": "Corey Seeman",
+          "username": "cseeman"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "9c13e29835",
+        "server": "7101",
+        "tags": {
+          "tag": [
+            {
+              "_content": "oak",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-2813",
+              "machine_tag": 0,
+              "raw": "OAK"
             },
-            "c":{
-                "extension":"jpg",
-                "height":533,
-                "mimetype":"image/jpeg",
-                "secret":"0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
-                "width":800
+            {
+              "_content": "oakland",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-2086",
+              "machine_tag": 0,
+              "raw": "Oakland"
             },
-            "n":{
-                "extension":"jpg",
-                "height":213,
-                "mimetype":"image/jpeg",
-                "secret":"0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
-                "width":320
+            {
+              "_content": "california",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-50",
+              "machine_tag": 0,
+              "raw": "California"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2432,
-                "mimetype":"image/jpeg",
-                "secret":"3WpH6A0F99eYnlS2DfXerxx6f9bQHQbkeJAjEWEzgGFTKiJ9UCLR",
-                "width":3648
+            {
+              "_content": "terminal",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-9675",
+              "machine_tag": 0,
+              "raw": "Terminal"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
-                "width":320
+            {
+              "_content": "airports",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-28698",
+              "machine_tag": 0,
+              "raw": "Airports"
             },
-            "z":{
-                "extension":"jpg",
-                "height":426,
-                "mimetype":"image/jpeg",
-                "secret":"0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
-                "width":640
+            {
+              "_content": "terminals",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-53629",
+              "machine_tag": 0,
+              "raw": "Terminals"
+            },
+            {
+              "_content": "oaklandinternationalairport",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-2359894",
+              "machine_tag": 0,
+              "raw": "Oakland International Airport"
+            },
+            {
+              "_content": "southwestairlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-108396",
+              "machine_tag": 0,
+              "raw": "Southwest Airlines"
+            },
+            {
+              "_content": "afternoon",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-3707",
+              "machine_tag": 0,
+              "raw": "Afternoon"
+            },
+            {
+              "_content": "southwest",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-521",
+              "machine_tag": 0,
+              "raw": "Southwest"
+            },
+            {
+              "_content": "usairways",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-132281",
+              "machine_tag": 0,
+              "raw": "US Airways"
+            },
+            {
+              "_content": "oak04212012",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-85716976",
+              "machine_tag": 0,
+              "raw": "OAK04212012"
+            },
+            {
+              "_content": "airplanes",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-6603",
+              "machine_tag": 0,
+              "raw": "Airplanes"
+            },
+            {
+              "_content": "passengeraircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-1602103",
+              "machine_tag": 0,
+              "raw": "Passenger Aircraft"
+            },
+            {
+              "_content": "aircraft",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-5854",
+              "machine_tag": 0,
+              "raw": "Aircraft"
+            },
+            {
+              "_content": "airlines",
+              "author": "7702423@N04",
+              "authorname": "cseeman",
+              "id": "7670284-7119993347-32533",
+              "machine_tag": 0,
+              "raw": "Airlines"
             }
+          ]
+        },
+        "title": {
+          "_content": "Scenes from Oakland International Airport (Oakland, California)"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/cseeman/7119993347/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "171",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 682,
+          "mimetype": "image/jpeg",
+          "secret": "0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 533,
+          "mimetype": "image/jpeg",
+          "secret": "0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 213,
+          "mimetype": "image/jpeg",
+          "secret": "0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2432,
+          "mimetype": "image/jpeg",
+          "secret": "3WpH6A0F99eYnlS2DfXerxx6f9bQHQbkeJAjEWEzgGFTKiJ9UCLR",
+          "width": 3648
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 426,
+          "mimetype": "image/jpeg",
+          "secret": "0g6wBb23A3aslrSCp4RxRo2kDtYITHXnQUwP8SUivrxUx95E8xE3",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102531041,
-        1108794155,
-        102191575,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102531041,
+      1108794155,
+      102191575,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018259,
-    "wof:depicts":[
-        102531041,
-        1159285591
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018259,
+    "wof:depicts": [
+      102531041,
+      1159285591
     ],
-    "wof:geomhash":"a8d12369a68b9515f5fd522f6b913b5c",
-    "wof:hierarchy":[
-        {
-            "campus_id":102531041,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "media_id":1159330989,
-            "neighbourhood_id":1108794155,
-            "region_id":85688637
-        }
+    "wof:geomhash": "a8d12369a68b9515f5fd522f6b913b5c",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102531041,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "image_id": 1159330989,
+        "locality_id": 85921881,
+        "media_id": 1159330989,
+        "neighbourhood_id": 1108794155,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159330989,
-    "wof:lastmodified":1545868730,
-    "wof:name":"Scenes from Oakland International Airport (Oakland, California)",
-    "wof:parent_id":102531041,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159330989,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Scenes from Oakland International Airport (Oakland, California)",
+    "wof:parent_id": 102531041,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.214692,
     37.713947,
     -122.214692,
     37.713947
-],
+  ],
   "geometry": {"coordinates":[-122.214692,37.713947],"type":"Point"}
 }

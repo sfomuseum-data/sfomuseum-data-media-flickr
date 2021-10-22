@@ -2,287 +2,291 @@
   "id": 1159325655,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2010-07-31",
-    "date:cessation_upper":"2010-07-31",
-    "date:inception_lower":"2010-07-31",
-    "date:inception_upper":"2010-07-31",
-    "edtf:cessation":"2010-07-31T07:18:12",
-    "edtf:inception":"2010-07-31T07:18:12",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.939208,35.211685,-80.939208,35.211685",
-    "geom:latitude":35.211685,
-    "geom:longitude":-80.939208,
-    "iso:country":"US",
-    "media:created":1280585892,
-    "media:fingerprint":"62953b235ecc26f57a72ead68e82406eb6baffb2",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"4855573262",
-        "photo_info":{
-            "comments":{
-                "_content":"3"
-            },
-            "dates":{
-                "lastupdate":"1322788020",
-                "posted":"1280799067",
-                "taken":"2010-07-31 07:18:12",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1280799067",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"4855573262",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.211685",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.939208",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"d3ab1b58d8",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"458",
-                "location":"Tampa, Fla, US",
-                "nsid":"88792132@N00",
-                "path_alias":"dbasanta",
-                "realname":"David Basanta",
-                "username":"David Basanta"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"9c3844286f",
-            "server":"4100",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airport",
-                        "author":"88792132@N00",
-                        "authorname":"David Basanta",
-                        "id":"5181213-4855573262-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"bw",
-                        "author":"88792132@N00",
-                        "authorname":"David Basanta",
-                        "id":"5181213-4855573262-294",
-                        "machine_tag":0,
-                        "raw":"BW"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"88792132@N00",
-                        "authorname":"David Basanta",
-                        "id":"5181213-4855573262-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"clt",
-                        "author":"88792132@N00",
-                        "authorname":"David Basanta",
-                        "id":"5181213-4855573262-830168",
-                        "machine_tag":0,
-                        "raw":"CLT"
-                    },
-                    {
-                        "_content":"northcarolina",
-                        "author":"88792132@N00",
-                        "authorname":"David Basanta",
-                        "id":"5181213-4855573262-8419",
-                        "machine_tag":0,
-                        "raw":"North Carolina"
-                    },
-                    {
-                        "_content":"usa",
-                        "author":"88792132@N00",
-                        "authorname":"David Basanta",
-                        "id":"5181213-4855573262-351",
-                        "machine_tag":0,
-                        "raw":"USA"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"CLT: Shoeshine"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/dbasanta/4855573262/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"83",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2010-07-31",
+    "date:cessation_upper": "2010-07-31",
+    "date:inception_lower": "2010-07-31",
+    "date:inception_upper": "2010-07-31",
+    "edtf:cessation": "2010-07-31T07:18:12",
+    "edtf:inception": "2010-07-31T07:18:12",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.939208,35.211685,-80.939208,35.211685",
+    "geom:latitude": 35.211685,
+    "geom:longitude": -80.939208,
+    "iso:country": "US",
+    "media:created": 1280585892,
+    "media:fingerprint": "62953b235ecc26f57a72ead68e82406eb6baffb2",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "4855573262",
+      "photo_info": {
+        "comments": {
+          "_content": "3"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":767,
-                "mimetype":"image/jpeg",
-                "secret":"ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
-                "width":1024
+        "dates": {
+          "lastupdate": "1322788020",
+          "posted": "1280799067",
+          "taken": "2010-07-31 07:18:12",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1280799067",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "4855573262",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.211685",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.939208",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "d3ab1b58d8",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "458",
+          "location": "Tampa, Fla, US",
+          "nsid": "88792132@N00",
+          "path_alias": "dbasanta",
+          "realname": "David Basanta",
+          "username": "David Basanta"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "9c3844286f",
+        "server": "4100",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airport",
+              "author": "88792132@N00",
+              "authorname": "David Basanta",
+              "id": "5181213-4855573262-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
             },
-            "c":{
-                "extension":"jpg",
-                "height":599,
-                "mimetype":"image/jpeg",
-                "secret":"ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
-                "width":800
+            {
+              "_content": "bw",
+              "author": "88792132@N00",
+              "authorname": "David Basanta",
+              "id": "5181213-4855573262-294",
+              "machine_tag": 0,
+              "raw": "BW"
             },
-            "n":{
-                "extension":"jpg",
-                "height":239,
-                "mimetype":"image/jpeg",
-                "secret":"ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
-                "width":320
+            {
+              "_content": "charlotte",
+              "author": "88792132@N00",
+              "authorname": "David Basanta",
+              "id": "5181213-4855573262-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
             },
-            "o":{
-                "extension":"jpg",
-                "height":2928,
-                "mimetype":"image/jpeg",
-                "secret":"nTQAslTLwFEf1rDB16QZMJERVZvKuYKk0URBW9UHHhAMPmZeGedH",
-                "width":3906
+            {
+              "_content": "clt",
+              "author": "88792132@N00",
+              "authorname": "David Basanta",
+              "id": "5181213-4855573262-830168",
+              "machine_tag": 0,
+              "raw": "CLT"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
-                "width":320
+            {
+              "_content": "northcarolina",
+              "author": "88792132@N00",
+              "authorname": "David Basanta",
+              "id": "5181213-4855573262-8419",
+              "machine_tag": 0,
+              "raw": "North Carolina"
             },
-            "z":{
-                "extension":"jpg",
-                "height":479,
-                "mimetype":"image/jpeg",
-                "secret":"ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
-                "width":640
+            {
+              "_content": "usa",
+              "author": "88792132@N00",
+              "authorname": "David Basanta",
+              "id": "5181213-4855573262-351",
+              "machine_tag": 0,
+              "raw": "USA"
             }
+          ]
+        },
+        "title": {
+          "_content": "CLT: Shoeshine"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/dbasanta/4855573262/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "83",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 767,
+          "mimetype": "image/jpeg",
+          "secret": "ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 599,
+          "mimetype": "image/jpeg",
+          "secret": "ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 239,
+          "mimetype": "image/jpeg",
+          "secret": "ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2928,
+          "mimetype": "image/jpeg",
+          "secret": "nTQAslTLwFEf1rDB16QZMJERVZvKuYKk0URBW9UHHhAMPmZeGedH",
+          "width": 3906
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 479,
+          "mimetype": "image/jpeg",
+          "secret": "ChOLhO1ZG09ukz1ztoAFF9NIDOSu8SoRKNLKnPEP73jYuGalXRaU",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006256,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006256,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"6782eb560773095a0bde8f7c870a0799",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159325655,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159325655,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "6782eb560773095a0bde8f7c870a0799",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325655,
+        "locality_id": 85981333,
+        "media_id": 1159325655,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159325655,
+        "media_id": 1159325655,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159325655,
-    "wof:lastmodified":1545868689,
-    "wof:name":"CLT: Shoeshine",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159325655,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "CLT: Shoeshine",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.939208,
     35.211685,
     -80.939208,
     35.211685
-],
-  "geometry": {"coordinates":[-80.93920799999999,35.211685],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.939208,35.211685],"type":"Point"}
 }

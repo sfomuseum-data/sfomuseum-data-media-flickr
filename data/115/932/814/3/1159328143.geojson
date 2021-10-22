@@ -2,351 +2,355 @@
   "id": 1159328143,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-08-25",
-    "date:cessation_upper":"2011-08-25",
-    "date:inception_lower":"2011-08-25",
-    "date:inception_upper":"2011-08-25",
-    "edtf:cessation":"2011-08-25T12:49:52",
-    "edtf:inception":"2011-08-25T12:49:52",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.943463,35.219756,-80.943463,35.219756",
-    "geom:latitude":35.219756,
-    "geom:longitude":-80.943463,
-    "iso:country":"US",
-    "media:created":1314301792,
-    "media:fingerprint":"6e3aecc14ad930aa4b05817f989c9f70066f9564",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"6089845549",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1340485281",
-                "posted":"1314562653",
-                "taken":"2011-08-25 12:49:52",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1314562653",
-            "description":{
-                "_content":"N405US, US AIrways Boeing 737-400\nUS Airways Boeing 737-400\nUS Airways Boeing 737-400\n\nCharlotte/Douglas International Airport"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":7,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"6089845549",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.219756",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.943463",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"df21681563",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2593",
-                "location":"Vandalia, OH, United States",
-                "nsid":"42603028@N05",
-                "path_alias":"redlegsfan21",
-                "realname":"",
-                "username":"redlegsfan21"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"65d4973f79",
-            "server":"6189",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"us",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-2296",
-                        "machine_tag":0,
-                        "raw":"US"
-                    },
-                    {
-                        "_content":"airways",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-28279",
-                        "machine_tag":0,
-                        "raw":"Airways"
-                    },
-                    {
-                        "_content":"n405us",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-18727988",
-                        "machine_tag":0,
-                        "raw":"N405US"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"737400",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-433132",
-                        "machine_tag":0,
-                        "raw":"737-400"
-                    },
-                    {
-                        "_content":"charlottedouglas",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-3090233",
-                        "machine_tag":0,
-                        "raw":"Charlotte/Douglas"
-                    },
-                    {
-                        "_content":"international",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-12495",
-                        "machine_tag":0,
-                        "raw":"International"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-2695",
-                        "machine_tag":0,
-                        "raw":"Airport"
-                    },
-                    {
-                        "_content":"awe",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-33210",
-                        "machine_tag":0,
-                        "raw":"AWE"
-                    },
-                    {
-                        "_content":"clt",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-830168",
-                        "machine_tag":0,
-                        "raw":"CLT"
-                    },
-                    {
-                        "_content":"kclt",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-5827088",
-                        "machine_tag":0,
-                        "raw":"KCLT"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"north",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-6812",
-                        "machine_tag":0,
-                        "raw":"North"
-                    },
-                    {
-                        "_content":"carolina",
-                        "author":"42603028@N05",
-                        "authorname":"redlegsfan21",
-                        "id":"42597688-6089845549-17629",
-                        "machine_tag":0,
-                        "raw":"Carolina"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"US Airways"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/redlegsfan21/6089845549/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"395",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2011-08-25",
+    "date:cessation_upper": "2011-08-25",
+    "date:inception_lower": "2011-08-25",
+    "date:inception_upper": "2011-08-25",
+    "edtf:cessation": "2011-08-25T12:49:52",
+    "edtf:inception": "2011-08-25T12:49:52",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.943463,35.219756,-80.943463,35.219756",
+    "geom:latitude": 35.219756,
+    "geom:longitude": -80.943463,
+    "iso:country": "US",
+    "media:created": 1314301792,
+    "media:fingerprint": "6e3aecc14ad930aa4b05817f989c9f70066f9564",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "6089845549",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
-                "width":1024
+        "dates": {
+          "lastupdate": "1340485281",
+          "posted": "1314562653",
+          "taken": "2011-08-25 12:49:52",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1314562653",
+        "description": {
+          "_content": "N405US, US AIrways Boeing 737-400\nUS Airways Boeing 737-400\nUS Airways Boeing 737-400\n\nCharlotte/Douglas International Airport"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 7,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "6089845549",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.219756",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.943463",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "df21681563",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2593",
+          "location": "Vandalia, OH, United States",
+          "nsid": "42603028@N05",
+          "path_alias": "redlegsfan21",
+          "realname": "",
+          "username": "redlegsfan21"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "65d4973f79",
+        "server": "6189",
+        "tags": {
+          "tag": [
+            {
+              "_content": "us",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-2296",
+              "machine_tag": 0,
+              "raw": "US"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
-                "width":800
+            {
+              "_content": "airways",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-28279",
+              "machine_tag": 0,
+              "raw": "Airways"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
-                "width":320
+            {
+              "_content": "n405us",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-18727988",
+              "machine_tag": 0,
+              "raw": "N405US"
             },
-            "o":{
-                "extension":"jpg",
-                "height":3000,
-                "mimetype":"image/jpeg",
-                "secret":"EflPTSVajgkYePwwpBLZkVIHDAOAovHGblBIjsMpQRLgBK01OHw0",
-                "width":4000
+            {
+              "_content": "boeing",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
-                "width":320
+            {
+              "_content": "737400",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-433132",
+              "machine_tag": 0,
+              "raw": "737-400"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
-                "width":640
+            {
+              "_content": "charlottedouglas",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-3090233",
+              "machine_tag": 0,
+              "raw": "Charlotte/Douglas"
+            },
+            {
+              "_content": "international",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-12495",
+              "machine_tag": 0,
+              "raw": "International"
+            },
+            {
+              "_content": "airport",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-2695",
+              "machine_tag": 0,
+              "raw": "Airport"
+            },
+            {
+              "_content": "awe",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-33210",
+              "machine_tag": 0,
+              "raw": "AWE"
+            },
+            {
+              "_content": "clt",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-830168",
+              "machine_tag": 0,
+              "raw": "CLT"
+            },
+            {
+              "_content": "kclt",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-5827088",
+              "machine_tag": 0,
+              "raw": "KCLT"
+            },
+            {
+              "_content": "charlotte",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
+            },
+            {
+              "_content": "north",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-6812",
+              "machine_tag": 0,
+              "raw": "North"
+            },
+            {
+              "_content": "carolina",
+              "author": "42603028@N05",
+              "authorname": "redlegsfan21",
+              "id": "42597688-6089845549-17629",
+              "machine_tag": 0,
+              "raw": "Carolina"
             }
+          ]
+        },
+        "title": {
+          "_content": "US Airways"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/redlegsfan21/6089845549/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "395",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3000,
+          "mimetype": "image/jpeg",
+          "secret": "EflPTSVajgkYePwwpBLZkVIHDAOAovHGblBIjsMpQRLgBK01OHw0",
+          "width": 4000
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "bjOM4J7pQ8bfNHZNIsJaj8F2knlkkmaXABRwvNLEsnmqkl61HXve",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007388,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007388,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"287d07293db832f448f3a4c01740f7a4",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328143,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328143,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "287d07293db832f448f3a4c01740f7a4",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328143,
+        "locality_id": 85981333,
+        "media_id": 1159328143,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328143,
+        "media_id": 1159328143,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328143,
-    "wof:lastmodified":1545868667,
-    "wof:name":"US Airways",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328143,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "US Airways",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.943463,
     35.219756,
     -80.943463,
     35.219756
-],
-  "geometry": {"coordinates":[-80.94346299999999,35.219756],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.943463,35.219756],"type":"Point"}
 }

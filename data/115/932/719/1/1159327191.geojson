@@ -2,271 +2,275 @@
   "id": 1159327191,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2008-12-08",
-    "date:cessation_upper":"2008-12-08",
-    "date:inception_lower":"2008-12-08",
-    "date:inception_upper":"2008-12-08",
-    "edtf:cessation":"2008-12-08T20:30:00",
-    "edtf:inception":"2008-12-08T20:30:00",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.943856,35.220242,-80.943856,35.220242",
-    "geom:latitude":35.220242,
-    "geom:longitude":-80.943856,
-    "iso:country":"US",
-    "media:created":1228797000,
-    "media:fingerprint":"fbaf4025889d1bb7a0eeb5e202fecc5a36c2ca91",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3158119421",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1230872617",
-                "posted":"1230872614",
-                "taken":"2008-12-08 20:30:00",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1230872614",
-            "description":{
-                "_content":"Charlotte is one of the nicest airports I've been to. Comfy rocking chairs, power ports, free WiFi and even a piano player. Of course I hope to never fly there again -- because you pretty much have to fly America's third-world carrier to get there."
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3158119421",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.220242",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.943856",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"cbeaa6e45b",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"23",
-                "location":"Arlington",
-                "nsid":"18432837@N00",
-                "path_alias":"asmythie",
-                "realname":"Rakesh A",
-                "username":"aloharakesh"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":1,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"8dc0d1988c",
-            "server":"3122",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"clt",
-                        "author":"18432837@N00",
-                        "authorname":"aloharakesh",
-                        "id":"415495-3158119421-830168",
-                        "machine_tag":0,
-                        "raw":"CLT"
-                    },
-                    {
-                        "_content":"charlotte",
-                        "author":"18432837@N00",
-                        "authorname":"aloharakesh",
-                        "id":"415495-3158119421-4733",
-                        "machine_tag":0,
-                        "raw":"Charlotte"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"18432837@N00",
-                        "authorname":"aloharakesh",
-                        "id":"415495-3158119421-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"airports",
-                        "author":"18432837@N00",
-                        "authorname":"aloharakesh",
-                        "id":"415495-3158119421-28698",
-                        "machine_tag":0,
-                        "raw":"airports"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Piano player at Charlotte Douglas airport"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/asmythie/3158119421/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"1859",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2008-12-08",
+    "date:cessation_upper": "2008-12-08",
+    "date:inception_lower": "2008-12-08",
+    "date:inception_upper": "2008-12-08",
+    "edtf:cessation": "2008-12-08T20:30:00",
+    "edtf:inception": "2008-12-08T20:30:00",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.943856,35.220242,-80.943856,35.220242",
+    "geom:latitude": 35.220242,
+    "geom:longitude": -80.943856,
+    "iso:country": "US",
+    "media:created": 1228797000,
+    "media:fingerprint": "fbaf4025889d1bb7a0eeb5e202fecc5a36c2ca91",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3158119421",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
-                "width":1024
+        "dates": {
+          "lastupdate": "1230872617",
+          "posted": "1230872614",
+          "taken": "2008-12-08 20:30:00",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1230872614",
+        "description": {
+          "_content": "Charlotte is one of the nicest airports I've been to. Comfy rocking chairs, power ports, free WiFi and even a piano player. Of course I hope to never fly there again -- because you pretty much have to fly America's third-world carrier to get there."
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3158119421",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.220242",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.943856",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "cbeaa6e45b",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "23",
+          "location": "Arlington",
+          "nsid": "18432837@N00",
+          "path_alias": "asmythie",
+          "realname": "Rakesh A",
+          "username": "aloharakesh"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 1,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "8dc0d1988c",
+        "server": "3122",
+        "tags": {
+          "tag": [
+            {
+              "_content": "clt",
+              "author": "18432837@N00",
+              "authorname": "aloharakesh",
+              "id": "415495-3158119421-830168",
+              "machine_tag": 0,
+              "raw": "CLT"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
-                "width":800
+            {
+              "_content": "charlotte",
+              "author": "18432837@N00",
+              "authorname": "aloharakesh",
+              "id": "415495-3158119421-4733",
+              "machine_tag": 0,
+              "raw": "Charlotte"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
-                "width":320
+            {
+              "_content": "airport",
+              "author": "18432837@N00",
+              "authorname": "aloharakesh",
+              "id": "415495-3158119421-2695",
+              "machine_tag": 0,
+              "raw": "airport"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1200,
-                "mimetype":"image/jpeg",
-                "secret":"kicza9HwDpFWKGfQLMBhQo3imaduYrddYlnQQdJv3AOAUsT0bbKF",
-                "width":1600
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
-                "width":640
+            {
+              "_content": "airports",
+              "author": "18432837@N00",
+              "authorname": "aloharakesh",
+              "id": "415495-3158119421-28698",
+              "machine_tag": 0,
+              "raw": "airports"
             }
+          ]
+        },
+        "title": {
+          "_content": "Piano player at Charlotte Douglas airport"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/asmythie/3158119421/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "1859",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
+          "width": 1024
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1200,
+          "mimetype": "image/jpeg",
+          "secret": "kicza9HwDpFWKGfQLMBhQo3imaduYrddYlnQQdJv3AOAUsT0bbKF",
+          "width": 1600
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "twQrQdCznXrf2hU1y88HMXC5SiUxHVHWp2ygrk2kzPwYTDSzZ9io",
+          "width": 640
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006821,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006821,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"cea292de05e24760df6785b90b693611",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159327191,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159327191,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "cea292de05e24760df6785b90b693611",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327191,
+        "locality_id": 85981333,
+        "media_id": 1159327191,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327191,
+        "media_id": 1159327191,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159327191,
-    "wof:lastmodified":1545868701,
-    "wof:name":"Piano player at Charlotte Douglas airport",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327191,
+    "wof:lastmodified": 1634938264,
+    "wof:name": "Piano player at Charlotte Douglas airport",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.943856,
     35.220242,
     -80.943856,
     35.220242
-],
+  ],
   "geometry": {"coordinates":[-80.943856,35.220242],"type":"Point"}
 }

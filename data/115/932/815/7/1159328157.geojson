@@ -2,295 +2,299 @@
   "id": 1159328157,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-05-22",
-    "date:cessation_upper":"2011-05-22",
-    "date:inception_lower":"2011-05-22",
-    "date:inception_upper":"2011-05-22",
-    "edtf:cessation":"2011-05-22T15:59:11",
-    "edtf:inception":"2011-05-22T15:59:11",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.946419,35.218176,-80.946419,35.218176",
-    "geom:latitude":35.218176,
-    "geom:longitude":-80.946419,
-    "iso:country":"US",
-    "media:created":1306105151,
-    "media:fingerprint":"f4391078273665ed0a1426b4a31741dc4f79409e",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"5748437338",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1421170322",
-                "posted":"1306101551",
-                "taken":"2011-05-22 15:59:11",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1306101551",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":3,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"5748437338",
-            "isfavorite":0,
-            "license":"1",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.218176",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.946419",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"c59acddec0",
-            "owner":{
-                "iconfarm":1,
-                "iconserver":"515",
-                "location":"",
-                "nsid":"13132755@N00",
-                "path_alias":"frenchista",
-                "realname":"Yann Ropars",
-                "username":"Yann Ropars"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"4a0df253a2",
-            "server":"2061",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"instagramapp",
-                        "author":"13132755@N00",
-                        "authorname":"Yann Ropars",
-                        "id":"2710964-5748437338-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"13132755@N00",
-                        "authorname":"Yann Ropars",
-                        "id":"2710964-5748437338-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"13132755@N00",
-                        "authorname":"Yann Ropars",
-                        "id":"2710964-5748437338-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"13132755@N00",
-                        "authorname":"Yann Ropars",
-                        "id":"2710964-5748437338-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    },
-                    {
-                        "_content":"uploaded:by=instagram",
-                        "author":"13132755@N00",
-                        "authorname":"Yann Ropars",
-                        "id":"2710964-5748437338-60643605",
-                        "machine_tag":1,
-                        "raw":"uploaded:by=instagram"
-                    },
-                    {
-                        "_content":"lomofi",
-                        "author":"13132755@N00",
-                        "authorname":"Yann Ropars",
-                        "id":"2710964-5748437338-2334434",
-                        "machine_tag":0,
-                        "raw":"Lomo-fi"
-                    },
-                    {
-                        "_content":"foursquare:venue=4db46356cda1c57c825a8d81",
-                        "author":"13132755@N00",
-                        "authorname":"Yann Ropars",
-                        "id":"2710964-5748437338-71038864",
-                        "machine_tag":1,
-                        "raw":"foursquare:venue=4db46356cda1c57c825a8d81"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Last plane back to CO"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/frenchista/5748437338/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"16",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2011-05-22",
+    "date:cessation_upper": "2011-05-22",
+    "date:inception_lower": "2011-05-22",
+    "date:inception_upper": "2011-05-22",
+    "edtf:cessation": "2011-05-22T15:59:11",
+    "edtf:inception": "2011-05-22T15:59:11",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.946419,35.218176,-80.946419,35.218176",
+    "geom:latitude": 35.218176,
+    "geom:longitude": -80.946419,
+    "iso:country": "US",
+    "media:created": 1306105151,
+    "media:fingerprint": "f4391078273665ed0a1426b4a31741dc4f79409e",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "5748437338",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
-                "width":768
+        "dates": {
+          "lastupdate": "1421170322",
+          "posted": "1306101551",
+          "taken": "2011-05-22 15:59:11",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1306101551",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 3,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "5748437338",
+        "isfavorite": 0,
+        "license": "1",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.218176",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.946419",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "c59acddec0",
+        "owner": {
+          "iconfarm": 1,
+          "iconserver": "515",
+          "location": "",
+          "nsid": "13132755@N00",
+          "path_alias": "frenchista",
+          "realname": "Yann Ropars",
+          "username": "Yann Ropars"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "4a0df253a2",
+        "server": "2061",
+        "tags": {
+          "tag": [
+            {
+              "_content": "instagramapp",
+              "author": "13132755@N00",
+              "authorname": "Yann Ropars",
+              "id": "2710964-5748437338-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
-                "width":600
+            {
+              "_content": "square",
+              "author": "13132755@N00",
+              "authorname": "Yann Ropars",
+              "id": "2710964-5748437338-1628",
+              "machine_tag": 0,
+              "raw": "square"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
-                "width":240
+            {
+              "_content": "squareformat",
+              "author": "13132755@N00",
+              "authorname": "Yann Ropars",
+              "id": "2710964-5748437338-14976",
+              "machine_tag": 0,
+              "raw": "square format"
             },
-            "o":{
-                "extension":"jpg",
-                "height":612,
-                "mimetype":"image/jpeg",
-                "secret":"SVhAJEmXHRTgiYaYmYwLWrq8ONXbx21zPgUq1H9ifwgto9FXKXqb",
-                "width":612
+            {
+              "_content": "iphoneography",
+              "author": "13132755@N00",
+              "authorname": "Yann Ropars",
+              "id": "2710964-5748437338-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
-                "width":320
+            {
+              "_content": "uploaded:by=instagram",
+              "author": "13132755@N00",
+              "authorname": "Yann Ropars",
+              "id": "2710964-5748437338-60643605",
+              "machine_tag": 1,
+              "raw": "uploaded:by=instagram"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
-                "width":480
+            {
+              "_content": "lomofi",
+              "author": "13132755@N00",
+              "authorname": "Yann Ropars",
+              "id": "2710964-5748437338-2334434",
+              "machine_tag": 0,
+              "raw": "Lomo-fi"
+            },
+            {
+              "_content": "foursquare:venue=4db46356cda1c57c825a8d81",
+              "author": "13132755@N00",
+              "authorname": "Yann Ropars",
+              "id": "2710964-5748437338-71038864",
+              "machine_tag": 1,
+              "raw": "foursquare:venue=4db46356cda1c57c825a8d81"
             }
+          ]
+        },
+        "title": {
+          "_content": "Last plane back to CO"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/frenchista/5748437338/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "16",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 612,
+          "mimetype": "image/jpeg",
+          "secret": "SVhAJEmXHRTgiYaYmYwLWrq8ONXbx21zPgUq1H9ifwgto9FXKXqb",
+          "width": 612
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "5ERfazAsiGHESN6nRrckzewtni8Zgufe5xX4TqPiSjpjUCrcfeKH",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527007393,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527007393,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"796ae86c4d2dfab5ba4f7613b54e74a6",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159328157,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159328157,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "796ae86c4d2dfab5ba4f7613b54e74a6",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328157,
+        "locality_id": 85981333,
+        "media_id": 1159328157,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159328157,
+        "media_id": 1159328157,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159328157,
-    "wof:lastmodified":1545868673,
-    "wof:name":"Last plane back to CO",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159328157,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "Last plane back to CO",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.946419,
     35.218176,
     -80.946419,
     35.218176
-],
-  "geometry": {"coordinates":[-80.94641900000001,35.218176],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.946419,35.218176],"type":"Point"}
 }

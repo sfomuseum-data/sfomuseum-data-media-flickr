@@ -2,415 +2,419 @@
   "id": 1159327117,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2007-03-08",
-    "date:cessation_upper":"2007-03-08",
-    "date:inception_lower":"2007-03-08",
-    "date:inception_upper":"2007-03-08",
-    "edtf:cessation":"2007-03-08T17:05:50",
-    "edtf:inception":"2007-03-08T17:05:50",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.95587,35.225314,-80.95587,35.225314",
-    "geom:latitude":35.225314,
-    "geom:longitude":-80.95587,
-    "iso:country":"US",
-    "media:created":1173402350,
-    "media:fingerprint":"04a8dcd1821014e1c4179940949d3862c4216619",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"3339666250",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1363143262",
-                "posted":"1236553103",
-                "taken":"2007-03-08 17:05:50",
-                "takengranularity":"0",
-                "takenunknown":0
-            },
-            "dateuploaded":"1236553103",
-            "description":{
-                "_content":"Seen from the Charlotte-Douglas International Airport. Info on the fire via Charlotte Observer: <a href=\"http://www.charlotteobserver.com/597/story/584926.html\" rel=\"nofollow\">www.charlotteobserver.com/597/story/584926.html</a>"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":4,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"3339666250",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"15",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Mecklenburg",
-                    "place_id":"zPe6QZxQUL90TOfCKQ",
-                    "woeid":"12589433"
-                },
-                "latitude":"35.225314",
-                "locality":{
-                    "_content":"Douglas International Airport",
-                    "place_id":"aqnHmXJQUL82Ay8qWg",
-                    "woeid":"12519519"
-                },
-                "longitude":"-80.955870",
-                "place_id":"aqnHmXJQUL82Ay8qWg",
-                "region":{
-                    "_content":"North Carolina",
-                    "place_id":"3Xw_xEBTUb5puUMm",
-                    "woeid":"2347592"
-                },
-                "woeid":"12519519"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"29f94cb186",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2858",
-                "location":"Raleigh, NC, USA",
-                "nsid":"81464596@N00",
-                "path_alias":"bz3rk",
-                "realname":"",
-                "username":"James Willamor"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"3b7aa9259e",
-            "server":"3651",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"charlotte",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-4733",
-                        "machine_tag":0,
-                        "raw":"charlotte"
-                    },
-                    {
-                        "_content":"nc",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-2533",
-                        "machine_tag":0,
-                        "raw":"NC"
-                    },
-                    {
-                        "_content":"qc",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-52734",
-                        "machine_tag":0,
-                        "raw":"QC"
-                    },
-                    {
-                        "_content":"clt",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-830168",
-                        "machine_tag":0,
-                        "raw":"CLT"
-                    },
-                    {
-                        "_content":"fire",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-1911",
-                        "machine_tag":0,
-                        "raw":"fire"
-                    },
-                    {
-                        "_content":"firefighters",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-53531",
-                        "machine_tag":0,
-                        "raw":"firefighters"
-                    },
-                    {
-                        "_content":"smoke",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-5953",
-                        "machine_tag":0,
-                        "raw":"smoke"
-                    },
-                    {
-                        "_content":"firefighting",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-28498",
-                        "machine_tag":0,
-                        "raw":"firefighting"
-                    },
-                    {
-                        "_content":"plume",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-144728",
-                        "machine_tag":0,
-                        "raw":"plume"
-                    },
-                    {
-                        "_content":"scrap",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-40456",
-                        "machine_tag":0,
-                        "raw":"scrap"
-                    },
-                    {
-                        "_content":"metal",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-1042",
-                        "machine_tag":0,
-                        "raw":"metal"
-                    },
-                    {
-                        "_content":"company",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-11806",
-                        "machine_tag":0,
-                        "raw":"company"
-                    },
-                    {
-                        "_content":"blaze",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-24382",
-                        "machine_tag":0,
-                        "raw":"blaze"
-                    },
-                    {
-                        "_content":"skyline",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-1147",
-                        "machine_tag":0,
-                        "raw":"skyline"
-                    },
-                    {
-                        "_content":"major",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-2210",
-                        "machine_tag":0,
-                        "raw":"major"
-                    },
-                    {
-                        "_content":"billow",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-95080",
-                        "machine_tag":0,
-                        "raw":"billow"
-                    },
-                    {
-                        "_content":"billowing",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-245977",
-                        "machine_tag":0,
-                        "raw":"billowing"
-                    },
-                    {
-                        "_content":"smoking",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-10625",
-                        "machine_tag":0,
-                        "raw":"smoking"
-                    },
-                    {
-                        "_content":"smokey",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-16819",
-                        "machine_tag":0,
-                        "raw":"smokey"
-                    },
-                    {
-                        "_content":"northcarolina",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-8419",
-                        "machine_tag":0,
-                        "raw":"North Carolina"
-                    },
-                    {
-                        "_content":"observer",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-221603",
-                        "machine_tag":0,
-                        "raw":"Observer"
-                    },
-                    {
-                        "_content":"news",
-                        "author":"81464596@N00",
-                        "authorname":"James Willamor",
-                        "id":"1890337-3339666250-457",
-                        "machine_tag":0,
-                        "raw":"news"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Smoke from a major fire south of Wilkinson Blvd. 3-8-09"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/bz3rk/3339666250/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"609",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2007-03-08",
+    "date:cessation_upper": "2007-03-08",
+    "date:inception_lower": "2007-03-08",
+    "date:inception_upper": "2007-03-08",
+    "edtf:cessation": "2007-03-08T17:05:50",
+    "edtf:inception": "2007-03-08T17:05:50",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.955870,35.225314,-80.955870,35.225314",
+    "geom:latitude": 35.225314,
+    "geom:longitude": -80.95587,
+    "iso:country": "US",
+    "media:created": 1173402350,
+    "media:fingerprint": "04a8dcd1821014e1c4179940949d3862c4216619",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "3339666250",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
-                "width":1005
+        "dates": {
+          "lastupdate": "1363143262",
+          "posted": "1236553103",
+          "taken": "2007-03-08 17:05:50",
+          "takengranularity": "0",
+          "takenunknown": 0
+        },
+        "dateuploaded": "1236553103",
+        "description": {
+          "_content": "Seen from the Charlotte-Douglas International Airport. Info on the fire via Charlotte Observer: \u003ca href=\"http://www.charlotteobserver.com/597/story/584926.html\" rel=\"nofollow\"\u003ewww.charlotteobserver.com/597/story/584926.html\u003c/a\u003e"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 4,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "3339666250",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "15",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Mecklenburg",
+            "place_id": "zPe6QZxQUL90TOfCKQ",
+            "woeid": "12589433"
+          },
+          "latitude": "35.225314",
+          "locality": {
+            "_content": "Douglas International Airport",
+            "place_id": "aqnHmXJQUL82Ay8qWg",
+            "woeid": "12519519"
+          },
+          "longitude": "-80.955870",
+          "place_id": "aqnHmXJQUL82Ay8qWg",
+          "region": {
+            "_content": "North Carolina",
+            "place_id": "3Xw_xEBTUb5puUMm",
+            "woeid": "2347592"
+          },
+          "woeid": "12519519"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "29f94cb186",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2858",
+          "location": "Raleigh, NC, USA",
+          "nsid": "81464596@N00",
+          "path_alias": "bz3rk",
+          "realname": "",
+          "username": "James Willamor"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "3b7aa9259e",
+        "server": "3651",
+        "tags": {
+          "tag": [
+            {
+              "_content": "charlotte",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-4733",
+              "machine_tag": 0,
+              "raw": "charlotte"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
-                "width":785
+            {
+              "_content": "nc",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-2533",
+              "machine_tag": 0,
+              "raw": "NC"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
-                "width":314
+            {
+              "_content": "qc",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-52734",
+              "machine_tag": 0,
+              "raw": "QC"
             },
-            "o":{
-                "extension":"jpg",
-                "height":782,
-                "mimetype":"image/jpeg",
-                "secret":"0osjH7kWJub4q4TRGCm2MSDQ5Wijdj40piH1XGhoV3TFKr6z87pc",
-                "width":1024
+            {
+              "_content": "clt",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-830168",
+              "machine_tag": 0,
+              "raw": "CLT"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
-                "width":320
+            {
+              "_content": "fire",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-1911",
+              "machine_tag": 0,
+              "raw": "fire"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
-                "width":628
+            {
+              "_content": "firefighters",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-53531",
+              "machine_tag": 0,
+              "raw": "firefighters"
+            },
+            {
+              "_content": "smoke",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-5953",
+              "machine_tag": 0,
+              "raw": "smoke"
+            },
+            {
+              "_content": "firefighting",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-28498",
+              "machine_tag": 0,
+              "raw": "firefighting"
+            },
+            {
+              "_content": "plume",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-144728",
+              "machine_tag": 0,
+              "raw": "plume"
+            },
+            {
+              "_content": "scrap",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-40456",
+              "machine_tag": 0,
+              "raw": "scrap"
+            },
+            {
+              "_content": "metal",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-1042",
+              "machine_tag": 0,
+              "raw": "metal"
+            },
+            {
+              "_content": "company",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-11806",
+              "machine_tag": 0,
+              "raw": "company"
+            },
+            {
+              "_content": "blaze",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-24382",
+              "machine_tag": 0,
+              "raw": "blaze"
+            },
+            {
+              "_content": "skyline",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-1147",
+              "machine_tag": 0,
+              "raw": "skyline"
+            },
+            {
+              "_content": "major",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-2210",
+              "machine_tag": 0,
+              "raw": "major"
+            },
+            {
+              "_content": "billow",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-95080",
+              "machine_tag": 0,
+              "raw": "billow"
+            },
+            {
+              "_content": "billowing",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-245977",
+              "machine_tag": 0,
+              "raw": "billowing"
+            },
+            {
+              "_content": "smoking",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-10625",
+              "machine_tag": 0,
+              "raw": "smoking"
+            },
+            {
+              "_content": "smokey",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-16819",
+              "machine_tag": 0,
+              "raw": "smokey"
+            },
+            {
+              "_content": "northcarolina",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-8419",
+              "machine_tag": 0,
+              "raw": "North Carolina"
+            },
+            {
+              "_content": "observer",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-221603",
+              "machine_tag": 0,
+              "raw": "Observer"
+            },
+            {
+              "_content": "news",
+              "author": "81464596@N00",
+              "authorname": "James Willamor",
+              "id": "1890337-3339666250-457",
+              "machine_tag": 0,
+              "raw": "news"
             }
+          ]
+        },
+        "title": {
+          "_content": "Smoke from a major fire south of Wilkinson Blvd. 3-8-09"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/bz3rk/3339666250/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "609",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
+          "width": 1005
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
+          "width": 785
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
+          "width": 314
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 782,
+          "mimetype": "image/jpeg",
+          "secret": "0osjH7kWJub4q4TRGCm2MSDQ5Wijdj40piH1XGhoV3TFKr6z87pc",
+          "width": 1024
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "FASEej6eTbd6sdgE6NE5j2rcI2EfHAd8F5UvCNa2QTnzq6y4iPra",
+          "width": 628
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102528659,
-        85814609,
-        102191575,
-        85633793,
-        85981333,
-        102080981,
-        85688773,
-        85805887
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102528659,
+      85814609,
+      102191575,
+      85633793,
+      85981333,
+      102080981,
+      85688773,
+      85805887
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527006797,
-    "wof:depicts":[
-        102528659
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527006797,
+    "wof:depicts": [
+      102528659
     ],
-    "wof:geomhash":"6f2c54df7d6208c53f2003c43f96f22f",
-    "wof:hierarchy":[
-        {
-            "campus_id":102528659,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080981,
-            "locality_id":85981333,
-            "media_id":1159327117,
-            "neighbourhood_id":85814609,
-            "region_id":85688773
-        },
-        {
-            "campus_id":102528659,
-            "country_id":85633793,
-            "county_id":102080981,
-            "media_id":1159327117,
-            "neighbourhood_id":85805887,
-            "region_id":85688773
-        }
+    "wof:geomhash": "6f2c54df7d6208c53f2003c43f96f22f",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102528659,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327117,
+        "locality_id": 85981333,
+        "media_id": 1159327117,
+        "neighbourhood_id": 85814609,
+        "region_id": 85688773
+      },
+      {
+        "campus_id": 102528659,
+        "country_id": 85633793,
+        "county_id": 102080981,
+        "image_id": 1159327117,
+        "media_id": 1159327117,
+        "neighbourhood_id": 85805887,
+        "region_id": 85688773
+      }
     ],
-    "wof:id":1159327117,
-    "wof:lastmodified":1545868655,
-    "wof:name":"Smoke from a major fire south of Wilkinson Blvd. 3-8-09",
-    "wof:parent_id":102528659,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159327117,
+    "wof:lastmodified": 1634938260,
+    "wof:name": "Smoke from a major fire south of Wilkinson Blvd. 3-8-09",
+    "wof:parent_id": 102528659,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.95587,
     35.225314,
     -80.95587,
     35.225314
-],
+  ],
   "geometry": {"coordinates":[-80.95587,35.225314],"type":"Point"}
 }

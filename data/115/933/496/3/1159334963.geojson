@@ -2,461 +2,465 @@
   "id": 1159334963,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2018-01-15",
-    "date:cessation_upper":"2018-01-15",
-    "date:inception_lower":"2018-01-15",
-    "date:inception_upper":"2018-01-15",
-    "edtf:cessation":"2018-01-15T18:04:23",
-    "edtf:inception":"2018-01-15T18:04:23",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.927162,37.367388,-121.927162,37.367388",
-    "geom:latitude":37.367388,
-    "geom:longitude":-121.927162,
-    "iso:country":"US",
-    "media:created":1516068263,
-    "media:fingerprint":"a48a75db213a45332b3f2fb04d2f20a3f3b6b780",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"39006950984",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
+    "date:cessation_lower": "2018-01-15",
+    "date:cessation_upper": "2018-01-15",
+    "date:inception_lower": "2018-01-15",
+    "date:inception_upper": "2018-01-15",
+    "edtf:cessation": "2018-01-15T18:04:23",
+    "edtf:inception": "2018-01-15T18:04:23",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.927162,37.367388,-121.927162,37.367388",
+    "geom:latitude": 37.367388,
+    "geom:longitude": -121.927162,
+    "iso:country": "US",
+    "media:created": 1516068263,
+    "media:fingerprint": "a48a75db213a45332b3f2fb04d2f20a3f3b6b780",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "39006950984",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1522903835",
+          "posted": "1516068961",
+          "taken": "2018-01-15 18:04:23",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1516068961",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "39006950984",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Santa Clara",
+            "place_id": "b3n8i7RQUL_rtDiYCQ",
+            "woeid": "12587712"
+          },
+          "latitude": "37.367388",
+          "locality": {
+            "_content": "Norman Y Mineta San Jose International Airport",
+            "place_id": "u2FFS25QUL9w2dKkeg",
+            "woeid": "12521722"
+          },
+          "longitude": "-121.927162",
+          "place_id": "u2FFS25QUL9w2dKkeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521722"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "153f017314",
+        "owner": {
+          "iconfarm": 4,
+          "iconserver": "3765",
+          "location": "",
+          "nsid": "11664768@N08",
+          "path_alias": "brisan",
+          "realname": "",
+          "username": "Brisan"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "dd2ff32534",
+        "server": "4674",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airplane",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             },
-            "dates":{
-                "lastupdate":"1522903835",
-                "posted":"1516068961",
-                "taken":"2018-01-15 18:04:23",
-                "takengranularity":"0",
-                "takenunknown":"0"
+            {
+              "_content": "plane",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-1369",
+              "machine_tag": 0,
+              "raw": "plane"
             },
-            "dateuploaded":"1516068961",
-            "description":{
-                "_content":""
+            {
+              "_content": "flight",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-7097",
+              "machine_tag": 0,
+              "raw": "flight"
             },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
+            {
+              "_content": "travel",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-121",
+              "machine_tag": 0,
+              "raw": "travel"
             },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
+            {
+              "_content": "airways",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-28279",
+              "machine_tag": 0,
+              "raw": "Airways"
             },
-            "id":"39006950984",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Santa Clara",
-                    "place_id":"b3n8i7RQUL_rtDiYCQ",
-                    "woeid":"12587712"
-                },
-                "latitude":"37.367388",
-                "locality":{
-                    "_content":"Norman Y Mineta San Jose International Airport",
-                    "place_id":"u2FFS25QUL9w2dKkeg",
-                    "woeid":"12521722"
-                },
-                "longitude":"-121.927162",
-                "place_id":"u2FFS25QUL9w2dKkeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521722"
+            {
+              "_content": "british",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-20847",
+              "machine_tag": 0,
+              "raw": "British"
             },
-            "media":"photo",
-            "notes":{
-                "note":[]
+            {
+              "_content": "london",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-595",
+              "machine_tag": 0,
+              "raw": "London"
             },
-            "originalformat":"jpg",
-            "originalsecret":"153f017314",
-            "owner":{
-                "iconfarm":4,
-                "iconserver":"3765",
-                "location":"",
-                "nsid":"11664768@N08",
-                "path_alias":"brisan",
-                "realname":"",
-                "username":"Brisan"
+            {
+              "_content": "heathrow",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-5036",
+              "machine_tag": 0,
+              "raw": "Heathrow"
             },
-            "people":{
-                "haspeople":0
+            {
+              "_content": "lights",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-2000",
+              "machine_tag": 0,
+              "raw": "lights"
             },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
+            {
+              "_content": "night",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-1213",
+              "machine_tag": 0,
+              "raw": "night"
             },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"dd2ff32534",
-            "server":"4674",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airplane",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"plane",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-1369",
-                        "machine_tag":0,
-                        "raw":"plane"
-                    },
-                    {
-                        "_content":"flight",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-7097",
-                        "machine_tag":0,
-                        "raw":"flight"
-                    },
-                    {
-                        "_content":"travel",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-121",
-                        "machine_tag":0,
-                        "raw":"travel"
-                    },
-                    {
-                        "_content":"airways",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-28279",
-                        "machine_tag":0,
-                        "raw":"Airways"
-                    },
-                    {
-                        "_content":"british",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-20847",
-                        "machine_tag":0,
-                        "raw":"British"
-                    },
-                    {
-                        "_content":"london",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-595",
-                        "machine_tag":0,
-                        "raw":"London"
-                    },
-                    {
-                        "_content":"heathrow",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-5036",
-                        "machine_tag":0,
-                        "raw":"Heathrow"
-                    },
-                    {
-                        "_content":"lights",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-2000",
-                        "machine_tag":0,
-                        "raw":"lights"
-                    },
-                    {
-                        "_content":"night",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-1213",
-                        "machine_tag":0,
-                        "raw":"night"
-                    },
-                    {
-                        "_content":"boarding",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-59600",
-                        "machine_tag":0,
-                        "raw":"boarding"
-                    },
-                    {
-                        "_content":"gate",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-3127",
-                        "machine_tag":0,
-                        "raw":"gate"
-                    },
-                    {
-                        "_content":"dreamliner",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-2187734",
-                        "machine_tag":0,
-                        "raw":"Dreamliner"
-                    },
-                    {
-                        "_content":"aircraft",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-5854",
-                        "machine_tag":0,
-                        "raw":"aircraft"
-                    },
-                    {
-                        "_content":"usa",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-351",
-                        "machine_tag":0,
-                        "raw":"USA"
-                    },
-                    {
-                        "_content":"california",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-50",
-                        "machine_tag":0,
-                        "raw":"California"
-                    },
-                    {
-                        "_content":"sanjose",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-8050",
-                        "machine_tag":0,
-                        "raw":"San Jose"
-                    },
-                    {
-                        "_content":"transportation",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-14973",
-                        "machine_tag":0,
-                        "raw":"transportation"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-2695",
-                        "machine_tag":0,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"jet",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-7212",
-                        "machine_tag":0,
-                        "raw":"jet"
-                    },
-                    {
-                        "_content":"lhr",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-89652",
-                        "machine_tag":0,
-                        "raw":"LHR"
-                    },
-                    {
-                        "_content":"sjc",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-18558",
-                        "machine_tag":0,
-                        "raw":"SJC"
-                    },
-                    {
-                        "_content":"boeing",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-24467",
-                        "machine_tag":0,
-                        "raw":"Boeing"
-                    },
-                    {
-                        "_content":"7879",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-6570954",
-                        "machine_tag":0,
-                        "raw":"787-9"
-                    },
-                    {
-                        "_content":"278",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-240931",
-                        "machine_tag":0,
-                        "raw":"278"
-                    },
-                    {
-                        "_content":"britishairways",
-                        "author":"11664768@N08",
-                        "authorname":"Brisan",
-                        "id":"11571955-39006950984-41522",
-                        "machine_tag":0,
-                        "raw":"British Airways"
-                    }
-                ]
+            {
+              "_content": "boarding",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-59600",
+              "machine_tag": 0,
+              "raw": "boarding"
             },
-            "title":{
-                "_content":"BA278 SJC-LHR"
+            {
+              "_content": "gate",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-3127",
+              "machine_tag": 0,
+              "raw": "gate"
             },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/brisan/39006950984/",
-                        "type":"photopage"
-                    }
-                ]
+            {
+              "_content": "dreamliner",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-2187734",
+              "machine_tag": 0,
+              "raw": "Dreamliner"
             },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
+            {
+              "_content": "aircraft",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-5854",
+              "machine_tag": 0,
+              "raw": "aircraft"
             },
-            "views":"143",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
+            {
+              "_content": "usa",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-351",
+              "machine_tag": 0,
+              "raw": "USA"
+            },
+            {
+              "_content": "california",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-50",
+              "machine_tag": 0,
+              "raw": "California"
+            },
+            {
+              "_content": "sanjose",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-8050",
+              "machine_tag": 0,
+              "raw": "San Jose"
+            },
+            {
+              "_content": "transportation",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-14973",
+              "machine_tag": 0,
+              "raw": "transportation"
+            },
+            {
+              "_content": "airport",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-2695",
+              "machine_tag": 0,
+              "raw": "airport"
+            },
+            {
+              "_content": "jet",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-7212",
+              "machine_tag": 0,
+              "raw": "jet"
+            },
+            {
+              "_content": "lhr",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-89652",
+              "machine_tag": 0,
+              "raw": "LHR"
+            },
+            {
+              "_content": "sjc",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-18558",
+              "machine_tag": 0,
+              "raw": "SJC"
+            },
+            {
+              "_content": "boeing",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-24467",
+              "machine_tag": 0,
+              "raw": "Boeing"
+            },
+            {
+              "_content": "7879",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-6570954",
+              "machine_tag": 0,
+              "raw": "787-9"
+            },
+            {
+              "_content": "278",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-240931",
+              "machine_tag": 0,
+              "raw": "278"
+            },
+            {
+              "_content": "britishairways",
+              "author": "11664768@N08",
+              "authorname": "Brisan",
+              "id": "11571955-39006950984-41522",
+              "machine_tag": 0,
+              "raw": "British Airways"
             }
+          ]
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":567,
-                "mimetype":"image/jpeg",
-                "secret":"aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
-                "width":1023
-            },
-            "c":{
-                "extension":"jpg",
-                "height":443,
-                "mimetype":"image/jpeg",
-                "secret":"aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":177,
-                "mimetype":"image/jpeg",
-                "secret":"aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2053,
-                "mimetype":"image/jpeg",
-                "secret":"cJ7HbsHLjl7zqXdXxc5bc0PG5hu8HDtMundtJATsYBbADIFtalMA",
-                "width":3703
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":354,
-                "mimetype":"image/jpeg",
-                "secret":"aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
-                "width":640
+        "title": {
+          "_content": "BA278 SJC-LHR"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/brisan/39006950984/",
+              "type": "photopage"
             }
+          ]
         },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102527529
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527529,
-        85869525,
-        102191575,
-        85633793,
-        85922341,
-        102081673,
-        85688637,
-        1108779019,
-        1108782553,
-        85922347
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527027102,
-    "wof:depicts":[
-        102527529,
-        1159284021,
-        1159287729,
-        1159292849,
-        1159293215,
-        1159293593,
-        1159334963
-    ],
-    "wof:geomhash":"04c058ce8a8fafdf5ffe68d6f978a284",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922341,
-            "media_id":1159334963,
-            "neighbourhood_id":85869525,
-            "region_id":85688637
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
         },
-        {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782553,
-            "media_id":1159334963,
-            "neighbourhood_id":1108779019,
-            "region_id":85688637
+        "views": "143",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 567,
+          "mimetype": "image/jpeg",
+          "secret": "aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 443,
+          "mimetype": "image/jpeg",
+          "secret": "aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 177,
+          "mimetype": "image/jpeg",
+          "secret": "aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2053,
+          "mimetype": "image/jpeg",
+          "secret": "cJ7HbsHLjl7zqXdXxc5bc0PG5hu8HDtMundtJATsYBbADIFtalMA",
+          "width": 3703
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 354,
+          "mimetype": "image/jpeg",
+          "secret": "aZoRfBymsOsa9nsaZXVJuohncSOEaI7E6YBNbejA6ZKsHAA3lcI4",
+          "width": 640
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102527529
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527529,
+      85869525,
+      102191575,
+      85633793,
+      85922341,
+      102081673,
+      85688637,
+      1108779019,
+      1108782553,
+      85922347
     ],
-    "wof:id":1159334963,
-    "wof:lastmodified":1545868724,
-    "wof:name":"BA278 SJC-LHR",
-    "wof:parent_id":102527529,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527027102,
+    "wof:depicts": [
+      102527529,
+      1159284021,
+      1159287729,
+      1159292849,
+      1159293215,
+      1159293593,
+      1159334963
+    ],
+    "wof:geomhash": "04c058ce8a8fafdf5ffe68d6f978a284",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "image_id": 1159334963,
+        "locality_id": 85922341,
+        "media_id": 1159334963,
+        "neighbourhood_id": 85869525,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527529,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "image_id": 1159334963,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782553,
+        "media_id": 1159334963,
+        "neighbourhood_id": 1108779019,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1159334963,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "BA278 SJC-LHR",
+    "wof:parent_id": 102527529,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.927162,
     37.367388,
     -121.927162,
     37.367388
-],
+  ],
   "geometry": {"coordinates":[-121.927162,37.367388],"type":"Point"}
 }

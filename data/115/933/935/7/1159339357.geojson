@@ -2,673 +2,676 @@
   "id": 1159339357,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2011-10-16",
-    "date:cessation_upper":"2011-10-16",
-    "date:inception_lower":"2011-10-16",
-    "date:inception_upper":"2011-10-16",
-    "edtf:cessation":"2011-10-16T13:04:52",
-    "edtf:inception":"2011-10-16T13:04:52",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.777286,40.646196,-73.777286,40.646196",
-    "geom:latitude":40.646196,
-    "geom:longitude":-73.777286,
-    "iso:country":"US",
-    "media:created":1318795492,
-    "media:fingerprint":"a5654972bb6ac594d57a25648a4348800eeea029",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
-            {
-                "closest":[
-                    {
-                        "hex":"#e7c697",
-                        "name":"Gold",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d2b48c",
-                        "name":"tan",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#ccc994",
-                "name":"#ccc994",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#edd19c",
-                        "name":"Maize",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#f0e68c",
-                        "name":"khaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#dedf98",
-                "name":"#dedf98",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#000000",
-                        "name":"Black",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#800000",
-                        "name":"maroon",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#481008",
-                "name":"#481008",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#bab86c",
-                        "name":"Olive Green",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a8a864",
-                "name":"#a8a864",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#d3d3d3",
-                        "name":"lightgrey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d7d4b8",
-                "name":"#d7d4b8",
-                "reference":"vibrant"
-            }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"6287447563",
-        "photo_info":{
-            "comments":{
-                "_content":"2"
-            },
-            "dates":{
-                "lastupdate":"1480375060",
-                "posted":"1319770416",
-                "taken":"2011-10-16 13:04:52",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1319770416",
-            "description":{
-                "_content":"The TWA Flight Center, or Trans World Airlines Flight Center, opened in 1962 as standalone terminal designed by Eero Saarinen for Trans World Airlines (TWA) at New York's John F. Kennedy International Airport (JFK), then known as New York International Airport, Anderson Field, but commonly known as Idlewild.  In 1969, the terminal received a new departure-arrival concourse and lounge, known as Flight Wing One, designed by Roche-Dinkeloo.  Following TWA's financial deterioration and eventual purchase by American Airlines in 1991, the terminal ended operations in October 2001.  While portions of the original complex have been demolished, the vacant landmarked head house still sits in front of the JetBlue Airway's Terminal 5 (T5), which was completed in 2008.  Adaptive reuse proposals for the head house have included a restaurant, a conference center, and a hotel lobby.\n\nThe elevated and gently arched concrete walkways leading to the departure lounges were unusual in form, but served a function soon to be commonplace in modern airport design.  The Windowless tubes are lined with red carpeted floors and feature light-colored concave walls that rise from a low curb to meet the broad, flat acoustical-tile-clad ceiiling.  The side opening are fitted with diffusers in front of the fluorescent light fixtures.\n\nSaarinen's Detroit-based firm was commissioned in 1956 to design the terminal.  Given the directive to capture &quot;the spirit of flight&quot;, the design featured a prominent wing-shaped thin shell roof over the main terminal, unusual tube-shaped departure-arrival corridors originally wrapped in red carpet and expansive windows that highlighted departing and arriving jets. The terminal was also the first with enclosed passenger jetways, closed circuit television, a central public address system, baggage carousels, electronic schedule board and baggage scales, and the satellite clustering of gates away from the main terminal.   The terminal was finally dedicated on May 28, 1962--a year after Saarinen's death--and he received the AIA Gold Medal posthumously that year.  \n\nJohn F. Kennedy International Airport (IATA: JFK, ICAO: KJFK, FAA LID: JFK) is busiest international air passenger gateway to the United States, handling more international traffic than any other airport in North America and the leading freight gateway to the country by value of shipments.  Originally known as Idelwild Airport, after the Idlewild golf course it displaced when construction started in 1943, it was renamed Major General Alexander E. Anderson Airport that same yaer, and then to New York International Airport, Anderson Field in 1948.  The airport was renamed after  John F. Kennedy, the 35th President of the United States, in 1964.  Over ninety airlines operate out of JFK, and it currenly serves as the base of operations for JetBlue Airways and a international gateway hub for American Airlines and Delta Air Lines.  In the past, it has been a hub for Eastern Air Lines, National Airlines, Pan American World Airways (Pan Am) and Trans World Airlines (TWA). \n\nThe Trans World Flight Center was designated a landmark by the New York City Landmarks Preservation Commission in 1994.  The ground floor interior was separately designated, also in 1994.  \n\nIn 2007, the TWA Terminal at Kennedy Airport was ranked #115 on the AIA 150 America's Favorite Architecture list.  \n\nNational Historic Register #05000994 (2005)"
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":7,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"6287447563",
-            "isfavorite":0,
-            "license":"3",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Queens",
-                    "place_id":"6gNCBQJQUL9_wSrP2Q",
-                    "woeid":"12589352"
-                },
-                "latitude":"40.646196",
-                "locality":{
-                    "_content":"John F Kennedy International Airport",
-                    "place_id":"nD9KAURQUL9pSurxUw",
-                    "woeid":"12520380"
-                },
-                "longitude":"-73.777286",
-                "place_id":"nD9KAURQUL9pSurxUw",
-                "region":{
-                    "_content":"New York",
-                    "place_id":"ODHTuIhTUb75gdBu",
-                    "woeid":"2347591"
-                },
-                "woeid":"12520380"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"2b1cec6b54",
-            "owner":{
-                "iconfarm":6,
-                "iconserver":"5449",
-                "location":"jersey city, nj, us",
-                "nsid":"70323761@N00",
-                "path_alias":"wallyg",
-                "realname":"Wally Gobetz",
-                "username":"wallyg"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"e668052969",
-            "server":"6091",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"tunnel",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-8692",
-                        "machine_tag":false,
-                        "raw":"tunnel"
-                    },
-                    {
-                        "_content":"twaterminal",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-153410",
-                        "machine_tag":false,
-                        "raw":"TWA Terminal"
-                    },
-                    {
-                        "_content":"twaflightcenter",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-15892088",
-                        "machine_tag":false,
-                        "raw":"TWA Flight Center"
-                    },
-                    {
-                        "_content":"transworldairlinesflightcenter",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-66703622",
-                        "machine_tag":false,
-                        "raw":"Trans World Airlines Flight Center"
-                    },
-                    {
-                        "_content":"transairlinesworldterminal",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-77482928",
-                        "machine_tag":false,
-                        "raw":"Trans Airlines World Terminal"
-                    },
-                    {
-                        "_content":"johnfkennedyinternationalairport",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-1643214",
-                        "machine_tag":false,
-                        "raw":"John F. Kennedy International Airport"
-                    },
-                    {
-                        "_content":"kennedyairport",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-418688",
-                        "machine_tag":false,
-                        "raw":"Kennedy Airport"
-                    },
-                    {
-                        "_content":"jfk",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-10978",
-                        "machine_tag":false,
-                        "raw":"JFK"
-                    },
-                    {
-                        "_content":"jfkairport",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-132674",
-                        "machine_tag":false,
-                        "raw":"JFK Airport"
-                    },
-                    {
-                        "_content":"jfkinternationalairport",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-3217635",
-                        "machine_tag":false,
-                        "raw":"JFK International Airport"
-                    },
-                    {
-                        "_content":"airport",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-2695",
-                        "machine_tag":false,
-                        "raw":"airport"
-                    },
-                    {
-                        "_content":"eerosaarinen",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-70898",
-                        "machine_tag":false,
-                        "raw":"Eero Saarinen"
-                    },
-                    {
-                        "_content":"eerosaarinenandassociates",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-2371180",
-                        "machine_tag":false,
-                        "raw":"Eero Saarinen and Associates"
-                    },
-                    {
-                        "_content":"saarinenterminal",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-59309842",
-                        "machine_tag":false,
-                        "raw":"Saarinen Terminal"
-                    },
-                    {
-                        "_content":"headhouse",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-683440",
-                        "machine_tag":false,
-                        "raw":"head house"
-                    },
-                    {
-                        "_content":"modern",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-1180",
-                        "machine_tag":false,
-                        "raw":"Modern"
-                    },
-                    {
-                        "_content":"modernmovement",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-553197",
-                        "machine_tag":false,
-                        "raw":"Modern Movement"
-                    },
-                    {
-                        "_content":"expressionistic",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-205453",
-                        "machine_tag":false,
-                        "raw":"Expressionistic"
-                    },
-                    {
-                        "_content":"expressionist",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-17160",
-                        "machine_tag":false,
-                        "raw":"Expressionist"
-                    },
-                    {
-                        "_content":"googie",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-32593",
-                        "machine_tag":false,
-                        "raw":"googie"
-                    },
-                    {
-                        "_content":"googiearchitecture",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-42283",
-                        "machine_tag":false,
-                        "raw":"googie architecture"
-                    },
-                    {
-                        "_content":"fantasticarchitecture",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-6262276",
-                        "machine_tag":false,
-                        "raw":"Fantastic architecture"
-                    },
-                    {
-                        "_content":"futurist",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-275539",
-                        "machine_tag":false,
-                        "raw":"futurist"
-                    },
-                    {
-                        "_content":"futuristarchitecture",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-10244456",
-                        "machine_tag":false,
-                        "raw":"Futurist architecture"
-                    },
-                    {
-                        "_content":"futurism",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-15771",
-                        "machine_tag":false,
-                        "raw":"futurism"
-                    },
-                    {
-                        "_content":"nyc",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-106",
-                        "machine_tag":false,
-                        "raw":"nyc"
-                    },
-                    {
-                        "_content":"newyork",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-440",
-                        "machine_tag":false,
-                        "raw":"new york"
-                    },
-                    {
-                        "_content":"newyorkcity",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-109",
-                        "machine_tag":false,
-                        "raw":"new york city"
-                    },
-                    {
-                        "_content":"ny",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-439",
-                        "machine_tag":false,
-                        "raw":"ny"
-                    },
-                    {
-                        "_content":"gothamist",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-22328",
-                        "machine_tag":false,
-                        "raw":"gothamist"
-                    },
-                    {
-                        "_content":"jamaica",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-14549",
-                        "machine_tag":false,
-                        "raw":"Jamaica"
-                    },
-                    {
-                        "_content":"queens",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-12093",
-                        "machine_tag":false,
-                        "raw":"queens"
-                    },
-                    {
-                        "_content":"nyclpc",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-7952964",
-                        "machine_tag":false,
-                        "raw":"nyclpc"
-                    },
-                    {
-                        "_content":"landmark",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-9012",
-                        "machine_tag":false,
-                        "raw":"landmark"
-                    },
-                    {
-                        "_content":"newyorkcitylandmarkspreservationcommission",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-7952963",
-                        "machine_tag":false,
-                        "raw":"new york city landmarks preservation commission"
-                    },
-                    {
-                        "_content":"nationalregisterofhistoricplaces",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-907511",
-                        "machine_tag":false,
-                        "raw":"National Register of Historic Places"
-                    },
-                    {
-                        "_content":"nrhp",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-2094603",
-                        "machine_tag":false,
-                        "raw":"NRHP"
-                    },
-                    {
-                        "_content":"usnationalregisterofhistoricplaces",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-7396769",
-                        "machine_tag":false,
-                        "raw":"U.S. National Register of Historic Places"
-                    },
-                    {
-                        "_content":"tube",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-6972",
-                        "machine_tag":false,
-                        "raw":"tube"
-                    },
-                    {
-                        "_content":"passengertube",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-14349221",
-                        "machine_tag":false,
-                        "raw":"passenger tube"
-                    },
-                    {
-                        "_content":"ohny",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-94534",
-                        "machine_tag":false,
-                        "raw":"OHNY"
-                    },
-                    {
-                        "_content":"openhousenewyork",
-                        "author":"70323761@N00",
-                        "authorname":"wallyg",
-                        "id":"1713009-6287447563-95653",
-                        "machine_tag":false,
-                        "raw":"open house new york"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"NYC - JFK Airport: TWA Flight Center"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/wallyg/6287447563/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"18655",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
-        },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":679,
-                "mimetype":"image/jpeg",
-                "secret":"RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
-                "width":1023
-            },
-            "c":{
-                "extension":"jpg",
-                "height":531,
-                "mimetype":"image/jpeg",
-                "secret":"RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
-                "width":800
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":531,
-                "mimetype":"image/jpeg",
-                "secret":"RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
-                "width":800
-            },
-            "n":{
-                "extension":"jpg",
-                "height":212,
-                "mimetype":"image/jpeg",
-                "secret":"RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
-                "width":320
-            },
-            "o":{
-                "extension":"jpg",
-                "height":2352,
-                "mimetype":"image/jpeg",
-                "secret":"WN4iRio4gyeQz9ZIleAWBxRnXFIhGbdvplESBxn3fadxjEqOLZCY",
-                "width":3542
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":424,
-                "mimetype":"image/jpeg",
-                "secret":"RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
-                "width":640
-            }
-        },
-        "source":"flickr",
-        "status_id":0,
-        "whosonfirst_id":102534365
-    },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102534365,
-        907131691,
-        102191575,
-        85633793,
-        85977539,
-        421205767,
-        102082377,
-        85688543
-    ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527102186,
-    "wof:depicts":[
-        102534365,
-        1159339357
-    ],
-    "wof:geomhash":"96410fda0277573faa07318b7c639c0d",
-    "wof:hierarchy":[
+    "date:cessation_lower": "2011-10-16",
+    "date:cessation_upper": "2011-10-16",
+    "date:inception_lower": "2011-10-16",
+    "date:inception_upper": "2011-10-16",
+    "edtf:cessation": "2011-10-16T13:04:52",
+    "edtf:inception": "2011-10-16T13:04:52",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-73.777286,40.646196,-73.777286,40.646196",
+    "geom:latitude": 40.646196,
+    "geom:longitude": -73.777286,
+    "iso:country": "US",
+    "media:created": 1318795492,
+    "media:fingerprint": "a5654972bb6ac594d57a25648a4348800eeea029",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
         {
-            "borough_id":421205767,
-            "campus_id":102534365,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
-            "media_id":1159339357,
-            "neighbourhood_id":907131691,
-            "region_id":85688543
+          "closest": [
+            {
+              "hex": "#e7c697",
+              "name": "Gold",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#d2b48c",
+              "name": "tan",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#ccc994",
+          "name": "#ccc994",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#edd19c",
+              "name": "Maize",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#f0e68c",
+              "name": "khaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#dedf98",
+          "name": "#dedf98",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#000000",
+              "name": "Black",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#800000",
+              "name": "maroon",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#481008",
+          "name": "#481008",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#bab86c",
+              "name": "Olive Green",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a8a864",
+          "name": "#a8a864",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#d3d3d3",
+              "name": "lightgrey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d7d4b8",
+          "name": "#d7d4b8",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "6287447563",
+      "photo_info": {
+        "comments": {
+          "_content": "2"
+        },
+        "dates": {
+          "lastupdate": "1480375060",
+          "posted": "1319770416",
+          "taken": "2011-10-16 13:04:52",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1319770416",
+        "description": {
+          "_content": "The TWA Flight Center, or Trans World Airlines Flight Center, opened in 1962 as standalone terminal designed by Eero Saarinen for Trans World Airlines (TWA) at New York's John F. Kennedy International Airport (JFK), then known as New York International Airport, Anderson Field, but commonly known as Idlewild.  In 1969, the terminal received a new departure-arrival concourse and lounge, known as Flight Wing One, designed by Roche-Dinkeloo.  Following TWA's financial deterioration and eventual purchase by American Airlines in 1991, the terminal ended operations in October 2001.  While portions of the original complex have been demolished, the vacant landmarked head house still sits in front of the JetBlue Airway's Terminal 5 (T5), which was completed in 2008.  Adaptive reuse proposals for the head house have included a restaurant, a conference center, and a hotel lobby.\n\nThe elevated and gently arched concrete walkways leading to the departure lounges were unusual in form, but served a function soon to be commonplace in modern airport design.  The Windowless tubes are lined with red carpeted floors and feature light-colored concave walls that rise from a low curb to meet the broad, flat acoustical-tile-clad ceiiling.  The side opening are fitted with diffusers in front of the fluorescent light fixtures.\n\nSaarinen's Detroit-based firm was commissioned in 1956 to design the terminal.  Given the directive to capture \u0026quot;the spirit of flight\u0026quot;, the design featured a prominent wing-shaped thin shell roof over the main terminal, unusual tube-shaped departure-arrival corridors originally wrapped in red carpet and expansive windows that highlighted departing and arriving jets. The terminal was also the first with enclosed passenger jetways, closed circuit television, a central public address system, baggage carousels, electronic schedule board and baggage scales, and the satellite clustering of gates away from the main terminal.   The terminal was finally dedicated on May 28, 1962--a year after Saarinen's death--and he received the AIA Gold Medal posthumously that year.  \n\nJohn F. Kennedy International Airport (IATA: JFK, ICAO: KJFK, FAA LID: JFK) is busiest international air passenger gateway to the United States, handling more international traffic than any other airport in North America and the leading freight gateway to the country by value of shipments.  Originally known as Idelwild Airport, after the Idlewild golf course it displaced when construction started in 1943, it was renamed Major General Alexander E. Anderson Airport that same yaer, and then to New York International Airport, Anderson Field in 1948.  The airport was renamed after  John F. Kennedy, the 35th President of the United States, in 1964.  Over ninety airlines operate out of JFK, and it currenly serves as the base of operations for JetBlue Airways and a international gateway hub for American Airlines and Delta Air Lines.  In the past, it has been a hub for Eastern Air Lines, National Airlines, Pan American World Airways (Pan Am) and Trans World Airlines (TWA). \n\nThe Trans World Flight Center was designated a landmark by the New York City Landmarks Preservation Commission in 1994.  The ground floor interior was separately designated, also in 1994.  \n\nIn 2007, the TWA Terminal at Kennedy Airport was ranked #115 on the AIA 150 America's Favorite Architecture list.  \n\nNational Historic Register #05000994 (2005)"
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 7,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "6287447563",
+        "isfavorite": 0,
+        "license": "3",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Queens",
+            "place_id": "6gNCBQJQUL9_wSrP2Q",
+            "woeid": "12589352"
+          },
+          "latitude": "40.646196",
+          "locality": {
+            "_content": "John F Kennedy International Airport",
+            "place_id": "nD9KAURQUL9pSurxUw",
+            "woeid": "12520380"
+          },
+          "longitude": "-73.777286",
+          "place_id": "nD9KAURQUL9pSurxUw",
+          "region": {
+            "_content": "New York",
+            "place_id": "ODHTuIhTUb75gdBu",
+            "woeid": "2347591"
+          },
+          "woeid": "12520380"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "2b1cec6b54",
+        "owner": {
+          "iconfarm": 6,
+          "iconserver": "5449",
+          "location": "jersey city, nj, us",
+          "nsid": "70323761@N00",
+          "path_alias": "wallyg",
+          "realname": "Wally Gobetz",
+          "username": "wallyg"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "e668052969",
+        "server": "6091",
+        "tags": {
+          "tag": [
+            {
+              "_content": "tunnel",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-8692",
+              "machine_tag": false,
+              "raw": "tunnel"
+            },
+            {
+              "_content": "twaterminal",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-153410",
+              "machine_tag": false,
+              "raw": "TWA Terminal"
+            },
+            {
+              "_content": "twaflightcenter",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-15892088",
+              "machine_tag": false,
+              "raw": "TWA Flight Center"
+            },
+            {
+              "_content": "transworldairlinesflightcenter",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-66703622",
+              "machine_tag": false,
+              "raw": "Trans World Airlines Flight Center"
+            },
+            {
+              "_content": "transairlinesworldterminal",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-77482928",
+              "machine_tag": false,
+              "raw": "Trans Airlines World Terminal"
+            },
+            {
+              "_content": "johnfkennedyinternationalairport",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-1643214",
+              "machine_tag": false,
+              "raw": "John F. Kennedy International Airport"
+            },
+            {
+              "_content": "kennedyairport",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-418688",
+              "machine_tag": false,
+              "raw": "Kennedy Airport"
+            },
+            {
+              "_content": "jfk",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-10978",
+              "machine_tag": false,
+              "raw": "JFK"
+            },
+            {
+              "_content": "jfkairport",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-132674",
+              "machine_tag": false,
+              "raw": "JFK Airport"
+            },
+            {
+              "_content": "jfkinternationalairport",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-3217635",
+              "machine_tag": false,
+              "raw": "JFK International Airport"
+            },
+            {
+              "_content": "airport",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-2695",
+              "machine_tag": false,
+              "raw": "airport"
+            },
+            {
+              "_content": "eerosaarinen",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-70898",
+              "machine_tag": false,
+              "raw": "Eero Saarinen"
+            },
+            {
+              "_content": "eerosaarinenandassociates",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-2371180",
+              "machine_tag": false,
+              "raw": "Eero Saarinen and Associates"
+            },
+            {
+              "_content": "saarinenterminal",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-59309842",
+              "machine_tag": false,
+              "raw": "Saarinen Terminal"
+            },
+            {
+              "_content": "headhouse",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-683440",
+              "machine_tag": false,
+              "raw": "head house"
+            },
+            {
+              "_content": "modern",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-1180",
+              "machine_tag": false,
+              "raw": "Modern"
+            },
+            {
+              "_content": "modernmovement",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-553197",
+              "machine_tag": false,
+              "raw": "Modern Movement"
+            },
+            {
+              "_content": "expressionistic",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-205453",
+              "machine_tag": false,
+              "raw": "Expressionistic"
+            },
+            {
+              "_content": "expressionist",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-17160",
+              "machine_tag": false,
+              "raw": "Expressionist"
+            },
+            {
+              "_content": "googie",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-32593",
+              "machine_tag": false,
+              "raw": "googie"
+            },
+            {
+              "_content": "googiearchitecture",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-42283",
+              "machine_tag": false,
+              "raw": "googie architecture"
+            },
+            {
+              "_content": "fantasticarchitecture",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-6262276",
+              "machine_tag": false,
+              "raw": "Fantastic architecture"
+            },
+            {
+              "_content": "futurist",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-275539",
+              "machine_tag": false,
+              "raw": "futurist"
+            },
+            {
+              "_content": "futuristarchitecture",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-10244456",
+              "machine_tag": false,
+              "raw": "Futurist architecture"
+            },
+            {
+              "_content": "futurism",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-15771",
+              "machine_tag": false,
+              "raw": "futurism"
+            },
+            {
+              "_content": "nyc",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-106",
+              "machine_tag": false,
+              "raw": "nyc"
+            },
+            {
+              "_content": "newyork",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-440",
+              "machine_tag": false,
+              "raw": "new york"
+            },
+            {
+              "_content": "newyorkcity",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-109",
+              "machine_tag": false,
+              "raw": "new york city"
+            },
+            {
+              "_content": "ny",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-439",
+              "machine_tag": false,
+              "raw": "ny"
+            },
+            {
+              "_content": "gothamist",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-22328",
+              "machine_tag": false,
+              "raw": "gothamist"
+            },
+            {
+              "_content": "jamaica",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-14549",
+              "machine_tag": false,
+              "raw": "Jamaica"
+            },
+            {
+              "_content": "queens",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-12093",
+              "machine_tag": false,
+              "raw": "queens"
+            },
+            {
+              "_content": "nyclpc",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-7952964",
+              "machine_tag": false,
+              "raw": "nyclpc"
+            },
+            {
+              "_content": "landmark",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-9012",
+              "machine_tag": false,
+              "raw": "landmark"
+            },
+            {
+              "_content": "newyorkcitylandmarkspreservationcommission",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-7952963",
+              "machine_tag": false,
+              "raw": "new york city landmarks preservation commission"
+            },
+            {
+              "_content": "nationalregisterofhistoricplaces",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-907511",
+              "machine_tag": false,
+              "raw": "National Register of Historic Places"
+            },
+            {
+              "_content": "nrhp",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-2094603",
+              "machine_tag": false,
+              "raw": "NRHP"
+            },
+            {
+              "_content": "usnationalregisterofhistoricplaces",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-7396769",
+              "machine_tag": false,
+              "raw": "U.S. National Register of Historic Places"
+            },
+            {
+              "_content": "tube",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-6972",
+              "machine_tag": false,
+              "raw": "tube"
+            },
+            {
+              "_content": "passengertube",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-14349221",
+              "machine_tag": false,
+              "raw": "passenger tube"
+            },
+            {
+              "_content": "ohny",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-94534",
+              "machine_tag": false,
+              "raw": "OHNY"
+            },
+            {
+              "_content": "openhousenewyork",
+              "author": "70323761@N00",
+              "authorname": "wallyg",
+              "id": "1713009-6287447563-95653",
+              "machine_tag": false,
+              "raw": "open house new york"
+            }
+          ]
+        },
+        "title": {
+          "_content": "NYC - JFK Airport: TWA Flight Center"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/wallyg/6287447563/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "18655",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 679,
+          "mimetype": "image/jpeg",
+          "secret": "RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
+          "width": 1023
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 531,
+          "mimetype": "image/jpeg",
+          "secret": "RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
+          "width": 800
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 531,
+          "mimetype": "image/jpeg",
+          "secret": "RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
+          "width": 800
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 212,
+          "mimetype": "image/jpeg",
+          "secret": "RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
+          "width": 320
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 2352,
+          "mimetype": "image/jpeg",
+          "secret": "WN4iRio4gyeQz9ZIleAWBxRnXFIhGbdvplESBxn3fadxjEqOLZCY",
+          "width": 3542
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 424,
+          "mimetype": "image/jpeg",
+          "secret": "RBS21dStM4vgmPwrwTD1NCtiCpkpgmnElGfzePvucdBRg7BashVJ",
+          "width": 640
+        }
+      },
+      "source": "flickr",
+      "status_id": 0,
+      "whosonfirst_id": 102534365
+    },
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102534365,
+      907131691,
+      102191575,
+      85633793,
+      85977539,
+      421205767,
+      102082377,
+      85688543
     ],
-    "wof:id":1159339357,
-    "wof:lastmodified":1545868714,
-    "wof:name":"NYC - JFK Airport: TWA Flight Center",
-    "wof:parent_id":102534365,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527102186,
+    "wof:depicts": [
+      102534365,
+      1159339357
+    ],
+    "wof:geomhash": "96410fda0277573faa07318b7c639c0d",
+    "wof:hierarchy": [
+      {
+        "borough_id": 421205767,
+        "campus_id": 102534365,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082377,
+        "image_id": 1159339357,
+        "locality_id": 85977539,
+        "media_id": 1159339357,
+        "neighbourhood_id": 907131691,
+        "region_id": 85688543
+      }
+    ],
+    "wof:id": 1159339357,
+    "wof:lastmodified": 1634938263,
+    "wof:name": "NYC - JFK Airport: TWA Flight Center",
+    "wof:parent_id": 102534365,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -73.777286,
     40.646196,
     -73.777286,
     40.646196
-],
+  ],
   "geometry": {"coordinates":[-73.777286,40.646196],"type":"Point"}
 }

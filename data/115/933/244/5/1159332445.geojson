@@ -2,306 +2,309 @@
   "id": 1159332445,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower":"2015-10-18",
-    "date:cessation_upper":"2015-10-18",
-    "date:inception_lower":"2015-10-18",
-    "date:inception_upper":"2015-10-18",
-    "edtf:cessation":"2015-10-18T21:17:41",
-    "edtf:inception":"2015-10-18T21:17:41",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.397598,33.944236,-118.397598,33.944236",
-    "geom:latitude":33.944236,
-    "geom:longitude":-118.397598,
-    "iso:country":"US",
-    "media:created":1445228261,
-    "media:fingerprint":"619573c8e71c2cf3970f91ab7582974513259749",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"22267724986",
-        "photo_info":{
-            "comments":{
-                "_content":"1"
-            },
-            "dates":{
-                "lastupdate":"1445699726",
-                "posted":"1445228261",
-                "taken":"2015-10-18 21:17:41",
-                "takengranularity":0,
-                "takenunknown":"1"
-            },
-            "dateuploaded":"1445228261",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":1,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"22267724986",
-            "isfavorite":0,
-            "license":"5",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"Los Angeles",
-                    "place_id":".D8LiGdQUL_LN4aBcw",
-                    "woeid":"12587688"
-                },
-                "latitude":"33.944236",
-                "locality":{
-                    "_content":"Los Angeles International Airport",
-                    "place_id":"zLKyBQNYU7zG6elzAA",
-                    "woeid":"91670859"
-                },
-                "longitude":"-118.397598",
-                "place_id":"zLKyBQNYU7zG6elzAA",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"91670859"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"191408f2e6",
-            "owner":{
-                "iconfarm":3,
-                "iconserver":"2855",
-                "location":"Los Angeles, California, USA",
-                "nsid":"44124330110@N01",
-                "path_alias":"pnoeric",
-                "realname":"Eric Mueller",
-                "username":"pnoeric"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":0,
-            "safety_level":"0",
-            "secret":"6943a68729",
-            "server":"758",
-            "tags":{
-                "tag":[
-                    {
-                        "_content":"airbus",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-16434",
-                        "machine_tag":0,
-                        "raw":"Airbus"
-                    },
-                    {
-                        "_content":"airplane",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-1649",
-                        "machine_tag":0,
-                        "raw":"airplane"
-                    },
-                    {
-                        "_content":"a380",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-16435",
-                        "machine_tag":0,
-                        "raw":"a380"
-                    },
-                    {
-                        "_content":"britishairways",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-41522",
-                        "machine_tag":0,
-                        "raw":"British airways"
-                    },
-                    {
-                        "_content":"ba",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-24356",
-                        "machine_tag":0,
-                        "raw":"ba"
-                    },
-                    {
-                        "_content":"instagramapp",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-60504812",
-                        "machine_tag":0,
-                        "raw":"instagram app"
-                    },
-                    {
-                        "_content":"square",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-1628",
-                        "machine_tag":0,
-                        "raw":"square"
-                    },
-                    {
-                        "_content":"squareformat",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-14976",
-                        "machine_tag":0,
-                        "raw":"square format"
-                    },
-                    {
-                        "_content":"iphoneography",
-                        "author":"44124330110@N01",
-                        "authorname":"pnoeric",
-                        "id":"22031-22267724986-34115330",
-                        "machine_tag":0,
-                        "raw":"iphoneography"
-                    }
-                ]
-            },
-            "title":{
-                "_content":"Now that's a jet! #a380"
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/pnoeric/22267724986/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"368",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+    "date:cessation_lower": "2015-10-18",
+    "date:cessation_upper": "2015-10-18",
+    "date:inception_lower": "2015-10-18",
+    "date:inception_upper": "2015-10-18",
+    "edtf:cessation": "2015-10-18T21:17:41",
+    "edtf:inception": "2015-10-18T21:17:41",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.397598,33.944236,-118.397598,33.944236",
+    "geom:latitude": 33.944236,
+    "geom:longitude": -118.397598,
+    "iso:country": "US",
+    "media:created": 1445228261,
+    "media:fingerprint": "619573c8e71c2cf3970f91ab7582974513259749",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "22267724986",
+      "photo_info": {
+        "comments": {
+          "_content": "1"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":768,
-                "mimetype":"image/jpeg",
-                "secret":"IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
-                "width":768
+        "dates": {
+          "lastupdate": "1445699726",
+          "posted": "1445228261",
+          "taken": "2015-10-18 21:17:41",
+          "takengranularity": 0,
+          "takenunknown": "1"
+        },
+        "dateuploaded": "1445228261",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 1,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "22267724986",
+        "isfavorite": 0,
+        "license": "5",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "Los Angeles",
+            "place_id": ".D8LiGdQUL_LN4aBcw",
+            "woeid": "12587688"
+          },
+          "latitude": "33.944236",
+          "locality": {
+            "_content": "Los Angeles International Airport",
+            "place_id": "zLKyBQNYU7zG6elzAA",
+            "woeid": "91670859"
+          },
+          "longitude": "-118.397598",
+          "place_id": "zLKyBQNYU7zG6elzAA",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "91670859"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "191408f2e6",
+        "owner": {
+          "iconfarm": 3,
+          "iconserver": "2855",
+          "location": "Los Angeles, California, USA",
+          "nsid": "44124330110@N01",
+          "path_alias": "pnoeric",
+          "realname": "Eric Mueller",
+          "username": "pnoeric"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 0,
+        "safety_level": "0",
+        "secret": "6943a68729",
+        "server": "758",
+        "tags": {
+          "tag": [
+            {
+              "_content": "airbus",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-16434",
+              "machine_tag": 0,
+              "raw": "Airbus"
             },
-            "c":{
-                "extension":"jpg",
-                "height":600,
-                "mimetype":"image/jpeg",
-                "secret":"IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
-                "width":600
+            {
+              "_content": "airplane",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-1649",
+              "machine_tag": 0,
+              "raw": "airplane"
             },
-            "n":{
-                "extension":"jpg",
-                "height":240,
-                "mimetype":"image/jpeg",
-                "secret":"IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
-                "width":240
+            {
+              "_content": "a380",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-16435",
+              "machine_tag": 0,
+              "raw": "a380"
             },
-            "o":{
-                "extension":"jpg",
-                "height":1080,
-                "mimetype":"image/jpeg",
-                "secret":"WbJsRcJQQBeu07oeAjRAYIVpmuggTHRMbpblVEuVW7iDyK7nKZRN",
-                "width":1080
+            {
+              "_content": "britishairways",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-41522",
+              "machine_tag": 0,
+              "raw": "British airways"
             },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
-                "width":320
+            {
+              "_content": "ba",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-24356",
+              "machine_tag": 0,
+              "raw": "ba"
             },
-            "z":{
-                "extension":"jpg",
-                "height":480,
-                "mimetype":"image/jpeg",
-                "secret":"IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
-                "width":480
+            {
+              "_content": "instagramapp",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-60504812",
+              "machine_tag": 0,
+              "raw": "instagram app"
+            },
+            {
+              "_content": "square",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-1628",
+              "machine_tag": 0,
+              "raw": "square"
+            },
+            {
+              "_content": "squareformat",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-14976",
+              "machine_tag": 0,
+              "raw": "square format"
+            },
+            {
+              "_content": "iphoneography",
+              "author": "44124330110@N01",
+              "authorname": "pnoeric",
+              "id": "22031-22267724986-34115330",
+              "machine_tag": 0,
+              "raw": "iphoneography"
             }
+          ]
+        },
+        "title": {
+          "_content": "Now that's a jet! #a380"
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/pnoeric/22267724986/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "368",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
         }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 768,
+          "mimetype": "image/jpeg",
+          "secret": "IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
+          "width": 240
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 1080,
+          "mimetype": "image/jpeg",
+          "secret": "WbJsRcJQQBeu07oeAjRAYIVpmuggTHRMbpblVEuVW7iDyK7nKZRN",
+          "width": 1080
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "IdaE1gtABSpF4Lx3Ag5ypGRRJ1WxkaZAhrKd2zr7DLeNk6zevpIl",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102533795,
-        85856747,
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102533795,
+      85856747,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1527018721,
-    "wof:depicts":[
-        102533795,
-        1159284021,
-        1159289437
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1527018721,
+    "wof:depicts": [
+      102533795,
+      1159284021,
+      1159289437
     ],
-    "wof:geomhash":"95217cc9961e772c18fc7ba2d2eb6eb8",
-    "wof:hierarchy":[
-        {
-            "campus_id":102533795,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "media_id":1159332445,
-            "neighbourhood_id":85856747,
-            "region_id":85688637
-        }
+    "wof:geomhash": "95217cc9961e772c18fc7ba2d2eb6eb8",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102533795,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "image_id": 1159332445,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "media_id": 1159332445,
+        "neighbourhood_id": 85856747,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159332445,
-    "wof:lastmodified":1545868726,
-    "wof:name":"Now that's a jet! #a380",
-    "wof:parent_id":102533795,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159332445,
+    "wof:lastmodified": 1634938262,
+    "wof:name": "Now that's a jet! #a380",
+    "wof:parent_id": 102533795,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.397598,
     33.944236,
     -118.397598,
     33.944236
-],
+  ],
   "geometry": {"coordinates":[-118.397598,33.944236],"type":"Point"}
 }

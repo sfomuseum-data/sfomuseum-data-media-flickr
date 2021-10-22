@@ -2,332 +2,340 @@
   "id": 1159322875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2017-05-24T23:09:38",
-    "edtf:inception":"2017-05-24T23:09:38",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382759,37.617325,-122.382759,37.617325",
-    "geom:latitude":37.617325,
-    "geom:longitude":-122.382759,
-    "iso:country":"US",
-    "media:created":1495692578,
-    "media:fingerprint":"294b3dfc937693469af132e9681222557a290949",
-    "media:medium":"image",
-    "media:mimetype":"image/jpeg",
-    "media:properties":{
-        "colours":[
+    "date:cessation_lower": "2017-05-24",
+    "date:cessation_upper": "2017-05-24",
+    "date:inception_lower": "2017-05-24",
+    "date:inception_upper": "2017-05-24",
+    "edtf:cessation": "2017-05-24T23:09:38",
+    "edtf:inception": "2017-05-24T23:09:38",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.382759,37.617325,-122.382759,37.617325",
+    "geom:latitude": 37.617325,
+    "geom:longitude": -122.382759,
+    "iso:country": "US",
+    "media:created": 1495692578,
+    "media:fingerprint": "294b3dfc937693469af132e9681222557a290949",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:properties": {
+      "colours": [
+        {
+          "closest": [
             {
-                "closest":[
-                    {
-                        "hex":"#cd9575",
-                        "name":"Antique Brass",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#bdb76b",
-                        "name":"darkkhaki",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#c5a370",
-                "name":"#c5a370",
-                "reference":"vibrant"
+              "hex": "#cd9575",
+              "name": "Antique Brass",
+              "reference": "crayola"
             },
             {
-                "closest":[
-                    {
-                        "hex":"#e7c697",
-                        "name":"Gold",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#f5deb3",
-                        "name":"wheat",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#e6c7a4",
-                "name":"#e6c7a4",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#714b23",
-                        "name":"Raw Umber",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#556b2f",
-                        "name":"darkolivegreen",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#654a2f",
-                "name":"#654a2f",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#9f8170",
-                        "name":"Beaver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#808080",
-                        "name":"grey",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#a68b62",
-                "name":"#a68b62",
-                "reference":"vibrant"
-            },
-            {
-                "closest":[
-                    {
-                        "hex":"#cdc5c2",
-                        "name":"Silver",
-                        "reference":"crayola"
-                    },
-                    {
-                        "hex":"#c0c0c0",
-                        "name":"silver",
-                        "reference":"css4"
-                    }
-                ],
-                "hex":"#d1c4a8",
-                "name":"#d1c4a8",
-                "reference":"vibrant"
+              "hex": "#bdb76b",
+              "name": "darkkhaki",
+              "reference": "css4"
             }
-        ],
-        "medium":"image",
-        "mimetype":"image/jpeg",
-        "photo_id":"34649065260",
-        "photo_info":{
-            "comments":{
-                "_content":"0"
-            },
-            "dates":{
-                "lastupdate":"1498717444",
-                "posted":"1496342359",
-                "taken":"2017-05-24 23:09:38",
-                "takengranularity":"0",
-                "takenunknown":"0"
-            },
-            "dateuploaded":"1496342359",
-            "description":{
-                "_content":""
-            },
-            "editability":{
-                "canaddmeta":0,
-                "cancomment":0
-            },
-            "farm":5,
-            "geoperms":{
-                "iscontact":0,
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            },
-            "id":"34649065260",
-            "isfavorite":0,
-            "license":"4",
-            "location":{
-                "accuracy":"16",
-                "context":"0",
-                "country":{
-                    "_content":"United States",
-                    "place_id":"nz.gsghTUb4c2WAecA",
-                    "woeid":"23424977"
-                },
-                "county":{
-                    "_content":"San Francisco",
-                    "place_id":".7sOmlRQUL9nK.kMzA",
-                    "woeid":"12587707"
-                },
-                "latitude":"37.617325",
-                "locality":{
-                    "_content":"San Francisco International Airport",
-                    "place_id":"WQMI_CFQUL.k2eEmeg",
-                    "woeid":"12521721"
-                },
-                "longitude":"-122.382759",
-                "place_id":"WQMI_CFQUL.k2eEmeg",
-                "region":{
-                    "_content":"California",
-                    "place_id":"NsbUWfBTUb4mbyVu",
-                    "woeid":"2347563"
-                },
-                "woeid":"12521721"
-            },
-            "media":"photo",
-            "notes":{
-                "note":[]
-            },
-            "originalformat":"jpg",
-            "originalsecret":"521e3a1000",
-            "owner":{
-                "iconfarm":9,
-                "iconserver":"8753",
-                "location":"San Francisco, U.S.A.",
-                "nsid":"10069023@N00",
-                "path_alias":"charleskremenak",
-                "realname":"Charles Kremenak",
-                "username":"Charkrem"
-            },
-            "people":{
-                "haspeople":0
-            },
-            "publiceditability":{
-                "canaddmeta":0,
-                "cancomment":1
-            },
-            "rotation":90,
-            "safety_level":"0",
-            "secret":"ae75d796fa",
-            "server":"4201",
-            "tags":{
-                "tag":[]
-            },
-            "title":{
-                "_content":""
-            },
-            "urls":{
-                "url":[
-                    {
-                        "_content":"https://www.flickr.com/photos/charleskremenak/34649065260/",
-                        "type":"photopage"
-                    }
-                ]
-            },
-            "usage":{
-                "canblog":0,
-                "candownload":1,
-                "canprint":0,
-                "canshare":1
-            },
-            "views":"21",
-            "visibility":{
-                "isfamily":0,
-                "isfriend":0,
-                "ispublic":1
-            }
+          ],
+          "hex": "#c5a370",
+          "name": "#c5a370",
+          "reference": "vibrant"
         },
-        "sizes":{
-            "b":{
-                "extension":"jpg",
-                "height":1024,
-                "mimetype":"image/jpeg",
-                "secret":"8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
-                "width":768
+        {
+          "closest": [
+            {
+              "hex": "#e7c697",
+              "name": "Gold",
+              "reference": "crayola"
             },
-            "c":{
-                "extension":"jpg",
-                "height":800,
-                "mimetype":"image/jpeg",
-                "secret":"8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
-                "width":600
-            },
-            "d":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
-                "width":320
-            },
-            "dd":{
-                "extension":"jpg",
-                "height":800,
-                "mimetype":"image/jpeg",
-                "secret":"8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
-                "width":600
-            },
-            "n":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
-                "width":240
-            },
-            "sq":{
-                "extension":"jpg",
-                "height":320,
-                "mimetype":"image/jpeg",
-                "secret":"8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
-                "width":320
-            },
-            "z":{
-                "extension":"jpg",
-                "height":640,
-                "mimetype":"image/jpeg",
-                "secret":"8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
-                "width":480
+            {
+              "hex": "#f5deb3",
+              "name": "wheat",
+              "reference": "css4"
             }
+          ],
+          "hex": "#e6c7a4",
+          "name": "#e6c7a4",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#714b23",
+              "name": "Raw Umber",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#556b2f",
+              "name": "darkolivegreen",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#654a2f",
+          "name": "#654a2f",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#9f8170",
+              "name": "Beaver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#808080",
+              "name": "grey",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#a68b62",
+          "name": "#a68b62",
+          "reference": "vibrant"
+        },
+        {
+          "closest": [
+            {
+              "hex": "#cdc5c2",
+              "name": "Silver",
+              "reference": "crayola"
+            },
+            {
+              "hex": "#c0c0c0",
+              "name": "silver",
+              "reference": "css4"
+            }
+          ],
+          "hex": "#d1c4a8",
+          "name": "#d1c4a8",
+          "reference": "vibrant"
         }
+      ],
+      "medium": "image",
+      "mimetype": "image/jpeg",
+      "photo_id": "34649065260",
+      "photo_info": {
+        "comments": {
+          "_content": "0"
+        },
+        "dates": {
+          "lastupdate": "1498717444",
+          "posted": "1496342359",
+          "taken": "2017-05-24 23:09:38",
+          "takengranularity": "0",
+          "takenunknown": "0"
+        },
+        "dateuploaded": "1496342359",
+        "description": {
+          "_content": ""
+        },
+        "editability": {
+          "canaddmeta": 0,
+          "cancomment": 0
+        },
+        "farm": 5,
+        "geoperms": {
+          "iscontact": 0,
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        },
+        "id": "34649065260",
+        "isfavorite": 0,
+        "license": "4",
+        "location": {
+          "accuracy": "16",
+          "context": "0",
+          "country": {
+            "_content": "United States",
+            "place_id": "nz.gsghTUb4c2WAecA",
+            "woeid": "23424977"
+          },
+          "county": {
+            "_content": "San Francisco",
+            "place_id": ".7sOmlRQUL9nK.kMzA",
+            "woeid": "12587707"
+          },
+          "latitude": "37.617325",
+          "locality": {
+            "_content": "San Francisco International Airport",
+            "place_id": "WQMI_CFQUL.k2eEmeg",
+            "woeid": "12521721"
+          },
+          "longitude": "-122.382759",
+          "place_id": "WQMI_CFQUL.k2eEmeg",
+          "region": {
+            "_content": "California",
+            "place_id": "NsbUWfBTUb4mbyVu",
+            "woeid": "2347563"
+          },
+          "woeid": "12521721"
+        },
+        "media": "photo",
+        "notes": {
+          "note": []
+        },
+        "originalformat": "jpg",
+        "originalsecret": "521e3a1000",
+        "owner": {
+          "iconfarm": 9,
+          "iconserver": "8753",
+          "location": "San Francisco, U.S.A.",
+          "nsid": "10069023@N00",
+          "path_alias": "charleskremenak",
+          "realname": "Charles Kremenak",
+          "username": "Charkrem"
+        },
+        "people": {
+          "haspeople": 0
+        },
+        "publiceditability": {
+          "canaddmeta": 0,
+          "cancomment": 1
+        },
+        "rotation": 90,
+        "safety_level": "0",
+        "secret": "ae75d796fa",
+        "server": "4201",
+        "tags": {
+          "tag": []
+        },
+        "title": {
+          "_content": ""
+        },
+        "urls": {
+          "url": [
+            {
+              "_content": "https://www.flickr.com/photos/charleskremenak/34649065260/",
+              "type": "photopage"
+            }
+          ]
+        },
+        "usage": {
+          "canblog": 0,
+          "candownload": 1,
+          "canprint": 0,
+          "canshare": 1
+        },
+        "views": "21",
+        "visibility": {
+          "isfamily": 0,
+          "isfriend": 0,
+          "ispublic": 1
+        }
+      },
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 1024,
+          "mimetype": "image/jpeg",
+          "secret": "8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
+          "width": 768
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 800,
+          "mimetype": "image/jpeg",
+          "secret": "8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
+          "width": 600
+        },
+        "d": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
+          "width": 320
+        },
+        "dd": {
+          "extension": "jpg",
+          "height": 800,
+          "mimetype": "image/jpeg",
+          "secret": "8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
+          "width": 600
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
+          "width": 240
+        },
+        "sq": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 640,
+          "mimetype": "image/jpeg",
+          "secret": "8dVlRw7rgOEgdqMFd4NZLxC06zO5gN9LJDIs1G4lUOUnQ3vwkhv0",
+          "width": 480
+        }
+      }
     },
-    "media:source":"flickr",
-    "media:status_id":1,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sfomuseum:placetype":"image",
-    "wof:belongsto":[
-        102527513,
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        554784711,
-        102085387
+    "media:source": "flickr",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sfomuseum:placetype": "image",
+    "src:geom": "flickr",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
     ],
-    "wof:breaches":[],
-    "wof:country":"US",
-    "wof:created":1526678708,
-    "wof:depicts":[
-        102527513,
-        1159157067,
-        1159157271,
-        1159157325,
-        1159160605
+    "wof:breaches": [],
+    "wof:country": "US",
+    "wof:created": 1526678708,
+    "wof:depicts": [
+      102527513,
+      1159157067,
+      1159157271,
+      1159157325,
+      1159160605
     ],
-    "wof:geomhash":"6a734d8f56c5e65711649aa4a9f01821",
-    "wof:hierarchy":[
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "media_id":1159322875,
-            "postalcode_id":554784711,
-            "region_id":85688637
-        },
-        {
-            "campus_id":102527513,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "media_id":1159322875,
-            "region_id":85688637
-        }
+    "wof:geomhash": "6a734d8f56c5e65711649aa4a9f01821",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "image_id": 1159322875,
+        "locality_id": 85922583,
+        "media_id": 1159322875,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "image_id": 1159322875,
+        "media_id": 1159322875,
+        "region_id": 85688637
+      }
     ],
-    "wof:id":1159322875,
-    "wof:lastmodified":1545868691,
-    "wof:name":"",
-    "wof:parent_id":102527513,
-    "wof:placetype":"media",
-    "wof:repo":"sfomuseum-data-media-flickr",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1159322875,
+    "wof:lastmodified": 1634938261,
+    "wof:name": "",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "image",
+    "wof:repo": "sfomuseum-data-media-flickr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.382759,
     37.617325,
     -122.382759,
     37.617325
-],
-  "geometry": {"coordinates":[-122.38275899999999,37.617325],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.382759,37.617325],"type":"Point"}
 }
