@@ -328,17 +328,20 @@
       {
         "campus_id": 102528187,
         "country_id": 85633793,
+        "custom_id": 1159326741,
         "image_id": 1159326741,
         "media_id": 1159326741,
         "region_id": 85688641
       }
     ],
     "wof:id": 1159326741,
-    "wof:lastmodified": 1634938260,
+    "wof:lastmodified": 1716597832,
     "wof:name": "2015-01-17_19-25-20_IMG_8061_q75_s10",
     "wof:parent_id": 102528187,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

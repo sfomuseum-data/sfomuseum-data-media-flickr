@@ -406,6 +406,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085591,
+        "custom_id": 1159327405,
         "image_id": 1159327405,
         "locality_id": 101720747,
         "media_id": 1159327405,
@@ -414,11 +415,13 @@
       }
     ],
     "wof:id": 1159327405,
-    "wof:lastmodified": 1634938260,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Scenes from the Air: Delta Airlines Flight 6380 (Detroit to Charleston) - Tuesday November 4, 2014",
     "wof:parent_id": 102531215,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

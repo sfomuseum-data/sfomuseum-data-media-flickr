@@ -390,6 +390,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085591,
+        "custom_id": 1159326033,
         "image_id": 1159326033,
         "locality_id": 101720747,
         "media_id": 1159326033,
@@ -398,11 +399,13 @@
       }
     ],
     "wof:id": 1159326033,
-    "wof:lastmodified": 1634938263,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Scenes from Charleston International Airport (Charleston, S.C.) - Tuesday April 10th, 2018",
     "wof:parent_id": 102531215,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

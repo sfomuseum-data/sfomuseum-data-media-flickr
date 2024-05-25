@@ -262,6 +262,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081327,
+        "custom_id": 1159327483,
         "image_id": 1159327483,
         "localadmin_id": 404485953,
         "locality_id": -1,
@@ -271,11 +272,13 @@
       }
     ],
     "wof:id": 1159327483,
-    "wof:lastmodified": 1634938264,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Peeps greet visitors at The Lehigh Valley International Airport @flylvia #lehighvalley #allentown #bethlehem #easton #airport #peep #peeps #pennsylvania #candy #travel #cute #justborn #mikeandike",
     "wof:parent_id": 102529131,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

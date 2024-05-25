@@ -318,6 +318,7 @@
         "campus_id": 102530929,
         "continent_id": -1,
         "country_id": 85633793,
+        "custom_id": 1159323595,
         "image_id": 1159323595,
         "locality_id": -1,
         "media_id": 1159323595,
@@ -326,11 +327,13 @@
       }
     ],
     "wof:id": 1159323595,
-    "wof:lastmodified": 1634938262,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Jessica Will Fly",
     "wof:parent_id": 102530929,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

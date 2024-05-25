@@ -206,6 +206,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083667,
+        "custom_id": 1159327731,
         "image_id": 1159327731,
         "localadmin_id": 404526925,
         "locality_id": 101712189,
@@ -215,11 +216,13 @@
       }
     ],
     "wof:id": 1159327731,
-    "wof:lastmodified": 1634938264,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Lew and Erik in Dayton 2009",
     "wof:parent_id": 102534301,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

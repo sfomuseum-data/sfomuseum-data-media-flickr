@@ -438,6 +438,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085591,
+        "custom_id": 1159327779,
         "image_id": 1159327779,
         "locality_id": 101720747,
         "media_id": 1159327779,
@@ -446,11 +447,13 @@
       }
     ],
     "wof:id": 1159327779,
-    "wof:lastmodified": 1634938260,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Boeing Dreamlifter Leaving Charleston International Airport (Charleston, S.C.) - Friday November 10, 2017",
     "wof:parent_id": 102531215,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

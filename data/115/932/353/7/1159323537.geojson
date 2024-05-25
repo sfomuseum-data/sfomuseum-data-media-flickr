@@ -221,6 +221,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086749,
+        "custom_id": 1159323537,
         "image_id": 1159323537,
         "locality_id": 101724103,
         "media_id": 1159323537,
@@ -228,11 +229,13 @@
       }
     ],
     "wof:id": 1159323537,
-    "wof:lastmodified": 1634938262,
+    "wof:lastmodified": 1716597832,
     "wof:name": "241963712400461359_372269020121231-21449-193j2az",
     "wof:parent_id": 102529249,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

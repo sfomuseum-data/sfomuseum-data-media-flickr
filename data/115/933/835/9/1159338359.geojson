@@ -349,6 +349,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081673,
+        "custom_id": 1159338359,
         "image_id": 1159338359,
         "locality_id": 85922341,
         "media_id": 1159338359,
@@ -360,6 +361,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081673,
+        "custom_id": 1159338359,
         "image_id": 1159338359,
         "locality_id": 85922347,
         "macrohood_id": 1108782553,
@@ -369,11 +371,13 @@
       }
     ],
     "wof:id": 1159338359,
-    "wof:lastmodified": 1634938263,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Scenes from San Jose (California) International Airport (SJC - Friday February 22, 2013)",
     "wof:parent_id": 102527529,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

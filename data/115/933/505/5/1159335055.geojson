@@ -352,6 +352,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081673,
+        "custom_id": 1159335055,
         "image_id": 1159335055,
         "locality_id": 85922341,
         "media_id": 1159335055,
@@ -363,6 +364,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081673,
+        "custom_id": 1159335055,
         "image_id": 1159335055,
         "locality_id": 85922347,
         "macrohood_id": 1108782553,
@@ -372,11 +374,13 @@
       }
     ],
     "wof:id": 1159335055,
-    "wof:lastmodified": 1634938263,
+    "wof:lastmodified": 1716597832,
     "wof:name": "BA 787-9 Arriving @ SJC",
     "wof:parent_id": 102527529,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

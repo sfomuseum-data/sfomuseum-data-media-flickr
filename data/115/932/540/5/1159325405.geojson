@@ -287,6 +287,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102083667,
+        "custom_id": 1159325405,
         "image_id": 1159325405,
         "localadmin_id": 404526925,
         "locality_id": 101712189,
@@ -296,11 +297,13 @@
       }
     ],
     "wof:id": 1159325405,
-    "wof:lastmodified": 1634938262,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Wright Flyer B",
     "wof:parent_id": 102534301,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

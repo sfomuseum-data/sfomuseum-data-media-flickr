@@ -257,6 +257,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1159323077,
         "image_id": 1159323077,
         "locality_id": 85922583,
         "media_id": 1159323077,
@@ -268,17 +269,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1159323077,
         "image_id": 1159323077,
         "media_id": 1159323077,
         "region_id": 85688637
       }
     ],
     "wof:id": 1159323077,
-    "wof:lastmodified": 1634938261,
+    "wof:lastmodified": 1716597832,
     "wof:name": "My new airline of record. Already feel better about the choice over #aa. Now I just need to earn up my status and figure out  the status matching program.  BTW - #1 airline according to Conde Nast",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

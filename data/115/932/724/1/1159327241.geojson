@@ -495,6 +495,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080981,
+        "custom_id": 1159327241,
         "image_id": 1159327241,
         "locality_id": 85981333,
         "media_id": 1159327241,
@@ -505,6 +506,7 @@
         "campus_id": 102528659,
         "country_id": 85633793,
         "county_id": 102080981,
+        "custom_id": 1159327241,
         "image_id": 1159327241,
         "media_id": 1159327241,
         "neighbourhood_id": 85805887,
@@ -512,11 +514,13 @@
       }
     ],
     "wof:id": 1159327241,
-    "wof:lastmodified": 1634938264,
+    "wof:lastmodified": 1716597832,
     "wof:name": "CLT 11-22-08 US Airways Airbus A321-200",
     "wof:parent_id": 102528659,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

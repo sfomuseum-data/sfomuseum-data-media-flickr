@@ -239,6 +239,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1159323037,
         "image_id": 1159323037,
         "locality_id": 85922583,
         "media_id": 1159323037,
@@ -250,17 +251,20 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1159323037,
         "image_id": 1159323037,
         "media_id": 1159323037,
         "region_id": 85688637
       }
     ],
     "wof:id": 1159323037,
-    "wof:lastmodified": 1634938261,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Me, Ready to Fly",
     "wof:parent_id": 102527513,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

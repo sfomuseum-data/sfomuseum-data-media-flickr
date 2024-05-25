@@ -350,6 +350,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102086957,
+        "custom_id": 1159333341,
         "image_id": 1159333341,
         "locality_id": 85923517,
         "macrohood_id": 1108692797,
@@ -359,11 +360,13 @@
       }
     ],
     "wof:id": 1159333341,
-    "wof:lastmodified": 1634938262,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Ok so I'm actually flying @jetblue but, hey, the @virginamerica plane was right there:) After a month on Cape Cod, 5 days in New York and 4 days in LA, I'm finally heading home. Haven't been there since June 23.",
     "wof:parent_id": 102533795,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

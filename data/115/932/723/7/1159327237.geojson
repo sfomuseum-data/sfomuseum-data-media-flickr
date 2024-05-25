@@ -391,6 +391,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102080981,
+        "custom_id": 1159327237,
         "image_id": 1159327237,
         "locality_id": 85981333,
         "media_id": 1159327237,
@@ -401,6 +402,7 @@
         "campus_id": 102528659,
         "country_id": 85633793,
         "county_id": 102080981,
+        "custom_id": 1159327237,
         "image_id": 1159327237,
         "media_id": 1159327237,
         "neighbourhood_id": 85805887,
@@ -408,11 +410,13 @@
       }
     ],
     "wof:id": 1159327237,
-    "wof:lastmodified": 1634938260,
+    "wof:lastmodified": 1716597832,
     "wof:name": "CLT 11-22-08 N755US",
     "wof:parent_id": 102528659,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],

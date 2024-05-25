@@ -205,6 +205,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102081755,
+        "custom_id": 1159323623,
         "image_id": 1159323623,
         "localadmin_id": 404521629,
         "locality_id": -1,
@@ -214,11 +215,13 @@
       }
     ],
     "wof:id": 1159323623,
-    "wof:lastmodified": 1634938262,
+    "wof:lastmodified": 1716597832,
     "wof:name": "Late Night Airport Observations",
     "wof:parent_id": 102528741,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "image",
+    "wof:placetype_alt": [
+      "image"
+    ],
     "wof:repo": "sfomuseum-data-media-flickr",
     "wof:superseded_by": [],
     "wof:supersedes": [],
